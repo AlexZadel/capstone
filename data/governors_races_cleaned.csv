@@ -1,0 +1,548 @@
+,race_id,office,loc_date_id,state,abbrev,year,GOP_win,winner,rival,pred_GOP,pred_DEM,unopposed,inc_GOP_running,inc_DEM_running
+0,AL_gov_1978,AL_gov,AL_1978,Alabama,AL,1978,0,Fob James,H  Guy Hunt,0,1,0,0,0
+1,AL_gov_1982,AL_gov,AL_1982,Alabama,AL,1982,0,George Wallace,Emory Folmar,0,1,0,0,0
+2,AL_gov_1986,AL_gov,AL_1986,Alabama,AL,1986,1,H  Guy Hunt,Bill Baxley,0,1,0,0,0
+3,AL_gov_1990,AL_gov,AL_1990,Alabama,AL,1990,0,Paul Hubbert,Unopposed,1,0,1,0,0
+4,AL_gov_1994,AL_gov,AL_1994,Alabama,AL,1994,1,Fob James,Unopposed,0,1,1,0,0
+5,AL_gov_1998,AL_gov,AL_1998,Alabama,AL,1998,0,Don Siegelman,Unopposed,1,0,1,0,0
+6,AL_gov_2002,AL_gov,AL_2002,Alabama,AL,2002,1,Bob Riley,John Sophocleus,0,1,0,0,0
+7,AL_gov_2006,AL_gov,AL_2006,Alabama,AL,2006,1,Bob Riley,Lucy Baxley,1,0,0,1,0
+8,AL_gov_2010,AL_gov,AL_2010,Alabama,AL,2010,1,Robert Bentley,nRon Sparks  D,1,0,0,0,0
+9,AL_gov_2014,AL_gov,AL_2014,Alabama,AL,2014,1,Robert Bentley,Parker Griffith  D,1,0,0,1,0
+10,AK_gov_1978,AK_gov,AK_1978,Alaska,AK,1978,0,Walter Joseph Hickel ,Chancy Croft,1,0,0,0,0
+11,AK_gov_1982,AK_gov,AK_1982,Alaska,AK,1982,0,Bill Sheffield,Tom Fink,1,0,0,0,0
+12,AK_gov_1986,AK_gov,AK_1986,Alaska,AK,1986,0,Steve Cowper,Arliss Sturgulewski,0,1,0,0,0
+13,AK_gov_1990,AK_gov,AK_1990,Alaska,AK,1990,0,Walter Joseph Hickel ,Tony Knowles,0,1,0,0,0
+14,AK_gov_1994,AK_gov,AK_1994,Alaska,AK,1994,0,Tony Knowles,Jim Campbell,1,0,0,0,0
+15,AK_gov_1998,AK_gov,AK_1998,Alaska,AK,1998,0,Robin Taylor ,John Lindauer,0,1,0,0,0
+16,AK_gov_2002,AK_gov,AK_2002,Alaska,AK,2002,1,Frank Murkowski,Fran Ulmer,0,1,0,0,0
+17,AK_gov_2006,AK_gov,AK_2006,Alaska,AK,2006,1,Sarah Palin,Tony Knowles,1,0,0,0,0
+18,AK_gov_2010,AK_gov,AK_2010,Alaska,AK,2010,0,Ethan Berkowitz,Billy Toien  L,1,0,0,0,0
+19,AK_gov_2014,AK_gov,AK_2014,Alaska,AK,2014,0,Bill Walker  I    Sean Parnell  R    J  R  Myers  Constitution   Carolyn Clift  L,Unopposed,1,0,1,1,0
+20,AZ_gov_1978,AZ_gov,AZ_1978,Arizona,AZ,1978,1,Evan Mecham,V  Gene Lewter,0,1,0,0,0
+21,AZ_gov_1982,AZ_gov,AZ_1982,Arizona,AZ,1982,1,Leo Corbet,Sam Steiger,0,1,0,0,0
+22,AZ_gov_1986,AZ_gov,AZ_1986,Arizona,AZ,1986,1,Evan Mecham,Carolyn Warner,0,1,0,0,0
+23,AZ_gov_1990,AZ_gov,AZ_1990,Arizona,AZ,1990,1,Fife Symington III,Terry Goddard  Democratic,0,1,0,0,0
+24,AZ_gov_1994,AZ_gov,AZ_1994,Arizona,AZ,1994,0,Eddie Basha,John Buttrick,1,0,0,0,0
+25,AZ_gov_1998,AZ_gov,AZ_1998,Arizona,AZ,1998,0,Paul Johnson,Katherine Gallant,1,0,0,0,0
+26,AZ_gov_2002,AZ_gov,AZ_2002,Arizona,AZ,2002,0,Janet Napolitano,Matt Salmon,1,0,0,0,0
+27,AZ_gov_2006,AZ_gov,AZ_2006,Arizona,AZ,2006,0,Janet Napolitano,Len Munsil,0,1,0,0,1
+28,AZ_gov_2010,AZ_gov,AZ_2010,Arizona,AZ,2010,0,Terry Goddard,nBarry Hess  L,1,0,0,0,0
+29,AZ_gov_2014,AZ_gov,AZ_2014,Arizona,AZ,2014,1,Doug Ducey  R  Fred DuVal  D   John Mealer  Americans Elect   Barry Hess  L  ,Unopposed,1,0,1,0,0
+30,AR_gov_1976,AR_gov,AR_1976,Arkansas,AR,1976,1,Leon Griffith,Unopposed,0,1,1,0,0
+31,AR_gov_1978,AR_gov,AR_1978,Arkansas,AR,1978,0,Bill Clinton,Lynn Lowe,0,1,0,0,0
+32,AR_gov_1980,AR_gov,AR_1980,Arkansas,AR,1980,1,Frank D  White,Unopposed,0,1,1,0,0
+33,AR_gov_1982,AR_gov,AR_1982,Arkansas,AR,1982,0,Bill Clinton,Unopposed,1,0,1,0,0
+34,AR_gov_1984,AR_gov,AR_1984,Arkansas,AR,1984,1,Elwood A  Woody  Freeman,Unopposed,0,1,1,0,0
+35,AR_gov_1986,AR_gov,AR_1986,Arkansas,AR,1986,1,Frank D  White,Unopposed,0,1,1,0,0
+36,AR_gov_1990,AR_gov,AR_1990,Arkansas,AR,1990,1,Sheffield Nelson,Unopposed,0,1,1,0,0
+37,AR_gov_1994,AR_gov,AR_1994,Arkansas,AR,1994,1,Sheffield Nelson,Unopposed,0,1,1,0,0
+38,AR_gov_1998,AR_gov,AR_1998,Arkansas,AR,1998,0,Bill Bristow,Keith Carle,1,0,0,0,0
+39,AR_gov_2002,AR_gov,AR_2002,Arkansas,AR,2002,0,Jimmie Lou Fisher,Unopposed,1,0,1,0,0
+40,AR_gov_2006,AR_gov,AR_2006,Arkansas,AR,2006,0,Mike Beebe,Asa Hutchinson,1,0,0,0,0
+41,AR_gov_2010,AR_gov,AR_2010,Arkansas,AR,2010,1,Jim Keet,n,0,1,0,0,0
+42,AR_gov_2014,AR_gov,AR_2014,Arkansas,AR,2014,1,Asa Hutchinson  R Mike Ross  D   Josh Drake  Green    Frank Gilbert  L  ,Unopposed,0,1,1,0,0
+43,CA_gov_1978,CA_gov,CA_1978,California,CA,1978,1,Evelle J  Younger,Ed Clark,0,1,0,0,0
+44,CA_gov_1982,CA_gov,CA_1982,California,CA,1982,1,George Deukmejian,Tom Bradley,0,1,0,0,0
+45,CA_gov_1986,CA_gov,CA_1986,California,CA,1986,0,Tom Bradley,Maria Elizabeth Muñoz,1,0,0,0,0
+46,CA_gov_1990,CA_gov,CA_1990,California,CA,1990,1,Pete Wilson,Dianne Feinstein,1,0,0,0,0
+47,CA_gov_1994,CA_gov,CA_1994,California,CA,1994,0,Kathleen Brown,Richard Rider,1,0,0,0,0
+48,CA_gov_1998,CA_gov,CA_1998,California,CA,1998,0,Gray Davis,Dan Lungren,1,0,0,0,0
+49,CA_gov_2002,CA_gov,CA_2002,California,CA,2002,1,Bill Simon,Peter Camejo,0,1,0,0,0
+50,CA_gov_2003,CA_gov,CA_2003,California,CA,2003,1,Arnold Schwarzenegger,Cruz Bustamante,0,1,0,0,0
+51,CA_gov_2006,CA_gov,CA_2006,California,CA,2006,1,Arnold Schwarzenegger,Phil Angelides,1,0,0,1,0
+52,CA_gov_2010,CA_gov,CA_2010,California,CA,2010,0,Jerry Brown,nMeg Whitman  R,1,0,0,0,0
+53,CA_gov_2014,CA_gov,CA_2014,California,CA,2014,0,Jerry Brown  D  Neel Kashkari  R  ,Unopposed,0,1,1,0,1
+54,CO_gov_1978,CO_gov,CO_1978,Colorado,CO,1978,1,Ted L  Strickland,Roy Peister,0,1,0,0,0
+55,CO_gov_1982,CO_gov,CO_1982,Colorado,CO,1982,1,John D  Fuhr,Paul K  Grant,0,1,0,0,0
+56,CO_gov_1986,CO_gov,CO_1986,Colorado,CO,1986,0,Roy Romer,Ted Strickland,0,1,0,0,0
+57,CO_gov_1990,CO_gov,CO_1990,Colorado,CO,1990,1,John Andrews,David Aitken,0,1,0,0,0
+58,CO_gov_1994,CO_gov,CO_1994,Colorado,CO,1994,1,Bruce Benson,Kevin Swanson,0,1,0,0,0
+59,CO_gov_1998,CO_gov,CO_1998,Colorado,CO,1998,1,Bill Owens,Gail Schoettler,0,1,0,0,0
+60,CO_gov_2002,CO_gov,CO_2002,Colorado,CO,2002,0,Rollie Heath,Ronald Forthofer,1,0,0,0,0
+61,CO_gov_2006,CO_gov,CO_2006,Colorado,CO,2006,0,Bill Ritter,Bob Beauprez,1,0,0,0,0
+62,CO_gov_2010,CO_gov,CO_2010,Colorado,CO,2010,0,John Hickenlooper,nTom Tancredo  Am C,0,1,0,0,0
+63,CO_gov_2014,CO_gov,CO_2014,Colorado,CO,2014,0,John Hickenlooper  D    Bob Beauprez  R    Matthew Hess  L    Mike Dunafon  I   Paul Fiorino  I   Jim Rundberg  I   Harry Hempy  Green,Unopposed,0,1,1,0,1
+64,CT_gov_1978,CT_gov,CT_1978,Connecticut,CT,1978,1,Ronald A  Sarasin,Unopposed,0,1,1,0,0
+65,CT_gov_1982,CT_gov,CT_1982,Connecticut,CT,1982,1,Lewis B  Rome,Unopposed,0,1,1,0,0
+66,CT_gov_1986,CT_gov,CT_1986,Connecticut,CT,1986,1,Julie Belaga,Unopposed,0,1,1,0,0
+67,CT_gov_1990,CT_gov,CT_1990,Connecticut,CT,1990,0,Lowell Weicker  A,John G  Rowland,0,1,0,0,0
+68,CT_gov_1994,CT_gov,CT_1994,Connecticut,CT,1994,1,John Rowland,Bill Curry,0,0,0,0,0
+69,CT_gov_1998,CT_gov,CT_1998,Connecticut,CT,1998,0,Barbara Kennelly,Joseph Zdoneczyk ,1,0,0,0,0
+70,CT_gov_2002,CT_gov,CT_2002,Connecticut,CT,2002,0,Bill Curry,Unopposed,1,0,1,0,0
+71,CT_gov_2006,CT_gov,CT_2006,Connecticut,CT,2006,1,Jodi Rell,John DeStefano,1,0,0,1,0
+72,CT_gov_2010,CT_gov,CT_2010,Connecticut,CT,2010,0,Dan Malloy,nTom Foley  R,1,0,0,0,0
+73,CT_gov_2014,CT_gov,CT_2014,Connecticut,CT,2014,0,Dan Malloy  D  Tom Foley  R    Joe Visconti  I   Lee Whitnum  I  ,Unopposed,0,1,1,0,1
+74,DE_gov_1976,DE_gov,DE_1976,Delaware,DE,1976,1,Pierre S  du Pont IV,George Cripps,0,1,0,0,0
+75,DE_gov_1980,DE_gov,DE_1980,Delaware,DE,1980,0,William J  Gordy,Lawrence Levy,1,0,0,0,0
+76,DE_gov_1984,DE_gov,DE_1984,Delaware,DE,1984,1,Michael N  Castle,William J  Quillen,1,0,0,0,0
+77,DE_gov_1988,DE_gov,DE_1988,Delaware,DE,1988,0,Jacob Kreshtool,Unopposed,1,0,1,0,0
+78,DE_gov_1992,DE_gov,DE_1992,Delaware,DE,1992,0,Tom Carper,Gary Scott,1,0,0,0,0
+79,DE_gov_1996,DE_gov,DE_1996,Delaware,DE,1996,1,Janet Rzewnicki,Unopposed,0,1,1,0,0
+80,DE_gov_2000,DE_gov,DE_2000,Delaware,DE,2000,0,Ruth Ann Minner,John Burris,0,1,0,0,0
+81,DE_gov_2004,DE_gov,DE_2004,Delaware,DE,2004,1,Bill Lee,Frank Infante,0,1,0,0,0
+82,DE_gov_2008,DE_gov,DE_2008,Delaware,DE,2008,0,Jack Markell,Bill Lee,0,1,0,0,0
+83,DE_gov_2012,DE_gov,DE_2012,Delaware,DE,2012,1,Jeff Cragg,Mark Perri,0,1,0,0,0
+84,DE_gov_2016,DE_gov,DE_2016,Delaware,DE,2016,0,John Carney  Democratic   Colin Bonini  Republican   Sean Goward  Libertarian   Andrew Groff  Green,Unopposed,0,1,1,0,0
+85,FL_gov_1978,FL_gov,FL_1978,Florida,FL,1978,0,Bob Graham,Jack Eckerd,0,1,0,0,0
+86,FL_gov_1982,FL_gov,FL_1982,Florida,FL,1982,1,Louis A  Bafalis,Unopposed,0,1,1,0,0
+87,FL_gov_1986,FL_gov,FL_1986,Florida,FL,1986,1,Bob Martinez,Steve Pajcic,0,1,0,0,0
+88,FL_gov_1990,FL_gov,FL_1990,Florida,FL,1990,0,Lawton Chiles,Rose  Jackie  Floyd  Independent ,1,0,0,0,0
+89,FL_gov_1994,FL_gov,FL_1994,Florida,FL,1994,1,Jeb Bush,Unopposed,0,1,1,0,0
+90,FL_gov_1998,FL_gov,FL_1998,Florida,FL,1998,1,Jeb Bush,Buddy MacKay,0,1,0,0,0
+91,FL_gov_2002,FL_gov,FL_2002,Florida,FL,2002,0,Bill McBride,Unopposed,1,0,1,0,0
+92,FL_gov_2006,FL_gov,FL_2006,Florida,FL,2006,1,Charlie Crist,Jim Davis,1,0,0,0,0
+93,FL_gov_2010,FL_gov,FL_2010,Florida,FL,2010,1,Rick Scott,nAlex Sink  D,0,0,0,0,0
+94,FL_gov_2014,FL_gov,FL_2014,Florida,FL,2014,1,Rick Scott  R  Charlie Crist  D    Adrian Wyllie  L     Joe Allen  No Party Affiliation Glenn Burkett  No Party Affiliation  Farid Khavari  No Party Affiliation  ,Unopposed,1,0,1,1,0
+95,GA_gov_1978,GA_gov,GA_1978,Georgia,GA,1978,1,Rodney M  Cook,Unopposed,0,1,1,0,0
+96,GA_gov_1982,GA_gov,GA_1982,Georgia,GA,1982,0,Joe Frank Harris,Robert H  Bell,0,1,0,0,0
+97,GA_gov_1986,GA_gov,GA_1986,Georgia,GA,1986,1,Guy Davis,Unopposed,0,1,1,0,0
+98,GA_gov_1990,GA_gov,GA_1990,Georgia,GA,1990,0,Zell Miller,Johnny Isakson,0,1,0,0,0
+99,GA_gov_1994,GA_gov,GA_1994,Georgia,GA,1994,1,Guy Millner,Unopposed,0,1,1,0,0
+100,GA_gov_1998,GA_gov,GA_1998,Georgia,GA,1998,0,Roy Barnes,Guy Millner,0,1,0,0,0
+101,GA_gov_2002,GA_gov,GA_2002,Georgia,GA,2002,1,Sonny Perdue,Garrett Hayes,0,1,0,0,0
+102,GA_gov_2006,GA_gov,GA_2006,Georgia,GA,2006,1,Sonny Perdue,Mark Taylor,1,0,0,1,0
+103,GA_gov_2010,GA_gov,GA_2010,Georgia,GA,2010,1,Nathan Deal,nRoy Barnes  D,1,0,0,0,0
+104,GA_gov_2014,GA_gov,GA_2014,Georgia,GA,2014,1,Nathan Deal  R  Jason Carter  D    Andrew Hunt  L  ,Unopposed,1,0,1,1,0
+105,HI_gov_1978,HI_gov,HI_1978,Hawaii,HI,1978,1,John R  Leopold,Alema Leota ,0,1,0,0,0
+106,HI_gov_1982,HI_gov,HI_1982,Hawaii,HI,1982,0,Frank Fasi ,D  G  Anderson,0,1,0,0,0
+107,HI_gov_1986,HI_gov,HI_1986,Hawaii,HI,1986,0,John D  Waihee III,D  G  Anderson,0,1,0,0,0
+108,HI_gov_1990,HI_gov,HI_1990,Hawaii,HI,1990,1,Fred Hemmings,Triaka Don Smith,0,1,0,0,0
+109,HI_gov_1994,HI_gov,HI_1994,Hawaii,HI,1994,0,Ben Cayetano,Frank Fasi  Best Party,0,1,0,0,0
+110,HI_gov_1998,HI_gov,HI_1998,Hawaii,HI,1998,1,Linda Lingle,George Peabody,0,1,0,0,0
+111,HI_gov_2002,HI_gov,HI_2002,Hawaii,HI,2002,1,Linda Lingle,Mazie Hirono,0,1,0,0,0
+112,HI_gov_2006,HI_gov,HI_2006,Hawaii,HI,2006,1,Linda Lingle,Randy Iwase,1,0,0,1,0
+113,HI_gov_2010,HI_gov,HI_2010,Hawaii,HI,2010,0,Neil Abercrombie,nDuke Aiona  R,1,0,0,0,0
+114,HI_gov_2014,HI_gov,HI_2014,Hawaii,HI,2014,0,David Ige  D   Duke Aiona  R   Mufi Hannemann  Hawaii Independent  Jeff Davis  L  ,Unopposed,0,1,1,0,0
+115,ID_gov_1978,ID_gov,ID_1978,Idaho,ID,1978,1,Allan Larsen,Wayne Loveless,0,1,0,0,0
+116,ID_gov_1982,ID_gov,ID_1982,Idaho,ID,1982,1,Phil Batt,Unopposed,0,1,1,0,0
+117,ID_gov_1986,ID_gov,ID_1986,Idaho,ID,1986,0,Cecil D  Andrus,David H  Leroy,0,1,0,0,0
+118,ID_gov_1990,ID_gov,ID_1990,Idaho,ID,1990,1,Roger Fairchild,Unopposed,0,1,1,0,0
+119,ID_gov_1994,ID_gov,ID_1994,Idaho,ID,1994,1,Phil Batt,Larry EchoHawk,0,1,0,0,0
+120,ID_gov_1998,ID_gov,ID_1998,Idaho,ID,1998,1,Dirk Kempthorne,Robert Huntley,1,0,0,0,0
+121,ID_gov_2002,ID_gov,ID_2002,Idaho,ID,2002,0,Jerry Brady,Daniel Adams,1,0,0,0,0
+122,ID_gov_2006,ID_gov,ID_2006,Idaho,ID,2006,1,Butch Otter,Jerry Brady,1,0,0,0,0
+123,ID_gov_2010,ID_gov,ID_2010,Idaho,ID,2010,0,Keith Allred,nJana Kemp  I,1,0,0,0,0
+124,ID_gov_2014,ID_gov,ID_2014,Idaho,ID,2014,1,Butch Otter  R A J  Balukoff  D    Steve Pankey  Constitution    John Bujak  L    Jill Humble  I    Pro Life  Marvin Richardson   I    ,Unopposed,1,0,1,1,0
+125,IL_gov_1976,IL_gov,IL_1976,Illinois,IL,1976,1,James R  Thompson,Michael Howlett,0,1,0,0,0
+126,IL_gov_1978,IL_gov,IL_1978,Illinois,IL,1978,0,Michael Bakalis,Georgia Shields,1,0,0,0,0
+127,IL_gov_1982,IL_gov,IL_1982,Illinois,IL,1982,0,Adlai Stevenson III,Bea Armstrong,1,0,0,0,0
+128,IL_gov_1986,IL_gov,IL_1986,Illinois,IL,1986,0,Adlai Stevenson III,No gubernatorial candidate   ,1,0,0,0,0
+129,IL_gov_1990,IL_gov,IL_1990,Illinois,IL,1990,1,Jim Edgar,Neil Hartigan,1,0,0,0,0
+130,IL_gov_1994,IL_gov,IL_1994,Illinois,IL,1994,0,Dawn Netsch,David Kelley,1,0,0,0,0
+131,IL_gov_1998,IL_gov,IL_1998,Illinois,IL,1998,1,George Ryan,Glenn Poshard,1,0,0,0,0
+132,IL_gov_2002,IL_gov,IL_2002,Illinois,IL,2002,0,Rod Blagojevich,Jim Ryan,1,0,0,0,0
+133,IL_gov_2006,IL_gov,IL_2006,Illinois,IL,2006,0,Rod Blagojevich,Judy Baar Topinka,0,1,0,0,1
+134,IL_gov_2010,IL_gov,IL_2010,Illinois,IL,2010,1,Bill Brady,n,0,1,0,0,0
+135,IL_gov_2014,IL_gov,IL_2014,Illinois,IL,2014,1,Bruce Rauner  R    Pat Quinn  D    Chad Grimm  L  ,Unopposed,0,1,1,0,1
+136,IN_gov_1976,IN_gov,IN_1976,Indiana,IN,1976,0,Larry Conrad,Daniel P  Talbot,1,0,0,0,0
+137,IN_gov_1980,IN_gov,IN_1980,Indiana,IN,1980,1,Robert D  Orr,John A  Hillenbrand,1,0,0,0,0
+138,IN_gov_1984,IN_gov,IN_1984,Indiana,IN,1984,0,Wayne Townsend,Rockland Snyder,1,0,0,0,0
+139,IN_gov_1988,IN_gov,IN_1988,Indiana,IN,1988,0,Evan Bayh,John Mutz,1,0,0,0,0
+140,IN_gov_1992,IN_gov,IN_1992,Indiana,IN,1992,1,Linley Pearson,Mary Barton ,0,1,0,0,0
+141,IN_gov_1996,IN_gov,IN_1996,Indiana,IN,1996,0,Frank O Bannon,Steve Goldsmith,0,1,0,0,0
+142,IN_gov_2000,IN_gov,IN_2000,Indiana,IN,2000,1,David McIntosh,Andrew Horning,0,1,0,0,0
+143,IN_gov_2004,IN_gov,IN_2004,Indiana,IN,2004,1,Mitch Daniels,Kenn Gividen,0,1,0,0,0
+144,IN_gov_2008,IN_gov,IN_2008,Indiana,IN,2008,0,Jill Long Thompson,Andy Horning,1,0,0,0,0
+145,IN_gov_2012,IN_gov,IN_2012,Indiana,IN,2012,1,Mike Pence,John Gregg,1,0,0,0,0
+146,IN_gov_2016,IN_gov,IN_2016,Indiana,IN,2016,1,Eric Holcomb  Republican   John Gregg  Democratic    Rex Bell  Libertarian  ,Unopposed,1,0,1,0,0
+147,IA_gov_1978,IA_gov,IA_1978,Iowa,IA,1978,0,Jerome D  Fitzgerald,John Ball,1,0,0,0,0
+148,IA_gov_1982,IA_gov,IA_1982,Iowa,IA,1982,1,Terry E  Branstad,Roxanne Conlin,1,0,0,0,0
+149,IA_gov_1986,IA_gov,IA_1986,Iowa,IA,1986,0,Lowell Junkins,Unopposed,1,0,1,0,0
+150,IA_gov_1990,IA_gov,IA_1990,Iowa,IA,1990,0,Donald Avenson,F  Nan Bailey ,1,0,0,0,0
+151,IA_gov_1994,IA_gov,IA_1994,Iowa,IA,1994,0,Bonnie Campbell,Richard Hughes  Nom ,1,0,0,0,0
+152,IA_gov_1998,IA_gov,IA_1998,Iowa,IA,1998,0,Tom Vilsack,Jim Lightfoot,1,0,0,0,0
+153,IA_gov_2002,IA_gov,IA_2002,Iowa,IA,2002,1,Doug Gross,Jay Robinson,0,1,0,0,0
+154,IA_gov_2006,IA_gov,IA_2006,Iowa,IA,2006,0,Chet Culver,Jim Nussle,0,1,0,0,0
+155,IA_gov_2010,IA_gov,IA_2010,Iowa,IA,2010,1,Terry Branstad,nEric Cooper  L,0,1,0,0,0
+156,IA_gov_2014,IA_gov,IA_2014,Iowa,IA,2014,1,Terry Branstad  R  Jack Hatch  D    Lee Hieb  L   David Rosenfeld  Socialist Workers,Unopposed,1,0,1,1,0
+157,KS_gov_1978,KS_gov,KS_1978,Kansas,KS,1978,0,John W  Carlin,Frank W  Shelton Jr ,1,0,0,0,0
+158,KS_gov_1982,KS_gov,KS_1982,Kansas,KS,1982,1,Sam Hardage,James H  Ward,0,1,0,0,0
+159,KS_gov_1986,KS_gov,KS_1986,Kansas,KS,1986,1,Mike Hayden,Thomas R  Docking,0,1,0,0,0
+160,KS_gov_1990,KS_gov,KS_1990,Kansas,KS,1990,0,Joan Finney,Christina Campbell Cline,1,0,0,0,0
+161,KS_gov_1994,KS_gov,KS_1994,Kansas,KS,1994,1,Bill Graves,Jim Slattery,0,1,0,0,0
+162,KS_gov_1998,KS_gov,KS_1998,Kansas,KS,1998,0,Tom Sawyer,Kirt Poovey,1,0,0,0,0
+163,KS_gov_2002,KS_gov,KS_2002,Kansas,KS,2002,0,Kathleen Sebelius,Tim Shallenburger,1,0,0,0,0
+164,KS_gov_2006,KS_gov,KS_2006,Kansas,KS,2006,0,Kathleen Sebelius,Jim Barnett,0,1,0,0,1
+165,KS_gov_2010,KS_gov,KS_2010,Kansas,KS,2010,1,Sam Brownback,nTom Holland  D,0,1,0,0,0
+166,KS_gov_2014,KS_gov,KS_2014,Kansas,KS,2014,1,Sam Brownback  R  Paul Davis  D    Keen Umbehr  L  ,Unopposed,1,0,1,1,0
+167,KY_gov_1979,KY_gov,KY_1979,Kentucky,KY,1979,0,John Y  Brown Jr ,Louie B  Nunn,0,1,0,0,0
+168,KY_gov_1983,KY_gov,KY_1983,Kentucky,KY,1983,0,Martha Layne Collins,Jim Bunning,0,1,0,0,0
+169,KY_gov_1987,KY_gov,KY_1987,Kentucky,KY,1987,0,Wallace G  Wilkinson,John Harper,0,1,0,0,0
+170,KY_gov_1991,KY_gov,KY_1991,Kentucky,KY,1991,0,Brereton Jones,Larry Hopkins,0,1,0,0,0
+171,KY_gov_1995,KY_gov,KY_1995,Kentucky,KY,1995,0,Paul Patton,Larry Forgy,0,1,0,0,0
+172,KY_gov_1999,KY_gov,KY_1999,Kentucky,KY,1999,1,Peppy Martin,Gatewood Galbraith,0,1,0,0,0
+173,KY_gov_2003,KY_gov,KY_2003,Kentucky,KY,2003,1,Ernie Fletcher,Ben Chandler,0,1,0,0,0
+174,KY_gov_2007,KY_gov,KY_2007,Kentucky,KY,2007,0,Steve Beshear,Unopposed,1,0,1,0,0
+175,KY_gov_2011,KY_gov,KY_2011,Kentucky,KY,2011,0,Steve Beshear,David Williams  R,0,1,0,0,1
+176,KY_gov_2015,KY_gov,KY_2015,Kentucky,KY,2015,1,Matt Bevin,Jack Conway,0,1,0,0,0
+177,LA_gov_1979,LA_gov,LA_1979,Louisiana,LA,1979,1,Dave Treen,in Runoff  Louis Lambert  Democratic,0,1,0,0,0
+178,LA_gov_1983,LA_gov,LA_1983,Louisiana,LA,1983,0,Edwin Edwards,Robert M  Ross,1,0,0,0,0
+179,LA_gov_1987,LA_gov,LA_1987,Louisiana,LA,1987,0,Buddy Roemer,Bob Livingston,0,1,0,0,0
+180,LA_gov_1991,LA_gov,LA_1991,Louisiana,LA,1991,0,Edwin Edwards,in runoff David Duke  Republican,1,0,0,1,0
+181,LA_gov_1995,LA_gov,LA_1995,Louisiana,LA,1995,1,Mike Foster,Cleo Fields,0,1,0,0,0
+182,LA_gov_1999,LA_gov,LA_1999,Louisiana,LA,1999,0,Bill Jefferson,Tom Greene,1,0,0,0,0
+183,LA_gov_2003,LA_gov,LA_2003,Louisiana,LA,2003,1,Bobby Jindal,in runoff Kathleen Blanco  D,1,0,0,0,0
+184,LA_gov_2007,LA_gov,LA_2007,Louisiana,LA,2007,1,Bobby Jindal,Walter Boasso,0,1,0,0,0
+185,LA_gov_2011,LA_gov,LA_2011,Louisiana,LA,2011,1,Bobby Jindal,Tara Hollis  D,1,0,0,1,0
+186,LA_gov_2015,LA_gov,LA_2015,Louisiana,LA,2015,0,John Bel Edwards,David Vitter,1,0,0,0,0
+187,ME_gov_1978,ME_gov,ME_1978,Maine,ME,1978,0,Joseph E  Brennan,Linwood E,0,0,0,0,1
+188,ME_gov_1982,ME_gov,ME_1982,Maine,ME,1982,1,Charles R  Cragin,Venn Warren,0,1,0,0,0
+189,ME_gov_1986,ME_gov,ME_1986,Maine,ME,1986,1,John R  McKernan Jr ,James E  Tierney,0,1,0,0,0
+190,ME_gov_1990,ME_gov,ME_1990,Maine,ME,1990,0,Joseph E  Brennan,Andrew Adam,1,0,0,0,0
+191,ME_gov_1994,ME_gov,ME_1994,Maine,ME,1994,0,Angus King,Joseph Brennan,1,0,0,0,0
+192,ME_gov_1998,ME_gov,ME_1998,Maine,ME,1998,1,Jim Longley,Tom Connolly,0,0,0,0,0
+193,ME_gov_2002,ME_gov,ME_2002,Maine,ME,2002,0,John Baldacci,Peter Cianchette,0,0,0,0,0
+194,ME_gov_2006,ME_gov,ME_2006,Maine,ME,2006,0,John Baldacci,Chandler Woodcock,0,1,0,0,1
+195,ME_gov_2010,ME_gov,ME_2010,Maine,ME,2010,1,Paul LePage,nEliot Cutler  I,0,1,0,0,0
+196,ME_gov_2014,ME_gov,ME_2014,Maine,ME,2014,1,Paul LePage  R  Mike Michaud  D    Eliot Cutler  Unenrolled  ,Unopposed,1,0,1,1,0
+197,MD_gov_1978,MD_gov,MD_1978,Maryland,MD,1978,0,Harry Hughes,John,0,1,0,0,0
+198,MD_gov_1982,MD_gov,MD_1982,Maryland,MD,1982,1,Robert A  Pascal,Unopposed,0,1,1,0,0
+199,MD_gov_1986,MD_gov,MD_1986,Maryland,MD,1986,0,William Donald Schaefer,Thomas J  Mooney,0,1,0,0,0
+200,MD_gov_1990,MD_gov,MD_1990,Maryland,MD,1990,1,William S  Shepard,Carol Thies  Independent ,0,1,0,0,0
+201,MD_gov_1994,MD_gov,MD_1994,Maryland,MD,1994,0,Parris Glendening,Ellen Sauerbrey,0,1,0,0,0
+202,MD_gov_1998,MD_gov,MD_1998,Maryland,MD,1998,1,Ellen Sauerbrey,Unopposed,0,1,1,0,0
+203,MD_gov_2002,MD_gov,MD_2002,Maryland,MD,2002,1,Bob Ehrlich,Kathleen Kennedy Townsend,0,1,0,0,0
+204,MD_gov_2006,MD_gov,MD_2006,Maryland,MD,2006,0,Martin O Malley,Bob Ehrlich,1,0,0,1,0
+205,MD_gov_2010,MD_gov,MD_2010,Maryland,MD,2010,1,Bob Ehrlich,nSusan J  Gaztanaga  L,0,1,0,0,0
+206,MD_gov_2014,MD_gov,MD_2014,Maryland,MD,2014,1,Larry Hogan  R     Anthony Brown  D    Shawn Quinn  L,Unopposed,0,1,1,0,0
+207,MA_gov_1978,MA_gov,MA_1978,Massachusetts,MA,1978,0,Edward J  King,Francis W,0,1,0,0,0
+208,MA_gov_1982,MA_gov,MA_1982,Massachusetts,MA,1982,0,Michael Dukakis,John W  Sears,0,1,0,0,0
+209,MA_gov_1986,MA_gov,MA_1986,Massachusetts,MA,1986,1,George Kariotis,Unopposed,0,1,1,0,0
+210,MA_gov_1990,MA_gov,MA_1990,Massachusetts,MA,1990,1,William Weld,John Silber,0,1,0,0,0
+211,MA_gov_1994,MA_gov,MA_1994,Massachusetts,MA,1994,0,Mark Roosevelt,Dean Cook,1,0,0,0,0
+212,MA_gov_1998,MA_gov,MA_1998,Massachusetts,MA,1998,0,Scott Harshbarger,Dean Cook,1,0,0,0,0
+213,MA_gov_2002,MA_gov,MA_2002,Massachusetts,MA,2002,1,Mitt Romney,Shannon O Brien,1,0,0,0,0
+214,MA_gov_2006,MA_gov,MA_2006,Massachusetts,MA,2006,0,Deval Patrick,Kerry Healey,1,0,0,0,0
+215,MA_gov_2010,MA_gov,MA_2010,Massachusetts,MA,2010,1,Charlie Baker,nTim Cahill  I,0,1,0,0,0
+216,MA_gov_2014,MA_gov,MA_2014,Massachusetts,MA,2014,1,Charlie Baker  R    Martha Coakley  D    Evan Falchuk  United Independent    Scott Lively  I    Jeff McCormick  I  ,Unopposed,0,1,1,0,0
+217,MI_gov_1978,MI_gov,MI_1978,Michigan,MI,1978,0,William B  Fitzgerald Jr ,Unopposed,1,0,1,0,0
+218,MI_gov_1982,MI_gov,MI_1982,Michigan,MI,1982,0,James Blanchard,Richard Headlee,1,0,0,0,0
+219,MI_gov_1986,MI_gov,MI_1986,Michigan,MI,1986,1,William Lucas,Unopposed,0,1,1,0,0
+220,MI_gov_1990,MI_gov,MI_1990,Michigan,MI,1990,1,John Engler,William Roundtree ,0,1,0,0,0
+221,MI_gov_1994,MI_gov,MI_1994,Michigan,MI,1994,0,Howard Wolpe,Unopposed,1,0,1,0,0
+222,MI_gov_1998,MI_gov,MI_1998,Michigan,MI,1998,0,Geoffrey Fieger,Unopposed,1,0,1,0,0
+223,MI_gov_2002,MI_gov,MI_2002,Michigan,MI,2002,0,Jennifer Granholm,Dick Posthumus,1,0,0,0,0
+224,MI_gov_2006,MI_gov,MI_2006,Michigan,MI,2006,0,Jennifer Granholm,Dick DeVos,0,1,0,0,1
+225,MI_gov_2010,MI_gov,MI_2010,Michigan,MI,2010,1,Rick Snyder,nVirg Bernero  D,0,1,0,0,0
+226,MI_gov_2014,MI_gov,MI_2014,Michigan,MI,2014,1,Rick Snyder  R  Mark Schauer  D   Mary Buzuma  L Paul Homeniuk  G  Robin Sanders  I  ,Unopposed,1,0,1,1,0
+227,MN_gov_1978,MN_gov,MN_1978,Minnesota,MN,1978,1,Al Quie,Richard Pedersen,0,1,0,0,0
+228,MN_gov_1982,MN_gov,MN_1982,Minnesota,MN,1982,0,Rudy Perpich,Wheelock Whitney,1,0,0,0,0
+229,MN_gov_1986,MN_gov,MN_1986,Minnesota,MN,1986,1,Cal Ludeman,Unopposed,0,1,1,0,0
+230,MN_gov_1990,MN_gov,MN_1990,Minnesota,MN,1990,0,Arne Carlson  Ind,Judith Ann Chosa,0,1,0,0,0
+231,MN_gov_1994,MN_gov,MN_1994,Minnesota,MN,1994,0,John Marty,Will Shetterly,0,0,0,0,0
+232,MN_gov_1998,MN_gov,MN_1998,Minnesota,MN,1998,1,Jesse Ventura,Norm Coleman,1,0,0,0,0
+233,MN_gov_2002,MN_gov,MN_2002,Minnesota,MN,2002,1,Tim Pawlenty,Roger Moe,1,0,0,0,0
+234,MN_gov_2006,MN_gov,MN_2006,Minnesota,MN,2006,1,Tim Pawlenty,Mike Hatch,1,0,0,1,0
+235,MN_gov_2010,MN_gov,MN_2010,Minnesota,MN,2010,0,Mark Dayton,nTom Emmer  R,1,0,0,0,0
+236,MN_gov_2014,MN_gov,MN_2014,Minnesota,MN,2014,0,Mark Dayton,Jeff Johnson  R,0,1,0,0,1
+237,MS_gov_1979,MS_gov,MS_1979,Mississippi,MS,1979,0,William Winter,Gil Carmichael,0,1,0,0,0
+238,MS_gov_1983,MS_gov,MS_1983,Mississippi,MS,1983,0,William Allain,Leon Bramlett,0,1,0,0,0
+239,MS_gov_1987,MS_gov,MS_1987,Mississippi,MS,1987,0,Ray Mabus,Jack Reed,0,1,0,0,0
+240,MS_gov_1991,MS_gov,MS_1991,Mississippi,MS,1991,1,Kirk Fordice,Shawn O Hara,0,1,0,0,0
+241,MS_gov_1995,MS_gov,MS_1995,Mississippi,MS,1995,0,Dick Molpus,Unopposed,1,0,1,0,0
+242,MS_gov_1999,MS_gov,MS_1999,Mississippi,MS,1999,0,Ronnie Musgrove,Mike Parker,1,0,0,0,0
+243,MS_gov_2003,MS_gov,MS_2003,Mississippi,MS,2003,1,Haley Barbour,John Cripps,0,1,0,0,0
+244,MS_gov_2007,MS_gov,MS_2007,Mississippi,MS,2007,0,John Eaves,Unopposed,1,0,1,0,0
+245,MS_gov_2011,MS_gov,MS_2011,Mississippi,MS,2011,1,Phil Bryant,Johnny DuPree  D,1,0,0,0,0
+246,MS_gov_2015,MS_gov,MS_2015,Mississippi,MS,2015,1,Phil Bryant,Robert Gray,1,0,0,1,0
+247,MO_gov_1976,MO_gov,MO_1976,Missouri,MO,1976,0,Joseph P  Teasdale,Leon Striler,1,0,0,0,0
+248,MO_gov_1980,MO_gov,MO_1980,Missouri,MO,1980,1,Kit Bond,Helen Savio ,0,1,0,0,0
+249,MO_gov_1984,MO_gov,MO_1984,Missouri,MO,1984,1,John Ashcroft,Ken Rothman,1,0,0,0,0
+250,MO_gov_1988,MO_gov,MO_1988,Missouri,MO,1988,0,Betty Hearnes,Mike Roberts,1,0,0,0,0
+251,MO_gov_1992,MO_gov,MO_1992,Missouri,MO,1992,0,Mel Carnahan,William Webster,1,0,0,0,0
+252,MO_gov_1996,MO_gov,MO_1996,Missouri,MO,1996,1,Margaret Kelly,Mark Oglesby,0,1,0,0,0
+253,MO_gov_2000,MO_gov,MO_2000,Missouri,MO,2000,0,Bob Holden,Jim Talent,0,1,0,0,0
+254,MO_gov_2004,MO_gov,MO_2004,Missouri,MO,2004,1,Matt Blunt,Claire McCaskill,0,1,0,0,0
+255,MO_gov_2008,MO_gov,MO_2008,Missouri,MO,2008,0,Jay Nixon,Kenny Hulshof,1,0,0,0,0
+256,MO_gov_2012,MO_gov,MO_2012,Missouri,MO,2012,1,Dave Spence,Jim Higgins,0,1,0,0,0
+257,MO_gov_2016,MO_gov,MO_2016,Missouri,MO,2016,1,Eric Greitens  Republican   Chris Koster  Democratic   Cisse Spragins  Libertarian   Don Fitz  Green Les Turilli  unaffiliated,Unopposed,0,1,1,0,0
+258,MT_gov_1976,MT_gov,MT_1976,Montana,MT,1976,1,Robert Woodahl,Charley Mahoney,0,1,0,0,0
+259,MT_gov_1980,MT_gov,MT_1980,Montana,MT,1980,0,Ted Schwinden,Jack Ramirez,0,1,0,0,0
+260,MT_gov_1984,MT_gov,MT_1984,Montana,MT,1984,1,Pat M  Goodover,Larry Dodge,0,1,0,0,0
+261,MT_gov_1988,MT_gov,MT_1988,Montana,MT,1988,1,Stan Stephens,Thomas Lee Judge,0,1,0,0,0
+262,MT_gov_1992,MT_gov,MT_1992,Montana,MT,1992,1,Marc Racicot,Dorothy Bradley,1,0,0,0,0
+263,MT_gov_1996,MT_gov,MT_1996,Montana,MT,1996,0,Judy Jacobson,Unopposed,1,0,1,0,0
+264,MT_gov_2000,MT_gov,MT_2000,Montana,MT,2000,1,Judy Martz,Mark O Keefe,1,0,0,0,0
+265,MT_gov_2004,MT_gov,MT_2004,Montana,MT,2004,0,Brian Schweitzer,Bob Brown,1,0,0,0,0
+266,MT_gov_2008,MT_gov,MT_2008,Montana,MT,2008,1,Roy Brown,Stan Jones,0,1,0,0,0
+267,MT_gov_2012,MT_gov,MT_2012,Montana,MT,2012,0,Steve Bullock,Rick Hill,0,1,0,0,0
+268,MT_gov_2016,MT_gov,MT_2016,Montana,MT,2016,0,Steve Bullock  Democratic   Greg Gianforte  Republican   Ted Dunlap  Libertarian  ,Unopposed,0,1,1,0,1
+269,NE_gov_1978,NE_gov,NE_1978,Nebraska,NE,1978,1,Charles Thone,Gerald T  Whelan,0,1,0,0,0
+270,NE_gov_1982,NE_gov,NE_1982,Nebraska,NE,1982,0,Bob Kerrey,Unopposed,1,0,1,0,0
+271,NE_gov_1986,NE_gov,NE_1986,Nebraska,NE,1986,1,Kay A  Orr,Helen Boosalis,0,1,0,0,0
+272,NE_gov_1990,NE_gov,NE_1990,Nebraska,NE,1990,0,Ben Nelson,Mort Sullivan ,1,0,0,0,0
+273,NE_gov_1994,NE_gov,NE_1994,Nebraska,NE,1994,1,Gene Spence,Ernie Chambers ,0,1,0,0,0
+274,NE_gov_1998,NE_gov,NE_1998,Nebraska,NE,1998,1,Mike Johanns,Bill Hoppner,0,1,0,0,0
+275,NE_gov_2002,NE_gov,NE_2002,Nebraska,NE,2002,0,Stormy Dean,Paul Rosberg,1,0,0,0,0
+276,NE_gov_2006,NE_gov,NE_2006,Nebraska,NE,2006,1,Dave Heineman,David Hahn,1,0,0,1,0
+277,NE_gov_2010,NE_gov,NE_2010,Nebraska,NE,2010,0,Mike Meister,n,1,0,0,0,0
+278,NE_gov_2014,NE_gov,NE_2014,Nebraska,NE,2014,1,Pete Ricketts  R    Chuck Hassebrook  D    Mark Elworth  L  ,Unopposed,1,0,1,0,0
+279,NV_gov_1978,NV_gov,NV_1978,Nevada,NV,1978,1,Robert List,Robert E  Rose,0,1,0,0,0
+280,NV_gov_1982,NV_gov,NV_1982,Nevada,NV,1982,0,Richard Bryan,None of,1,0,0,0,0
+281,NV_gov_1986,NV_gov,NV_1986,Nevada,NV,1986,1,Patricia Dillon Cafferata,None of,0,1,0,0,0
+282,NV_gov_1990,NV_gov,NV_1990,Nevada,NV,1990,1,Jim Gallaway,None of,0,1,0,0,0
+283,NV_gov_1994,NV_gov,NV_1994,Nevada,NV,1994,1,Jim Gibbons,Daniel Hansen ,0,1,0,0,0
+284,NV_gov_1998,NV_gov,NV_1998,Nevada,NV,1998,1,Kenny Guinn,Jan Jones,0,1,0,0,0
+285,NV_gov_2002,NV_gov,NV_2002,Nevada,NV,2002,0,Joe Neal,None of,1,0,0,0,0
+286,NV_gov_2006,NV_gov,NV_2006,Nevada,NV,2006,1,Jim Gibbons,Dina Titus,1,0,0,0,0
+287,NV_gov_2010,NV_gov,NV_2010,Nevada,NV,2010,1,Brian Sandoval,nRory Reid  D,1,0,0,0,0
+288,NV_gov_2014,NV_gov,NV_2014,Nevada,NV,2014,1,Brian Sandoval  R  Robert Goodman  D    David VanDerBeek  Independent American  ,Unopposed,1,0,1,1,0
+289,NY_gov_1976,NY_gov,NY_1976,New_Hampshire,NY,1976,0,Harry Spanos,Unopposed,1,0,1,0,0
+290,NH_gov_1978,NH_gov,NH_1978,New_Hampshire,NH,1978,0,Hugh Gallen,Wesley Powell,1,0,0,0,0
+291,NH_gov_1980,NH_gov,NH_1980,New_Hampshire,NH,1980,1,Meldrim Thomson Jr ,James Pinnaird,0,1,0,0,0
+292,NH_gov_1982,NH_gov,NH_1982,New_Hampshire,NH,1982,1,John H  Sununu,,0,1,0,0,0
+293,NH_gov_1984,NH_gov,NH_1984,New_Hampshire,NH,1984,0,Chris Spirou,Unopposed,1,0,1,0,0
+294,NH_gov_1986,NH_gov,NH_1986,New_Hampshire,NH,1986,0,Paul McEachern,Unopposed,1,0,1,0,0
+295,NH_gov_1988,NH_gov,NH_1988,New_Hampshire,NH,1988,1,Judd Gregg,Paul McEachern,1,0,0,0,0
+296,NH_gov_1990,NH_gov,NH_1990,New_Hampshire,NH,1990,0,J  Joseph Grandmaison,Miriam F  Luce,1,0,0,0,0
+297,NH_gov_1992,NH_gov,NH_1992,New_Hampshire,NH,1992,1,Steve Merrill,Arnie Arnesen,1,0,0,0,0
+298,NH_gov_1994,NH_gov,NH_1994,New_Hampshire,NH,1994,0,Wayne King,Steve Winter,1,0,0,0,0
+299,NH_gov_1996,NH_gov,NH_1996,New_Hampshire,NH,1996,0,Jeanne Shaheen,Ovide Lamontagne,1,0,0,0,0
+300,NH_gov_1998,NH_gov,NH_1998,New_Hampshire,NH,1998,1,Jay Lucas,Unopposed,0,1,1,0,0
+301,NH_gov_2000,NH_gov,NH_2000,New_Hampshire,NH,2000,1,Gordon Humphrey,Mary Brown,0,1,0,0,0
+302,NH_gov_2002,NH_gov,NH_2002,New_Hampshire,NH,2002,1,Craig Benson,Mark Fernald,0,1,0,0,0
+303,NH_gov_2004,NH_gov,NH_2004,New_Hampshire,NH,2004,0,John Lynch,Unopposed,1,0,1,0,0
+304,NH_gov_2006,NH_gov,NH_2006,New_Hampshire,NH,2006,0,John Lynch,Jim Coburn,0,1,0,0,1
+305,NH_gov_2008,NH_gov,NH_2008,New_Hampshire,NH,2008,1,Joe Kenney,Susan Newell,0,1,0,0,0
+306,NH_gov_2010,NH_gov,NH_2010,New_Hampshire,NH,2010,1,John Stephen,John J  Babiarz  L,0,1,0,0,0
+307,NH_gov_2012,NH_gov,NH_2012,New_Hampshire,NH,2012,0,Maggie Hassan,Ovide Lamontagne,0,1,0,0,0
+308,NH_gov_2014,NH_gov,NH_2014,New_Hampshire,NH,2014,0,Maggie Hassan  D Walt Havenstein  R,Unopposed,0,1,1,0,1
+309,NH_gov_2016,NH_gov,NH_2016,New_Hampshire,NH,2016,1,Chris Sununu  Republican   Colin Van Ostern  Democratic   Max Ambramson  Libertarian  ,Unopposed,0,1,1,0,0
+310,NJ_gov_1977,NJ_gov,NJ_1977,New_Jersey,NJ,1977,1,Ray Bateman,Francis Flowers  Declare,0,1,0,0,0
+311,NJ_gov_1981,NJ_gov,NJ_1981,New_Jersey,NJ,1981,1,Thomas Kean,James Florio,0,1,0,0,0
+312,NJ_gov_1985,NJ_gov,NJ_1985,New_Jersey,NJ,1985,0,Peter Shapiro,Unopposed,1,0,1,0,0
+313,NJ_gov_1989,NJ_gov,NJ_1989,New_Jersey,NJ,1989,0,James Florio,Jim Courter,1,0,0,0,0
+314,NJ_gov_1993,NJ_gov,NJ_1993,New_Jersey,NJ,1993,1,Christine Todd Whitman,Unopposed,0,1,1,0,0
+315,NJ_gov_1997,NJ_gov,NJ_1997,New_Jersey,NJ,1997,0,Jim McGreevey,Murray Sabrin,1,0,0,0,0
+316,NJ_gov_2001,NJ_gov,NJ_2001,New_Jersey,NJ,2001,0,Jim McGreevey,Bret Schundler,1,0,0,0,0
+317,NJ_gov_2005,NJ_gov,NJ_2005,New_Jersey,NJ,2005,0,Jon Corzine,Doug Forrester,0,1,0,0,1
+318,NJ_gov_2009,NJ_gov,NJ_2009,New_Jersey,NJ,2009,1,Chris Christie,Chris Daggett,0,1,0,0,0
+319,NJ_gov_2013,NJ_gov,NJ_2013,New_Jersey,NJ,2013,0,Barbara Buono,Unopposed,1,0,1,0,0
+320,NJ_gov_2017,NJ_gov,NJ_2017,New_Jersey,NJ,2017,0,Phil Murphy,Kim Guadagno,1,0,0,0,0
+321,NM_gov_1978,NM_gov,NM_1978,New_Mexico,NM,1978,0,Bruce King,Joe Skeen,0,1,0,0,0
+322,NM_gov_1982,NM_gov,NM_1982,New_Mexico,NM,1982,0,Toney Anaya,John B  Irick,0,1,0,0,0
+323,NM_gov_1986,NM_gov,NM_1986,New_Mexico,NM,1986,1,Garrey Carruthers,Ray Powell,0,1,0,0,0
+324,NM_gov_1990,NM_gov,NM_1990,New_Mexico,NM,1990,0,Bruce King,Frank M  Bond,1,0,0,0,0
+325,NM_gov_1994,NM_gov,NM_1994,New_Mexico,NM,1994,1,Gary Johnson,Roberto Mondragón,0,1,0,0,0
+326,NM_gov_1998,NM_gov,NM_1998,New_Mexico,NM,1998,0,Martin Chávez,Unopposed,1,0,1,0,0
+327,NM_gov_2002,NM_gov,NM_2002,New_Mexico,NM,2002,0,Bill Richardson,John Sanchez,1,0,0,0,0
+328,NM_gov_2006,NM_gov,NM_2006,New_Mexico,NM,2006,0,Bill Richardson,John Dendahl,0,1,0,0,1
+329,NM_gov_2010,NM_gov,NM_2010,New_Mexico,NM,2010,1,Susana Martinez,nDiane Denish  D,0,1,0,0,0
+330,NM_gov_2014,NM_gov,NM_2014,New_Mexico,NM,2014,1,Susana Martinez  R  Gary King  D  ,Unopposed,1,0,1,1,0
+331,NY_gov_1978,NY_gov,NY_1978,New_York,NY,1978,1,Perry Duryea,Mary Jane Tobin  Right,0,1,0,0,0
+332,NY_gov_1982,NY_gov,NY_1982,New_York,NY,1982,0,Mario Cuomo,Lewis Lehrman,0,1,0,0,0
+333,NY_gov_1986,NY_gov,NY_1986,New_York,NY,1986,1,Andrew O Rourke,Denis Dillon  Right,0,1,0,0,0
+334,NY_gov_1990,NY_gov,NY_1990,New_York,NY,1990,1,Pierre Andrew Rinfret,Herbert London,0,1,0,0,0
+335,NY_gov_1994,NY_gov,NY_1994,New_York,NY,1994,1,George Pataki,Tom Golisano,0,1,0,0,0
+336,NY_gov_1998,NY_gov,NY_1998,New_York,NY,1998,0,Peter Vallone,Tom Golisano,1,0,0,0,0
+337,NY_gov_2002,NY_gov,NY_2002,New_York,NY,2002,0,Carl McCall,,1,0,0,0,0
+338,NY_gov_2006,NY_gov,NY_2006,New_York,NY,2006,0,Eliot Spitzer,John Faso ,1,0,0,0,0
+339,NY_gov_2010,NY_gov,NY_2010,New_York,NY,2010,0,Andrew Cuomo,nCarl Paladino  R,0,1,0,0,0
+340,NY_gov_2014,NY_gov,NY_2014,New_York,NY,2014,0,Andrew Cuomo  D  Rob Astorino  R    Howie Hawkins  G   Michael McDermott  L,Unopposed,0,1,1,0,1
+341,NC_gov_1976,NC_gov,NC_1976,North_Carolina,NC,1976,0,Jim Hunt,David Flaherty,1,0,0,0,0
+342,NC_gov_1980,NC_gov,NC_1980,North_Carolina,NC,1980,1,I  Beverly Lake,Robert Y  Emory,0,1,0,0,0
+343,NC_gov_1984,NC_gov,NC_1984,North_Carolina,NC,1984,1,James G  Martin,Rufus L  Edmisten,0,1,0,0,0
+344,NC_gov_1988,NC_gov,NC_1988,North_Carolina,NC,1988,0,Robert B  Jordan III,Unopposed,1,0,1,0,0
+345,NC_gov_1992,NC_gov,NC_1992,North_Carolina,NC,1992,0,Jim Hunt,Jim Gardner,1,0,0,0,0
+346,NC_gov_1996,NC_gov,NC_1996,North_Carolina,NC,1996,1,Robin Hayes,Scott Yost,0,1,0,0,0
+347,NC_gov_2000,NC_gov,NC_2000,North_Carolina,NC,2000,0,Mike Easley,Richard Vinroot,0,1,0,0,0
+348,NC_gov_2004,NC_gov,NC_2004,North_Carolina,NC,2004,1,Patrick Ballantine,Barbara Howe,0,1,0,0,0
+349,NC_gov_2008,NC_gov,NC_2008,North_Carolina,NC,2008,0,Bev Perdue,Pat McCrory,0,1,0,0,0
+350,NC_gov_2012,NC_gov,NC_2012,North_Carolina,NC,2012,1,Pat McCrory,Walter Dalton,0,1,0,0,0
+351,NC_gov_2016,NC_gov,NC_2016,North_Carolina,NC,2016,0,Roy Cooper  Democratic   Pat McCrory  Republican   Lon Cecil  Libertarian  ,Unopposed,1,0,1,1,0
+352,ND_gov_1976,ND_gov,ND_1976,North_Dakota,ND,1976,1,Richard Elkin,Martin Vaaler,0,1,0,0,0
+353,ND_gov_1980,ND_gov,ND_1980,North_Dakota,ND,1980,1,Allen I  Olson,Unopposed,0,1,1,0,0
+354,ND_gov_1984,ND_gov,ND_1984,North_Dakota,ND,1984,0,George Sinner,Unopposed,1,0,1,0,0
+355,ND_gov_1988,ND_gov,ND_1988,North_Dakota,ND,1988,1,Leon L  Mallberg,Unopposed,0,1,1,0,0
+356,ND_gov_1992,ND_gov,ND_1992,North_Dakota,ND,1992,1,Ed Schafer,Nicholas Spaeth,0,1,0,0,0
+357,ND_gov_1996,ND_gov,ND_1996,North_Dakota,ND,1996,0,Lee Kaldor,Unopposed,1,0,1,0,0
+358,ND_gov_2000,ND_gov,ND_2000,North_Dakota,ND,2000,1,John Hoeven,Heidi Heitkamp,1,0,0,0,0
+359,ND_gov_2004,ND_gov,ND_2004,North_Dakota,ND,2004,0,Joe Satrom,Roland Riemers,1,0,0,0,0
+360,ND_gov_2008,ND_gov,ND_2008,North_Dakota,ND,2008,0,Tim Mathern,DuWayne Hendrickson,1,0,0,0,0
+361,ND_gov_2012,ND_gov,ND_2012,North_Dakota,ND,2012,0,Ryan Taylor,Paul Sorum,1,0,0,0,0
+362,ND_gov_2016,ND_gov,ND_2016,North_Dakota,ND,2016,1,Doug Burgum  Republican   Marvin Nelson  Democratic   Marty Riske  Libertarian  ,Unopposed,1,0,1,0,0
+363,OH_gov_1978,OH_gov,OH_1978,Ohio,OH,1978,0,Dick Celeste,Patricia H  Wright,1,0,0,0,0
+364,OH_gov_1982,OH_gov,OH_1982,Ohio,OH,1982,0,Dick Celeste,Bud Brown,1,0,0,0,0
+365,OH_gov_1986,OH_gov,OH_1986,Ohio,OH,1986,1,Jim Rhodes,Unopposed,0,1,1,0,0
+366,OH_gov_1990,OH_gov,OH_1990,Ohio,OH,1990,1,George Voinovich,Anthony J  Celebrezze Jr ,0,1,0,0,0
+367,OH_gov_1994,OH_gov,OH_1994,Ohio,OH,1994,0,Rob Burch,Billy Inmon,1,0,0,0,0
+368,OH_gov_1998,OH_gov,OH_1998,Ohio,OH,1998,1,Bob Taft,Lee Fisher,1,0,0,0,0
+369,OH_gov_2002,OH_gov,OH_2002,Ohio,OH,2002,0,Tim Hagan,John Eastman,1,0,0,0,0
+370,OH_gov_2006,OH_gov,OH_2006,Ohio,OH,2006,0,Ted Strickland,Ken Blackwell,1,0,0,0,0
+371,OH_gov_2010,OH_gov,OH_2010,Ohio,OH,2010,1,John Kasich,nKen Matesz  L,0,1,0,0,0
+372,OH_gov_2014,OH_gov,OH_2014,Ohio,OH,2014,1,John Kasich  R  Ed FitzGerald  D     Anita Rios  G  ,Unopposed,1,0,1,1,0
+373,OK_gov_1978,OK_gov,OK_1978,Oklahoma,OK,1978,0,George Nigh,Ron Shotts,0,1,0,0,0
+374,OK_gov_1982,OK_gov,OK_1982,Oklahoma,OK,1982,1,Tom Daxon,Allah U Akbar Allah U Wahid,0,1,0,0,0
+375,OK_gov_1986,OK_gov,OK_1986,Oklahoma,OK,1986,1,Henry Bellmon,David Walters,0,1,0,0,0
+376,OK_gov_1990,OK_gov,OK_1990,Oklahoma,OK,1990,0,David Walters,Bill Price,1,0,0,0,0
+377,OK_gov_1994,OK_gov,OK_1994,Oklahoma,OK,1994,1,Frank Keating,Jack Mildren,0,1,0,0,0
+378,OK_gov_1998,OK_gov,OK_1998,Oklahoma,OK,1998,0,Laura Boyd,Hoppy Heidelberg,1,0,0,0,0
+379,OK_gov_2002,OK_gov,OK_2002,Oklahoma,OK,2002,0,Brad Henry,Steve Largent,1,0,0,0,0
+380,OK_gov_2006,OK_gov,OK_2006,Oklahoma,OK,2006,0,Brad Henry,Ernest Istook,0,1,0,0,1
+381,OK_gov_2010,OK_gov,OK_2010,Oklahoma,OK,2010,1,Mary Fallin,nJari Askins  D,0,1,0,0,0
+382,OK_gov_2014,OK_gov,OK_2014,Oklahoma,OK,2014,1,Mary Fallin  R Joe Dorman  D    Richard Prawdzienski,running as I  ,1,0,0,1,0
+383,OR_gov_1978,OR_gov,OR_1978,Oregon,OR,1978,1,Victor G  Atiyeh,Unopposed,0,1,1,0,0
+384,OR_gov_1982,OR_gov,OR_1982,Oregon,OR,1982,0,Ted Kulongoski,Unopposed,1,0,1,0,0
+385,OR_gov_1986,OR_gov,OR_1986,Oregon,OR,1986,0,Neil Goldschmidt,Norma Paulus,1,0,0,0,0
+386,OR_gov_1990,OR_gov,OR_1990,Oregon,OR,1990,0,Barbara Roberts,David B  Frohnmayer,0,1,0,0,0
+387,OR_gov_1994,OR_gov,OR_1994,Oregon,OR,1994,0,John Kitzhaber,Denny Smith,0,1,0,0,0
+388,OR_gov_1998,OR_gov,OR_1998,Oregon,OR,1998,1,Bill Sizemore,Richard Burke,0,1,0,0,0
+389,OR_gov_2002,OR_gov,OR_2002,Oregon,OR,2002,0,Ted Kulongoski,Kevin Mannix,0,1,0,0,0
+390,OR_gov_2006,OR_gov,OR_2006,Oregon,OR,2006,0,Ted Kulongoski,Ron Saxton,0,1,0,0,1
+391,OR_gov_2010,OR_gov,OR_2010,Oregon,OR,2010,0,John Kitzhaber,nChris Dudley  R,0,1,0,0,0
+392,OR_gov_2014,OR_gov,OR_2014,Oregon,OR,2014,0,John Kitzhaber  D  Dennis Richardson  R   Paul Grad  Libertarian Aaron Auer  Constitution,Unopposed,0,1,1,0,1
+393,OR_gov_2016,OR_gov,OR_2016,Oregon,OR,2016,0,Kate Brown  Democratic   Bud Pierce  Republican  ,Unopposed,0,1,1,0,1
+394,PA_gov_1978,PA_gov,PA_1978,Pennsylvania,PA,1978,1,Dick Thornburgh,Peter F  Flaherty,0,1,0,0,0
+395,PA_gov_1982,PA_gov,PA_1982,Pennsylvania,PA,1982,0,Allen E  Ertel,Mark Zola ,1,0,0,0,0
+396,PA_gov_1986,PA_gov,PA_1986,Pennsylvania,PA,1986,0,Robert P  Casey,,1,0,0,0,0
+397,PA_gov_1990,PA_gov,PA_1990,Pennsylvania,PA,1990,1,Barbara Hafer,Unopposed,0,1,1,0,0
+398,PA_gov_1994,PA_gov,PA_1994,Pennsylvania,PA,1994,1,Tom Ridge,Mark Singel,0,1,0,0,0
+399,PA_gov_1998,PA_gov,PA_1998,Pennsylvania,PA,1998,0,Ivan Itkin,Peg Luksik,1,0,0,0,0
+400,PA_gov_2002,PA_gov,PA_2002,Pennsylvania,PA,2002,0,Ed Rendell,Mike Fisher,1,0,0,0,0
+401,PA_gov_2006,PA_gov,PA_2006,Pennsylvania,PA,2006,0,Ed Rendell,Lynn Swann,0,1,0,0,1
+402,PA_gov_2010,PA_gov,PA_2010,Pennsylvania,PA,2010,1,Tom Corbett,nDan Onorato  D,0,1,0,0,0
+403,PA_gov_2014,PA_gov,PA_2014,Pennsylvania,PA,2014,0,Tom Wolf  D    Tom Corbett  R,Unopposed,1,0,1,1,0
+404,RI_gov_1976,RI_gov,RI_1976,Rhode_Island,RI,1976,0,John Garrahy,James Taft,0,1,0,0,0
+405,RI_gov_1978,RI_gov,RI_1978,Rhode_Island,RI,1978,1,Lincoln Almond,Joseph A  Doorley,0,1,0,0,0
+406,RI_gov_1980,RI_gov,RI_1980,Rhode_Island,RI,1980,1,Buddy Cianci,Unopposed,0,1,1,0,0
+407,RI_gov_1982,RI_gov,RI_1982,Rhode_Island,RI,1982,1,Vincent Marzullo,Hilary R  Salk,0,1,0,0,0
+408,RI_gov_1984,RI_gov,RI_1984,Rhode_Island,RI,1984,1,Edward D  DiPrete,Anthony J  Solomon,0,1,0,0,0
+409,RI_gov_1986,RI_gov,RI_1986,Rhode_Island,RI,1986,0,Bruce Sundlun,Robert Healey ,1,0,0,0,0
+410,RI_gov_1988,RI_gov,RI_1988,Rhode_Island,RI,1988,0,Bruce Sundlun,Unopposed,1,0,1,0,0
+411,RI_gov_1990,RI_gov,RI_1990,Rhode_Island,RI,1990,0,Bruce Sundlun,Unopposed,1,0,1,0,0
+412,RI_gov_1992,RI_gov,RI_1992,Rhode_Island,RI,1992,1,Elizabeth Leonard,Joseph Devine,0,1,0,0,0
+413,RI_gov_1994,RI_gov,RI_1994,Rhode_Island,RI,1994,1,Lincoln Almond,Myrth York,0,1,0,0,0
+414,RI_gov_1998,RI_gov,RI_1998,Rhode_Island,RI,1998,0,Myrth York,Bob Healey ,1,0,0,0,0
+415,RI_gov_2002,RI_gov,RI_2002,Rhode_Island,RI,2002,1,Don Carcieri,Myrth York,1,0,0,0,0
+416,RI_gov_2006,RI_gov,RI_2006,Rhode_Island,RI,2006,1,Don Carcieri,Charlie Fogarty,1,0,0,1,0
+417,RI_gov_2010,RI_gov,RI_2010,Rhode_Island,RI,2010,0,Lincoln Chafee,nJohn Robitaille  R,1,0,0,0,0
+418,RI_gov_2014,RI_gov,RI_2014,Rhode_Island,RI,2014,0,Gina Raimondo  D   Allan Fung  R    Bob Healey  Moderate   Kate Fletcher  I Leon Kayarian  I,Unopposed,0,1,1,0,0
+419,SC_gov_1978,SC_gov,SC_1978,South_Carolina,SC,1978,0,Richard Riley,Edward Lunn Young,1,0,0,0,0
+420,SC_gov_1982,SC_gov,SC_1982,South_Carolina,SC,1982,1,W  D  Workman Jr ,Unopposed,0,1,1,0,0
+421,SC_gov_1986,SC_gov,SC_1986,South_Carolina,SC,1986,1,Carroll A  Campbell Jr ,Michael R  Daniel,0,1,0,0,0
+422,SC_gov_1990,SC_gov,SC_1990,South_Carolina,SC,1990,0,Theo Mitchell,John R,1,0,0,0,0
+423,SC_gov_1994,SC_gov,SC_1994,South_Carolina,SC,1994,1,David Beasley,Nick Theodore,1,0,0,0,0
+424,SC_gov_1998,SC_gov,SC_1998,South_Carolina,SC,1998,0,Jim Hodges,Timothy Moultrie,1,0,0,0,0
+425,SC_gov_2002,SC_gov,SC_2002,South_Carolina,SC,2002,1,Mark Sanford,Unopposed,0,1,1,0,0
+426,SC_gov_2006,SC_gov,SC_2006,South_Carolina,SC,2006,1,Mark Sanford,Tommy Moore,1,0,0,1,0
+427,SC_gov_2010,SC_gov,SC_2010,South_Carolina,SC,2010,1,Nikki Haley,nVincent Sheheen  D,1,0,0,0,0
+428,SC_gov_2014,SC_gov,SC_2014,South_Carolina,SC,2014,1,Nikki Haley  R    Vincent Sheheen  D    Steve French  L    Morgan Reeves  United Citizens   Tom Ervin  I,Unopposed,1,0,1,1,0
+429,SD_gov_1978,SD_gov,SD_1978,South_Dakota,SD,1978,1,Bill Janklow,Roger D  McKellips,0,1,0,0,0
+430,SD_gov_1982,SD_gov,SD_1982,South_Dakota,SD,1982,0,Mike O Connor,Unopposed,1,0,1,0,0
+431,SD_gov_1986,SD_gov,SD_1986,South_Dakota,SD,1986,1,George S  Mickelson,Lars Herseth,1,0,0,0,0
+432,SD_gov_1990,SD_gov,SD_1990,South_Dakota,SD,1990,0,Bob L  Samuelson,Unopposed,1,0,1,0,0
+433,SD_gov_1994,SD_gov,SD_1994,South_Dakota,SD,1994,1,Bill Janklow,Jim Beddow,1,0,0,0,0
+434,SD_gov_1998,SD_gov,SD_1998,South_Dakota,SD,1998,0,Bernie Hunhoff,Bob Newland,1,0,0,0,0
+435,SD_gov_2002,SD_gov,SD_2002,South_Dakota,SD,2002,1,Mike Rounds,Jim Abbott,1,0,0,0,0
+436,SD_gov_2006,SD_gov,SD_2006,South_Dakota,SD,2006,1,Mike Rounds,Jack Billion,1,0,0,1,0
+437,SD_gov_2010,SD_gov,SD_2010,South_Dakota,SD,2010,1,Dennis Daugaard,nScott Heidepriem  D,1,0,0,0,0
+438,SD_gov_2014,SD_gov,SD_2014,South_Dakota,SD,2014,1,Dennis Daugaard  R  Susan Wismer  D    Mike Myers  I  ,Unopposed,1,0,1,1,0
+439,TN_gov_1978,TN_gov,TN_1978,Tennessee,TN,1978,1,Lamar Alexander,Jake Butcher,0,1,0,0,0
+440,TN_gov_1982,TN_gov,TN_1982,Tennessee,TN,1982,0,Randy Tyree,Unopposed,1,0,1,0,0
+441,TN_gov_1986,TN_gov,TN_1986,Tennessee,TN,1986,0,Ned McWherter,Winfield Dunn,1,0,0,0,0
+442,TN_gov_1990,TN_gov,TN_1990,Tennessee,TN,1990,1,Dwight Henry,W  Curtis Jacox,0,1,0,0,0
+443,TN_gov_1994,TN_gov,TN_1994,Tennessee,TN,1994,1,Don Sundquist,Phil Bredesen,0,1,0,0,0
+444,TN_gov_1998,TN_gov,TN_1998,Tennessee,TN,1998,0,John Jay Hooker,George Hamilton,1,0,0,0,0
+445,TN_gov_2002,TN_gov,TN_2002,Tennessee,TN,2002,0,Phil Bredesen,Van Hilleary,1,0,0,0,0
+446,TN_gov_2006,TN_gov,TN_2006,Tennessee,TN,2006,0,Phil Bredesen,Jim Bryson,0,1,0,0,1
+447,TN_gov_2010,TN_gov,TN_2010,Tennessee,TN,2010,1,Bill Haslam,nMike McWherter  D,0,1,0,0,0
+448,TN_gov_2014,TN_gov,TN_2014,Tennessee,TN,2014,1,Bill Haslam,Charlie Brown  D,1,0,0,1,0
+449,TX_gov_1978,TX_gov,TX_1978,Texas,TX,1978,1,Bill Clements,John Hill,0,1,0,0,0
+450,TX_gov_1982,TX_gov,TX_1982,Texas,TX,1982,0,Mark White,David Hutzelman,1,0,0,0,0
+451,TX_gov_1986,TX_gov,TX_1986,Texas,TX,1986,1,Bill Clements,Theresa S  Doyle,0,1,0,0,0
+452,TX_gov_1990,TX_gov,TX_1990,Texas,TX,1990,0,Ann Richards,Clayton Williams,1,0,0,0,0
+453,TX_gov_1994,TX_gov,TX_1994,Texas,TX,1994,1,George W  Bush,Keary Ehlers,0,1,0,0,0
+454,TX_gov_1998,TX_gov,TX_1998,Texas,TX,1998,0,Garry Mauro,Lester Turlington,1,0,0,0,0
+455,TX_gov_2002,TX_gov,TX_2002,Texas,TX,2002,0,Tony Sanchez,Jeff Daiell,1,0,0,0,0
+456,TX_gov_2006,TX_gov,TX_2006,Texas,TX,2006,1,Rick Perry,Chris Bell,1,0,0,1,0
+457,TX_gov_2010,TX_gov,TX_2010,Texas,TX,2010,0,Bill White,nKathie Glas  L  n n,1,0,0,0,0
+458,TX_gov_2014,TX_gov,TX_2014,Texas,TX,2014,1,Greg Abbott  R    Wendy Davis  D    Brandon Parmer  Green     Kathie Glass  L  ,Unopposed,1,0,1,0,0
+459,UT_gov_1976,UT_gov,UT_1976,Utah,UT,1976,0,Scott M  Matheson,Vernon B  Romney,0,1,0,0,0
+460,UT_gov_1980,UT_gov,UT_1980,Utah,UT,1980,1,Bob Wright,Lawrence Rey Topham,0,1,0,0,0
+461,UT_gov_1984,UT_gov,UT_1984,Utah,UT,1984,1,Norman H  Bangerter,Wayne Owens,0,1,0,0,0
+462,UT_gov_1988,UT_gov,UT_1988,Utah,UT,1988,0,Ted Wilson,Merrill Cook,1,0,0,0,0
+463,UT_gov_1992,UT_gov,UT_1992,Utah,UT,1992,1,Mike Leavitt,Merrill Cook,1,0,0,0,0
+464,UT_gov_1996,UT_gov,UT_1996,Utah,UT,1996,0,James Bradley ,Ken Larsen ,1,0,0,0,0
+465,UT_gov_2000,UT_gov,UT_2000,Utah,UT,2000,0,Bill Orton,Jeremy Friedbaum ,1,0,0,0,0
+466,UT_gov_2004,UT_gov,UT_2004,Utah,UT,2004,1,Jon Huntsman,Scott Matheson,1,0,0,0,0
+467,UT_gov_2008,UT_gov,UT_2008,Utah,UT,2008,0,Bob Springmeyer,Dell Schanze,1,0,0,0,0
+468,UT_gov_2010,UT_gov,UT_2010,Utah,UT,2010,0,Peter Corroon,nW  Andrew McCullough  L,1,0,0,0,0
+469,UT_gov_2012,UT_gov,UT_2012,Utah,UT,2012,0,Peter Cooke,Ken Larsen,1,0,0,0,0
+470,UT_gov_2016,UT_gov,UT_2016,Utah,UT,2016,1,Gary Herbert  Republican   Mike Weinholtz  Democratic   Brian Kamerath  Libertarian  ,Unopposed,1,0,1,1,0
+471,VT_gov_1976,VT_gov,VT_1976,Vermont,VT,1976,1,Richard A  Snelling,Stella Hackel,0,1,0,0,0
+472,VT_gov_1978,VT_gov,VT_1978,Vermont,VT,1978,0,Edwin C  Granai,Earl S  Gardner ,1,0,0,0,0
+473,VT_gov_1980,VT_gov,VT_1980,Vermont,VT,1980,0,M  Jerome Diamond,Daniel E  Woodward,1,0,0,0,0
+474,VT_gov_1982,VT_gov,VT_1982,Vermont,VT,1982,0,Madeleine M  Kunin,Richard Gottlieb ,1,0,0,0,0
+475,VT_gov_1984,VT_gov,VT_1984,Vermont,VT,1984,0,Madeleine M  Kunin,John J,1,0,0,0,0
+476,VT_gov_1986,VT_gov,VT_1986,Vermont,VT,1986,1,Peter P  Smith,Bernie Sanders,0,1,0,0,0
+477,VT_gov_1988,VT_gov,VT_1988,Vermont,VT,1988,1,Michael Bernhardt,Richard Gottlieb ,0,1,0,0,0
+478,VT_gov_1990,VT_gov,VT_1990,Vermont,VT,1990,1,Richard A  Snelling,Peter Welch,0,1,0,0,0
+479,VT_gov_1992,VT_gov,VT_1992,Vermont,VT,1992,1,John McClaughry,Richard Gottlieb ,0,1,0,0,0
+480,VT_gov_1994,VT_gov,VT_1994,Vermont,VT,1994,1,David F  Kelley,Thomas Morse,0,1,0,0,0
+481,VT_gov_1996,VT_gov,VT_1996,Vermont,VT,1996,1,John Gropper,Mal Herbert ,0,1,0,0,0
+482,VT_gov_1998,VT_gov,VT_1998,Vermont,VT,1998,1,Ruth Dwyer,Joel Williams,0,1,0,0,0
+483,VT_gov_2000,VT_gov,VT_2000,Vermont,VT,2000,1,Ruth Dwyer,Anthony Pollina,0,1,0,0,0
+484,VT_gov_2002,VT_gov,VT_2002,Vermont,VT,2002,1,Jim Douglas,Doug Racine,0,1,0,0,0
+485,VT_gov_2004,VT_gov,VT_2004,Vermont,VT,2004,0,Peter Clavelle,Cris Ericson,1,0,0,0,0
+486,VT_gov_2006,VT_gov,VT_2006,Vermont,VT,2006,1,Jim Douglas,Scudder Parker,1,0,0,1,0
+487,VT_gov_2008,VT_gov,VT_2008,Vermont,VT,2008,0,Anthony Pollina,Gaye Symington,1,0,0,0,0
+488,VT_gov_2010,VT_gov,VT_2010,Vermont,VT,2010,0,Peter Shumlin,nBrian Dubie  R,1,0,0,0,0
+489,VT_gov_2012,VT_gov,VT_2012,Vermont,VT,2012,1,Randy Brock,Emily Peyton,0,1,0,0,0
+490,VT_gov_2014,VT_gov,VT_2014,Vermont,VT,2014,0,Peter Shumlin,Scott Milne  R,0,1,0,0,1
+491,VT_gov_2016,VT_gov,VT_2016,Vermont,VT,2016,1,Phil Scott  Republican   Sue Minter  Democratic    Bill  Spaceman  Lee  Liberty Union,Unopposed,0,1,1,0,0
+492,VA_gov_1977,VA_gov,VA_1977,Virginia,VA,1977,1,John N  Dalton,Henry Howell,1,0,0,0,0
+493,VA_gov_1981,VA_gov,VA_1981,Virginia,VA,1981,0,Chuck Robb,Marshall Coleman,1,0,0,0,0
+494,VA_gov_1985,VA_gov,VA_1985,Virginia,VA,1985,0,Gerald L  Baliles,Wyatt B,0,1,0,0,0
+495,VA_gov_1989,VA_gov,VA_1989,Virginia,VA,1989,0,Douglas Wilder,Marshall Coleman,0,1,0,0,0
+496,VA_gov_1993,VA_gov,VA_1993,Virginia,VA,1993,1,George Allen,Mary Sue Terry,0,1,0,0,0
+497,VA_gov_1997,VA_gov,VA_1997,Virginia,VA,1997,1,Jim Gilmore,Don Beyer,1,0,0,0,0
+498,VA_gov_2001,VA_gov,VA_2001,Virginia,VA,2001,0,Mark Warner,Mark Earley,1,0,0,0,0
+499,VA_gov_2005,VA_gov,VA_2005,Virginia,VA,2005,0,Tim Kaine,Jerry Kilgore,0,1,0,0,0
+500,VA_gov_2009,VA_gov,VA_2009,Virginia,VA,2009,1,Bob McDonnell,Creigh Deeds,0,1,0,0,0
+501,VA_gov_2013,VA_gov,VA_2013,Virginia,VA,2013,0,Terry McAuliffe,Ken Cuccinelli,1,0,0,0,0
+502,VA_gov_2017,VA_gov,VA_2017,Virginia,VA,2017,0,Ralph Northam,Ed Gillespie,0,1,0,0,0
+503,WA_gov_1976,WA_gov,WA_1976,Washington,WA,1976,0,Dixy Lee Ray,John Spellman,1,0,0,0,0
+504,WA_gov_1980,WA_gov,WA_1980,Washington,WA,1980,1,John Spellman,Jim McDermott,0,1,0,0,0
+505,WA_gov_1984,WA_gov,WA_1984,Washington,WA,1984,0,Booth Gardner,Unopposed,1,0,1,0,0
+506,WA_gov_1988,WA_gov,WA_1988,Washington,WA,1988,1,Robert Williams,Unopposed,0,1,1,0,0
+507,WA_gov_1992,WA_gov,WA_1992,Washington,WA,1992,0,Mike Lowry,Ken Eikenberry,0,1,0,0,0
+508,WA_gov_1996,WA_gov,WA_1996,Washington,WA,1996,0,Gary Locke,Ellen Craswell,0,1,0,0,0
+509,WA_gov_2000,WA_gov,WA_2000,Washington,WA,2000,1,John Carlson,Steve LePage,0,1,0,0,0
+510,WA_gov_2004,WA_gov,WA_2004,Washington,WA,2004,0,Christine Gregoire,Dino Rossi,0,1,0,0,0
+511,WA_gov_2008,WA_gov,WA_2008,Washington,WA,2008,1,Dino Rossi,Unopposed,0,1,1,0,0
+512,WA_gov_2012,WA_gov,WA_2012,Washington,WA,2012,0,Jay Inslee,Rob McKenna,0,1,0,0,0
+513,WA_gov_2016,WA_gov,WA_2016,Washington,WA,2016,0,Jay Inslee  Democratic   Bill Bryant  Republican  ,Unopposed,0,1,1,0,1
+514,WV_gov_2011,WV_gov,WV_2011,West Virginia (special election,WV,2011,0,Earl Ray Tomblin,Bill Maloney  R,0,1,0,0,0
+515,WV_gov_1976,WV_gov,WV_1976,West_Virginia,WV,1976,0,Jay Rockefeller,Cecil H  Underwood,1,0,0,0,0
+516,WV_gov_1980,WV_gov,WV_1980,West_Virginia,WV,1980,1,Arch A  Moore Jr ,Jack Kelley,0,1,0,0,0
+517,WV_gov_1984,WV_gov,WV_1984,West_Virginia,WV,1984,1,Arch A  Moore Jr ,Clyde M,0,1,0,0,0
+518,WV_gov_1988,WV_gov,WV_1988,West_Virginia,WV,1988,0,Gaston Caperton,Unopposed,1,0,1,0,0
+519,WV_gov_1992,WV_gov,WV_1992,West_Virginia,WV,1992,1,Cleve Benedict,Charlotte Pritt ,0,1,0,0,0
+520,WV_gov_1996,WV_gov,WV_1996,West_Virginia,WV,1996,1,Cecil Underwood,Charlotte Pritt,0,1,0,0,0
+521,WV_gov_2000,WV_gov,WV_2000,West_Virginia,WV,2000,0,Bob Wise,Denise Giardina,1,0,0,0,0
+522,WV_gov_2004,WV_gov,WV_2004,West_Virginia,WV,2004,0,Joe Manchin,Monty Warner,0,1,0,0,0
+523,WV_gov_2008,WV_gov,WV_2008,West_Virginia,WV,2008,1,Russ Weeks,Jesse Johnson,0,1,0,0,0
+524,WV_gov_2012,WV_gov,WV_2012,West_Virginia,WV,2012,1,Bill Maloney,Jesse Johnson,0,1,0,0,0
+525,WV_gov_2016,WV_gov,WV_2016,West_Virginia,WV,2016,0,Jim Justice  Democratic   Bill Cole  Republican   David Moran  Libertarian   Charlotte Pritt  Green  ,Unopposed,0,1,1,0,0
+526,WI_gov_1978,WI_gov,WI_1978,Wisconsin,WI,1978,1,Lee S  Dreyfus,Eugene R  Zimmerman,0,1,0,0,0
+527,WI_gov_1982,WI_gov,WI_1982,Wisconsin,WI,1982,0,Tony Earl,Terry Kohler,1,0,0,0,0
+528,WI_gov_1986,WI_gov,WI_1986,Wisconsin,WI,1986,1,Tommy Thompson,Kathryn Christenson  Labor,0,1,0,0,0
+529,WI_gov_1990,WI_gov,WI_1990,Wisconsin,WI,1990,0,Tom Loftus,Unopposed,1,0,1,0,0
+530,WI_gov_1994,WI_gov,WI_1994,Wisconsin,WI,1994,0,Chuck Chvala,David Harmon,1,0,0,0,0
+531,WI_gov_1998,WI_gov,WI_1998,Wisconsin,WI,1998,0,Ed Garvey,Jim Mueller,1,0,0,0,0
+532,WI_gov_2002,WI_gov,WI_2002,Wisconsin,WI,2002,0,Jim Doyle,Ed Thompson,1,0,0,0,0
+533,WI_gov_2006,WI_gov,WI_2006,Wisconsin,WI,2006,0,Jim Doyle,Mark Green,0,1,0,0,1
+534,WI_gov_2010,WI_gov,WI_2010,Wisconsin,WI,2010,1,Scott Walker,nTom Barrett  D,0,1,0,0,0
+535,WI_gov_2012,WI_gov,WI_2012,Wisconsin,WI,2012,0,Tom Barrett,Unopposed,1,0,1,0,0
+536,WI_gov_2014,WI_gov,WI_2014,Wisconsin,WI,2014,1,Scott Walker,Mary Burke  D,1,0,0,1,0
+537,WY_gov_1978,WY_gov,WY_1978,Wyoming,WY,1978,1,John C  Ostlund,Unopposed,0,1,1,0,0
+538,WY_gov_1982,WY_gov,WY_1982,Wyoming,WY,1982,1,Warren A  Morton,Unopposed,0,1,1,0,0
+539,WY_gov_1986,WY_gov,WY_1986,Wyoming,WY,1986,0,Mike Sullivan  Wyoming ,Pete Simpson,0,1,0,0,0
+540,WY_gov_1990,WY_gov,WY_1990,Wyoming,WY,1990,1,Mary Mead,Unopposed,0,1,1,0,0
+541,WY_gov_1994,WY_gov,WY_1994,Wyoming,WY,1994,1,Jim Geringer,Kathy Karpan,0,1,0,0,0
+542,WY_gov_1998,WY_gov,WY_1998,Wyoming,WY,1998,0,John Vinich,Dave Dawson,1,0,0,0,0
+543,WY_gov_2002,WY_gov,WY_2002,Wyoming,WY,2002,0,Dave Freudenthal,Eli Bebout,1,0,0,0,0
+544,WY_gov_2006,WY_gov,WY_2006,Wyoming,WY,2006,0,Dave Freudenthal,Ray Hunkins,0,1,0,0,1
+545,WY_gov_2010,WY_gov,WY_2010,Wyoming,WY,2010,1,Matt Mead,nLeslie Petersen  D,0,1,0,0,0
+546,WY_gov_2014,WY_gov,WY_2014,Wyoming,WY,2014,1,Matt Mead,Pete Gosar  D,1,0,0,1,0

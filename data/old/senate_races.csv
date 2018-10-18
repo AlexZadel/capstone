@@ -1,0 +1,1791 @@
+race_id,candidates,inc,inc_party,inc_R,state,abbrev,winner,year
+NY_sen_1976,"['√ Daniel P. Moynihan (Democratic) 54.2', 'James L. Buckley (Republican) 44.9', '\n']","James L. Buckley",I,0,New_York,NY,√ Daniel P. Moynihan (Democratic) 54.2,1976
+MN_sen_1996,"['√ Paul Wellstone (Democratic (DFL)) 50.3', 'Rudy Boschwitz (Republican) 41.3', 'Dean Barkley (Reform) 7', 'Tim Davis (Grass Roots) 0.6', 'Roy Ezra Carlton (Libertarian) 0.2', 'Steve Johnson (Natural Law) 0.2', 'Thomas A. Fiske (Socialist Workers) 0.1', '\n']","Paul Wellstone
+",I,0,Minnesota,MN,√ Paul Wellstone (Democratic (DFL)) 50.3,1996
+AL_sen_1978,"['√ Howell Heflin (Democratic) 94.0', 'Jerome B. Couch (Prohibition) 6.0', '\n']","John Sparkman
+",D,0,Alabama,AL,√ Howell Heflin (Democratic) 94.0,1978
+AL_sen_1980,"['√ Jeremiah Denton (Republican) 50.2', 'Jim Folsom Jr. (Democratic) 47.1', '\n']","Donald W. Stewart
+",D,0,Alabama,AL,√ Jeremiah Denton (Republican) 50.2,1980
+AL_sen_1984,"['√ Howell Heflin (Democratic) 62.7', 'Albert L. Smith Jr. (Republican) 36.4', 'Yana Davis (Libertarian) 0.9', '\n']","Howell Heflin
+",D,0,Alabama,AL,√ Howell Heflin (Democratic) 62.7,1984
+AL_sen_1984,"['√ Howell Heflin (Democratic) 62.7', 'Albert L. Smith Jr. (Republican) 36.4', 'Yana Davis (Libertarian) 0.9', '\n']","Howell Heflin
+",D,0,Alabama,AL,√ Howell Heflin (Democratic) 62.7,1984
+AL_sen_1990,"['√ Howell Heflin (Democratic) 60.7', 'William J. Cabaniss (Republican) 39.3', '\n']","Howell Heflin
+",D,0,Alabama,AL,√ Howell Heflin (Democratic) 60.7,1990
+AL_sen_1992,"['√ Richard Shelby (Democratic) 64.8', 'Richard Sellars (Republican) 33.1', 'Jerome Shockley (Libertarian) 2.0', '\n']","Richard Shelby
+",D,0,Alabama,AL,√ Richard Shelby (Democratic) 64.8,1992
+AL_sen_1996,"['√ Jeff Sessions (Republican) 52.5', 'Roger Bedford (Democratic) 45.5', 'Mark Thornton (Libertarian) 1.4', 'Charles R. Hebner (Natural Law) 0.6', '\n']","Howell Heflin
+",D,0,Alabama,AL,√ Jeff Sessions (Republican) 52.5,1996
+AL_sen_1978,"['√ Donald W. Stewart (Democratic) 55.1', 'James D. Martin (Republican) 43.3', 'Michael R. A. Erdey (Libertarian) 0.8', 'A. J. Killingsworth (Prohibition) 0.8', '\n']","Maryon Pittman Allen
+",D,0,Alabama,AL,√ Donald W. Stewart (Democratic) 55.1,1978
+AK_sen_1980,"['√ Frank Murkowski (Republican) 53.7', 'Clark Gruening (Democratic) 45.9', '\n']","Mike Gravel
+",D,0,Alaska,AK,√ Frank Murkowski (Republican) 53.7,1980
+AK_sen_2014,"['√ Dan Sullivan (Republican) 48.0', '[27]Mark Begich (Democratic) 45.8', '[28]Mark Fish (Libertarian) 3.7', '[29]Ted Gianoutsos (Independent) 2.0', '[30]\n']","Mark Begich
+",D,0,Alaska,AK,√ Dan Sullivan (Republican) 48.0,2014
+AZ_sen_1982,"['√ Dennis DeConcini (Democratic) 56.9', 'Pete Dunn (Republican) 40.3', 'Randall Clamons (Libertarian) 2.8', '\n']","Dennis DeConcini
+",D,0,Arizona,AZ,√ Dennis DeConcini (Democratic) 56.9,1982
+AZ_sen_1982,"['√ Dennis DeConcini (Democratic) 56.9', 'Pete Dunn (Republican) 40.3', 'Randall Clamons (Libertarian) 2.8', '\n']","Dennis DeConcini
+",D,0,Arizona,AZ,√ Dennis DeConcini (Democratic) 56.9,1982
+AZ_sen_1988,"['√ Dennis DeConcini (Democratic) 56.7', 'Keith DeGreen (Republican) 41.1', 'Rich Tompkins (Libertarian) 1.8', '\n']","Dennis DeConcini
+",D,0,Arizona,AZ,√ Dennis DeConcini (Democratic) 56.7,1988
+AZ_sen_1994,"['√ Jon Kyl (Republican) 53.7', 'Sam Coppersmith (Democratic) 39.5', 'Scott Grainger (Libertarian) 6.8', '\n']","Dennis DeConcini
+",D,0,Arizona,AZ,√ Jon Kyl (Republican) 53.7,1994
+AR_sen_1978,"['√ David Pryor (Democratic) 76.5', 'Tom Kelly (Republican) 16.3', 'John J. Black (Independent) 7.2', '\n']","Kaneaster Hodges, Jr.
+",D,0,Arkansas,AR,√ David Pryor (Democratic) 76.5,1978
+AR_sen_1980,"['√ Dale Bumpers (Democratic) 59.1', 'William Clark (Republican) 40.9', '\n']","Dale Bumpers
+",D,0,Arkansas,AR,√ Dale Bumpers (Democratic) 59.1,1980
+AR_sen_1984,"['√ David Pryor (Democratic) 57.3', 'Ed Bethune (Republican) 42.7', '\n']","David Pryor
+",D,0,Arkansas,AR,√ David Pryor (Democratic) 57.3,1984
+AR_sen_1986,"['√ Dale Bumpers (Democratic) 62.9', 'Asa Hutchinson (Republican) 37.1', '\n']","Dale Bumpers
+",D,0,Arkansas,AR,√ Dale Bumpers (Democratic) 62.9,1986
+AR_sen_1984,"['√ David Pryor (Democratic) 57.3', 'Ed Bethune (Republican) 42.7', '\n']","David Pryor
+",D,0,Arkansas,AR,√ David Pryor (Democratic) 57.3,1984
+AR_sen_1986,"['√ Dale Bumpers (Democratic) 62.9', 'Asa Hutchinson (Republican) 37.1', '\n']","Dale Bumpers
+",D,0,Arkansas,AR,√ Dale Bumpers (Democratic) 62.9,1986
+AR_sen_1986,"['√ Dale Bumpers (Democratic) 62.9', 'Asa Hutchinson (Republican) 37.1', '\n']","Dale Bumpers
+",D,0,Arkansas,AR,√ Dale Bumpers (Democratic) 62.9,1986
+AR_sen_1990,['√ David Pryor (Democratic)Unopposed\n'],"David Pryor
+",D,0,Arkansas,AR,"√ David Pryor (Democratic)Unopposed
+",1990
+AR_sen_1992,"['√ Dale Bumpers (Democratic) 60.2', 'Mike Huckabee (Republican) 39.8', '\n']","Dale Bumpers
+",D,0,Arkansas,AR,√ Dale Bumpers (Democratic) 60.2,1992
+AR_sen_1996,"['√ Tim Hutchinson (Republican) 52.7', 'Winston Bryant (Democratic) 47.3', '\n']","David Pryor
+",D,0,Arkansas,AR,√ Tim Hutchinson (Republican) 52.7,1996
+AR_sen_1998,"['√ Blanche Lincoln (Democratic) 55.1', ' Fay Boozman (Republican) 42.2', ' Charley E. Heffley (Reform) 2.7', '\n']","Dale Bumpers
+",D,0,Arkansas,AR,√ Blanche Lincoln (Democratic) 55.1,1998
+AR_sen_2004,"['√ Blanche Lincoln (Democratic) 56', 'Jim Holt (Republican) 44', '\n']","Blanche Lincoln
+",D,0,Arkansas,AR,√ Blanche Lincoln (Democratic) 56,2004
+AR_sen_2002,"['√ Mark Pryor (Democratic) 79.5', 'Rebekah Kennedy (Green)  20.5', '\n']","Mark Pryor
+",D,0,Arkansas,AR,√ Mark Pryor (Democratic) 79.5,2002
+AR_sen_2010,"['√ John Boozman (Republican) 58.0', 'Blanche Lincoln (Democratic) 36.9', 'Trevor Drown (Independent) 3.3', 'John Gray (Green) 1.9', '\n']","Blanche Lincoln
+",D,0,Arkansas,AR,√ John Boozman (Republican) 58.0,2010
+AR_sen_2014,"['√ Tom Cotton (Republican) 56.5', '[31]Mark Pryor (Democratic) 39.4', '[32]Nathan LaFrance (Libertarian) 2.0', '[33][34]Mark Swaney (Green) 2.0', '[35]\n']","Mark Pryor
+",D,0,Arkansas,AR,√ Tom Cotton (Republican) 56.5,2014
+CA_sen_1976,"['√ S. I. Hayakawa (Republican) 50.2', 'John V. Tunney (Democratic) 46.9', '\n']","John V. Tunney
+",D,0,California,CA,√ S. I. Hayakawa (Republican) 50.2,1976
+CA_sen_1980,"['√ Alan Cranston (Democratic) 56.5', 'Paul Gann (Republican) 37.1', 'David Bergland (Libertarian) 2.4', 'David Wald (Peace & Freedom) 2.4', 'Jim Griffin (American Ind.) 1.6', '\n']","Alan Cranston
+",D,0,California,CA,√ Alan Cranston (Democratic) 56.5,1980
+CA_sen_1986,"['√ Alan Cranston (Democratic) 49.3', 'Ed Zschau (Republican) 47.8', 'Breck McKinley (Libertarian) 1.5', 'Edward B. Vallen (American Ind.) 0.9', 'Andrew R. Kangas (Peace & Freedom) 0.5', '\n']","Alan Cranston
+",D,0,California,CA,√ Alan Cranston (Democratic) 49.3,1986
+CA_sen_1986,"['√ Alan Cranston (Democratic) 49.3', 'Ed Zschau (Republican) 47.8', 'Breck McKinley (Libertarian) 1.5', 'Edward B. Vallen (American Ind.) 0.9', 'Andrew R. Kangas (Peace & Freedom) 0.5', '\n']","Alan Cranston
+",D,0,California,CA,√ Alan Cranston (Democratic) 49.3,1986
+CA_sen_1986,"['√ Alan Cranston (Democratic) 49.3', 'Ed Zschau (Republican) 47.8', 'Breck McKinley (Libertarian) 1.5', 'Edward B. Vallen (American Ind.) 0.9', 'Andrew R. Kangas (Peace & Freedom) 0.5', '\n']","Alan Cranston
+",D,0,California,CA,√ Alan Cranston (Democratic) 49.3,1986
+CA_sen_1992,"['√ Barbara Boxer (Democratic) 47.9', 'Bruce Herschensohn (Republican) 43.0', 'Jerome McCready (American Ind.) 3.5', 'Genevieve Torres (Peace & Freedom) 3.5', 'June R. Genis (Libertarian) 2.2', '\n']","Alan Cranston
+",D,0,California,CA,√ Barbara Boxer (Democratic) 47.9,1992
+CA_sen_1994,"['√ Dianne Feinstein (Democratic) 46.7', 'Michael Huffington (Republican) 44.8', 'Elizabeth Barron (Peace and Freedom) 3', 'Richard Boddie (Libertarian) 2.1', 'Paul Meeuwenberg (AIP) 1.7', 'Barbara Blong (Green) 1.7', '\n']","Dianne Feinstein
+",D,0,California,CA,√ Dianne Feinstein (Democratic) 46.7,1994
+CA_sen_1998,"['√ Barbara Boxer (Democratic) 53', 'Matt Fong (Republican) 43', 'Ted Brown (Libertarian) 1.1', 'Timothy R. Erich (Reform) 1', 'H. Joseph Perrin, Sr. (American Independent) 0.7', 'Ophie C. Beltran (Peace & Freedom) 0.6', ' Brian M. Rees (Natural Law) 0.6', '\n']","Barbara Boxer
+",D,0,California,CA,√ Barbara Boxer (Democratic) 53,1998
+CA_sen_2000,"['√ Dianne Feinstein (Democratic) 55.8', 'Tom Campbell (Republican) 36.6', 'Medea Benjamin (Green) 3.1', 'Gail Lightfoot (Libertarian) 1.8', 'Diane Beall Templin (American Independent) 1.3', 'Jose Camahort (Reform) 0.9', 'Brian M. Rees (Natural Law) 0.6', '\n']","Dianne Feinstein
+",D,0,California,CA,√ Dianne Feinstein (Democratic) 55.8,2000
+CA_sen_2004,"['√ Barbara Boxer (Democratic) 57.7', 'Bill Jones (Republican) 37.8', 'Marsha Feinland (Peace and Freedom) 2', 'James P. Gray (Libertarian) 1.8', 'Don J. Grundmann (Constitution) 0.7', '\n']","Barbara Boxer
+",D,0,California,CA,√ Barbara Boxer (Democratic) 57.7,2004
+CA_sen_2006,"['√ Dianne Feinstein (Democratic) 59.4', 'Dick Mountjoy (Republican) 35.2', 'Don Grundmann (American Independent) 1.8', 'Todd Chretien (Green) 1.7', 'Michael Metti (Libertarian) 1.6', 'Marsha Feinland (Peace and Freedom) 1.3', '\n']","Dianne Feinstein
+",D,0,California,CA,√ Dianne Feinstein (Democratic) 59.4,2006
+CA_sen_2010,"['√ Barbara Boxer (Democratic) 52.1', 'Carly Fiorina (Republican) 42.5', 'Gail Lightfoot (Libertarian) 1.8', 'Marsha Feinland (P&F) 1.3', 'Edward Noonan (AIP) 1.3', 'Duane Roberts (G) 1.2', '\n']","Barbara Boxer
+",D,0,California,CA,√ Barbara Boxer (Democratic) 52.1,2010
+CA_sen_2012,"['√ Dianne Feinstein (Democratic) 62.5', 'Elizabeth Emken (Republican) 37.5', '[8]\n']","Dianne Feinstein
+",D,0,California,CA,√ Dianne Feinstein (Democratic) 62.5,2012
+CA_sen_2016,"['√ Kamala Harris (Democratic)[31] 61.8', 'Loretta Sanchez (Democratic)[32] 38.2', '\n']","Barbara Boxer
+",D,0,California,CA,√ Kamala Harris (Democratic)[31] 61.8,2016
+CO_sen_1978,"['√ William L. Armstrong (Republican) 58.7', 'Floyd K. Haskell (Democratic) 40.3', 'Vedder V. Dorn (United States Party) 0.7', 'John Shue (National Statesman) 0.3', '\n']","Floyd K. Haskell
+",D,0,Colorado,CO,√ William L. Armstrong (Republican) 58.7,1978
+CO_sen_1980,"['√ Gary Hart (Democratic) 50.3', 'Mary E. Buchanan (Republican) 48.7', 'Earl Higgerson (Statesman) 0.6', 'Henry John Olshaw (Unaffiliated-American) 0.4', '\n']","Gary Hart
+",D,0,Colorado,CO,√ Gary Hart (Democratic) 50.3,1980
+CO_sen_1986,"['√ Tim Wirth (Democratic) 49.9', 'Ken Kramer (Republican) 48.4', 'Michael Bush (Independent) 1.0', 'Michael Chamberlain (Socialist Workers) 0.4', 'Henry Olshaw (Unaffiliated American) 0.2', 'Calvin Dodge (Prohibition) 0.1', '\n']","Gary Hart
+",D,0,Colorado,CO,√ Tim Wirth (Democratic) 49.9,1986
+CO_sen_1986,"['√ Tim Wirth (Democratic) 49.9', 'Ken Kramer (Republican) 48.4', 'Michael Bush (Independent) 1.0', 'Michael Chamberlain (Socialist Workers) 0.4', 'Henry Olshaw (Unaffiliated American) 0.2', 'Calvin Dodge (Prohibition) 0.1', '\n']","Gary Hart
+",D,0,Colorado,CO,√ Tim Wirth (Democratic) 49.9,1986
+CO_sen_1986,"['√ Tim Wirth (Democratic) 49.9', 'Ken Kramer (Republican) 48.4', 'Michael Bush (Independent) 1.0', 'Michael Chamberlain (Socialist Workers) 0.4', 'Henry Olshaw (Unaffiliated American) 0.2', 'Calvin Dodge (Prohibition) 0.1', '\n']","Gary Hart
+",D,0,Colorado,CO,√ Tim Wirth (Democratic) 49.9,1986
+CO_sen_1992,"['√ Ben Nighthorse Campbell (Democratic) 51.8', 'Terry Considine (Republican) 42.7', 'Richard Grimes (Independent) 2.7', 'Matt Noah (Christian Pro-Life) 1.5', 'Dan Winters (Independent) 1.3', '\n']","Tim Wirth
+",D,0,Colorado,CO,√ Ben Nighthorse Campbell (Democratic) 51.8,1992
+CO_sen_2010,"['√ Michael Bennet (Democratic) 48.1', 'Ken Buck (Republican) 46.3', 'Bob Kinsey (Green) 2.2', 'Maclyn Stringer (Libertarian) 1.3', '\n']","Michael Bennet
+",D,0,Colorado,CO,√ Michael Bennet (Democratic) 48.1,2010
+CO_sen_2014,"['√ Cory Gardner (Republican) 48.2', '[36][37][38]Mark Udall (Democratic) 46.3', '[39]Gaylon Kent (Libertarian) 2.6', '[40]Stephen H. Shogan (Independent) 1.4', '[41]Raúl Acosta (Independent) 1.2', ' Bill Hammons (Unity) 0.3', '[42]\n']","Mark Udall
+",D,0,Colorado,CO,√ Cory Gardner (Republican) 48.2,2014
+CO_sen_2016,"['√ Michael Bennet (Democratic)[33] 50.0', 'Darryl Glenn (Republican)[34] 44.3', 'Lily Tang Williams (Libertarian)[35] 3.6Arn Menconi (Green)[36] 1.3\n']","Michael Bennet
+",D,0,Colorado,CO,√ Michael Bennet (Democratic)[33] 50.0,2016
+CT_sen_1980,"['√ Chris Dodd (Democratic) 56.3', 'James L. Buckley (Republican) 42.9', 'Jerry Brennan (Libertarian) 0.4', 'Andrew J. Zemel (Concerned Citizens) 0.4', '\n']","Abraham A. Ribicoff
+",D,0,Connecticut,CT,√ Chris Dodd (Democratic) 56.3,1980
+CT_sen_1986,"['√ Chris Dodd (Democratic) 64.8', 'Roger W. Eddy (Republican) 34.8', 'Edward McCallum (Independent) 0.4', '\n']","Chris Dodd
+",D,0,Connecticut,CT,√ Chris Dodd (Democratic) 64.8,1986
+CT_sen_1986,"['√ Chris Dodd (Democratic) 64.8', 'Roger W. Eddy (Republican) 34.8', 'Edward McCallum (Independent) 0.4', '\n']","Chris Dodd
+",D,0,Connecticut,CT,√ Chris Dodd (Democratic) 64.8,1986
+CT_sen_1986,"['√ Chris Dodd (Democratic) 64.8', 'Roger W. Eddy (Republican) 34.8', 'Edward McCallum (Independent) 0.4', '\n']","Chris Dodd
+",D,0,Connecticut,CT,√ Chris Dodd (Democratic) 64.8,1986
+CT_sen_1992,"['√ Christopher Dodd (Democratic) 58.8', 'Brook Johnson (Republican) 38.1', 'Richard D. Gregory (Concerned Citizens) 2.4', 'Howard A. Grayson, Jr. (Libertarian) 0.7', '\n']","Chris Dodd
+",D,0,Connecticut,CT,√ Christopher Dodd (Democratic) 58.8,1992
+CT_sen_1994,"['√ Joe Lieberman (Democratic) 67', 'Jerry Labriola (Republican) 31', 'Gary R. Garneau (Constitution) 1.9', '\n']","Joe Lieberman
+",D,0,Connecticut,CT,√ Joe Lieberman (Democratic) 67,1994
+CT_sen_1998,"['√ Chris Dodd (Democratic) 65.1', 'Gary Franks (Republican) 32.4', 'William Kozak (Concerned Citizens) 1.3', 'Lois A. Grasso (Term Limits) 0.7', 'Wildey Moore (Libertarian) 0.5', '\n']","Chris Dodd
+",D,0,Connecticut,CT,√ Chris Dodd (Democratic) 65.1,1998
+CT_sen_2000,"['√ Joe Lieberman (Democratic) 63.2', 'Philip Giordano (Republican) 34.1', 'William Kozak (Concerned Citizens) 2', 'Wildey J. Moore (Libertarian) 0.7', '\n']","Joe Lieberman
+",D,0,Connecticut,CT,√ Joe Lieberman (Democratic) 63.2,2000
+CT_sen_2004,"['√ Chris Dodd (Democratic) 66.4', 'Jack Orchulli (Republican) 32.1', 'Timothy Knibbs (C) 0.9', 'Lenny Rasch (L) 0.6', '\n']","Chris Dodd
+",D,0,Connecticut,CT,√ Chris Dodd (Democratic) 66.4,2004
+CT_sen_2006,"['√ Joe Lieberman (Connecticut for Lieberman) 49.7', 'Ned Lamont (Democratic) 39.7', 'Alan Schlesinger (Republican) 9.6', ' Ralph Ferrucci (Green) 0.5', 'Timothy Knibbs (Concerned Citizens) 0.4', '\n']","Joe Lieberman
+",D,0,Connecticut,CT,√ Joe Lieberman (Connecticut for Lieberman) 49.7,2006
+CT_sen_2010,"['√ Richard Blumenthal (Democratic) 55.1', 'Linda McMahon (Republican) 43.3', 'Warren Mosler (Independent) 1.0', 'John Mertens (CfL) 0.6', '\n']","Chris Dodd
+",D,0,Connecticut,CT,√ Richard Blumenthal (Democratic) 55.1,2010
+CT_sen_2016,"['√ Richard Blumenthal (Democratic)[37] 63.2', 'Dan Carter (Republican)[38] 34.6', 'Richard Lion (Libertarian)[39] 1.1Jeff Russell (Green)[40] 1.0\n']","Richard Blumenthal
+",D,0,Connecticut,CT,√ Richard Blumenthal (Democratic)[37] 63.2,2016
+DE_sen_1978,"['√ Joe Biden (Democratic) 58.0', 'James H. Baxter (Republican) 41.0', 'Donald G. Gies (American) 1.0', '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 58.0,1978
+DE_sen_1984,"['√ Joe Biden (Democratic) 60.1', 'John M. Burris (Republican) 39.1', '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 60.1,1984
+DE_sen_1984,"['√ Joe Biden (Democratic) 60.1', 'John M. Burris (Republican) 39.1', '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 60.1,1984
+DE_sen_1990,"['√ Joe Biden (Democratic) 62.7', 'M. Jane Brady (Republican) 35.8', 'Lee Rosenbaum (Libertarian) 1.5', '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 62.7,1990
+DE_sen_1996,"['√ Joe Biden (Democratic) 60', 'Raymond J. Clatworthy (Republican) 38.1', 'Mark Jones (Libertarian) 1.2', 'Jacqueline Kossoff (Natural Law) 0.6', '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 60,1996
+DE_sen_2002,"['√ Joe Biden (Democratic) 58.2', 'Raymond J. Clatworthy (Republican) 40.8', 'Maurice Barros (IPD) 0.4', 'Raymond T. Buranello (Libertarian) 0.4', 'Robert E. Mattson (Natural Law) 0.2', '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 58.2,2002
+DE_sen_2002,"['√ Joe Biden (Democratic) 58.2', 'Raymond J. Clatworthy (Republican) 40.8', 'Maurice Barros (IPD) 0.4', 'Raymond T. Buranello (Libertarian) 0.4', 'Robert E. Mattson (Natural Law) 0.2', '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 58.2,2002
+DE_sen_2006,"['√ Tom Carper (Democratic) 67.1', 'Jan Ting (Republican) 27.4', ""Christine O'Donnell (Write-in) 4.4"", 'William E. Morris (Libertarian) 1.1', '\n']","Tom Carper
+",D,0,Delaware,DE,√ Tom Carper (Democratic) 67.1,2006
+DE_sen_2002,"['√ Joe Biden (Democratic) 64.7', ""Christine O'Donnell (Republican) 35.3"", '\n']","Joe Biden
+",D,0,Delaware,DE,√ Joe Biden (Democratic) 64.7,2002
+DE_sen_2012,"['√ Tom Carper (Democratic) 66.4', 'Kevin Wade (Republican) 29.0', '[13]Alex Pires (Independent) 3.8', '[14]Andrew Groff (Green) 0.8', '\n']","Tom Carper
+",D,0,Delaware,DE,√ Tom Carper (Democratic) 66.4,2012
+DE_sen_2014,"['√ Chris Coons (Democratic) 55.8', '[43]Kevin Wade (Republican) 42.2', '[44]Andrew Groff (Green) 1.9', '\n']","Chris Coons
+",D,0,Delaware,DE,√ Chris Coons (Democratic) 55.8,2014
+DE_sen_2010,"['√ Chris Coons (Democratic) 56.6', ""Christine O'Donnell (Republican) 40.0"", 'Glenn Miller (Independent) 2.7', 'James Rash (Libertarian) 0.7', '\n']","Ted Kaufman
+",D,0,Delaware,DE,√ Chris Coons (Democratic) 56.6,2010
+FL_sen_1976,"['√ Lawton Chiles (Democratic) 63.0', 'John Grady (Republican) 37.0', '\n']","Lawton Chiles
+",D,0,Florida,FL,√ Lawton Chiles (Democratic) 63.0,1976
+FL_sen_1980,"['√ Paula Hawkins (Republican) 51.7', 'Bill Gunter (Democratic) 48.3', '\n']","Richard Stone
+",D,0,Florida,FL,√ Paula Hawkins (Republican) 51.7,1980
+FL_sen_1982,"['√ Lawton Chiles (Democratic) 61.7', 'Van B. Poole (Republican) 38.3', '\n']","Lawton Chiles
+",D,0,Florida,FL,√ Lawton Chiles (Democratic) 61.7,1982
+FL_sen_1982,"['√ Lawton Chiles (Democratic) 61.7', 'Van B. Poole (Republican) 38.3', '\n']","Lawton Chiles
+",D,0,Florida,FL,√ Lawton Chiles (Democratic) 61.7,1982
+FL_sen_1988,"['√ Connie Mack III (Republican) 50.4', 'Buddy MacKay (Democratic) 49.6', '\n']","Lawton Chiles
+",D,0,Florida,FL,√ Connie Mack III (Republican) 50.4,1988
+FL_sen_1992,"['√ Bob Graham (Democratic) 65.4', 'James W. Grant (Republican) 34.6', '\n']","Bob Graham
+",D,0,Florida,FL,√ Bob Graham (Democratic) 65.4,1992
+FL_sen_1998,"['√ Bob Graham (Democratic) 62.5', 'Charlie Crist (Republican) 37.5', '\n']","Bob Graham
+",D,0,Florida,FL,√ Bob Graham (Democratic) 62.5,1998
+FL_sen_2004,"['√ Mel Martinez (Republican) 49.5', 'Betty Castor (Democratic) 48.3', 'Dennis Bradley (Veterans) 2.2', '\n']","Bob Graham
+",D,0,Florida,FL,√ Mel Martinez (Republican) 49.5,2004
+FL_sen_2006,"['√ Bill Nelson (Democratic) 60.3', 'Katherine Harris (Republican) 38.1', 'Belinda Noah (Independent) 0.5', 'Brian Moore (Green) 0.4', 'Floyd Ray Frazier (Independent) 0.3', 'Roy Tanner (Independent) 0.3', '\n']","Bill Nelson
+",D,0,Florida,FL,√ Bill Nelson (Democratic) 60.3,2006
+FL_sen_2012,"['√ Bill Nelson (Democratic) 55.2', 'Connie Mack IV (Republican) 42.2', '[15]Chris Borgia (Independent) 1.0', '[16]Bill Gaylor (Independent) 1.5', '[17][18]\n']","Bill Nelson
+",D,0,Florida,FL,√ Bill Nelson (Democratic) 55.2,2012
+GA_sen_1978,"['√ Sam Nunn (Democratic) 83.1', 'John W. Stokes (Republican) 16.9', '\n']","Sam Nunn
+",D,0,Georgia,GA,√ Sam Nunn (Democratic) 83.1,1978
+GA_sen_1980,"['√ Mack Mattingly (Republican) 50.9', 'Herman Talmadge (Democratic) 49.1', '\n']","Herman Talmadge
+",D,0,Georgia,GA,√ Mack Mattingly (Republican) 50.9,1980
+GA_sen_1984,"['√ Sam Nunn (Democratic) 79.9', 'Jon M. Hicks (Republican) 20.1', '\n']","Sam Nunn
+",D,0,Georgia,GA,√ Sam Nunn (Democratic) 79.9,1984
+GA_sen_1984,"['√ Sam Nunn (Democratic) 79.9', 'Jon M. Hicks (Republican) 20.1', '\n']","Sam Nunn
+",D,0,Georgia,GA,√ Sam Nunn (Democratic) 79.9,1984
+GA_sen_1990,['√ Sam Nunn (Democratic)Unopposed\n'],"Sam Nunn
+",D,0,Georgia,GA,"√ Sam Nunn (Democratic)Unopposed
+",1990
+GA_sen_1992,"['√ Paul Coverdell (Republican) 50.6', 'Wyche Fowler (Democratic) 49.4', 'Jim Hudson (Libertarian) 3.1', '\n']","Wyche Fowler
+",D,0,Georgia,GA,√ Paul Coverdell (Republican) 50.6,1992
+GA_sen_1996,"['√ Max Cleland (Democratic) 48.9', 'Guy Millner (Republican) 47.5', 'John Gregory Cashin (Libertarian) 3.6', '\n']","Sam Nunn
+",D,0,Georgia,GA,√ Max Cleland (Democratic) 48.9,1996
+GA_sen_2002,"['√ Saxby Chambliss (Republican) 52.7', 'Max Cleland (Democratic) 45.9', 'Claude Thomas (Libertarian) 1.4', '\n']","Max Cleland
+",D,0,Georgia,GA,√ Saxby Chambliss (Republican) 52.7,2002
+GA_sen_2002,"['√ Saxby Chambliss (Republican) 52.7', 'Max Cleland (Democratic) 45.9', 'Claude Thomas (Libertarian) 1.4', '\n']","Max Cleland
+",D,0,Georgia,GA,√ Saxby Chambliss (Republican) 52.7,2002
+GA_sen_2004,"['√ Johnny Isakson (Republican) 57.9', 'Denise Majette (Democratic) 40', 'Allen Buckley (Libertarian) 2.1', '\n']","Zell Miller
+",D,0,Georgia,GA,√ Johnny Isakson (Republican) 57.9,2004
+GA_sen_2000,"['√ Zell Miller (Democratic) 58', 'Mack Mattingly (Republican) 38', '\n']","Zell Miller
+",D,0,Georgia,GA,√ Zell Miller (Democratic) 58,2000
+HI_sen_1980,"['√ Daniel Inouye (Democratic) 77.9', 'Cooper Brown (Republican) 18.4', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 77.9,1980
+HI_sen_1982,"['√ Spark Matsunaga (Democratic) 80.1', 'Clarence J. Brown (Republican) 17.0', 'E. Bernier-Nachtwey (Independent) 2.9', '\n']","Spark Matsunaga
+",D,0,Hawaii,HI,√ Spark Matsunaga (Democratic) 80.1,1982
+HI_sen_1986,"['√ Daniel Inouye (Democratic) 73.6', 'Frank Hutchinson (Republican) 26.4', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 73.6,1986
+HI_sen_1982,"['√ Spark Matsunaga (Democratic) 80.1', 'Clarence J. Brown (Republican) 17.0', 'E. Bernier-Nachtwey (Independent) 2.9', '\n']","Spark Matsunaga
+",D,0,Hawaii,HI,√ Spark Matsunaga (Democratic) 80.1,1982
+HI_sen_1986,"['√ Daniel Inouye (Democratic) 73.6', 'Frank Hutchinson (Republican) 26.4', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 73.6,1986
+HI_sen_1986,"['√ Daniel Inouye (Democratic) 73.6', 'Frank Hutchinson (Republican) 26.4', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 73.6,1986
+HI_sen_1988,"['√ Spark Matsunaga (Democratic) 76.5', 'Maria M. Hustace (Republican) 20.7', 'Ken Schoolland (Libertarian) 2.8', '\n']","Spark Matsunaga
+",D,0,Hawaii,HI,√ Spark Matsunaga (Democratic) 76.5,1988
+HI_sen_1992,"['√ Daniel Inouye (Democratic) 57.3', 'Rick Reed (Republican) 26.9', 'Linda Martin (Green) 13.7', 'Richard O. Rowland (Libertarian) 2.1', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 57.3,1992
+HI_sen_1994,"['√ Daniel Akaka (Democratic) 71.8', 'Maria Hustace (Republican) 24.2', 'Richard Rowland (Libertarian) 4', '\n']","Daniel Akaka
+",D,0,Hawaii,HI,√ Daniel Akaka (Democratic) 71.8,1994
+HI_sen_1998,"['√ Daniel Inouye (Democratic) 79.2', 'Crystal Young (Republican) 17.8', 'Lloyd Mallan (Libertarian) 3', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 79.2,1998
+HI_sen_2000,"['√ Daniel Akaka (Democratic) 72.7', 'John S. Carroll (Republican) 24.5', 'Lauri Clegg (Natural Law) 1.2', 'Lloyd Jeffrey Mallan (Libertarian) 0.9', 'David Porter (Constitution) 0.7', '\n']","Daniel Akaka
+",D,0,Hawaii,HI,√ Daniel Akaka (Democratic) 72.7,2000
+HI_sen_2004,"['√ Daniel Inouye (Democratic) 75.5', 'Campbell Cavasso (Republican) 21', 'James Brewer (Independent) 2.2', 'Lloyd Mallan (Libertarian) 1.3', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 75.5,2004
+HI_sen_2006,"['√ Daniel Akaka (Democratic) 61.4', 'Cynthia Thielen (Republican) 36.8', 'Lloyd Mallan (Libertarian) 1.9', '\n']","Daniel Akaka
+",D,0,Hawaii,HI,√ Daniel Akaka (Democratic) 61.4,2006
+HI_sen_2010,"['√ Daniel Inouye (Democratic) 74.8', 'Campbell Cavasso (Republican) 21.6', 'James Brewer (Green) 2.1', 'Jeff Mallan (Libertarian) 0.8', '\n']","Daniel Inouye
+",D,0,Hawaii,HI,√ Daniel Inouye (Democratic) 74.8,2010
+HI_sen_2012,"['√ Mazie Hirono (Democratic) 62.6', 'Linda Lingle (Republican) 37.4', '\n']","Daniel Akaka
+",D,0,Hawaii,HI,√ Mazie Hirono (Democratic) 62.6,2012
+HI_sen_2016,"['√ Brian Schatz (Democratic)[47] 73.6', 'John Carroll (Republican)[47] 22.2', '\n']","Brian Schatz
+",D,0,Hawaii,HI,√ Brian Schatz (Democratic)[47] 73.6,2016
+HI_sen_1990,"['√ Daniel Akaka (Democratic) 54.0', 'Pat Saiki (Republican) 44.6', 'Ken Schoolland (Libertarian) 1.4', '\n']","Daniel Akaka
+",D,0,Hawaii,HI,√ Daniel Akaka (Democratic) 54.0,1990
+HI_sen_2014,"['√ Brian Schatz (Democratic) 69.8', '[18]Campbell Cavasso (Republican) 27.7', '[19]Michael A. Kokoski (Libertarian) 2.5', '[20]\n']","Brian Schatz
+",D,0,Hawaii,HI,√ Brian Schatz (Democratic) 69.8,2014
+ID_sen_1980,"['√ Steve Symms (Republican) 49.7', 'Frank Church (Democratic) 48.8', 'Larry Fullmer (Libertarian) 1.5', '\n']","Frank Church
+",D,0,Idaho,ID,√ Steve Symms (Republican) 49.7,1980
+IL_sen_1980,"['√ Alan J. Dixon (Democratic) 56.0', ""Dave O'Neal (Republican) 42.5"", 'Bruce Green (Libertarian) 0.6', 'Sidney Lens (Independent) 0.4', 'Charles F. Wilson (Communist) 0.2', 'Michael Soriano (Workers World) 0.1', 'Burton L. Artz (Socialist Workers) 0.1', '\n']","Adlai Stevenson III
+",D,0,Illinois,IL,√ Alan J. Dixon (Democratic) 56.0,1980
+IL_sen_1986,"['√ Alan J. Dixon (Democratic) 65.4', 'Judy Koehler (Republican) 34.1', '\n']","Alan J. Dixon
+",D,0,Illinois,IL,√ Alan J. Dixon (Democratic) 65.4,1986
+IL_sen_1986,"['√ Alan J. Dixon (Democratic) 65.4', 'Judy Koehler (Republican) 34.1', '\n']","Alan J. Dixon
+",D,0,Illinois,IL,√ Alan J. Dixon (Democratic) 65.4,1986
+IL_sen_1986,"['√ Alan J. Dixon (Democratic) 65.4', 'Judy Koehler (Republican) 34.1', '\n']","Alan J. Dixon
+",D,0,Illinois,IL,√ Alan J. Dixon (Democratic) 65.4,1986
+IL_sen_1990,"['√ Paul Simon (Democratic) 64.9', 'Lynn Morley Martin (Republican) 35.1', '\n']","Paul Simon
+",D,0,Illinois,IL,√ Paul Simon (Democratic) 64.9,1990
+IL_sen_1992,"['√ Carol Moseley Braun (Democratic) 53.3', 'Richard S. Williamson (Republican) 43.1', 'Chad Koppie (Conservative) 2.0', 'Andrew B. Spiegel (Libertarian) 0.7', 'Charles A. Winter (Natural Law) 0.3', 'Alan J. Port (New Alliance) 0.3', 'Kathleen Kaku (Socialist Workers) 0.2', 'John Justice (Populist) 0.2', '\n']","Alan J. Dixon
+",D,0,Illinois,IL,√ Carol Moseley Braun (Democratic) 53.3,1992
+IL_sen_1996,"['√ Dick Durbin (Democratic) 56.1', 'Al Salvi (Republican) 40.7', 'Steven H. Perry (Reform) 1.4', 'Robin J. Miller (Libertarian) 1', 'Chad Koppie (U.S. Taxpayers) 0.4', 'James E. Davis (Natural Law) 0.3', '\n']","Paul Simon
+",D,0,Illinois,IL,√ Dick Durbin (Democratic) 56.1,1996
+IL_sen_1998,"['√ Peter Fitzgerald (Republican) 50.3', 'Carol Moseley Braun (Democratic) 47.4', 'Don A. Torgersen (Reform) 2.2', 'Raymond W. Stalker (U.S. Taxpayers) 0.01', '\n']","Carol Moseley Braun
+",D,0,Illinois,IL,√ Peter Fitzgerald (Republican) 50.3,1998
+IL_sen_2002,"['√ Dick Durbin (Democratic) 60.3', 'Jim Durkin (Republican) 38', 'Steven Burgauer (Libertarian) 1.6', '\n']","Dick Durbin
+",D,0,Illinois,IL,√ Dick Durbin (Democratic) 60.3,2002
+IL_sen_2002,"['√ Dick Durbin (Democratic) 60.3', 'Jim Durkin (Republican) 38', 'Steven Burgauer (Libertarian) 1.6', '\n']","Dick Durbin
+",D,0,Illinois,IL,√ Dick Durbin (Democratic) 60.3,2002
+IL_sen_2002,"['√ Dick Durbin (Democratic) 67.8', 'Steve Sauerberg (Republican) 28.5', 'Kathy Cummings (Green)  2.2', 'Larry Stafford (Libertarian) 0.9', 'Chad Koppie (Constitution) 0.5', '\n']","Dick Durbin
+",D,0,Illinois,IL,√ Dick Durbin (Democratic) 67.8,2002
+IL_sen_2010,"['√ Mark Kirk (Republican) 48.2', 'Alexi Giannoulias (Democratic) 46.3', 'LeAlan Jones (Green) 3.2', 'Mike Labino (Libertarian) 2.4', '\n']","Roland Burris
+",D,0,Illinois,IL,√ Mark Kirk (Republican) 48.2,2010
+IL_sen_2014,"['√ Dick Durbin (Democratic) 53.5', '[51]Jim Oberweis (Republican) 42.7', '[52]Sharon Hansen (Libertarian) 3.8', '[53]\n']","Dick Durbin
+",D,0,Illinois,IL,√ Dick Durbin (Democratic) 53.5,2014
+IL_sen_2010,"['√ Mark Kirk (Republican) 48.2', 'Alexi Giannoulias (Democratic) 46.3', 'LeAlan Jones (Green) 3.2', 'Mike Labino (Libertarian) 2.4', '\n']","Roland Burris
+",D,0,Illinois,IL,√ Mark Kirk (Republican) 48.2,2010
+IN_sen_1976,"['√ Richard Lugar (Republican) 58.8', 'Vance Hartke (Democratic) 40.5', '\n']","Vance Hartke
+",D,0,Indiana,IN,√ Richard Lugar (Republican) 58.8,1976
+IN_sen_1980,"['√ Dan Quayle (Republican) 53.8', 'Birch Bayh (Democratic) 46.2', '\n']","Birch Bayh
+",D,0,Indiana,IN,√ Dan Quayle (Republican) 53.8,1980
+IN_sen_2004,"['√ Evan Bayh (Democratic) 62', 'Marvin Scott (Republican) 37', 'Albert Barger (Libertarian) 1', '\n']","Evan Bayh
+",D,0,Indiana,IN,√ Evan Bayh (Democratic) 62,2004
+IN_sen_2010,"['√ Dan Coats (Republican) 54.6', 'Brad Ellsworth (Democratic) 40.0', 'Rebecca Sink-Burris (Libertarian) 5.4', '\n']","Evan Bayh
+",D,0,Indiana,IN,√ Dan Coats (Republican) 54.6,2010
+IA_sen_1978,"['√ Roger Jepsen (Republican) 51.1', 'Dick Clark (Democratic) 47.9', 'Gerald Leo Baker (Independent) 0.5', 'Ben L. Olson (Libertarian) 0.4', '\n']","Dick Clark
+",D,0,Iowa,IA,√ Roger Jepsen (Republican) 51.1,1978
+IA_sen_1980,"['√ Chuck Grassley (Republican) 53.5', 'John Culver (Democratic) 45.5', 'Garry De Young (Independent) 0.5', 'Robert V. Hengerer (Libertarian) 0.3', 'John Ingram Henderson (Independent) 0.2', '\n']","John Culver
+",D,0,Iowa,IA,√ Chuck Grassley (Republican) 53.5,1980
+IA_sen_1990,"['√ Tom Harkin (Democratic) 54.0', 'Tom Tauke (Republican) 46.0', '\n']","Tom Harkin
+",D,0,Iowa,IA,√ Tom Harkin (Democratic) 54.0,1990
+IA_sen_1996,"['√ Tom Harkin (Democratic) 51.8', 'Jim Ross Lightfoot (Republican) 46.7', 'Sue Atkinson (Independent) 0.8', 'Fred Gratzon (Natural Law) 0.3', 'Joe Sulentic (Independent) 0.2', 'Shirley E. Pena (Socialist Workers) 0.2', '\n']","Tom Harkin
+",D,0,Iowa,IA,√ Tom Harkin (Democratic) 51.8,1996
+IA_sen_2002,"['√ Tom Harkin (Democratic) 54.2', 'Greg Ganske (Republican) 43.8', 'Tim Harthan (Green) 1.1', 'Richard J. Moore (Libertarian) 0.9', '\n']","Tom Harkin
+",D,0,Iowa,IA,√ Tom Harkin (Democratic) 54.2,2002
+IA_sen_2002,"['√ Tom Harkin (Democratic) 54.2', 'Greg Ganske (Republican) 43.8', 'Tim Harthan (Green) 1.1', 'Richard J. Moore (Libertarian) 0.9', '\n']","Tom Harkin
+",D,0,Iowa,IA,√ Tom Harkin (Democratic) 54.2,2002
+IA_sen_2002,"['√ Tom Harkin (Democratic) 62.7', 'Christopher Reed (Republican) 37.3', '\n']","Tom Harkin
+",D,0,Iowa,IA,√ Tom Harkin (Democratic) 62.7,2002
+IA_sen_2014,"['√ Joni Ernst (Republican) 52.1', '[55]Bruce Braley (Democratic) 43.8', '[56]Rick Stewart (Independent) 2.4', 'Doug Butzier (Libertarian) 0.7', '[57]Bob Quast (Independent) 0.5', '[58]Ruth Smith (Independent) 0.4', '\n']","Tom Harkin
+",D,0,Iowa,IA,√ Joni Ernst (Republican) 52.1,2014
+KY_sen_1978,"['√ Walter Huddleston (Democratic) 61.0', 'Louis Guenthner (Republican) 36.9', 'Anthony A. McCord (American) 2.1', '\n']","Walter Huddleston
+",D,0,Kentucky,KY,√ Walter Huddleston (Democratic) 61.0,1978
+KY_sen_1980,"['√ Wendell H. Ford (Democratic) 65.1', 'Mary L. Foust (Republican) 34.9', '\n']","Wendell H. Ford
+",D,0,Kentucky,KY,√ Wendell H. Ford (Democratic) 65.1,1980
+KY_sen_1984,"['√ Mitch McConnell (Republican) 49.9', 'Walter Huddleston (Democratic) 49.5', 'Dave Welters (Socialist Workers) 0.6', '\n']","Walter Huddleston
+",D,0,Kentucky,KY,√ Mitch McConnell (Republican) 49.9,1984
+KY_sen_1986,"['√ Wendell H. Ford (Democratic) 74.3', 'Jackson M. Andrews (Republican) 25.7', '\n']","Wendell H. Ford
+",D,0,Kentucky,KY,√ Wendell H. Ford (Democratic) 74.3,1986
+KY_sen_1984,"['√ Mitch McConnell (Republican) 49.9', 'Walter Huddleston (Democratic) 49.5', 'Dave Welters (Socialist Workers) 0.6', '\n']","Walter Huddleston
+",D,0,Kentucky,KY,√ Mitch McConnell (Republican) 49.9,1984
+KY_sen_1986,"['√ Wendell H. Ford (Democratic) 74.3', 'Jackson M. Andrews (Republican) 25.7', '\n']","Wendell H. Ford
+",D,0,Kentucky,KY,√ Wendell H. Ford (Democratic) 74.3,1986
+KY_sen_1986,"['√ Wendell H. Ford (Democratic) 74.3', 'Jackson M. Andrews (Republican) 25.7', '\n']","Wendell H. Ford
+",D,0,Kentucky,KY,√ Wendell H. Ford (Democratic) 74.3,1986
+KY_sen_1992,"['√ Wendell H. Ford (Democratic) 62.9', 'David Williams (Republican) 35.8', 'James Ridenour (Libertarian) 1.3', '\n']","Wendell H. Ford
+",D,0,Kentucky,KY,√ Wendell H. Ford (Democratic) 62.9,1992
+KY_sen_1998,"['√ Jim Bunning (Republican) 49.7', 'Scotty Baesler (Democratic) 49.2', 'Charles R. Arbegust (Reform) 1.1', '\n']","Wendell Ford
+",D,0,Kentucky,KY,√ Jim Bunning (Republican) 49.7,1998
+LA_sen_1978,"['√ J. Bennett Johnston (Democratic) 59.4', 'Woody Jenkins (Democratic) 40.6', '\n']","J. Bennett Johnston
+",D,0,Louisiana,LA,√ J. Bennett Johnston (Democratic) 59.4,1978
+LA_sen_1980,"['√ Russell B. Long (Democratic) 57.64', 'Woody Jenkins (Democratic) 38.75', 'Jerry Bardwell (Republican) 1.64', 'Robert M. Ross (Republican) 1.21', 'Naomi Bracy (No Party) .76', '\n']","Russell B. Long
+",D,0,Louisiana,LA,√ Russell B. Long (Democratic) 57.64,1980
+LA_sen_1984,"['√ Bennett Johnston Jr. (Democratic) 85.7', 'Robert Max Ross (Republican) 8.9', '\n']","J. Bennett Johnston
+",D,0,Louisiana,LA,√ Bennett Johnston Jr. (Democratic) 85.7,1984
+LA_sen_1986,"['√ John Breaux (Democratic) 52.8', 'Henson Moore (Republican) 47.2', '\n']","Russell B. Long
+",D,0,Louisiana,LA,√ John Breaux (Democratic) 52.8,1986
+LA_sen_1984,"['√ Bennett Johnston Jr. (Democratic) 85.7', 'Robert Max Ross (Republican) 8.9', '\n']","J. Bennett Johnston
+",D,0,Louisiana,LA,√ Bennett Johnston Jr. (Democratic) 85.7,1984
+LA_sen_1986,"['√ John Breaux (Democratic) 52.8', 'Henson Moore (Republican) 47.2', '\n']","Russell B. Long
+",D,0,Louisiana,LA,√ John Breaux (Democratic) 52.8,1986
+LA_sen_1986,"['√ John Breaux (Democratic) 52.8', 'Henson Moore (Republican) 47.2', '\n']","Russell B. Long
+",D,0,Louisiana,LA,√ John Breaux (Democratic) 52.8,1986
+LA_sen_1990,"['√ Bennett Johnston Jr. (Democratic) 53', 'David Duke (Republican) 44', '\n']","J. Bennett Johnston
+",D,0,Louisiana,LA,√ Bennett Johnston Jr. (Democratic) 53,1990
+LA_sen_1992,"['√ John Breaux (Democratic) 73.07', 'Jon Khachaturian (Independent) 8.9', 'Lyle Stockstill (Republican) 8.3', ' Nick Accardo (Democratic) 5.4', 'Fred Clegg Strong (Republican) 4.3', '\n']","John Breaux
+",D,0,Louisiana,LA,√ John Breaux (Democratic) 73.07,1992
+LA_sen_1996,"['√ Mary Landrieu (Democratic) 50.1', 'Woody Jenkins (Republican) 49.9', '\n']","Bennett Johnston
+",D,0,Louisiana,LA,√ Mary Landrieu (Democratic) 50.1,1996
+LA_sen_1998,"['√ John Breaux (Democratic) 64', 'Jim Donelon (Republican) 32', '\n']","John Breaux
+",D,0,Louisiana,LA,√ John Breaux (Democratic) 64,1998
+LA_sen_2002,"['√ Mary Landrieu (Democratic) 51.7', 'Suzanne Haik Terrell (Republican) 48.3', '\n']","Mary Landrieu
+",D,0,Louisiana,LA,√ Mary Landrieu (Democratic) 51.7,2002
+LA_sen_2002,"['√ Mary Landrieu (Democratic) 51.7', 'Suzanne Haik Terrell (Republican) 48.3', '\n']","Mary Landrieu
+",D,0,Louisiana,LA,√ Mary Landrieu (Democratic) 51.7,2002
+LA_sen_2004,"['√ David Vitter (Republican) 51', 'Chris John (Democratic) 29', 'John N. Kennedy (Democratic) 15', 'Arthur Morrell (Democratic) 3', 'Richard Fontanesi (Independent) 1', 'R.A. Galan (Independent) 1', 'Sam Melton (Democratic) 1', '\n']","John Breaux
+",D,0,Louisiana,LA,√ David Vitter (Republican) 51,2004
+LA_sen_2002,"['√ Mary Landrieu (Democratic) 52.1', 'John Neely Kennedy (Republican) 45.7', 'Richard Fontanesi (Libertarian) 1.0', 'Jay Patel (Independent) 0.7', 'Robert Stewart (Independent) 0.5', '\n']","Mary Landrieu
+",D,0,Louisiana,LA,√ Mary Landrieu (Democratic) 52.1,2002
+LA_sen_2014,"[' √ Bill Cassidy (Republican) 55.9', '[64]Mary Landrieu (Democratic) 44.1', '[65]\n']","Mary Landrieu
+",D,0,Louisiana,LA, √ Bill Cassidy (Republican) 55.9,2014
+ME_sen_1976,"['√ Edmund Muskie (Democratic) 60.2', 'Robert A. G. Monks (Republican) 39.8', '\n']","Edmund Muskie
+",D,0,Maine,ME,√ Edmund Muskie (Democratic) 60.2,1976
+ME_sen_1978,"['√ William Cohen (Republican) 56.6', 'William Hathaway (Democratic) 33.9', 'Hayes E. Gahagan (Independent) 7.4', 'John J. Jannace (Independent) 1.5', 'Plato Truman (Independent) 0.6', '\n']","William Hathaway
+",D,0,Maine,ME,√ William Cohen (Republican) 56.6,1978
+ME_sen_1982,"['√ George Mitchell (Democratic) 60.9', 'David F. Emery (Republican) 39.1', '\n']","George J. Mitchell
+",D,0,Maine,ME,√ George Mitchell (Democratic) 60.9,1982
+ME_sen_1982,"['√ George Mitchell (Democratic) 60.9', 'David F. Emery (Republican) 39.1', '\n']","George J. Mitchell
+",D,0,Maine,ME,√ George Mitchell (Democratic) 60.9,1982
+ME_sen_1988,"['√ George J. Mitchell (Democratic) 81.1', 'Jasper S. Wyman (Republican) 18.9', '\n']","George J. Mitchell
+",D,0,Maine,ME,√ George J. Mitchell (Democratic) 81.1,1988
+ME_sen_1994,"['√ Olympia Snowe (Republican) 60.2', 'Thomas Andrews (Democratic) 36.4', 'Plato Truman (Independent) 3.4', '\n']","George J. Mitchell
+",D,0,Maine,ME,√ Olympia Snowe (Republican) 60.2,1994
+MD_sen_1982,"['√ Paul Sarbanes (Democratic) 63.5', 'Lawrence Hogan (Republican) 36.5', '\n']","Paul Sarbanes
+",D,0,Maryland,MD,√ Paul Sarbanes (Democratic) 63.5,1982
+MD_sen_1982,"['√ Paul Sarbanes (Democratic) 63.5', 'Lawrence Hogan (Republican) 36.5', '\n']","Paul Sarbanes
+",D,0,Maryland,MD,√ Paul Sarbanes (Democratic) 63.5,1982
+MD_sen_1988,"['√ Paul Sarbanes (Democratic) 61.8', 'Alan Keyes (Republican) 38.2', '\n']","Paul Sarbanes
+",D,0,Maryland,MD,√ Paul Sarbanes (Democratic) 61.8,1988
+MD_sen_1992,"['√ Barbara Mikulski (Democratic) 71.0', 'Alan Keyes (Republican) 29.0', '\n']","Barbara Mikulski
+",D,0,Maryland,MD,√ Barbara Mikulski (Democratic) 71.0,1992
+MD_sen_1994,"['√ Paul Sarbanes (Democratic) 59.1', 'Bill Brock (Republican) 40.9', '\n']","Paul Sarbanes
+",D,0,Maryland,MD,√ Paul Sarbanes (Democratic) 59.1,1994
+MD_sen_1998,"['√ Barbara Mikulski (Democratic) 70.5', 'Ross Pierpont (Republican) 29.5', '\n']","Barbara Mikulski
+",D,0,Maryland,MD,√ Barbara Mikulski (Democratic) 70.5,1998
+MD_sen_2000,"['√ Paul Sarbanes (Democratic) 63.2', 'Paul Rappaport (Republican) 36.7', '\n']","Paul Sarbanes
+",D,0,Maryland,MD,√ Paul Sarbanes (Democratic) 63.2,2000
+MD_sen_2004,"['√ Barbara Mikulski (Democratic) 64.8', 'E. J. Pipkin (Republican) 33.7', 'Maria Allwine (Green) 1.1', 'Thomas Trump (Constitution) 0.4', '\n']","Barbara Mikulski
+",D,0,Maryland,MD,√ Barbara Mikulski (Democratic) 64.8,2004
+MD_sen_2006,"['√ Ben Cardin (Democratic) 54.2', 'Michael Steele (Republican) 44.2', 'Kevin Zeese (Green) 1.5', '\n']","Paul Sarbanes
+",D,0,Maryland,MD,√ Ben Cardin (Democratic) 54.2,2006
+MD_sen_2010,"['√ Barbara Mikulski (Democratic) 61.8', 'Eric Wargotz (Republican) 36.3', 'Kenniss Henry (Green) 1.1', 'Richard Shawver (Constitution) 0.8', '\n']","Barbara Mikulski
+",D,0,Maryland,MD,√ Barbara Mikulski (Democratic) 61.8,2010
+MD_sen_2012,"['√ Ben Cardin (Democratic) 56.0', 'Dan Bongino (Republican) 26.3', '[25]Rob Sobhani (Independent) 16.4', '[26]Dean Ahmad (Libertarian) 1.2', '[27]\n']","Ben Cardin
+",D,0,Maryland,MD,√ Ben Cardin (Democratic) 56.0,2012
+MD_sen_2016,"['√ Chris Van Hollen (Democratic)[67] 60.9', 'Kathy Szeliga (Republican)[68] 35.7', 'Margaret Flowers (Green)[69]\n']","Barbara Mikulski
+",D,0,Maryland,MD,√ Chris Van Hollen (Democratic)[67] 60.9,2016
+MA_sen_1976,"['√ Ted Kennedy (Democratic) 69.3', 'Michael S. Robertson (Republican) 29.0', 'Carol Henderson Evans (Soc. Workers) 1.1', 'H. Graham Lowry (U.S. Labor) 0.6', '\n']","Ted Kennedy
+",D,0,Massachusetts,MA,√ Ted Kennedy (Democratic) 69.3,1976
+MA_sen_1982,"['√ Ted Kennedy (Democratic) 60.8', 'Ray Shamie (Republican) 38.3', 'Howard S. Katz (Libertarian) 0.9', '\n']","Ted Kennedy
+",D,0,Massachusetts,MA,√ Ted Kennedy (Democratic) 60.8,1982
+MA_sen_1984,"['√ John Kerry (Democratic) 55.1', 'Ray Shamie (Republican) 44.9', '\n']","Paul Tsongas
+",D,0,Massachusetts,MA,√ John Kerry (Democratic) 55.1,1984
+MA_sen_1982,"['√ Ted Kennedy (Democratic) 60.8', 'Ray Shamie (Republican) 38.3', 'Howard S. Katz (Libertarian) 0.9', '\n']","Ted Kennedy
+",D,0,Massachusetts,MA,√ Ted Kennedy (Democratic) 60.8,1982
+MA_sen_1984,"['√ John Kerry (Democratic) 55.1', 'Ray Shamie (Republican) 44.9', '\n']","Paul Tsongas
+",D,0,Massachusetts,MA,√ John Kerry (Democratic) 55.1,1984
+MA_sen_1988,"['√ Ted Kennedy (Democratic) 65.0', 'Joe Malone (Republican) 33.9', 'Mary Fridley (New Alliance) 0.6', 'Freda Lee Nason (Libertarian) 0.5', '\n']","Ted Kennedy
+",D,0,Massachusetts,MA,√ Ted Kennedy (Democratic) 65.0,1988
+MA_sen_1990,"['√ John Kerry (Democratic) 56.9', 'Jim Rappaport (Republican) 43.1', '\n']","John Kerry
+",D,0,Massachusetts,MA,√ John Kerry (Democratic) 56.9,1990
+MA_sen_1994,"['√ Ted Kennedy (Democratic) 58.1', 'Mitt Romney (Republican) 41', 'Lauraleigh Dozier (Libertarian) 0.7', 'William A. Ferguson, Jr. (LaRouche Was Right) 0.2', '\n']","Ted Kennedy
+",D,0,Massachusetts,MA,√ Ted Kennedy (Democratic) 58.1,1994
+MA_sen_1996,"['√ John Kerry (Democratic) 52.2', 'William Weld (Republican) 44.7', 'Susan Gallagher (Conservative) 2.7', 'Robert Stowe (Natural Law) 0.3', '\n']","John Kerry
+",D,0,Massachusetts,MA,√ John Kerry (Democratic) 52.2,1996
+MA_sen_2000,"['√ Ted Kennedy (Democratic) 72.9', 'Jack E. Robinson III (Republican) 12.9', 'Carla Howell (Libertarian) 11.9', 'Philip F. Lawler (Constitution) 1.62', 'Dale Friedgen (Independent) 0.5', '\n']","Ted Kennedy
+",D,0,Massachusetts,MA,√ Ted Kennedy (Democratic) 72.9,2000
+MA_sen_2002,"['√ John Kerry (Democratic) 72.3', 'Michael E. Cloud (Libertarian) 16.6', 'Blank/Scattering 9.6', 'Randall Forsberg, Write-in 1.1', 'Other 0.3', '\n']","John Kerry
+",D,0,Massachusetts,MA,√ John Kerry (Democratic) 72.3,2002
+MA_sen_2002,"['√ John Kerry (Democratic) 72.3', 'Michael E. Cloud (Libertarian) 16.6', 'Blank/Scattering 9.6', 'Randall Forsberg, Write-in 1.1', 'Other 0.3', '\n']","John Kerry
+",D,0,Massachusetts,MA,√ John Kerry (Democratic) 72.3,2002
+MA_sen_2006,"['√ Ted Kennedy (Democratic) 69.5', 'Kenneth Chase (Republican) 30.5', '\n']","Ted Kennedy
+",D,0,Massachusetts,MA,√ Ted Kennedy (Democratic) 69.5,2006
+MA_sen_2002,"['√ John Kerry (Democratic) 65.8', 'Jeff Beatty (Republican) 31.0', 'Robert Underwood (Libertarian) 3.2', '\n']","John Kerry
+",D,0,Massachusetts,MA,√ John Kerry (Democratic) 65.8,2002
+MA_sen_2014,"['√ Ed Markey (Democratic) 62.0', '[68]Brian Herr (Republican) 38.0', '[69]\n']","Ed Markey
+",D,0,Massachusetts,MA,√ Ed Markey (Democratic) 62.0,2014
+MA_sen_2010,"['√ Scott Brown (Republican) 51.9', 'Martha Coakley (Democratic) 47.1', ' Joseph L. Kennedy (Libertarian) 1.0', '\n']","Paul G. Kirk
+",D,0,Massachusetts,MA,√ Scott Brown (Republican) 51.9,2010
+MI_sen_1976,"['√ Donald W. Riegle Jr. (Democratic) 52.5', 'Marvin L. Esch (Republican) 46.8', '\n']","Philip Hart
+",D,0,Michigan,MI,√ Donald W. Riegle Jr. (Democratic) 52.5,1976
+MI_sen_1982,"['√ Don Riegle (Democratic) 57.7', 'Philip Ruppe (Republican) 40.9', '\n']","Donald W. Riegle Jr.
+",D,0,Michigan,MI,√ Don Riegle (Democratic) 57.7,1982
+MI_sen_1984,"['√ Carl Levin (Democratic) 51.8', 'Jack R. Lousma (Republican) 47.2', '\n']","Carl Levin
+",D,0,Michigan,MI,√ Carl Levin (Democratic) 51.8,1984
+MI_sen_1982,"['√ Don Riegle (Democratic) 57.7', 'Philip Ruppe (Republican) 40.9', '\n']","Donald W. Riegle Jr.
+",D,0,Michigan,MI,√ Don Riegle (Democratic) 57.7,1982
+MI_sen_1984,"['√ Carl Levin (Democratic) 51.8', 'Jack R. Lousma (Republican) 47.2', '\n']","Carl Levin
+",D,0,Michigan,MI,√ Carl Levin (Democratic) 51.8,1984
+MI_sen_1988,"['√ Donald W. Riegle Jr. (Democratic) 60.4', 'James Whitney Dunn (Republican) 38.5', 'Dick Jacobs (Libertarian) 0.8', 'Sally Bier (Workers Against Concessions) 0.3', '\n']","Donald W. Riegle Jr.
+",D,0,Michigan,MI,√ Donald W. Riegle Jr. (Democratic) 60.4,1988
+MI_sen_1990,"['√ Carl Levin (Democratic) 57.5', 'Bill Schuette (Republican) 41.2', 'Susan Farquhar (Workers World) 1.3', '\n']","Carl Levin
+",D,0,Michigan,MI,√ Carl Levin (Democratic) 57.5,1990
+MI_sen_1994,"['√ Spencer Abraham (Republican) 51.9', 'Bob Carr (Democratic) 42.7', 'Jon Coon (Libertarian) 4.2', 'William Roundtree (Workers World) 0.7', 'Chris Wege (Natural Law) 0.5', '\n']","Donald W. Riegle Jr.
+",D,0,Michigan,MI,√ Spencer Abraham (Republican) 51.9,1994
+MI_sen_1996,"['√ Carl Levin (Democratic) 58.4', 'Ronna Romney (Republican) 39.9', 'Kenneth L. Proctor (Libertarian) 1.0', 'William Roundtree (Workers World) 0.3', 'Joseph S. Mattingly (Natural Law) 0.3', 'Martin P. McLaughlin (Socialist Equality) 0.2', '\n']","Carl Levin
+",D,0,Michigan,MI,√ Carl Levin (Democratic) 58.4,1996
+MI_sen_2002,"['√ Carl Levin (Democratic) 60.6', 'Andrew Raczkowski (Republican) 37.9', 'Eric Borregard (Green) 0.8', 'John S. Mangopoulos (Reform) 0.4', 'Doug Dern (Natural Law) 0.3', '\n']","Carl Levin
+",D,0,Michigan,MI,√ Carl Levin (Democratic) 60.6,2002
+MI_sen_2002,"['√ Carl Levin (Democratic) 60.6', 'Andrew Raczkowski (Republican) 37.9', 'Eric Borregard (Green) 0.8', 'John S. Mangopoulos (Reform) 0.4', 'Doug Dern (Natural Law) 0.3', '\n']","Carl Levin
+",D,0,Michigan,MI,√ Carl Levin (Democratic) 60.6,2002
+MI_sen_2006,"['√ Debbie Stabenow (Democratic) 56.9', 'Mike Bouchard (Republican) 41.3', 'Leonard Schwartz (Libertarian) 0.7', 'David Sole (Green) 0.6', 'W. Dennis FitzSimons (Constitution) 0.5', '\n']","Debbie Stabenow
+",D,0,Michigan,MI,√ Debbie Stabenow (Democratic) 56.9,2006
+MI_sen_2002,"['√ Carl Levin (Democratic) 62.7', 'Jack Hoogendyk (Republican) 33.8', 'Scott Boman (Libertarian) 1.6', 'Harley Mikkelson (Green)  0.9', 'Michael Nikitin (Constitution) 0.6', 'Doug Dern (Natural Law) 0.4', '\n']","Carl Levin
+",D,0,Michigan,MI,√ Carl Levin (Democratic) 62.7,2002
+MI_sen_2012,"['√ Debbie Stabenow (Democratic) 58.8', 'Pete Hoekstra (Republican) 38.0', '[28]Scotty Boman (Libertarian) 1.8', '[29]Harley Mikkelson (Republican) 0.6', 'Richard Matkin (Constitution) 0.6', 'John Litle (Natural Law) 0.2', '\n']","Debbie Stabenow
+",D,0,Michigan,MI,√ Debbie Stabenow (Democratic) 58.8,2012
+MI_sen_2014,"['√ Gary Peters (Democratic) 54.6', '[71]Terri Lynn Land (Republican) 41.3', '[72]Jim Fulner (Libertarian) 2.0', '[73]Richard Matkin (U.S. Taxpayers) 1.2', ' Chris Wahmhoff (Green) 0.9', '[74]\n']","Carl Levin
+",D,0,Michigan,MI,√ Gary Peters (Democratic) 54.6,2014
+MN_sen_1976,"['√ Hubert Humphrey (Democratic) 67.5', 'Gerald W. Brekke (Republican) 25.0', 'Paul Helm (Independent) 6.6', '\n']","Hubert Humphrey
+",D,0,Minnesota,MN,√ Hubert Humphrey (Democratic) 67.5,1976
+MN_sen_1978,"['√ Rudy Boschwitz (Republican) 56.6', 'Wendell Anderson (Democratic) 40.4', 'Sal Carlone (American) 1.5', 'William Peterson (Socialist Workers) 0.6', 'Brian Coyle (Public Interest Independent) 0.5', 'Jean T. Brust (Workers) 0.2', 'Leonard Richards (Libertarian) 0.2', '\n']","Wendell Anderson
+",D,0,Minnesota,MN,√ Rudy Boschwitz (Republican) 56.6,1978
+MN_sen_2006,"['√ Amy Klobuchar (Democratic-Farmer-Labor) 58.1', 'Mark Kennedy (Republican) 37.9', 'Robert Fitzgerald (Independence) 3.2', 'Michael Cavlan (Green) 0.5', 'Ben Powers (Constitution) 0.3', '\n']","Mark Dayton
+",D,0,Minnesota,MN,√ Amy Klobuchar (Democratic-Farmer-Labor) 58.1,2006
+MN_sen_2012,"['√ Amy Klobuchar (Democratic) 65.2', 'Kurt Bills (Republican) 30.6', 'Stephen Williams (Independence) 2.6', 'Tim Davis (Grassroots) 1.1', 'Michael Cavlan (Open Progressive) 0.5', '\n']","Amy Klobuchar
+",D,0,Minnesota,MN,√ Amy Klobuchar (Democratic) 65.2,2012
+MN_sen_1978,"['√ David Durenberger (Republican) 61.4', 'Bob Short (Democratic) 34.6', 'Paul Helm (American) 2.9', 'Christine Frank (Socialist) 0.7', 'Frederick Hewitt (Libertarian) 0.3', '\n']","Muriel Humphrey
+",D,0,Minnesota,MN,√ David Durenberger (Republican) 61.4,1978
+MS_sen_1976,['√ John C. Stennis (Democratic)Unopposed\n'],"John C. Stennis
+",D,0,Mississippi,MS,"√ John C. Stennis (Democratic)Unopposed
+",1976
+MS_sen_1978,"['√ Thad Cochran (Republican) 45.3', 'Maurice Dantin (Democratic) 31.8', 'Charles Evers (Independent) 22.6', 'Henry Kirksey (Independent) 0.3', '\n']","James O. Eastland
+",D,0,Mississippi,MS,√ Thad Cochran (Republican) 45.3,1978
+MS_sen_1982,"['√ John C. Stennis (Democratic) 64.2', 'Haley Barbour (Republican) 35.8', '\n']","John C. Stennis
+",D,0,Mississippi,MS,√ John C. Stennis (Democratic) 64.2,1982
+MS_sen_1982,"['√ John C. Stennis (Democratic) 64.2', 'Haley Barbour (Republican) 35.8', '\n']","John C. Stennis
+",D,0,Mississippi,MS,√ John C. Stennis (Democratic) 64.2,1982
+MS_sen_1988,"['√ Trent Lott (Republican) 54.1', 'Wayne Dowdy (Democratic) 45.9', '\n']","John C. Stennis
+",D,0,Mississippi,MS,√ Trent Lott (Republican) 54.1,1988
+MO_sen_1976,"['√ John Danforth (Republican) 56.9', 'Warren E. Hearnes (Democratic) 42.5', 'Lawrence Petty (Independent) 0.6', '\n']","Stuart Symington
+",D,0,Missouri,MO,√ John Danforth (Republican) 56.9,1976
+MO_sen_1980,"['√ Thomas Eagleton (Democratic) 52.0', 'Gene McNary (Republican) 47.7', 'Martha Pettit (Socialist Workers) 0.3', '\n']","Thomas Eagleton
+",D,0,Missouri,MO,√ Thomas Eagleton (Democratic) 52.0,1980
+MO_sen_1986,"['√ Kit Bond (Republican) 52.6', 'Harriett Woods (Democratic) 47.4', '\n']","Thomas Eagleton
+",D,0,Missouri,MO,√ Kit Bond (Republican) 52.6,1986
+MO_sen_1986,"['√ Kit Bond (Republican) 52.6', 'Harriett Woods (Democratic) 47.4', '\n']","Thomas Eagleton
+",D,0,Missouri,MO,√ Kit Bond (Republican) 52.6,1986
+MO_sen_1986,"['√ Kit Bond (Republican) 52.6', 'Harriett Woods (Democratic) 47.4', '\n']","Thomas Eagleton
+",D,0,Missouri,MO,√ Kit Bond (Republican) 52.6,1986
+MO_sen_2012,"['√ Claire McCaskill (Democratic) 54.8', 'Todd Akin (Republican) 39.0', '[31]Jonathan Dine (Libertarian) 6.1', '\n']","Claire McCaskill
+",D,0,Missouri,MO,√ Claire McCaskill (Democratic) 54.8,2012
+MO_sen_2002,"['√ Jim Talent (Republican) 49.8', 'Jean Carnahan (Democratic) 48.7', 'Tamara A. Millay (Libertarian) 1', 'Daniel Romano (Green) 0.6', '\n']","Jean Carnahan
+",D,0,Missouri,MO,√ Jim Talent (Republican) 49.8,2002
+MO_sen_2002,"['√ Jim Talent (Republican) 49.8', 'Jean Carnahan (Democratic) 48.7', 'Tamara A. Millay (Libertarian) 1', 'Daniel Romano (Green) 0.6', '\n']","Jean Carnahan
+",D,0,Missouri,MO,√ Jim Talent (Republican) 49.8,2002
+MT_sen_1976,"['√ John Melcher (Democratic) 64.2', 'Stanley C. Burger (Republican) 35.8', '\n']","Mike Mansfield
+",D,0,Montana,MT,√ John Melcher (Democratic) 64.2,1976
+MT_sen_1978,"['√ Max Baucus (Democratic) 55.7', 'Larry Williams (Republican) 44.3', '\n']","Paul G. Hatfield
+",D,0,Montana,MT,√ Max Baucus (Democratic) 55.7,1978
+MT_sen_1982,"['√ John Melcher (Democratic) 54.4', 'Larry R. Williams (Republican) 41.7', 'Larry Dodge (Libertarian) 3.9', '\n']","John Melcher
+",D,0,Montana,MT,√ John Melcher (Democratic) 54.4,1982
+MT_sen_1984,"['√ Max Baucus (Democratic) 56.9', 'Chuck Cozzens (Republican) 40.7', 'Neil Halprin (Libertarian) 2.4', '\n']","Max Baucus
+",D,0,Montana,MT,√ Max Baucus (Democratic) 56.9,1984
+MT_sen_1982,"['√ John Melcher (Democratic) 54.4', 'Larry R. Williams (Republican) 41.7', 'Larry Dodge (Libertarian) 3.9', '\n']","John Melcher
+",D,0,Montana,MT,√ John Melcher (Democratic) 54.4,1982
+MT_sen_1984,"['√ Max Baucus (Democratic) 56.9', 'Chuck Cozzens (Republican) 40.7', 'Neil Halprin (Libertarian) 2.4', '\n']","Max Baucus
+",D,0,Montana,MT,√ Max Baucus (Democratic) 56.9,1984
+MT_sen_1988,"['√ Conrad Burns (Republican) 51.9', 'John Melcher (Democratic) 48.1', '\n']","John Melcher
+",D,0,Montana,MT,√ Conrad Burns (Republican) 51.9,1988
+MT_sen_1990,"['√ Max Baucus (Democratic) 68.1', 'Allen C. Kolstad (Republican) 29.4', 'Westley Deitchler (Libertarian) 2.5', '\n']","Max Baucus
+",D,0,Montana,MT,√ Max Baucus (Democratic) 68.1,1990
+MT_sen_1996,"['√ Max Baucus (Democratic) 49.5', 'Dennis Rehberg (Republican) 44.7', 'Becky Shaw (Reform) 4.7', 'Stephen Heaton (Natural Law) 1', '\n']","Max Baucus
+",D,0,Montana,MT,√ Max Baucus (Democratic) 49.5,1996
+MT_sen_2002,"['√ Max Baucus (Democratic) 62.7', 'Mike Taylor (Republican) 31.7', 'Stan Jones (Libertarian) 3.2', 'Bob Kelleher (Green) 2.3', '\n']","Max Baucus
+",D,0,Montana,MT,√ Max Baucus (Democratic) 62.7,2002
+MT_sen_2002,"['√ Max Baucus (Democratic) 62.7', 'Mike Taylor (Republican) 31.7', 'Stan Jones (Libertarian) 3.2', 'Bob Kelleher (Green) 2.3', '\n']","Max Baucus
+",D,0,Montana,MT,√ Max Baucus (Democratic) 62.7,2002
+MT_sen_2002,"['√ Max Baucus (Democratic) 72.9', 'Bob Kelleher (Republican) 27.1', '\n']","Max Baucus
+",D,0,Montana,MT,√ Max Baucus (Democratic) 72.9,2002
+MT_sen_2012,"['√ Jon Tester (Democratic) 48.6', 'Denny Rehberg (Republican) 44.9', '[32]Dan Cox (Libertarian) 6.6', '\n']","Jon Tester
+",D,0,Montana,MT,√ Jon Tester (Democratic) 48.6,2012
+MT_sen_2014,"['√ Steve Daines (Republican) 57.8', '[81]Amanda Curtis (Democratic) 40.1', ' Roger Roots (Libertarian) 2.1', '[82]\n']","John Walsh
+",D,0,Montana,MT,√ Steve Daines (Republican) 57.8,2014
+NE_sen_1982,"['√ Edward Zorinsky (Democratic) 66.6', 'Jim Keck (Republican) 28.5', 'Virginia Walsh (Independent) 4.9', '\n']","Edward Zorinsky
+",D,0,Nebraska,NE,√ Edward Zorinsky (Democratic) 66.6,1982
+NE_sen_1984,"['√ J. James Exon (Democratic) 51.9', 'Nancy Hoch (Republican) 48.0', '\n']","J. James Exon
+",D,0,Nebraska,NE,√ J. James Exon (Democratic) 51.9,1984
+NE_sen_1982,"['√ Edward Zorinsky (Democratic) 66.6', 'Jim Keck (Republican) 28.5', 'Virginia Walsh (Independent) 4.9', '\n']","Edward Zorinsky
+",D,0,Nebraska,NE,√ Edward Zorinsky (Democratic) 66.6,1982
+NE_sen_1984,"['√ J. James Exon (Democratic) 51.9', 'Nancy Hoch (Republican) 48.0', '\n']","J. James Exon
+",D,0,Nebraska,NE,√ J. James Exon (Democratic) 51.9,1984
+NE_sen_1990,"['√ J. James Exon (Democratic) 59.1', 'Hal Daub (Republican) 40.9', '\n']","J. James Exon
+",D,0,Nebraska,NE,√ J. James Exon (Democratic) 59.1,1990
+NE_sen_1994,"['√ Bob Kerrey (Democratic) 55', 'Jan Stoney (Republican) 45', '\n']","Bob Kerrey
+",D,0,Nebraska,NE,√ Bob Kerrey (Democratic) 55,1994
+NE_sen_1996,"['√ Chuck Hagel (Republican) 56.1', 'Ben Nelson (Democratic) 41.7', '\n']","Jim Exon
+",D,0,Nebraska,NE,√ Chuck Hagel (Republican) 56.1,1996
+NE_sen_2000,"['√ Ben Nelson (Democratic) 51', 'Don Stenberg (Republican) 48.8', '\n']","Bob Kerrey
+",D,0,Nebraska,NE,√ Ben Nelson (Democratic) 51,2000
+NE_sen_2006,"['√ Ben Nelson (Democratic) 63.9', 'Pete Ricketts (Republican) 36.1', '\n']","Ben Nelson
+",D,0,Nebraska,NE,√ Ben Nelson (Democratic) 63.9,2006
+NE_sen_2012,"['√ Deb Fischer (Republican) 57.8', '[34]Bob Kerrey (Democratic) 42.2', '[35]\n']","Ben Nelson
+",D,0,Nebraska,NE,√ Deb Fischer (Republican) 57.8,2012
+NV_sen_1976,"['√ Howard Cannon (Democratic) 63.0', 'David Towell (Republican) 31.4', '\n']","Howard Cannon
+",D,0,Nevada,NV,√ Howard Cannon (Democratic) 63.0,1976
+NV_sen_1982,"['√ Chic Hecht (Republican) 50.1', 'Howard Cannon (Democratic) 47.7', '\n']","Howard Cannon
+",D,0,Nevada,NV,√ Chic Hecht (Republican) 50.1,1982
+NV_sen_1982,"['√ Chic Hecht (Republican) 50.1', 'Howard Cannon (Democratic) 47.7', '\n']","Howard Cannon
+",D,0,Nevada,NV,√ Chic Hecht (Republican) 50.1,1982
+NV_sen_1992,"['√ Harry Reid (Democratic) 51.0', 'Demar Dahl (Republican) 40.2', 'None of These Candidates 2.6', 'Joe Garcia (Independent American) 2.3', 'Lois Avery (Natural Law) 1.5', 'H. Kent Cromwell (Libertarian) 1.5', 'Harry Tootle (Populist) 0.9', '\n']","Harry Reid
+",D,0,Nevada,NV,√ Harry Reid (Democratic) 51.0,1992
+NV_sen_1994,"['√ Richard Bryan (Democratic) 50.9', 'Hal Furman (Republican) 41', 'Anna Nevenich (Independent) 1.8', 'Bob Days (Libertarian) 1.6', 'Neal A. Grasteit (Independent American) 1.4', '\n']","Richard  Bryan
+",D,0,Nevada,NV,√ Richard Bryan (Democratic) 50.9,1994
+NV_sen_1998,"['√ Harry Reid (Democratic) 47.9', 'John Ensign (Republican) 47.8', 'Michael Cloud (Libertarian) 1.9', 'None of These Candidates 1.8', 'Michael E. Williams (Natural Law) 0.6', '\n']","Harry Reid
+",D,0,Nevada,NV,√ Harry Reid (Democratic) 47.9,1998
+NV_sen_2000,"['√ John Ensign (Republican) 55.1', 'Edward M. Bernstein (Democratic) 39.7', 'None of These Candidates 1.9', 'Kathy Rusco (Green) 1.7', 'J.J. Johnson (Libertarian) 0.9', 'Ernie Berghof (Independent American) 0.4', 'Bill Grutzmacher (Citizens First) 0.3', '\n']","Richard Bryan
+",D,0,Nevada,NV,√ John Ensign (Republican) 55.1,2000
+NV_sen_2004,"['√ Harry Reid (Democratic) 61.1', 'Richard Ziser (Republican) 35.1', 'None of These Candidates 1.6', 'Tomas Hurst (Libertarian) 1.2', 'David Schumann (Constitution) 0.7', 'Gary Marinch (Natural Law) 0.3', '\n']","Harry Reid
+",D,0,Nevada,NV,√ Harry Reid (Democratic) 61.1,2004
+NV_sen_2010,"['√ Harry Reid (Democratic) 50.2', 'Sharron Angle (Republican) 44.6', 'None of These Candidates 2.2', 'Scott Ashjian (Tea) 0.8', '\n']","Harry Reid
+",D,0,Nevada,NV,√ Harry Reid (Democratic) 50.2,2010
+NV_sen_2016,"['√ Catherine Cortez Masto (Democratic) 47.1', '[73]Joe Heck (Republican) 44.7', '[74]\nTom Jones (Independent American)Tony Gumina (unaffiliated)Tom Sawyer (unaffiliated)Jarrod Michael Williams (unaffiliated)(None of these candidates)\n\n']","Harry Reid
+",D,0,Nevada,NV,√ Catherine Cortez Masto (Democratic) 47.1,2016
+NH_sen_1978,"['√ Gordon J. Humphrey (Republican) 50.7', 'Thomas J. McIntyre (Democratic) 48.5', 'Craig Franklin (Libertarian) 0.8', '\n']","Thomas J. McIntyre
+",D,0,New_Hampshire,NH,√ Gordon J. Humphrey (Republican) 50.7,1978
+NH_sen_1980,"['√ Warren Rudman (Republican) 52.1', 'John A. Durkin (Democratic) 47.8', '\n']","John A. Durkin
+",D,0,New_Hampshire,NH,√ Warren Rudman (Republican) 52.1,1980
+NH_sen_2014,"['√ Jeanne Shaheen (Democratic) 51.5', '[88]Scott Brown (Republican) 48.2', '[89]\n']","Jeanne Shaheen
+",D,0,New_Hampshire,NH,√ Jeanne Shaheen (Democratic) 51.5,2014
+NJ_sen_1976,"['√ Harrison A. Williams (Democratic) 60.7', 'David A. Norcross (Republican) 38.0', '\n']","Harrison A. Williams
+",D,0,New_Jersey,NJ,√ Harrison A. Williams (Democratic) 60.7,1976
+NJ_sen_1984,"['√ Bill Bradley (Democratic) 64.2', 'Mary V. Mochary (Republican) 35.2', '\n']","Bill Bradley
+",D,0,New_Jersey,NJ,√ Bill Bradley (Democratic) 64.2,1984
+NJ_sen_1984,"['√ Bill Bradley (Democratic) 64.2', 'Mary V. Mochary (Republican) 35.2', '\n']","Bill Bradley
+",D,0,New_Jersey,NJ,√ Bill Bradley (Democratic) 64.2,1984
+NJ_sen_1988,"['√ Frank Lautenberg (Democratic) 53.5', 'Pete Dawkins (Republican) 45.2', 'Joseph Job (Independent) 0.7', 'Jerry Zeldin (Libertarian) 0.4', 'Thomas Fiske (Socialist Workers) 0.2', '\n']","Frank Lautenberg
+",D,0,New_Jersey,NJ,√ Frank Lautenberg (Democratic) 53.5,1988
+NJ_sen_1990,"['√ Bill Bradley (Democratic) 50.4', 'Christine Todd Whitman (Republican) 47.4', 'John L. Kucek (Populist) 1.0', 'Louis M. Stefanelli (Libertarian) 0.7', 'Don Mackle (Socialist Workers) 0.4', '\n']","Bill Bradley
+",D,0,New_Jersey,NJ,√ Bill Bradley (Democratic) 50.4,1990
+NJ_sen_1994,"['√ Frank Lautenberg (Democratic) 50.4', 'Chuck Haytaian (Republican) 47', 'Michael P. Kelly (Keep America First) 0.7', 'Ben Grindlinger (Libertarian) 0.7', 'Richard J. Pezzullo (Conservative) 0.4', 'Andrea Lippi (Jobs, Property Rights) 0.3', 'George Patrick Predham (Damn Drug Dealers) 0.2', 'Joanne Kuniansky (Socialist Workers Party) 0.2', 'Arlene Gold (Natural Law Party) 0.2', '\n']","Frank Lautenberg
+",D,0,New_Jersey,NJ,√ Frank Lautenberg (Democratic) 50.4,1994
+NJ_sen_1996,"['√ Robert Torricelli (Democratic) 52.7', 'Dick Zimmer (Republican) 42.5', 'Richard J. Pezzullo (Independent) 1.8', 'Mary Jo Christian (Independent) 0.8', 'Paul A. Woomer (Independent) 0.5', 'Olga L. Rodriguez (Independent) 0.5', 'Mark Wise (Independent) 0.5', 'Wilburt Kornegay (Independent) 0.4', 'Steven J. Baeli (Independent) 0.3', '\n']","Bill Bradley
+",D,0,New_Jersey,NJ,√ Robert Torricelli (Democratic) 52.7,1996
+NJ_sen_2000,"['√ Jon Corzine (Democratic) 50.1', 'Bob Franks (Republican) 47.1', 'Bruce Afran (Green) 1.1', 'Pat DiNizio (Reform) 0.6', 'Emerson Ellett (Libertarian) 0.2', 'Dennis A. Breen (Independent) 0.2', 'J.M. Carter (Trust in God) 0.2', 'Lorraine LaNeve (NJ Conservative) 0.1', 'Gregory Pason (Socialist) 0.1', 'Nancy Rosenstock (Socialist Workers) 0.1', 'George Gostigian (God Bless Jersey) 0.1', '\n']","Frank Lautenberg
+",D,0,New_Jersey,NJ,√ Jon Corzine (Democratic) 50.1,2000
+NJ_sen_2002,"['√ Frank Lautenberg (Democratic) 53.9', 'Doug Forrester (Republican) 44', 'Ted Glick (Green) 1.2', 'Elizabeth Macron (Libertarian) 0.6', 'Norman E. Wahner (NJ Conservative) 0.3', 'Gregory Pason (Socialist) 0.1', '\n']","Robert Torricelli
+",D,0,New_Jersey,NJ,√ Frank Lautenberg (Democratic) 53.9,2002
+NJ_sen_2002,"['√ Frank Lautenberg (Democratic) 53.9', 'Doug Forrester (Republican) 44', 'Ted Glick (Green) 1.2', 'Elizabeth Macron (Libertarian) 0.6', 'Norman E. Wahner (NJ Conservative) 0.3', 'Gregory Pason (Socialist) 0.1', '\n']","Robert Torricelli
+",D,0,New_Jersey,NJ,√ Frank Lautenberg (Democratic) 53.9,2002
+NJ_sen_2006,"['√ Bob Menendez (Democratic) 53.4', 'Thomas Kean Jr. (Republican) 44.3', 'Len Flynn (Libertarian) 0.7', 'Ed Forchion (Marijuana) 0.5', 'J.M. Carter (Independent) 0.4', 'N. Leonard Smith (Independent) 0.3', 'Daryl Brooks (Independent) 0.2', 'Angela Lariscy (Socialist Workers) 0.2', 'Gregory Pason (Socialist) 0.1', '\n']","Bob Menendez
+",D,0,New_Jersey,NJ,√ Bob Menendez (Democratic) 53.4,2006
+NJ_sen_2002,"['√ Frank Lautenberg (Democratic) 56.0', 'Dick Zimmer (Republican) 42.0', 'Jason Scheurer (Libertarian) 0.5', 'J. M. Carter (Independent) 0.5', 'Daryl Mikell Brooks (Independent) 0.5', 'Jeffrey Boss (Independent) 0.3', 'Sara Lobman (Socialist Workers) 0.3', '\n']","Frank Lautenberg
+",D,0,New_Jersey,NJ,√ Frank Lautenberg (Democratic) 56.0,2002
+NJ_sen_2012,"['√ Bob Menendez (Democratic) 58.9', 'Joe Kyrillos (Republican) 39.4', '[36]Ken Kaplan (Libertarian) 0.5', 'Ken Wolski (Green) 0.5', 'Gavin Bard (Independent)[37]Larry Donahue (Independent)[38]\n']","Bob Menendez
+",D,0,New_Jersey,NJ,√ Bob Menendez (Democratic) 58.9,2012
+NJ_sen_2014,"['√ Cory Booker (Democratic) 55.8', '[90]Jeff Bell (Republican) 42.3', '[90]Joe Baratelli (Libertarian) 0.9', '[91]Hank Schroeder (Economic Growth) 0.3', '[92]Jeff Boss (Independent)[92] 0.2', ' Eugene M. LaVergne (D-R) 0.2', '[93]Antonio Sabas (Independent) 0.2', '[94]\n']","Cory Booker
+",D,0,New_Jersey,NJ,√ Cory Booker (Democratic) 55.8,2014
+NM_sen_1976,"['√ Harrison Schmitt (Republican) 56.8', 'Joseph Montoya (Democratic) 42.7', '\n']","Joseph Montoya
+",D,0,New_Mexico,NM,√ Harrison Schmitt (Republican) 56.8,1976
+NM_sen_1988,"['√ Jeff Bingaman (Democratic) 63.2', 'Bill Valentine (Republican) 36.8', '\n']","Jeff Bingaman
+",D,0,New_Mexico,NM,√ Jeff Bingaman (Democratic) 63.2,1988
+NM_sen_1994,"['√ Jeff Bingaman (Democratic) 54', 'Colin McMillan (Republican) 46', '\n']","Jeff Bingaman
+",D,0,New_Mexico,NM,√ Jeff Bingaman (Democratic) 54,1994
+NM_sen_2000,"['√ Jeff Bingaman (Democratic) 61.7', 'William T. Redmond (Republican) 38.3', '\n']","Jeff Bingaman
+",D,0,New_Mexico,NM,√ Jeff Bingaman (Democratic) 61.7,2000
+NM_sen_2006,"['√ Jeff Bingaman (Democratic) 70.6', 'Allen McCulloch (Republican) 29.3', '\n']","Jeff Bingaman
+",D,0,New_Mexico,NM,√ Jeff Bingaman (Democratic) 70.6,2006
+NM_sen_2012,"['√ Martin Heinrich (Democratic) 51.0', '[40]Heather Wilson (Republican) 45.3', 'Jon Barrie (IAP) 3.6', 'Robert L. Anderson (write-in) 0.1', '\n']","Jeff Bingaman
+",D,0,New_Mexico,NM,√ Martin Heinrich (Democratic) 51.0,2012
+NM_sen_2014,"['√ Tom Udall (Democratic) 55.6', '[95]Allen Weh (Republican) 44.4', '[96]\n']","Tom Udall
+",D,0,New_Mexico,NM,√ Tom Udall (Democratic) 55.6,2014
+NY_sen_1982,"['√ Daniel P. Moynihan (Democratic) 65.1', 'Florence M. Sullivan (Republican) 34.2', '\n']","Daniel Patrick Moynihan
+",D,0,New_York,NY,√ Daniel P. Moynihan (Democratic) 65.1,1982
+NY_sen_1982,"['√ Daniel P. Moynihan (Democratic) 65.1', 'Florence M. Sullivan (Republican) 34.2', '\n']","Daniel Patrick Moynihan
+",D,0,New_York,NY,√ Daniel P. Moynihan (Democratic) 65.1,1982
+NY_sen_1988,"['√ Daniel Patrick Moynihan (Democratic) 67.3', 'Robert R. McMillan (Republican) 31.6', '\n']","Daniel Patrick Moynihan
+",D,0,New_York,NY,√ Daniel Patrick Moynihan (Democratic) 67.3,1988
+NY_sen_1994,"['√ Daniel Patrick Moynihan (Democratic) 55', 'Bernadette Castro (Republican) 42.3', 'Henry F. Hewes (Right-to-Life) 1.8', 'Ismael Betancourt, Jr. (Independence (N.Y.)) 0.5', 'Norma Segal (Libertarian) 0.3', 'Naomi L. Craine (Socialist Workers) 0.3', '\n']","Daniel Patrick Moynihan
+",D,0,New_York,NY,√ Daniel Patrick Moynihan (Democratic) 55,1994
+NY_sen_2000,"['√ Hillary Clinton (Democratic) 55', 'Rick Lazio (Republican) 43', 'Jeffrey E. Graham (Independence) 0.6', 'Mark J. Dunau (Green) 0.6', 'John O. Adefope (Right To Life) 0.3', 'John Clifton (Libertarian) 0.1', 'Louis Wein (Constitution) 0.1', 'Jacob Perasso (Socialist Workers) 0.1', '\n']","Daniel Patrick Moynihan
+",D,0,New_York,NY,√ Hillary Clinton (Democratic) 55,2000
+NY_sen_2004,"['√ Chuck Schumer (Democratic) 71.16', 'Howard Mills III (Republican) 24.24', ""Marilyn O'Grady (Conservative) 3"", 'David McReynolds (Green) 0.5', 'Donald Silberger (Libertarian) 0.3', 'Abraham Hirschfeld (Builders Party) 0.2', 'Martin Koppel (Socialist Workers) 0.2', '\n']","Chuck Schumer
+",D,0,New_York,NY,√ Chuck Schumer (Democratic) 71.16,2004
+NY_sen_2006,"['√ Hillary Clinton (Democratic) 67.0', 'John Spencer (Republican) 31.0', 'Howie Hawkins (Green) 1.2', 'Jeff Russell (Libertarian) 0.4', 'Bill Van Auken (Socialist Equality) 0.2', 'Roger Calero (Socialist Workers) 0.2', '\n']","Hillary Clinton
+",D,0,New_York,NY,√ Hillary Clinton (Democratic) 67.0,2006
+NY_sen_2010,"['√ Chuck Schumer (Democratic) 66.3', 'Jay Townsend (Republican) 32.2', 'Colia Clark (Green) 1.0', 'Randy Credico (Libertarian) 0.6', '\n']","Chuck Schumer
+",D,0,New_York,NY,√ Chuck Schumer (Democratic) 66.3,2010
+NY_sen_2012,"['√ Kirsten Gillibrand (Democratic) 71.6', 'Wendy E. Long (Republican) 27.0', '[41]Colia Clark (Green) 0.6', 'Chris Edes (Libertarian) 0.5', 'John Mangelli (Common Sense) 0.34', 'Write-Ins 0.03', '\n']","Kirsten Gillibrand
+",D,0,New_York,NY,√ Kirsten Gillibrand (Democratic) 71.6,2012
+NY_sen_2016,"['√ Chuck Schumer (Democratic) 70.4', '[37]Wendy Long (Republican) 27.4', '[78]Alex Merced (Libertarian)[79]Robin Wilson (Green)[80]\n']","Chuck Schumer
+",D,0,New_York,NY,√ Chuck Schumer (Democratic) 70.4,2016
+NY_sen_2010,"['√ Kirsten Gillibrand (Democratic) 62.0', 'Joseph DioGuardi (Republican) 35.8', 'Cecile Lawrence (Green) 0.8Joseph Huff (Independent) 0.5', '\n']","Kirsten Gillibrand
+",D,0,New_York,NY,√ Kirsten Gillibrand (Democratic) 62.0,2010
+NC_sen_1980,"['√ John Porter East (Republican) 50.0', 'Robert Burren Morgan (Democratic) 49.4', '\n']","Robert Burren Morgan
+",D,0,North_Carolina,NC,√ John Porter East (Republican) 50.0,1980
+NC_sen_1992,"['√ Lauch Faircloth (Republican) 50.4', 'Terry Sanford (Democratic) 46.3', 'Bobby Emory (Libertarian) 3.3', '\n']","Terry Sanford
+",D,0,North_Carolina,NC,√ Lauch Faircloth (Republican) 50.4,1992
+NC_sen_2004,"['√ Richard Burr (Republican) 52', 'Erskine Bowles (Democratic) 47', 'Tom Bailey (Libertarian) 1', '\n']","John Edwards
+",D,0,North_Carolina,NC,√ Richard Burr (Republican) 52,2004
+NC_sen_2014,"['√ Thom Tillis (Republican) 48.8', '[97]Kay Hagan (Democratic) 47.3', '[98]Sean Haugh (Libertarian) 3.7', '[99]\n']","Kay Hagan
+",D,0,North_Carolina,NC,√ Thom Tillis (Republican) 48.8,2014
+ND_sen_1976,"['√ Quentin N. Burdick (Democratic) 62.1', 'Robert Stroup (Republican) 36.6', '\n']","Quentin N. Burdick
+",D,0,North_Dakota,ND,√ Quentin N. Burdick (Democratic) 62.1,1976
+ND_sen_1982,"['√ Quentin N. Burdick (Democratic) 62.8', 'Gene Knorr (Republican) 34.0', 'Anna B. Bourgois (Independent) 3.1', '\n']","Quentin N. Burdick
+",D,0,North_Dakota,ND,√ Quentin N. Burdick (Democratic) 62.8,1982
+ND_sen_1982,"['√ Quentin N. Burdick (Democratic) 62.8', 'Gene Knorr (Republican) 34.0', 'Anna B. Bourgois (Independent) 3.1', '\n']","Quentin N. Burdick
+",D,0,North_Dakota,ND,√ Quentin N. Burdick (Democratic) 62.8,1982
+ND_sen_1988,"['√ Quentin N. Burdick (Democratic) 59.5', 'Earl Strinden (Republican) 39.1', 'Kenneth C. Gardner (Libertarian) 1.5', '\n']","Quentin N. Burdick
+",D,0,North_Dakota,ND,√ Quentin N. Burdick (Democratic) 59.5,1988
+ND_sen_1992,"['√ Byron Dorgan (Democratic) 59.0', 'Steve Sydness (Republican) 38.9', 'Tom Asbridge (Independent) 2.1', '\n']","Kent Conrad
+",D,0,North_Dakota,ND,√ Byron Dorgan (Democratic) 59.0,1992
+ND_sen_2000,"['√ Kent Conrad (Democratic) 61.4', 'Duane Sand (Republican) 38.6', '\n']","Kent Conrad
+",D,0,North_Dakota,ND,√ Kent Conrad (Democratic) 61.4,2000
+ND_sen_2006,"['√ Kent Conrad (Democratic) 68.8', 'Dwight Grotberg (Republican) 29.5', 'Roland Riemers (Independent) 1.0', 'James Germalic (Independent) 0.6', '\n']","Kent Conrad
+",D,0,North_Dakota,ND,√ Kent Conrad (Democratic) 68.8,2006
+ND_sen_2012,"['√ Heidi Heitkamp (Democratic) 50.24', '[43]Rick Berg (Republican) 49.32', 'Other candidates 0.44', '\n']","Kent Conrad
+",D,0,North_Dakota,ND,√ Heidi Heitkamp (Democratic) 50.24,2012
+ND_sen_1992,"['√ Kent Conrad (Democratic) 63.3', 'Jack Dalrymple (Republican) 33.7', 'Darold Larson (Independent) 3.0', '\n']","Jocelyn Burdick
+",D,0,North_Dakota,ND,√ Kent Conrad (Democratic) 63.3,1992
+OH_sen_1980,"['√ John Glenn (Democratic) 68.8', 'James E. Betts (Republican) 28.2', 'John E. Powers (Independent) 1.9', 'Rick Nagin (Independent) 1.1', '\n']","John Glenn
+",D,0,Ohio,OH,√ John Glenn (Democratic) 68.8,1980
+OH_sen_1982,"['√ Howard Metzenbaum (Democratic) 56.7', 'Paul E. Pfeifer (Republican) 41.1', '\n']","Howard Metzenbaum
+",D,0,Ohio,OH,√ Howard Metzenbaum (Democratic) 56.7,1982
+OH_sen_1986,"['√ John Glenn (Democratic) 62.4', 'Tom Kindness (Republican) 37.6', '\n']","John Glenn
+",D,0,Ohio,OH,√ John Glenn (Democratic) 62.4,1986
+OH_sen_1982,"['√ Howard Metzenbaum (Democratic) 56.7', 'Paul E. Pfeifer (Republican) 41.1', '\n']","Howard Metzenbaum
+",D,0,Ohio,OH,√ Howard Metzenbaum (Democratic) 56.7,1982
+OH_sen_1986,"['√ John Glenn (Democratic) 62.4', 'Tom Kindness (Republican) 37.6', '\n']","John Glenn
+",D,0,Ohio,OH,√ John Glenn (Democratic) 62.4,1986
+OH_sen_1986,"['√ John Glenn (Democratic) 62.4', 'Tom Kindness (Republican) 37.6', '\n']","John Glenn
+",D,0,Ohio,OH,√ John Glenn (Democratic) 62.4,1986
+OH_sen_1988,"['√ Howard Metzenbaum (Democratic) 56.9', 'George Voinovich (Republican) 43.1', '\n']","Howard Metzenbaum
+",D,0,Ohio,OH,√ Howard Metzenbaum (Democratic) 56.9,1988
+OH_sen_1992,"['√ John Glenn (Democratic) 51.0', 'Mike DeWine (Republican) 42.3', 'Martha Grevatt (Independent) 6.7', '\n']","John Glenn
+",D,0,Ohio,OH,√ John Glenn (Democratic) 51.0,1992
+OH_sen_1994,"['√ Mike DeWine (Republican) 53.4', 'Joel Hyatt (Democratic) 39.2', 'Joseph Slovenec (Independent) 7.3', '\n']","Howard Metzenbaum
+",D,0,Ohio,OH,√ Mike DeWine (Republican) 53.4,1994
+OH_sen_1998,"['√ George Voinovich (Republican) 56.5', 'Mary Boyle (Democratic) 43.5', '\n']","John Glenn
+",D,0,Ohio,OH,√ George Voinovich (Republican) 56.5,1998
+OH_sen_2012,"['√ Sherrod Brown (Democratic) 50.7', 'Josh Mandel (Republican) 44.7', '[44]Scott A. Rupert (Independent) 4.6', '\n']","Sherrod Brown
+",D,0,Ohio,OH,√ Sherrod Brown (Democratic) 50.7,2012
+OK_sen_1984,"['√ David L. Boren (Democratic) 75.6', 'Will E. Crozier (Republican) 23.4', 'Robert Murphy (Libertarian) 0.9', '\n']","David L. Boren
+",D,0,Oklahoma,OK,√ David L. Boren (Democratic) 75.6,1984
+OK_sen_1984,"['√ David L. Boren (Democratic) 75.6', 'Will E. Crozier (Republican) 23.4', 'Robert Murphy (Libertarian) 0.9', '\n']","David L. Boren
+",D,0,Oklahoma,OK,√ David L. Boren (Democratic) 75.6,1984
+OK_sen_1990,"['√ David L. Boren (Democratic) 83.2', 'Stephen Jones (Republican) 17.8', '\n']","David L. Boren
+",D,0,Oklahoma,OK,√ David L. Boren (Democratic) 83.2,1990
+OK_sen_1994,"['√ James Inhofe (Republican) 55.2', 'Dave McCurdy (Democratic) 40', 'Danny Corn (Independent) 4.8', '\n']","David L. Boren
+",D,0,Oklahoma,OK,√ James Inhofe (Republican) 55.2,1994
+OR_sen_1998,"['√ Ron Wyden (Democratic) 61', 'John Lim (Republican) 33.8', 'Karen Moskowitz (Green) 2.0', 'Jim Brewster (Libertarian) 1.6', 'Michael A. Campbell (Natural Law) 0.8', 'Dean M. Braa (Socialist) 0.7', '\n']","Ron Wyden
+",D,0,Oregon,OR,√ Ron Wyden (Democratic) 61,1998
+OR_sen_2004,"['√ Ron Wyden (Democratic) 63.4', 'Al King (Republican) 31.8', 'Teresa Keane (Green) 2.4', 'Dan Fitzgerald (Libertarian) 1.7', 'David Brownlow (Constitution) 0.7', '\n']","Ron Wyden
+",D,0,Oregon,OR,√ Ron Wyden (Democratic) 63.4,2004
+OR_sen_2010,"['√ Ron Wyden (Democratic) 57.2', 'Jim Huffman (Republican) 39.4', 'Bruce Cronk (W.F.) 1.3', 'Marc Delphine (Libertarian) 1.1', 'Rick Staggenborg (Progressive) 1.0', '\n']","Ron Wyden
+",D,0,Oregon,OR,√ Ron Wyden (Democratic) 57.2,2010
+OR_sen_2014,"['√ Jeff Merkley (Democratic) 55.7', '[102]Monica Wehby (Republican) 36.9', '[103]Mike Montchalin (Libertarian) 3.1', '[104]Christina Jean Lugo (Pacific Green) 2.2', '[105]James E. Leuenberger (Constitution) 1.7', '[106]\n']","Jeff Merkley
+",D,0,Oregon,OR,√ Jeff Merkley (Democratic) 55.7,2014
+OR_sen_2016,"['√ Ron Wyden (Democratic) 56.1', '[37]Mark Callahan (Republican) 33.35', '[92]Jim Lindsay (Libertarian)[93]Eric Navickas (Green)[93]\n']","Ron Wyden
+",D,0,Oregon,OR,√ Ron Wyden (Democratic) 56.1,2016
+PA_sen_1994,"['√ Rick Santorum (Republican) 49.4', 'Harris Wofford (Democratic) 46.9', 'Diane Blough (Patriot) 2', 'Donald C. Ernsberger (Libertarian) 1.7', '\n']","Harris Wofford
+",D,0,Pennsylvania,PA,√ Rick Santorum (Republican) 49.4,1994
+PA_sen_2010,"['√ Pat Toomey (Republican) 51.01', 'Joe Sestak (Democratic) 48.99', '\n']","Arlen Specter
+",D,0,Pennsylvania,PA,√ Pat Toomey (Republican) 51.01,2010
+PA_sen_2012,"['√ Bob Casey Jr. (Democratic) 53.7', 'Tom Smith (Republican) 44.6', '[45]Rayburn Douglas Smith (Libertarian) 1.7', '\n']","Bob Casey Jr.
+",D,0,Pennsylvania,PA,"√ Bob Casey, Jr. (Democratic) 53.7",2012
+RI_sen_1976,"['√ John Chafee (Republican) 57.7', 'Richard P. Lorber (Democratic) 42.0', '\n']","John O. Pastore
+",D,0,Rhode_Island,RI,√ John Chafee (Republican) 57.7,1976
+RI_sen_1978,"['√ Claiborne Pell (Democratic) 75.1', 'James G. Reynolds (Republican) 24.9', '\n']","Claiborne Pell
+",D,0,Rhode_Island,RI,√ Claiborne Pell (Democratic) 75.1,1978
+RI_sen_1984,"['√ Claiborne Pell (Democratic) 72.6', 'Barbara Leonard (Republican) 27.4', '\n']","Claiborne Pell
+",D,0,Rhode_Island,RI,√ Claiborne Pell (Democratic) 72.6,1984
+RI_sen_1984,"['√ Claiborne Pell (Democratic) 72.6', 'Barbara Leonard (Republican) 27.4', '\n']","Claiborne Pell
+",D,0,Rhode_Island,RI,√ Claiborne Pell (Democratic) 72.6,1984
+RI_sen_1990,"['√ Claiborne Pell (Democratic) 61.8', 'Claudine Schneider (Republican) 38.2', '\n']","Claiborne Pell
+",D,0,Rhode_Island,RI,√ Claiborne Pell (Democratic) 61.8,1990
+RI_sen_1996,"['√ Jack Reed (Democratic) 63.3', 'Nancy J. Mayer (Republican) 35', 'Donald W. Lovejoy (Independent) 1.7', '\n']","Claiborne Pell
+",D,0,Rhode_Island,RI,√ Jack Reed (Democratic) 63.3,1996
+RI_sen_2002,"['√ Jack Reed (Democratic) 78.4', 'Robert Tingle (Republican) 21.6', '\n']","Jack Reed
+",D,0,Rhode_Island,RI,√ Jack Reed (Democratic) 78.4,2002
+RI_sen_2002,"['√ Jack Reed (Democratic) 78.4', 'Robert Tingle (Republican) 21.6', '\n']","Jack Reed
+",D,0,Rhode_Island,RI,√ Jack Reed (Democratic) 78.4,2002
+RI_sen_2002,"['√ Jack Reed (Democratic) 73.4', 'Robert Tingle (Republican) 26.6', '\n']","Jack Reed
+",D,0,Rhode_Island,RI,√ Jack Reed (Democratic) 73.4,2002
+RI_sen_2012,"['√ Sheldon Whitehouse (Democratic) 64.8', 'Barry Hinckley (Republican) 35.0', '[46]Write-ins 0.2', '\n']","Sheldon Whitehouse
+",D,0,Rhode_Island,RI,√ Sheldon Whitehouse (Democratic) 64.8,2012
+RI_sen_2014,"['√ Jack Reed (Democratic) 70.6', '[107]Mark Zaccaria (Republican) 29.2', '[108]\n']","Jack Reed
+",D,0,Rhode_Island,RI,√ Jack Reed (Democratic) 70.6,2014
+SC_sen_1980,"['√ Ernest Hollings (Democratic) 70.4', 'Marshall T. Mays (Republican) 29.6', '\n']","Ernest Hollings
+",D,0,South_Carolina,SC,√ Ernest Hollings (Democratic) 70.4,1980
+SC_sen_1986,"['√ Ernest Hollings (Democratic) 63.9', 'Henry D. McMaster (Republican) 36.1', '\n']","Ernest Hollings
+",D,0,South_Carolina,SC,√ Ernest Hollings (Democratic) 63.9,1986
+SC_sen_1986,"['√ Ernest Hollings (Democratic) 63.9', 'Henry D. McMaster (Republican) 36.1', '\n']","Ernest Hollings
+",D,0,South_Carolina,SC,√ Ernest Hollings (Democratic) 63.9,1986
+SC_sen_1986,"['√ Ernest Hollings (Democratic) 63.9', 'Henry D. McMaster (Republican) 36.1', '\n']","Ernest Hollings
+",D,0,South_Carolina,SC,√ Ernest Hollings (Democratic) 63.9,1986
+SC_sen_1992,"['√ Ernest Hollings (Democratic) 50.1', 'Thomas F. Hartnett (Republican) 46.9', 'Mark Johnson (Libertarian) 1.9', 'Robert Barnwell Clarkson II (American) 1.0', '\n']","Ernest Hollings
+",D,0,South_Carolina,SC,√ Ernest Hollings (Democratic) 50.1,1992
+SC_sen_1998,"['√ Ernest Hollings (Democratic) 52.7', 'Bob Inglis (Republican) 45.7', 'Richard Quillian (Libertarian) 1.6', '\n']","Ernest Hollings
+",D,0,South_Carolina,SC,√ Ernest Hollings (Democratic) 52.7,1998
+SC_sen_2004,"['√ Jim DeMint (Republican) 53.7', 'Inez Tenenbaum (Democratic) 44.1', 'Patrick Tyndall (Constitution) 0.8', 'Rebekah Sutherland (Libertarian) 0.7', 'Tee Ferguson (United Citizens Party) 0.4', 'Efia Nwangaza (Green) 0.3', '\n']","Ernest Hollings
+",D,0,South_Carolina,SC,√ Jim DeMint (Republican) 53.7,2004
+SD_sen_1978,"['√ Larry Pressler (Republican) 66.8', 'Don Barnett (Democratic) 33.2', '\n']","James Abourezk
+",D,0,South_Dakota,SD,√ Larry Pressler (Republican) 66.8,1978
+SD_sen_1980,"['√ James Abdnor (Republican) 58.2', 'George McGovern (Democratic) 39.4', 'Wayne Peterson (Independent) 2.4', '\n']","George McGovern
+",D,0,South_Dakota,SD,√ James Abdnor (Republican) 58.2,1980
+SD_sen_1992,"['√ Tom Daschle (Democratic) 64.9', 'Charlene Haar (Republican) 32.5', 'Gus Hercules (Libertarian) 1.3', 'Kent Hyde (Independent) 1.3', '\n']","Tom Daschle
+",D,0,South_Dakota,SD,√ Tom Daschle (Democratic) 64.9,1992
+SD_sen_1998,"['√ Tom Daschle (Democratic) 62.1', 'Ron Schmidt (Republican) 36.4', 'Byron Dale (Libertarian) 1.4', '\n']","Tom Daschle
+",D,0,South_Dakota,SD,√ Tom Daschle (Democratic) 62.1,1998
+SD_sen_2002,"['√ Tim Johnson (Democratic) 49.6', 'John Thune (Republican) 49.5', 'Kurt Evans (Libertarian) 0.9', '\n']","Tim Johnson
+",D,0,South_Dakota,SD,√ Tim Johnson (Democratic) 49.6,2002
+SD_sen_2002,"['√ Tim Johnson (Democratic) 49.6', 'John Thune (Republican) 49.5', 'Kurt Evans (Libertarian) 0.9', '\n']","Tim Johnson
+",D,0,South_Dakota,SD,√ Tim Johnson (Democratic) 49.6,2002
+SD_sen_2004,"['√ John Thune (Republican) 50.5', 'Tom Daschle (Democratic) 49.4', '\n']","Tom Daschle
+",D,0,South_Dakota,SD,√ John Thune (Republican) 50.5,2004
+SD_sen_2002,"['√ Tim Johnson (Democratic) 62.5', 'Joel Dykstra (Republican) 37.5', '\n']","Tim Johnson
+",D,0,South_Dakota,SD,√ Tim Johnson (Democratic) 62.5,2002
+SD_sen_2014,"['√ Mike Rounds (Republican) 50.4', '[112]Rick Weiland (Democratic) 29.5', '[113]Larry Pressler (Independent) 17.1', '[114]Gordon Howie (Independent) 3.0', '[115]\n']","Tim Johnson
+",D,0,South_Dakota,SD,√ Mike Rounds (Republican) 50.4,2014
+TN_sen_1982,"['√ Jim Sasser (Democratic) 61.9', 'Robin Beard (Republican) 38.1', '\n']","Jim Sasser
+",D,0,Tennessee,TN,√ Jim Sasser (Democratic) 61.9,1982
+TN_sen_1982,"['√ Jim Sasser (Democratic) 61.9', 'Robin Beard (Republican) 38.1', '\n']","Jim Sasser
+",D,0,Tennessee,TN,√ Jim Sasser (Democratic) 61.9,1982
+TN_sen_1988,"['√ Jim Sasser (Democratic) 65.1', 'Bill Anderson (Republican) 34.5', 'Khalil-Ullah Al-Muhaymin (Independent) 0.4', '\n']","Jim Sasser
+",D,0,Tennessee,TN,√ Jim Sasser (Democratic) 65.1,1988
+TN_sen_1990,"['√ Al Gore (Democratic) 67.7', 'William R. Hawkins (Republican) 29.8', 'Bill Jacox (Independent) 1.4', 'Charles Gordon Vick (Independent) 1.0', '\n']","Al Gore
+",D,0,Tennessee,TN,√ Al Gore (Democratic) 67.7,1990
+TN_sen_1994,"['√ Bill Frist (Republican) 56.4', 'Jim Sasser (D) 42.1', '\n']","Jim Sasser
+",D,0,Tennessee,TN,√ Bill Frist (Republican) 56.4,1994
+TN_sen_1994,"['√ Fred Thompson (Republican) 61', 'Jim Cooper (Democratic) 39', '\n']","Harlan Matthews
+",D,0,Tennessee,TN,√ Fred Thompson (Republican) 61,1994
+TX_sen_1976,"['√ Lloyd Bentsen (Democratic) 56.8', 'Alan Steelman (Republican) 42.2', '\n']","Lloyd Bentsen
+",D,0,Texas,TX,√ Lloyd Bentsen (Democratic) 56.8,1976
+TX_sen_1982,"['√ Lloyd Bentsen (Democratic) 58.6', 'James M. Collins (Republican) 40.5', '\n']","Lloyd Bentsen
+",D,0,Texas,TX,√ Lloyd Bentsen (Democratic) 58.6,1982
+TX_sen_1982,"['√ Lloyd Bentsen (Democratic) 58.6', 'James M. Collins (Republican) 40.5', '\n']","Lloyd Bentsen
+",D,0,Texas,TX,√ Lloyd Bentsen (Democratic) 58.6,1982
+TX_sen_1988,"['√ Lloyd Bentsen (Democratic) 59.2', 'Beau Boulter (Republican) 40.0', 'Jeff Daiell (Libertarian) 0.8', '\n']","Lloyd Bentsen
+",D,0,Texas,TX,√ Lloyd Bentsen (Democratic) 59.2,1988
+UT_sen_1976,"['√ Orrin Hatch (Republican) 53.7', 'Frank Moss (Democratic) 44.8', '\n']","Frank Moss
+",D,0,Utah,UT,√ Orrin Hatch (Republican) 53.7,1976
+VT_sen_1980,"['√ Patrick Leahy (Democratic) 49.8', 'Stewart M. Ledbetter (Republican) 48.5', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 49.8,1980
+VT_sen_1986,"['√ Patrick Leahy (Democratic) 63.7', 'Richard A. Snelling (Republican) 34.7', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 63.7,1986
+VT_sen_1986,"['√ Patrick Leahy (Democratic) 63.7', 'Richard A. Snelling (Republican) 34.7', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 63.7,1986
+VT_sen_1986,"['√ Patrick Leahy (Democratic) 63.7', 'Richard A. Snelling (Republican) 34.7', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 63.7,1986
+VT_sen_1992,"['√ Patrick Leahy (Democratic) 54.2', 'Jim Douglas (Republican) 43.3', 'Jerry Levy (Liberty Union) 1.8', 'Michael B. Godeck (Freedom for LaRouche) 0.6', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 54.2,1992
+VT_sen_1998,"['√ Patrick Leahy (Democratic) 72.2', 'Fred Tuttle (Republican) 22.5', 'Hugh Douglas (Libertarian) 2.0', 'Barry M. Nelson (Independent) 1.4', 'Bob Melamede (Vermont Grassroots) 1.2', 'Jerry Levy (Liberty Union) 0.6', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 72.2,1998
+VT_sen_2004,"['√ Patrick Leahy (Democratic) 70.6', 'Jack McMullen (Republican) 24.5', 'Cris Ericson (Marijuana) 2.1', 'Craig Hill (Green) 1.3', 'Keith Stern (independent) 1.1', 'Ben Mitchell (Liberty Union) 0.3', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 70.6,2004
+VT_sen_2010,"['√ Patrick Leahy (Democratic) 64.4', 'Len Britton (Republican) 30.9', 'Daniel Freilich (Independent) 1.5', ' Cris Ericson (Independent) 1.1', 'Stephen Cain (Independent) 1.0', '\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 64.4,2010
+VT_sen_2016,"['√ Patrick Leahy (Democratic) 61.3', '[103]Scott Milne (Republican) 33.0', '[104]Pete Diamondstone (Liberty Union)Cris Ericson (Marijuana)[verification needed]Jerry Trudell (unaffiliated)\n']","Patrick Leahy
+",D,0,Vermont,VT,√ Patrick Leahy (Democratic) 61.3,2016
+VA_sen_1994,"['√ Chuck Robb (Democratic) 45.6', 'Oliver North (Republican) 42.9', 'J. Marshall Coleman (Independent) 11.4', '\n']","Chuck Robb
+",D,0,Virginia,VA,√ Chuck Robb (Democratic) 45.6,1994
+VA_sen_2000,"['√ George Allen (Republican) 52.3', 'Chuck Robb (Democratic) 47.7', '\n']","Chuck Robb
+",D,0,Virginia,VA,√ George Allen (Republican) 52.3,2000
+VA_sen_2012,"['√ Tim Kaine (Democratic) 52.9', 'George Allen (Republican) 47.0', '[53]Write-ins 0.17', '\n']","Jim Webb
+",D,0,Virginia,VA,√ Tim Kaine (Democratic) 52.9,2012
+VA_sen_2014,"['√ Mark Warner (Democratic) 49.1', '[123]Ed Gillespie (Republican) 48.3', '[124]Robert Sarvis (Libertarian) 2.4', '[125][126]\n']","Mark Warner
+",D,0,Virginia,VA,√ Mark Warner (Democratic) 49.1,2014
+WA_sen_1976,"['√ Henry M. Jackson (Democratic) 71.8', 'George M. Brown (Republican) 24.2', '\n']","Henry M. Jackson
+",D,0,Washington,WA,√ Henry M. Jackson (Democratic) 71.8,1976
+WA_sen_1980,"['√ Slade Gorton (Republican) 54.2', 'Warren G. Magnuson (Democratic) 45.8', '\n']","Warren Magnuson
+",D,0,Washington,WA,√ Slade Gorton (Republican) 54.2,1980
+WA_sen_1982,"['√ Henry M. Jackson (Democratic) 68.9', 'Doug Jewett (Republican) 24.3', 'King Lysen (Independent) 5.3', 'Jesse Chiang (Libertarian) 1.5', '\n']","Henry M. Jackson
+",D,0,Washington,WA,√ Henry M. Jackson (Democratic) 68.9,1982
+WA_sen_1982,"['√ Henry M. Jackson (Democratic) 68.9', 'Doug Jewett (Republican) 24.3', 'King Lysen (Independent) 5.3', 'Jesse Chiang (Libertarian) 1.5', '\n']","Henry M. Jackson
+",D,0,Washington,WA,√ Henry M. Jackson (Democratic) 68.9,1982
+WA_sen_1992,"['√ Patty Murray (Democratic) 54.0', 'Rod Chandler (Republican) 46.0', '\n']","Brock Adams
+",D,0,Washington,WA,√ Patty Murray (Democratic) 54.0,1992
+WA_sen_1998,"['√ Patty Murray (Democratic) 58.4', 'Linda Smith (Republican) 41.6', '\n']","Patty Murray
+",D,0,Washington,WA,√ Patty Murray (Democratic) 58.4,1998
+WA_sen_2004,"['√ Patty Murray (Democratic) 55', 'George Nethercutt (Republican) 42.7', 'J. Mills (Libertarian) 1.2', 'Mark Wilson (Green) 1.1', '\n']","Patty Murray
+",D,0,Washington,WA,√ Patty Murray (Democratic) 55,2004
+WA_sen_2006,"['√ Maria Cantwell (Democratic) 56.85', 'Mike McGavick (Republican) 39.93', 'Bruce Guthrie (Libertarian) 1.41', 'Aaron Dixon (Green) 1.02', 'Robin Adair (Independent) 0.79', '\n']","Maria Cantwell
+",D,0,Washington,WA,√ Maria Cantwell (Democratic) 56.85,2006
+WA_sen_2010,"['√ Patty Murray (Democratic) 52.4', 'Dino Rossi (Republican) 47.6', '\n']","Patty Murray
+",D,0,Washington,WA,√ Patty Murray (Democratic) 52.4,2010
+WA_sen_2012,"['√ Maria Cantwell (Democratic) 60.5', 'Michael Baumgartner (Republican) 39.5', '[54]\n']","Maria Cantwell
+",D,0,Washington,WA,√ Maria Cantwell (Democratic) 60.5,2012
+WA_sen_2016,"['√ Patty Murray (Democratic) 59.04', '[105]Chris Vance (Republican) 40.96', '[106]\n']","Patty Murray
+",D,0,Washington,WA,√ Patty Murray (Democratic) 59.04,2016
+WV_sen_1976,"['√ Robert Byrd (Democratic) 99.9', '\n']","Robert Byrd
+",D,0,West_Virginia,WV,√ Robert Byrd (Democratic) 99.9,1976
+WV_sen_1978,"['√ Jennings Randolph (Democratic) 50.5', 'Arch A. Moore, Jr. (Republican) 49.5', '\n']","Jennings Randolph
+",D,0,West_Virginia,WV,√ Jennings Randolph (Democratic) 50.5,1978
+WV_sen_1982,"['√ Robert Byrd (Democratic) 68.5', 'Cleve Benedict (Republican) 30.8', 'William B. Howland (Socialist Workers) 0.7', '\n']","Robert Byrd
+",D,0,West_Virginia,WV,√ Robert Byrd (Democratic) 68.5,1982
+WV_sen_1984,"['√ Jay Rockefeller (Democratic) 51.8', 'John Raese (Republican) 47.7', 'Mary Radin (Socialist Workers) 0.5', '\n']","Jennings Randolph
+",D,0,West_Virginia,WV,√ Jay Rockefeller (Democratic) 51.8,1984
+WV_sen_1982,"['√ Robert Byrd (Democratic) 68.5', 'Cleve Benedict (Republican) 30.8', 'William B. Howland (Socialist Workers) 0.7', '\n']","Robert Byrd
+",D,0,West_Virginia,WV,√ Robert Byrd (Democratic) 68.5,1982
+WV_sen_1984,"['√ Jay Rockefeller (Democratic) 51.8', 'John Raese (Republican) 47.7', 'Mary Radin (Socialist Workers) 0.5', '\n']","Jennings Randolph
+",D,0,West_Virginia,WV,√ Jay Rockefeller (Democratic) 51.8,1984
+WV_sen_1988,"['√ Robert Byrd (Democratic) 63.2', 'M. Jay Wolfe (Republican) 36.8', '\n']","Robert Byrd
+",D,0,West_Virginia,WV,√ Robert Byrd (Democratic) 63.2,1988
+WV_sen_1990,"['√ Jay Rockefeller (Democratic) 68.5', 'John Yoder (Republican) 31.5', '\n']","Jay Rockefeller
+",D,0,West_Virginia,WV,√ Jay Rockefeller (Democratic) 68.5,1990
+WV_sen_1994,"['√ Robert Byrd (Democratic) 69', 'Stanley L. Klos (Republican) 31', '\n']","Robert Byrd
+",D,0,West_Virginia,WV,√ Robert Byrd (Democratic) 69,1994
+WV_sen_1996,"['√ Jay Rockefeller (Democratic) 76.6', 'Betty Burks (Republican) 23.4', '\n']","Jay Rockefeller
+",D,0,West_Virginia,WV,√ Jay Rockefeller (Democratic) 76.6,1996
+WV_sen_2000,"['√ Robert Byrd (Democratic) 77.7', 'David T. Gallaher (Republican) 20.2', 'Joe Whelan (Libertarian) 2.1', '\n']","Robert Byrd
+",D,0,West_Virginia,WV,√ Robert Byrd (Democratic) 77.7,2000
+WV_sen_2002,"['√ Jay Rockefeller (Democratic) 63.1', 'Jay Wolfe (Republican) 36.9', '\n']","Jay Rockefeller
+",D,0,West_Virginia,WV,√ Jay Rockefeller (Democratic) 63.1,2002
+WV_sen_2002,"['√ Jay Rockefeller (Democratic) 63.1', 'Jay Wolfe (Republican) 36.9', '\n']","Jay Rockefeller
+",D,0,West_Virginia,WV,√ Jay Rockefeller (Democratic) 63.1,2002
+WV_sen_2006,"['√ Robert Byrd (Democratic) 64.4', 'John Raese (Republican) 33.7', 'Jesse Johnson (Mountain) 1.9', '\n']","Robert Byrd
+",D,0,West_Virginia,WV,√ Robert Byrd (Democratic) 64.4,2006
+WV_sen_2002,"['√ Jay Rockefeller (Democratic) 63.7', 'Jay Wolfe (Republican) 36.3', '\n']","Jay Rockefeller
+",D,0,West_Virginia,WV,√ Jay Rockefeller (Democratic) 63.7,2002
+WV_sen_2012,"['√ Joe Manchin (Democratic) 60.6', 'John Raese (Republican) 36.5', '[55]Bob Henry Baber (Mountain) 3.0', '\n']","Joe Manchin
+",D,0,West_Virginia,WV,√ Joe Manchin (Democratic) 60.6,2012
+WV_sen_2014,"['√ Shelley Moore Capito (Republican) 62.1', '[128]Natalie Tennant (Democratic) 34.5', '[129]John S. Buckley (Libertarian) 1.6', ' Bob Henry Baber (Mountain) 1.2', '[130]Phil Hudok (Constitution) 0.6', '\n']","Jay Rockefeller
+",D,0,West_Virginia,WV,√ Shelley Moore Capito (Republican) 62.1,2014
+WV_sen_2010,"['√ Joe Manchin (Democratic) 53.5', 'John Raese (Republican) 43.4', 'Jesse Johnson (Mountain) 1.9', 'Jeff Becker (Constitution) 1.2', '\n']","Carte Goodwin
+",D,0,West_Virginia,WV,√ Joe Manchin (Democratic) 53.5,2010
+WI_sen_1976,"['√ William Proxmire (Democratic) 72.2', 'Stanley York (Republican) 27.0', '\n']","William Proxmire
+",D,0,Wisconsin,WI,√ William Proxmire (Democratic) 72.2,1976
+WI_sen_1980,"['√ Bob Kasten (Republican) 50.2', 'Gaylord Nelson (Democratic) 48.3', '\n']","Gaylord Nelson
+",D,0,Wisconsin,WI,√ Bob Kasten (Republican) 50.2,1980
+WI_sen_1982,"['√ E. William Proxmire (Democratic) 63.6', 'Scott McCallum (Republican) 34.1', '\n']","William Proxmire
+",D,0,Wisconsin,WI,√ E. William Proxmire (Democratic) 63.6,1982
+WI_sen_1982,"['√ E. William Proxmire (Democratic) 63.6', 'Scott McCallum (Republican) 34.1', '\n']","William Proxmire
+",D,0,Wisconsin,WI,√ E. William Proxmire (Democratic) 63.6,1982
+WI_sen_1988,"['√ Herb Kohl (Democratic) 52.2', 'Susan Engeleiter (Republican) 47.8', '\n']","William Proxmire
+",D,0,Wisconsin,WI,√ Herb Kohl (Democratic) 52.2,1988
+WI_sen_1994,"['√ Herb Kohl (Democratic) 58', 'Robert Welch (Republican) 40.7', 'James Dean (Libertarian) 1', '\n']","Herb Kohl
+",D,0,Wisconsin,WI,√ Herb Kohl (Democratic) 58,1994
+WI_sen_1998,"['√ Russ Feingold (Democratic) 50.6', 'Mark Neumann (Republican) 48.4', 'Robert R. Raymond (U.S. Taxpayers) 0.5', 'Tom Ender (Libertarian) 0.3', 'Eugene A. Hem (Independent) 0.2', '\n']","Russ Feingold
+",D,0,Wisconsin,WI,√ Russ Feingold (Democratic) 50.6,1998
+WI_sen_2000,"['√ Herb Kohl (Democratic) 61.5', 'John Gillespie (Republican) 37', 'Tim Peterson (Libertarian) 0.8', 'Eugene A. Hem (Independent) 0.4', 'Robert R. Raymond (Constitution) 0.2', '\n']","Herb Kohl
+",D,0,Wisconsin,WI,√ Herb Kohl (Democratic) 61.5,2000
+WI_sen_2004,"['√ Russ Feingold (Democratic) 55.4', 'Tim Michels (Republican) 44.1', 'Arif Khan (Libertarian) 0.3', 'Eugene A. Hem (Independent) 0.2', '\n']","Russ Feingold
+",D,0,Wisconsin,WI,√ Russ Feingold (Democratic) 55.4,2004
+WI_sen_2006,"['√ Herb Kohl (Democratic) 67.31', 'Robert Lorge (Republican) 29.48', 'Rae Vogeler (Green) 1.98', 'Ben Glatzel (Independent) 1.17', '\n']","Herb Kohl
+",D,0,Wisconsin,WI,√ Herb Kohl (Democratic) 67.31,2006
+WI_sen_2010,"['√ Ron Johnson (Republican) 51.9', 'Russ Feingold (Democratic) 47.0', 'Rob Taylor (Constitution) 1.1', '\n']","Russ Feingold
+",D,0,Wisconsin,WI,√ Ron Johnson (Republican) 51.9,2010
+WI_sen_2012,"['√ Tammy Baldwin (Democratic) 51.4', 'Tommy Thompson (Republican) 45.9', 'Joseph Kexel (Libertarian) 2.1', 'Nimrod Y U Allen III (IDEA) 0.6', 'Write-ins 0.1', '\n']","Herb Kohl
+",D,0,Wisconsin,WI,√ Tammy Baldwin (Democratic) 51.4,2012
+WY_sen_1976,"['√ Malcolm Wallop (Republican) 54.7', 'Gale W. McGee (Democratic) 45.4', '\n']","Gale W. McGee
+",D,0,Wyoming,WY,√ Malcolm Wallop (Republican) 54.7,1976
+MN_sen_2014,"['√ Al Franken (Democratic Farmer-Labor) 53.2', '[75]Mike McFadden (Republican) 42.9', '[76]Steve Carlson (Independence) 2.4', '[77]Heather Johnson (Libertarian) 1.5', '[77]\n']","Al Franken
+",I,0,Minnesota,MN,√ Al Franken (Democratic Farmer-Labor) 53.2,2014
+ND_sen_1994,"['√ Kent Conrad (Democratic) 58', 'Ben Clayburgh (Republican) 42', '\n']","Kent Conrad
+",I,0,North_Dakota,ND,√ Kent Conrad (Democratic) 58,1994
+ND_sen_1998,"['√ Byron Dorgan (Democratic) 63.1', 'Donna Nalewaja (Republican) 35.2', 'Harley McLain (Libertarian) 1.7', '\n']","Byron Dorgan
+",I,0,North_Dakota,ND,√ Byron Dorgan (Democratic) 63.1,1998
+ND_sen_2004,"['√ Byron Dorgan (Democratic-NPL) 68', 'Mike Liffrig (Republican) 32', '\n']","Byron Dorgan
+",I,0,North_Dakota,ND,√ Byron Dorgan (Democratic-NPL) 68,2004
+ND_sen_2010,"['√ John Hoeven (Republican) 76.2', 'Tracy Potter (Democratic) 22.2', 'Keith Hanson (Libertarian) 1.6', '\n']","Byron Dorgan
+",I,0,North_Dakota,ND,√ John Hoeven (Republican) 76.2,2010
+MN_sen_2002,"['√ Norm Coleman (Republican) 49.5', 'Walter Mondale (DFL) 47.3', 'Jim Moore (Independence) 2', 'Paul Wellstone (DFL) 0.5', 'Ray Tricomo (Green) 0.4', 'Miro Drago Kovatchevich (Constitution) 0.1', '\n']","Dean Barkley
+",I,0,Minnesota,MN,√ Norm Coleman (Republican) 49.5,2002
+MN_sen_2002,"['√ Norm Coleman (Republican) 49.5', 'Walter Mondale (DFL) 47.3', 'Jim Moore (Independence) 2', 'Paul Wellstone (DFL) 0.5', 'Ray Tricomo (Green) 0.4', 'Miro Drago Kovatchevich (Constitution) 0.1', '\n']","Dean Barkley
+",I,0,Minnesota,MN,√ Norm Coleman (Republican) 49.5,2002
+CT_sen_2012,"['√ Chris Murphy (Democratic) 54.8', '[10]Linda McMahon (Republican) 43.1', '[11]Paul Passarelli (Libertarian) 1.7', '[12]\n']","Joe Lieberman
+",I,0,Connecticut,CT,√ Chris Murphy (Democratic) 54.8,2012
+VT_sen_2006,"['√ Bernie Sanders (Independent) 65.4', 'Richard Tarrant (Republican) 32.3', 'Cris Ericson (Independent) 0.6', 'Craig Hill (Green) 0.5', 'Peter Moss (Independent) 0.5', 'Peter Diamondstone (Liberty Union) 0.3', '\n']","Jim Jeffords
+",I,0,Vermont,VT,√ Bernie Sanders (Independent) 65.4,2006
+VT_sen_2012,"['√ Bernie Sanders (Independent) 71', 'John MacGovern (Republican) 24.9', 'Cris Ericson (Marijuana*) 2', '[51]Pete Diamondstone (Liberty Union) 0.9', 'Peter Moss (Peace and Prosperity) 0.8', 'Laurel LaFramboise (VoteKISS) 0.3', '\n']","Bernie Sanders
+",I,0,Vermont,VT,√ Bernie Sanders (Independent) 71,2012
+VA_sen_1976,"['√ Harry F. Byrd Jr. (Independent) 57.2', 'Elmo R. Zumwalt Jr. (Democratic) 38.3', '\n']","Harry F. Byrd Jr.
+",I,0,Virginia,VA,√ Harry F. Byrd Jr. (Independent) 57.2,1976
+VA_sen_1982,"['√ Paul Trible (Republican) 51.2', 'Dick Davis (Democratic) 48.8', '\n']","Harry F. Byrd Jr.
+",I,0,Virginia,VA,√ Paul Trible (Republican) 51.2,1982
+VA_sen_1982,"['√ Paul Trible (Republican) 51.2', 'Dick Davis (Democratic) 48.8', '\n']","Harry F. Byrd Jr.
+",I,0,Virginia,VA,√ Paul Trible (Republican) 51.2,1982
+AL_sen_1986,"['√ Richard Shelby (Democratic) 50.9', 'Jeremiah Denton (Republican) 49.1', '\n']","Jeremiah Denton
+",R,1,Alabama,AL,√ Richard Shelby (Democratic) 50.9,1986
+AL_sen_1986,"['√ Richard Shelby (Democratic) 50.9', 'Jeremiah Denton (Republican) 49.1', '\n']","Jeremiah Denton
+",R,1,Alabama,AL,√ Richard Shelby (Democratic) 50.9,1986
+AL_sen_1986,"['√ Richard Shelby (Democratic) 50.9', 'Jeremiah Denton (Republican) 49.1', '\n']","Jeremiah Denton
+",R,1,Alabama,AL,√ Richard Shelby (Democratic) 50.9,1986
+AL_sen_1998,"['√ Richard Shelby (Republican) 63.2', 'Clayton Suddith (Democratic) 36.7', '\n']","Richard Shelby
+",R,1,Alabama,AL,√ Richard Shelby (Republican) 63.2,1998
+AL_sen_2002,"['√ Jeff Sessions (Republican) 58.6', 'Susan Parker (Democratic) 39.8', 'Jeff Allen (Libertarian) 1.5', '\n']","Jeff Sessions
+",R,1,Alabama,AL,√ Jeff Sessions (Republican) 58.6,2002
+AL_sen_2002,"['√ Jeff Sessions (Republican) 58.6', 'Susan Parker (Democratic) 39.8', 'Jeff Allen (Libertarian) 1.5', '\n']","Jeff Sessions
+",R,1,Alabama,AL,√ Jeff Sessions (Republican) 58.6,2002
+AL_sen_2004,"['√ Richard Shelby (Republican) 68', 'Wayne Sowell (Democratic) 32', '\n']","Richard Shelby
+",R,1,Alabama,AL,√ Richard Shelby (Republican) 68,2004
+AL_sen_2002,"['√ Jeff Sessions (Republican) 63.4', 'Vivian Davis Figures (Democratic) 36.5', '\n']","Jeff Sessions
+",R,1,Alabama,AL,√ Jeff Sessions (Republican) 63.4,2002
+AL_sen_2010,"['√ Richard Shelby (Republican) 65.3', ' William G. Barnes (Democratic) 34.7', '\n']","Richard Shelby
+",R,1,Alabama,AL,√ Richard Shelby (Republican) 65.3,2010
+AL_sen_2014,"['√ Jeff Sessions (Republican) 97.25', '[25]Write-in 2.75', '[25]\n']","Jeff Sessions
+",R,1,Alabama,AL,√ Jeff Sessions (Republican) 97.25,2014
+AL_sen_2016,"['√ Richard Shelby (Republican)[16] 64.0', 'Ron Crumpton (Democratic)[17] 35.8', 'Others (write-in) 0.2', '\n']","Richard Shelby
+",R,1,Alabama,AL,√ Richard Shelby (Republican)[16] 64.0,2016
+AK_sen_1978,"['√ Ted Stevens (Republican) 75.6', 'Donald W. Hobbs (Democratic) 24.1', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Ted Stevens (Republican) 75.6,1978
+AK_sen_1984,"['√ Ted Stevens (Republican) 71.2', 'John E. Havelock (Democratic) 28.5', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Ted Stevens (Republican) 71.2,1984
+AK_sen_1986,"['√ Frank Murkowski (Republican) 54.0', 'Glenn Olds (Democratic) 44.1', 'Chuck House (Libertarian) 1.7', '\n']","Frank Murkowski
+",R,1,Alaska,AK,√ Frank Murkowski (Republican) 54.0,1986
+AK_sen_1984,"['√ Ted Stevens (Republican) 71.2', 'John E. Havelock (Democratic) 28.5', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Ted Stevens (Republican) 71.2,1984
+AK_sen_1986,"['√ Frank Murkowski (Republican) 54.0', 'Glenn Olds (Democratic) 44.1', 'Chuck House (Libertarian) 1.7', '\n']","Frank Murkowski
+",R,1,Alaska,AK,√ Frank Murkowski (Republican) 54.0,1986
+AK_sen_1986,"['√ Frank Murkowski (Republican) 54.0', 'Glenn Olds (Democratic) 44.1', 'Chuck House (Libertarian) 1.7', '\n']","Frank Murkowski
+",R,1,Alaska,AK,√ Frank Murkowski (Republican) 54.0,1986
+AK_sen_1990,"['√ Ted Stevens (Republican) 67.2', 'Michael Beasley (Democratic) 32.8', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Ted Stevens (Republican) 67.2,1990
+AK_sen_1992,"['√ Frank Murkowski (Republican) 53.0', 'Tony Smith (Democratic) 38.4', 'Mary Jordan (Green) 8.4', '\n']","Frank Murkowski
+",R,1,Alaska,AK,√ Frank Murkowski (Republican) 53.0,1992
+AK_sen_1996,"['√ Ted Stevens (Republican) 76.7', 'Jeff Whittaker (Green) 12.5', 'Theresa Obermeyer (Democratic) 10.3', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Ted Stevens (Republican) 76.7,1996
+AK_sen_1998,"['√ Frank Murkowski (Republican) 74.5', 'Joe Sonneman (Democratic) 19.7', 'Jeffrey Gottlieb (Green) 3.2', 'Scott Kohlhaas (Libertarian) 2.3', '\n']","Frank Murkowski
+",R,1,Alaska,AK,√ Frank Murkowski (Republican) 74.5,1998
+AK_sen_2002,"['√ Ted Stevens (Republican) 78', 'Frank J. Vondersaar (Democratic) 11', 'Jim Sykes (Green) 8', 'Jim Dore (AI) 3', 'Leonard Karpinski (Libertarian) 1', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Ted Stevens (Republican) 78,2002
+AK_sen_2002,"['√ Ted Stevens (Republican) 78', 'Frank J. Vondersaar (Democratic) 11', 'Jim Sykes (Green) 8', 'Jim Dore (AI) 3', 'Leonard Karpinski (Libertarian) 1', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Ted Stevens (Republican) 78,2002
+AK_sen_2004,"['√ Lisa Murkowski (Republican) 48.6', 'Tony Knowles (Democratic) 45.5', 'Marc Millican (Independent) 2.9', 'Jerry Sanders (Alaskan Independence) 1.2', 'Jim Sykes (Green) 1', 'Scott Kohlhaas (Libertarian Party) 0.4', '\n']","Lisa Murkowski
+",R,1,Alaska,AK,√ Lisa Murkowski (Republican) 48.6,2004
+AK_sen_2002,"['√ Mark Begich (Democratic) 47.8', 'Ted Stevens (Republican) 46.6', 'Bob Bird (Alaskan Independence) 4.2', 'David Haase (Libertarian) 0.8', 'Ted Gianoutsos (Independent) 0.4', '\n']","Ted Stevens
+",R,1,Alaska,AK,√ Mark Begich (Democratic) 47.8,2002
+AK_sen_2010,"['√ Lisa Murkowski (Republican) 39.5', 'Joe Miller (Republican) 35.5', 'Scott McAdams (Democratic) 23.5', '\n']","Lisa Murkowski
+",R,1,Alaska,AK,√ Lisa Murkowski (Republican) 39.5,2010
+AK_sen_2016,"['√ Lisa Murkowski (Republican)[18] 44', 'Joe Miller (Libertarian)[19] 29', 'Margaret Stock (Independent)[20][21] 13', 'Ray Metcalfe (Democratic)[22] 12', '\n']","Lisa Murkowski
+",R,1,Alaska,AK,√ Lisa Murkowski (Republican)[18] 44,2016
+AZ_sen_1976,"['√ Dennis DeConcini (Democratic) 54.0', 'Sam Steiger (Republican) 43.3', 'Allan Norwitz (Libertarian) 1.0', '\n']","Paul Fannin
+",R,1,Arizona,AZ,√ Dennis DeConcini (Democratic) 54.0,1976
+AZ_sen_1980,"['√ Barry Goldwater (Republican) 49.5', 'Bill Schulz (Democratic) 48.4', 'Fred R. Easer (Libertarian) 1.4', 'Lorenzo Torrez (People Over Politics) 0.4', 'Josefina Otero (Socialist Workers) 0.4', '\n']","Barry Goldwater
+",R,1,Arizona,AZ,√ Barry Goldwater (Republican) 49.5,1980
+AZ_sen_1986,"['√ John McCain (Republican) 60.6', 'Richard Kimball (Democratic) 39.4', '\n']","Barry Goldwater
+",R,1,Arizona,AZ,√ John McCain (Republican) 60.6,1986
+AZ_sen_1986,"['√ John McCain (Republican) 60.6', 'Richard Kimball (Democratic) 39.4', '\n']","Barry Goldwater
+",R,1,Arizona,AZ,√ John McCain (Republican) 60.6,1986
+AZ_sen_1986,"['√ John McCain (Republican) 60.6', 'Richard Kimball (Democratic) 39.4', '\n']","Barry Goldwater
+",R,1,Arizona,AZ,√ John McCain (Republican) 60.6,1986
+AZ_sen_1992,"['√ John McCain (Republican) 55.8', 'Claire Sargent (Democratic) 31.6', 'Evan Mecham (Independent) 10.5', 'Kiana Delamare (Libertarian) 1.6', 'Ed Finkelstein (New Alliance) 0.5', '\n']","John McCain
+",R,1,Arizona,AZ,√ John McCain (Republican) 55.8,1992
+AZ_sen_1998,"['√ John McCain (Republican) 68.7', 'Ed Ranger (Democratic) 27.2', 'John C. Zajac (Libertarian) 2.3', 'Bob Park (Reform) 1.8', '\n']","John McCain
+",R,1,Arizona,AZ,√ John McCain (Republican) 68.7,1998
+AZ_sen_2000,"['√ Jon Kyl (Republican) 79.3', 'William Toel (Independent) 7.8', 'Vance Hansen (Green) 7.8', 'Barry Hess (Libertarian) 5.1', '\n']","Jon Kyl
+",R,1,Arizona,AZ,√ Jon Kyl (Republican) 79.3,2000
+AZ_sen_2004,"['√ John McCain (Republican) 76', 'Stuart Starky (Democratic) 21', 'Ernest Hancock (Libertarian) 3', '\n']","John McCain
+",R,1,Arizona,AZ,√ John McCain (Republican) 76,2004
+AZ_sen_2006,"['√ Jon Kyl (Republican) 53.3', 'Jim Pederson (Democratic) 43.5', 'Richard Mack (Libertarian) 3.2', '\n']","Jon Kyl
+",R,1,Arizona,AZ,√ Jon Kyl (Republican) 53.3,2006
+AZ_sen_2010,"['√ John McCain (Republican) 59.2', 'Rodney Glassman (Democratic) 34.7', 'David Nolan (Libertarian) 4.7', 'Jerry Joslyn (Green) 1.4', '\n']","John McCain
+",R,1,Arizona,AZ,√ John McCain (Republican) 59.2,2010
+AZ_sen_2012,"['√ Jeff Flake (Republican) 49.2', '[5]Richard Carmona (Democratic) 46.1', '[6]Marc Victor (Libertarian) 4.6', '[7]\n']","Jon Kyl
+",R,1,Arizona,AZ,√ Jeff Flake (Republican) 49.2,2012
+AZ_sen_2016,"['√ John McCain (Republican)[23] 53', 'Ann Kirkpatrick (Democratic)[24] 41', 'Pat Quinn (independent/Write-in)[25][26]Gary Swing (Green/Write-in)[27] 5', '\n']","John McCain
+",R,1,Arizona,AZ,√ John McCain (Republican)[23] 53,2016
+AR_sen_2002,"['√ Mark Pryor (Democratic) 53.9', 'Tim Hutchinson (Republican) 46.1', '\n']","Tim Hutchinson
+",R,1,Arkansas,AR,√ Mark Pryor (Democratic) 53.9,2002
+AR_sen_2002,"['√ Mark Pryor (Democratic) 53.9', 'Tim Hutchinson (Republican) 46.1', '\n']","Tim Hutchinson
+",R,1,Arkansas,AR,√ Mark Pryor (Democratic) 53.9,2002
+AR_sen_2016,"['√ John Boozman (Republican)[28] 59.7', 'Conner Eldridge (Democratic)[29] 36.3', 'Frank Gilbert (Libertarian)[30] 4.0', '\n']","John Boozman
+",R,1,Arkansas,AR,√ John Boozman (Republican)[28] 59.7,2016
+CA_sen_1982,"['√ Pete Wilson (Republican) 51.5', 'Jerry Brown (Democratic) 44.8', 'Tena Dietrich (American Ind.) 1.4', 'David Wald (Peace & Freedom) 1.2', 'Joseph Fuhrig (Libertarian) 1.1', '\n']","S. I. Hayakawa
+",R,1,California,CA,√ Pete Wilson (Republican) 51.5,1982
+CA_sen_1982,"['√ Pete Wilson (Republican) 51.5', 'Jerry Brown (Democratic) 44.8', 'Tena Dietrich (American Ind.) 1.4', 'David Wald (Peace & Freedom) 1.2', 'Joseph Fuhrig (Libertarian) 1.1', '\n']","S. I. Hayakawa
+",R,1,California,CA,√ Pete Wilson (Republican) 51.5,1982
+CA_sen_1988,"['√ Pete Wilson (Republican) 52.7', 'Leo T. McCarthy (Democratic) 44.0', 'Maria E. Muñoz (Peace & Freedom) 1.7', 'Jack Dean (Libertarian) 0.8', 'Merton D. Short (American Ind.) 0.7', '\n']","Pete Wilson
+",R,1,California,CA,√ Pete Wilson (Republican) 52.7,1988
+CA_sen_1992,"['√ Dianne Feinstein (Democratic) 54.3', 'John F. Seymour (Republican) 38.0', 'Gerald Horne (Peace & Freedom) 2.8', 'Paul Meeuwenberg (American Ind.) 2.6', 'Richard B. Boddie (Libertarian) 2.3', '\n']","John F. Seymour
+",R,1,California,CA,√ Dianne Feinstein (Democratic) 54.3,1992
+CO_sen_1984,"['√ William L. Armstrong (Republican) 64.2', 'Nancy E. Dick (Democratic) 34.6', 'Craig Green (Libertarian) 0.9', 'David Martin (Socialist Workers) 0.2', 'Earl Higgerson (Prohibition) 0.1', '\n']","William L. Armstrong
+",R,1,Colorado,CO,√ William L. Armstrong (Republican) 64.2,1984
+CO_sen_1984,"['√ William L. Armstrong (Republican) 64.2', 'Nancy E. Dick (Democratic) 34.6', 'Craig Green (Libertarian) 0.9', 'David Martin (Socialist Workers) 0.2', 'Earl Higgerson (Prohibition) 0.1', '\n']","William L. Armstrong
+",R,1,Colorado,CO,√ William L. Armstrong (Republican) 64.2,1984
+CO_sen_1990,"['√ Hank Brown (Republican) 55.7', 'Josie Heath (Democratic) 41.6', 'John Heckman (Concerns of People) 1.5', 'Earl Dodge (Prohibition) 1.2', '\n']","William L. Armstrong
+",R,1,Colorado,CO,√ Hank Brown (Republican) 55.7,1990
+CO_sen_1996,"['√ Wayne Allard (Republican) 51.4', 'Tom Strickland (Democratic) 45.7', 'Randy MacKenzie (Natural Law) 2.9', '\n']","Hank Brown
+",R,1,Colorado,CO,√ Wayne Allard (Republican) 51.4,1996
+CO_sen_1998,"['√ Ben Nighthorse Campbell (Republican) 62.5', 'Dottie Lamm (Democratic) 35', 'David S. Segal (Libertarian) 1', 'Kevin Swanson (American Constitution) 0.7', 'Jeff Peckman (Natural Law) 0.3', 'John Heckman (Concerns of People) 0.2', 'Gary Swing (Pacifist) 0.1', '\n']","Ben Nighthorse Campbell
+",R,1,Colorado,CO,√ Ben Nighthorse Campbell (Republican) 62.5,1998
+CO_sen_2002,"['√ Wayne Allard (Republican) 50.7', 'Tom Strickland (Democratic) 45.8', 'Douglas Campbell (Constitution) 1.5', 'Rick Stanley (Libertarian) 1.5', 'John Heckman (Concerns of People) 0.5', '\n']","Wayne Allard
+",R,1,Colorado,CO,√ Wayne Allard (Republican) 50.7,2002
+CO_sen_2002,"['√ Wayne Allard (Republican) 50.7', 'Tom Strickland (Democratic) 45.8', 'Douglas Campbell (Constitution) 1.5', 'Rick Stanley (Libertarian) 1.5', 'John Heckman (Concerns of People) 0.5', '\n']","Wayne Allard
+",R,1,Colorado,CO,√ Wayne Allard (Republican) 50.7,2002
+CO_sen_2004,"['√ Ken Salazar (Democratic) 51.3', 'Pete Coors (Republican) 46.5', 'Doug Cambell (Constitution) 1', 'Richard Randall (Libertarian) 0.5', 'John Harris (Independent) 0.4', 'Victor Good (Reform Party) 0.3', '\n']","Ben Nighthorse Campbell
+",R,1,Colorado,CO,√ Ken Salazar (Democratic) 51.3,2004
+CO_sen_2002,"['√ Mark Udall (Democratic) 52.8', 'Bob Schaffer (Republican) 42.5', 'Doug Campbell (Constitution) 2.6', 'Bob Kinsey (Green)  2.1', '\n']","Wayne Allard
+",R,1,Colorado,CO,√ Mark Udall (Democratic) 52.8,2002
+CT_sen_1976,"['√ Lowell P. Weicker Jr. (Republican) 57.7', 'Gloria Schaffer (Democratic) 41.2', '\n']","Lowell P. Weicker Jr.
+",R,1,Connecticut,CT,√ Lowell P. Weicker Jr. (Republican) 57.7,1976
+CT_sen_1982,"['√ Lowell Weicker (Republican) 50.4', 'Toby Moffett (Democratic) 46.1', 'Lucien DiFazio (Conservative) 2.8', 'James A. Lewis (Libertarian) 0.7', '\n']","Lowell P. Weicker Jr.
+",R,1,Connecticut,CT,√ Lowell Weicker (Republican) 50.4,1982
+CT_sen_1982,"['√ Lowell Weicker (Republican) 50.4', 'Toby Moffett (Democratic) 46.1', 'Lucien DiFazio (Conservative) 2.8', 'James A. Lewis (Libertarian) 0.7', '\n']","Lowell P. Weicker Jr.
+",R,1,Connecticut,CT,√ Lowell Weicker (Republican) 50.4,1982
+CT_sen_1988,"['√ Joe Lieberman (Democratic) 49.7', 'Lowell P. Weicker Jr. (Republican) 49.0', 'Howard Grayson (Libertarian) 0.9', 'Melissa Fisher (New Alliance) 0.3', '\n']","Lowell P. Weicker Jr.
+",R,1,Connecticut,CT,√ Joe Lieberman (Democratic) 49.7,1988
+DE_sen_1976,"['√ Bill Roth (Republican) 55.8', 'Thomas C. Maloney (Democratic) 43.6', '\n']","Bill Roth
+",R,1,Delaware,DE,√ Bill Roth (Republican) 55.8,1976
+DE_sen_1982,"['√ Bill Roth (Republican) 55.2', 'David N. Levinson (Democratic) 44.2', '\n']","William Roth
+",R,1,Delaware,DE,√ Bill Roth (Republican) 55.2,1982
+DE_sen_1982,"['√ Bill Roth (Republican) 55.2', 'David N. Levinson (Democratic) 44.2', '\n']","William Roth
+",R,1,Delaware,DE,√ Bill Roth (Republican) 55.2,1982
+DE_sen_1988,"['√ William Roth (Republican) 62.1', 'Shien Biau Woo (Democratic) 37.9', '\n']","William Roth
+",R,1,Delaware,DE,√ William Roth (Republican) 62.1,1988
+DE_sen_1994,"['√ William Roth (Republican) 55.8', 'Charles Oberly (Democratic) 42.5', 'John C. Dierick (Libertarian) 1.7', '\n']","William Roth
+",R,1,Delaware,DE,√ William Roth (Republican) 55.8,1994
+DE_sen_2000,"['√ Thomas R. Carper (Democratic) 55.5', 'William V. Roth, Jr. (Republican) 43.7', 'Mark Dankof (Constitution) 0.3', 'J. Burke Morrison (Libertarian) 0.3', 'Robert Mattson (Natural Law) 0.2', '\n']","William Roth
+",R,1,Delaware,DE,√ Thomas R. Carper (Democratic) 55.5,2000
+FL_sen_1986,"['√ Bob Graham (Democratic) 55', 'Paula Hawkins (Republican) 45', '\n']","Paula Hawkins
+",R,1,Florida,FL,√ Bob Graham (Democratic) 55,1986
+FL_sen_1986,"['√ Bob Graham (Democratic) 55', 'Paula Hawkins (Republican) 45', '\n']","Paula Hawkins
+",R,1,Florida,FL,√ Bob Graham (Democratic) 55,1986
+FL_sen_1986,"['√ Bob Graham (Democratic) 55', 'Paula Hawkins (Republican) 45', '\n']","Paula Hawkins
+",R,1,Florida,FL,√ Bob Graham (Democratic) 55,1986
+FL_sen_1994,"['√ Connie Mack III (Republican) 70.5', 'Hugh Rodham (Democratic) 30.5', '\n']","Connie Mack III
+",R,1,Florida,FL,√ Connie Mack III (Republican) 70.5,1994
+FL_sen_2000,"['√ Bill Nelson (Democratic) 51', 'Bill McCollum (Republican) 46.2', 'Willie Logan (Independent) 1.4', 'Joe Simonetta (Natural Law) 0.4', 'Darrell L. McCormick (Independent) 0.4', 'Joel Deckard (Reform) 0.3', 'Andy Martin (Independent) 0.3', 'Nikki Oldaker (Independent) 0.1', '\n']","Connie Mack III
+",R,1,Florida,FL,√ Bill Nelson (Democratic) 51,2000
+FL_sen_2010,"['√ Marco Rubio (Republican) 48.9', 'Charlie Crist (Independent) 29.7', 'Kendrick Meek (Democratic) 20.1', 'Alexander Snitker (Libertarian) 0.5', '\n']","George LeMieux
+",R,1,Florida,FL,√ Marco Rubio (Republican) 48.9,2010
+FL_sen_2016,"['√ Marco Rubio (Republican)[41] 52.0', 'Patrick Murphy (Democratic)[42] 44.3', 'Paul Stanton (Libertarian)[43] 2.1\n']","Marco Rubio
+",R,1,Florida,FL,√ Marco Rubio (Republican)[41] 52.0,2016
+GA_sen_1986,"['√ Wyche Fowler (Democratic) 50.9', 'Mack Mattingly (Republican) 49.1', '\n']","Mack Mattingly
+",R,1,Georgia,GA,√ Wyche Fowler (Democratic) 50.9,1986
+GA_sen_1986,"['√ Wyche Fowler (Democratic) 50.9', 'Mack Mattingly (Republican) 49.1', '\n']","Mack Mattingly
+",R,1,Georgia,GA,√ Wyche Fowler (Democratic) 50.9,1986
+GA_sen_1986,"['√ Wyche Fowler (Democratic) 50.9', 'Mack Mattingly (Republican) 49.1', '\n']","Mack Mattingly
+",R,1,Georgia,GA,√ Wyche Fowler (Democratic) 50.9,1986
+GA_sen_1998,"['√ Paul Coverdell (Republican) 52.3', 'Michael Coles (Democratic) 45.3', 'Bertil Armin Loftman (Libertarian) 2.5', '\n']","Paul Coverdell
+",R,1,Georgia,GA,√ Paul Coverdell (Republican) 52.3,1998
+GA_sen_2002,"['√ Saxby Chambliss (Republican) 49.8', 'Jim Martin (Democratic) 46.8', 'Allen Buckley (Libertarian) 3.4', 'Runoff: Chambliss 57.5', ' Martin 42.5', '\n']","Saxby Chambliss
+",R,1,Georgia,GA,√ Saxby Chambliss (Republican) 49.8,2002
+GA_sen_2010,"['√ Johnny Isakson (Republican) 58.1', 'Michael Thurmond (Democratic) 39.2', 'Chuck Donovan (Libertarian) 2.7', '\n']","Johnny Isakson
+",R,1,Georgia,GA,√ Johnny Isakson (Republican) 58.1,2010
+GA_sen_2014,"['√ David Perdue (Republican) 52.9', '[46]Michelle Nunn (Democratic) 45.2', '[47]Amanda Swafford (Libertarian) 1.9', '[48]\n']","Saxby Chambliss
+",R,1,Georgia,GA,√ David Perdue (Republican) 52.9,2014
+GA_sen_2016,"['√ Johnny Isakson (Republican)[44] 54.8', 'Jim Barksdale (Democratic)[45] 41', 'Allen Buckley (Libertarian)[46] 4.16', '\n']","Johnny Isakson
+",R,1,Georgia,GA,√ Johnny Isakson (Republican)[44] 54.8,2016
+HI_sen_1976,"['√ Spark Matsunaga (Democratic) 53.7', 'William F. Quinn (Republican) 40.6', '\n']","Hiram Fong
+",R,1,Hawaii,HI,√ Spark Matsunaga (Democratic) 53.7,1976
+ID_sen_1978,"['√ James A. McClure (Republican) 68.4', 'Dwight Jensen (Democratic) 31.6', '\n']","James A. McClure
+",R,1,Idaho,ID,√ James A. McClure (Republican) 68.4,1978
+ID_sen_1984,"['√ James A. McClure (Republican) 72.2', 'Peter M. Busch (Democratic) 26.0', 'Donald Billings (Libertarian) 1.8', '\n']","James A. McClure
+",R,1,Idaho,ID,√ James A. McClure (Republican) 72.2,1984
+ID_sen_1986,"['√ Steve Symms (Republican) 51.4', 'John V. Evans (Democratic) 48.6', '\n']","Steve Symms
+",R,1,Idaho,ID,√ Steve Symms (Republican) 51.4,1986
+ID_sen_1984,"['√ James A. McClure (Republican) 72.2', 'Peter M. Busch (Democratic) 26.0', 'Donald Billings (Libertarian) 1.8', '\n']","James A. McClure
+",R,1,Idaho,ID,√ James A. McClure (Republican) 72.2,1984
+ID_sen_1986,"['√ Steve Symms (Republican) 51.4', 'John V. Evans (Democratic) 48.6', '\n']","Steve Symms
+",R,1,Idaho,ID,√ Steve Symms (Republican) 51.4,1986
+ID_sen_1986,"['√ Steve Symms (Republican) 51.4', 'John V. Evans (Democratic) 48.6', '\n']","Steve Symms
+",R,1,Idaho,ID,√ Steve Symms (Republican) 51.4,1986
+ID_sen_1990,"['√ Larry Craig (Republican) 61.3', 'Ron J. Twilegar (Democratic) 38.7', '\n']","James A. McClure
+",R,1,Idaho,ID,√ Larry Craig (Republican) 61.3,1990
+ID_sen_1992,"['√ Dirk Kempthorne (Republican) 56.5', 'Richard H. Stallings (Democratic) 43.5', '\n']","Steve Symms
+",R,1,Idaho,ID,√ Dirk Kempthorne (Republican) 56.5,1992
+ID_sen_1996,"['√ Larry E. Craig (Republican) 57.0', ' Walt Minnick (Democratic) 39.9', 'Mary J. Charbonneau (Independent) 2.0', 'Susan Vegors (Natural Law) 1.0', '\n']","Larry Craig
+",R,1,Idaho,ID,√ Larry E. Craig (Republican) 57.0,1996
+ID_sen_1998,"['√ Mike Crapo (Republican) 69.5', 'Bill Mauk (Democratic) 28.4', 'George J. Mansfeld (Natural Law) 2', '\n']","Dirk Kempthorne
+",R,1,Idaho,ID,√ Mike Crapo (Republican) 69.5,1998
+ID_sen_2002,"['√ Larry Craig (Republican) 65', 'Alan Blinken (Democratic) 33', 'Donovan Bramwell (Libertarian) 2', '\n']","Larry Craig
+",R,1,Idaho,ID,√ Larry Craig (Republican) 65,2002
+ID_sen_2002,"['√ Larry Craig (Republican) 65', 'Alan Blinken (Democratic) 33', 'Donovan Bramwell (Libertarian) 2', '\n']","Larry Craig
+",R,1,Idaho,ID,√ Larry Craig (Republican) 65,2002
+ID_sen_2004,"['√ Mike Crapo (Republican) 99.2', 'Scott McClure (Democratic, write-in) 0.8', '\n']","Mike Crapo
+",R,1,Idaho,ID,√ Mike Crapo (Republican) 99.2,2004
+ID_sen_2002,"['√ Jim Risch (Republican) 57.7', 'Larry LaRocco (Democratic) 34.1', 'Rex Rammell (Independent) 5.4', 'Kent Marmon (Libertarian) 1.5', 'Pro-Life (Independent) 1.3', '\n']","Larry Craig
+",R,1,Idaho,ID,√ Jim Risch (Republican) 57.7,2002
+ID_sen_2010,"['√ Mike Crapo (Republican) 71.1', ' Tom Sullivan (Democratic) 25.0', 'Randy Bergquist (Constitution) 3.9', '\n']","Mike Crapo
+",R,1,Idaho,ID,√ Mike Crapo (Republican) 71.1,2010
+ID_sen_2014,"['√ Jim Risch (Republican) 65.3', '[49]Nels Mitchell (Democratic) 34.7', '[50]\n']","Jim Risch
+",R,1,Idaho,ID,√ Jim Risch (Republican) 65.3,2014
+ID_sen_2016,"['√ Mike Crapo (Republican)[48] 66.1', 'Jerry Sturgill (Democratic)[49] 27.8', '\nRay Writz (Constitution)6.0', '\n\n']","Mike Crapo
+",R,1,Idaho,ID,√ Mike Crapo (Republican)[48] 66.1,2016
+IL_sen_1978,"['√ Charles H. Percy (Republican) 53.3', 'Alex Seith (Democratic) 45.5', 'William R. Roy (Libertarian) 0.5', 'Patricia Grogan (Socialist Workers) 0.5', 'Gerald Rose (Socialist Labor) 0.2', '\n']","Charles H. Percy
+",R,1,Illinois,IL,√ Charles H. Percy (Republican) 53.3,1978
+IL_sen_1984,"['√ Paul Simon (Democratic) 50.1', 'Charles H. Percy (Republican) 48.2', 'Steven Givot (Libertarian) 1.2', 'Marjorie Pries (Citizens) 0.2', 'Nelson Gonzalez (Socialist Workers) 0.1', 'Ishmael Flory (Communist) 0.1', '\n']","Charles H. Percy
+",R,1,Illinois,IL,√ Paul Simon (Democratic) 50.1,1984
+IL_sen_1984,"['√ Paul Simon (Democratic) 50.1', 'Charles H. Percy (Republican) 48.2', 'Steven Givot (Libertarian) 1.2', 'Marjorie Pries (Citizens) 0.2', 'Nelson Gonzalez (Socialist Workers) 0.1', 'Ishmael Flory (Communist) 0.1', '\n']","Charles H. Percy
+",R,1,Illinois,IL,√ Paul Simon (Democratic) 50.1,1984
+IL_sen_2004,"['√ Barack Obama (Democratic) 70', 'Alan Keyes (Republican) 27', 'Albert Franzen (Independent) 1.6', 'Jerry Kohn (Libertarian) 1.3', '\n']","Peter Fitzgerald
+",R,1,Illinois,IL,√ Barack Obama (Democratic) 70,2004
+IL_sen_2016,"['√ Tammy Duckworth (Democratic)[50] 54.9', 'Mark Kirk (Republican)[51] 39.8', 'Kent McMillen (Libertarian)[52] 3.2', 'Scott Summers (Green)[53] 2.1\n']","Mark Kirk
+",R,1,Illinois,IL,√ Tammy Duckworth (Democratic)[50] 54.9,2016
+IN_sen_1982,"['√ Richard Lugar (Republican) 53.8', 'Floyd Fithian (Democratic) 45.6', 'Raymond James (American) 0.6', '\n']","Richard Lugar
+",R,1,Indiana,IN,√ Richard Lugar (Republican) 53.8,1982
+IN_sen_1986,"['√ Dan Quayle (Republican) 61.1', 'Jill L. Long (Democratic) 38.9', '\n']","Dan Quayle
+",R,1,Indiana,IN,√ Dan Quayle (Republican) 61.1,1986
+IN_sen_1982,"['√ Richard Lugar (Republican) 53.8', 'Floyd Fithian (Democratic) 45.6', 'Raymond James (American) 0.6', '\n']","Richard Lugar
+",R,1,Indiana,IN,√ Richard Lugar (Republican) 53.8,1982
+IN_sen_1986,"['√ Dan Quayle (Republican) 61.1', 'Jill L. Long (Democratic) 38.9', '\n']","Dan Quayle
+",R,1,Indiana,IN,√ Dan Quayle (Republican) 61.1,1986
+IN_sen_1986,"['√ Dan Quayle (Republican) 61.1', 'Jill L. Long (Democratic) 38.9', '\n']","Dan Quayle
+",R,1,Indiana,IN,√ Dan Quayle (Republican) 61.1,1986
+IN_sen_1988,"['√ Richard Lugar (Republican) 67.7', 'Jack Wickes (Democratic) 32.3', '\n']","Richard Lugar
+",R,1,Indiana,IN,√ Richard Lugar (Republican) 67.7,1988
+IN_sen_1992,"['√ Dan Coats (Republican) 57.3', 'Joseph Hogsett (Democratic) 40.7', 'Steve Dillon (Libertarian) 1.6', 'Raymond Tirado (New Alliance) 0.3', '\n']","Dan Coats
+",R,1,Indiana,IN,√ Dan Coats (Republican) 57.3,1992
+IN_sen_1994,"['√ Richard Lugar (Republican) 67.4', 'Jim Jontz (Democratic) 30.5', 'Barbara Bourland (Libertarian) 1.1', 'Mary Catherine Barton (NAP) 1', '\n']","Richard Lugar
+",R,1,Indiana,IN,√ Richard Lugar (Republican) 67.4,1994
+IN_sen_1998,"['√ Evan Bayh (Democratic) 63.7', 'Paul Helmke (Republican) 34.8', ' Rebecca Sink-Burris (Libertarian) 1.5', '\n']","Dan Coats
+",R,1,Indiana,IN,√ Evan Bayh (Democratic) 63.7,1998
+IN_sen_2000,"['√ Richard Lugar (Republican) 66.5', 'David Johnson (Democratic) 31.9', 'Paul Hager (Libertarian) 1.6', '\n']","Richard Lugar
+",R,1,Indiana,IN,√ Richard Lugar (Republican) 66.5,2000
+IN_sen_2006,"['√ Richard Lugar (Republican) 87.3', 'Steve Osborn (Libertarian) 12.6', '\n']","Richard Lugar
+",R,1,Indiana,IN,√ Richard Lugar (Republican) 87.3,2006
+IN_sen_2012,"['√ Joe Donnelly (Democratic) 50.0', 'Richard Mourdock (Republican) 44.2', 'Andrew Horning (Libertarian) 5.7', '[21]\n']","Richard Lugar
+",R,1,Indiana,IN,√ Joe Donnelly (Democratic) 50.0,2012
+IN_sen_2016,"['√ Todd Young (Republican)[54] 52.1', 'Evan Bayh (Democratic)[55] 42.4', 'Lucy Brenton (Libertarian)[56] 5.5', '\n']","Dan Coats
+",R,1,Indiana,IN,√ Todd Young (Republican)[54] 52.1,2016
+IN_sen_1990,"['√ Dan Coats (Republican) 53.7', 'Baron Hill (Democratic) 46.3', '\n']","Dan Coats
+",R,1,Indiana,IN,√ Dan Coats (Republican) 53.7,1990
+IA_sen_1984,"['√ Tom Harkin (Democratic) 55.5', 'Roger Jepsen (Republican) 43.7', 'Garry De Young (Independent) 0.8', '\n']","Roger Jepsen
+",R,1,Iowa,IA,√ Tom Harkin (Democratic) 55.5,1984
+IA_sen_1986,"['√ Chuck Grassley (Republican) 66.0', 'John P. Roehrick (Democratic) 34.0', '\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican) 66.0,1986
+IA_sen_1984,"['√ Tom Harkin (Democratic) 55.5', 'Roger Jepsen (Republican) 43.7', 'Garry De Young (Independent) 0.8', '\n']","Roger Jepsen
+",R,1,Iowa,IA,√ Tom Harkin (Democratic) 55.5,1984
+IA_sen_1986,"['√ Chuck Grassley (Republican) 66.0', 'John P. Roehrick (Democratic) 34.0', '\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican) 66.0,1986
+IA_sen_1986,"['√ Chuck Grassley (Republican) 66.0', 'John P. Roehrick (Democratic) 34.0', '\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican) 66.0,1986
+IA_sen_1992,"['√ Chuck Grassley (Republican) 69.6', 'Jean Hall Lloyd-Jones (Democratic) 27.2', 'Stuart Zimmerman (Natural Law) 1.3', 'Sue Atkinson (Independent) 0.5', 'Mel Boring (Independent) 0.4', 'Rosanne Freeburg (Independent) 0.4', 'Carl Eric Olsen (Grassroots) 0.3', ""Richard O'Dell Hughes (Independent) 0.2"", 'Cleve Andrew Pulley (Socialist Workers) 0.1', '\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican) 69.6,1992
+IA_sen_1998,"['√ Chuck Grassley (Republican) 68.4', 'David Osterberg (Democratic) 30.5', 'Susan Marcus (Natural Law) 0.8', 'Margaret Trowe (Socialist Workers) 0.3', '\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican) 68.4,1998
+IA_sen_2004,"['√ Chuck Grassley (Republican) 70.1', 'Arthur Small (Democratic) 27.9', 'Christy Welty (Libertarian) 1', 'Daryl Northrop (Green) 0.8', 'Edwin Fruit (Socialist Workers) 0.1', '\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican) 70.1,2004
+IA_sen_2010,"['√ Chuck Grassley (Republican) 64.5', ' Roxanne Conlin (Democratic) 33.2', 'John Heiderscheit (Libertarian) 2.3', '\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican) 64.5,2010
+IA_sen_2016,"['√ Chuck Grassley (Republican)[57] 60.1', 'Patty Judge (Democratic)[58] 35.7', 'John Heiderscheit (Libertarian)[59] 2.7\n']","Chuck Grassley
+",R,1,Iowa,IA,√ Chuck Grassley (Republican)[57] 60.1,2016
+KS_sen_1978,"['√ Nancy Kassebaum (Republican) 53.9', 'William R. Roy (Democratic) 42.4', 'James R. Maher (Conservative) 3.0', 'Russell Mikels (Prohibition) 0.7', '\n']","James B. Pearson
+",R,1,Kansas,KS,√ Nancy Kassebaum (Republican) 53.9,1978
+KS_sen_1980,"['√ Bob Dole (Republican) 63.8', 'John Simpson (Democratic) 36.2', '\n']","Bob Dole
+",R,1,Kansas,KS,√ Bob Dole (Republican) 63.8,1980
+KS_sen_1984,"['√ Nancy Landon Kassebaum (Republican) 76.0', 'James R. Maher (Democratic) 21.2', 'Lucille Bieger (Conservative) 0.9', 'Marian Jackson (American) 0.7', 'Douglas Merritt (Libertarian) 0.7', 'Freda Steele (Prohibition) 0.5', '\n']","Nancy Landon Kassebaum
+",R,1,Kansas,KS,√ Nancy Landon Kassebaum (Republican) 76.0,1984
+KS_sen_1986,"['√ Bob Dole (Republican) 70.1', 'Guy MacDonald (Democratic) 29.9', '\n']","Bob Dole
+",R,1,Kansas,KS,√ Bob Dole (Republican) 70.1,1986
+KS_sen_1984,"['√ Nancy Landon Kassebaum (Republican) 76.0', 'James R. Maher (Democratic) 21.2', 'Lucille Bieger (Conservative) 0.9', 'Marian Jackson (American) 0.7', 'Douglas Merritt (Libertarian) 0.7', 'Freda Steele (Prohibition) 0.5', '\n']","Nancy Landon Kassebaum
+",R,1,Kansas,KS,√ Nancy Landon Kassebaum (Republican) 76.0,1984
+KS_sen_1986,"['√ Bob Dole (Republican) 70.1', 'Guy MacDonald (Democratic) 29.9', '\n']","Bob Dole
+",R,1,Kansas,KS,√ Bob Dole (Republican) 70.1,1986
+KS_sen_1986,"['√ Bob Dole (Republican) 70.1', 'Guy MacDonald (Democratic) 29.9', '\n']","Bob Dole
+",R,1,Kansas,KS,√ Bob Dole (Republican) 70.1,1986
+KS_sen_1990,"['√ Nancy L. Kassebaum (Republican) 73.6', 'Dick Williams (Democratic) 26.4', '\n']","Nancy L. Kassebaum
+",R,1,Kansas,KS,√ Nancy L. Kassebaum (Republican) 73.6,1990
+KS_sen_1992,"['√ Bob Dole (Republican) 62.7', ""Gloria O'Dell (Democratic) 31.0"", 'Christina Campbell-Cline (Independent) 4.0', 'Mark B. Kirk (Libertarian) 2.2', '\n']","Bob Dole
+",R,1,Kansas,KS,√ Bob Dole (Republican) 62.7,1992
+KS_sen_1996,"['√ Pat Roberts (Republican) 62.0', 'Sally Thompson (Democratic) 34.4', 'Mark S. Marney (Reform) 2.3', 'Steven Rosile (Libertarian) 1.2', '\n']","Nancy Kassebaum
+",R,1,Kansas,KS,√ Pat Roberts (Republican) 62.0,1996
+KS_sen_1998,"['√ Sam Brownback (Republican) 65.3', 'Paul Feleciano Jr. (Democratic) 31.6', 'Tom Oyler (Libertarian) 1.6', 'Alvin Bauman (Reform) 1.5', '\n']","Sam Brownback
+",R,1,Kansas,KS,√ Sam Brownback (Republican) 65.3,1998
+KS_sen_2002,"['√ Pat Roberts (Republican) 82.5', 'Steven A. Rosile (Libertarian) 9.1', 'George Cook (Reform) 8.4', '\n']","Pat Roberts
+",R,1,Kansas,KS,√ Pat Roberts (Republican) 82.5,2002
+KS_sen_2002,"['√ Pat Roberts (Republican) 82.5', 'Steven A. Rosile (Libertarian) 9.1', 'George Cook (Reform) 8.4', '\n']","Pat Roberts
+",R,1,Kansas,KS,√ Pat Roberts (Republican) 82.5,2002
+KS_sen_2004,"['√ Sam Brownback (Republican) 69', 'Lee Jones (Democratic) 28', 'Stephen A. Rosile (Libertarian) 2', 'George Cook (Reform) 1', '\n']","Sam Brownback
+",R,1,Kansas,KS,√ Sam Brownback (Republican) 69,2004
+KS_sen_2002,"['√ Pat Roberts (Republican) 60.0', 'Jim Slattery (Democratic) 36.4', 'Randall Hodgkinson (Libertarian) 2.1', 'Joseph Martin (Reform) 1.3', '\n']","Pat Roberts
+",R,1,Kansas,KS,√ Pat Roberts (Republican) 60.0,2002
+KS_sen_2010,"['√ Jerry Moran (Republican) 70.3', 'Lisa Johnston (Democratic) 26.2', 'Michael Dann (Libertarian) 2.1', 'Joe Bellis (Reform) 1.4', '\n']","Sam Brownback
+",R,1,Kansas,KS,√ Jerry Moran (Republican) 70.3,2010
+KS_sen_2014,"['√ Pat Roberts (Republican) 53.1', '[59]Greg Orman (Independent) 42.5', ' Randall Batson (Libertarian) 4.3', '[60]\n']","Pat Roberts
+",R,1,Kansas,KS,√ Pat Roberts (Republican) 53.1,2014
+KS_sen_2016,"['√ Jerry Moran (Republican)[60] 62.1', 'Patrick Wiesner (Democratic)[61] 32.2', 'Robert Garrard (Libertarian)[62] 5.5', '\n']","Jerry Moran
+",R,1,Kansas,KS,√ Jerry Moran (Republican)[60] 62.1,2016
+KS_sen_1996,"['√ Sam Brownback (Republican) 53.9', 'Jill Docking (Democratic) 43.3', 'Donald R. Klaassen (Reform) 2.8', '\n']","Sheila Frahm
+",R,1,Kansas,KS,√ Sam Brownback (Republican) 53.9,1996
+KY_sen_1990,"['√ Mitch McConnell (Republican) 52.2', 'Harvey I. Sloane (Democratic) 47.8', '\n']","Mitch McConnell
+",R,1,Kentucky,KY,√ Mitch McConnell (Republican) 52.2,1990
+KY_sen_1996,"['√ Mitch McConnell (Republican) 55.5', 'Steve Beshear (Democratic) 42.8', 'Dennis L. Lacy (Libertarian) 0.7', 'Patricia Jo Metten (Natural Law) 0.6', 'Mac McElroy (U.S. Taxpayers) 0.4', '\n']","Mitch McConnell
+",R,1,Kentucky,KY,√ Mitch McConnell (Republican) 55.5,1996
+KY_sen_2002,"['√ Mitch McConnell (Republican) 64.7', 'Lois Combs Weinberg (Democratic) 35.3', '\n']","Mitch McConnell
+",R,1,Kentucky,KY,√ Mitch McConnell (Republican) 64.7,2002
+KY_sen_2002,"['√ Mitch McConnell (Republican) 64.7', 'Lois Combs Weinberg (Democratic) 35.3', '\n']","Mitch McConnell
+",R,1,Kentucky,KY,√ Mitch McConnell (Republican) 64.7,2002
+KY_sen_2004,"['√ Jim Bunning (Republican) 51', 'Daniel Mongiardo (Democratic) 49', '\n']","Jim Bunning
+",R,1,Kentucky,KY,√ Jim Bunning (Republican) 51,2004
+KY_sen_2002,"['√ Mitch McConnell (Republican) 53.0', 'Bruce Lunsford (Democratic) 47.0', '\n']","Mitch McConnell
+",R,1,Kentucky,KY,√ Mitch McConnell (Republican) 53.0,2002
+KY_sen_2010,"['√ Rand Paul (Republican) 55.8', 'Jack Conway (Democratic) 44.2', '\n']","Jim Bunning
+",R,1,Kentucky,KY,√ Rand Paul (Republican) 55.8,2010
+KY_sen_2014,"['√ Mitch McConnell (Republican) 56.1', '[61]Alison Lundergan Grimes (Democratic) 40.7', '[62]David Patterson (Libertarian) 3.1', '[63]\n']","Mitch McConnell
+",R,1,Kentucky,KY,√ Mitch McConnell (Republican) 56.1,2014
+KY_sen_2016,"['√ Rand Paul (Republican)[63] 57.27', 'Jim Gray (Democratic)[64] 42.73', '\n']","Rand Paul
+",R,1,Kentucky,KY,√ Rand Paul (Republican)[63] 57.27,2016
+LA_sen_2010,"['√ David Vitter (Republican) 56.6', 'Charles Melancon (Democratic) 37.7', 'Randall Hayes (Libertarian) 1.1', 'Michael Brown (Independent) 0.8', '\n']","David Vitter
+",R,1,Louisiana,LA,√ David Vitter (Republican) 56.6,2010
+LA_sen_2016,"['√John N. Kennedy (Republican)[65] 60.65', 'Foster Campbell (Democratic)[66] 39.35', '\n']","David Vitter
+",R,1,Louisiana,LA,√John N. Kennedy (Republican)[65] 60.65,2016
+ME_sen_1984,"['√ William Cohen (Republican) 73.3', 'Libby Mitchell (Democratic) 25.9', 'Ann Stoddard (Constitutionalist) 0.8', '\n']","William Cohen
+",R,1,Maine,ME,√ William Cohen (Republican) 73.3,1984
+ME_sen_1984,"['√ William Cohen (Republican) 73.3', 'Libby Mitchell (Democratic) 25.9', 'Ann Stoddard (Constitutionalist) 0.8', '\n']","William Cohen
+",R,1,Maine,ME,√ William Cohen (Republican) 73.3,1984
+ME_sen_1990,"['√ William Cohen (Republican) 61.4', 'Neil Rolde (Democratic) 38.6', '\n']","William Cohen
+",R,1,Maine,ME,√ William Cohen (Republican) 61.4,1990
+ME_sen_1996,"['√ Susan M. Collins (Republican) 49.2', 'Joseph E. Brennan (Democratic) 43.8', 'John Rensenbrink (Green) 4', 'William P. Clarke (U.S. Taxpayers) 3', '\n']","William Cohen
+",R,1,Maine,ME,√ Susan M. Collins (Republican) 49.2,1996
+ME_sen_2000,"['√ Olympia Snowe (Republican) 68.9', 'Mark Lawrence (Democratic) 31.1', '\n']","Olympia Snowe
+",R,1,Maine,ME,√ Olympia Snowe (Republican) 68.9,2000
+ME_sen_2002,"['√ Susan Collins (Republican) 58.4', 'Chellie Pingree (Democratic) 41.6', '\n']","Susan Collins
+",R,1,Maine,ME,√ Susan Collins (Republican) 58.4,2002
+ME_sen_2002,"['√ Susan Collins (Republican) 58.4', 'Chellie Pingree (Democratic) 41.6', '\n']","Susan Collins
+",R,1,Maine,ME,√ Susan Collins (Republican) 58.4,2002
+ME_sen_2006,"['√ Olympia Snowe (Republican) 74.4', 'Jean Hay Bright (Democratic) 20.5', 'Bill Slavick (Independent) 5.2', '\n']","Olympia Snowe
+",R,1,Maine,ME,√ Olympia Snowe (Republican) 74.4,2006
+ME_sen_2002,"['√ Susan Collins (Republican) 61.3', 'Tom Allen (Democratic) 38.6', '\n']","Susan Collins
+",R,1,Maine,ME,√ Susan Collins (Republican) 61.3,2002
+ME_sen_2012,"['√ Angus King (Independent) 52.9', 'Charles E. Summers, Jr. (Republican) 30.7', 'Cynthia Dill (Democratic) 13.3', '[23]Danny F. Dalton (Independent) 0.8', 'Andrew Ian Dodge (Libertarian) 0.8', '[24]\n']","Olympia Snowe
+",R,1,Maine,ME,√ Angus King (Independent) 52.9,2012
+ME_sen_2014,"['√ Susan Collins (Republican) 68.5', '[66]Shenna Bellows (Democratic) 31.5', '[67]\n']","Susan Collins
+",R,1,Maine,ME,√ Susan Collins (Republican) 68.5,2014
+MD_sen_1976,"['√ Paul Sarbanes (Democratic) 56.5', 'John Glenn Beall Jr. (Republican)  38.8', '\n']","John Glenn Beall Jr.
+",R,1,Maryland,MD,√ Paul Sarbanes (Democratic) 56.5,1976
+MD_sen_1980,"['√ Charles Mathias Jr. (Republican) 66.2', 'Edward T. Conroy (Democratic) 33.8', '\n']","Charles Mathias, Jr.
+",R,1,Maryland,MD,"√ Charles Mathias, Jr. (Republican) 66.2",1980
+MD_sen_1986,"['√ Barbara Mikulski (Democratic) 60.8', 'Linda Chavez (Republican) 39.2', '\n']","Charles Mathias
+",R,1,Maryland,MD,√ Barbara Mikulski (Democratic) 60.8,1986
+MD_sen_1986,"['√ Barbara Mikulski (Democratic) 60.8', 'Linda Chavez (Republican) 39.2', '\n']","Charles Mathias
+",R,1,Maryland,MD,√ Barbara Mikulski (Democratic) 60.8,1986
+MD_sen_1986,"['√ Barbara Mikulski (Democratic) 60.8', 'Linda Chavez (Republican) 39.2', '\n']","Charles Mathias
+",R,1,Maryland,MD,√ Barbara Mikulski (Democratic) 60.8,1986
+MA_sen_1978,"['√ Paul Tsongas (Democratic) 55.1', 'Edward Brooke (Republican) 44.9', '\n']","Edward Brooke
+",R,1,Massachusetts,MA,√ Paul Tsongas (Democratic) 55.1,1978
+MA_sen_2012,"['√ Elizabeth Warren (Democratic) 53.7', 'Scott Brown (Republican) 46.3', '\n']","Scott Brown
+",R,1,Massachusetts,MA,√ Elizabeth Warren (Democratic) 53.7,2012
+MI_sen_1978,"['√ Carl Levin (Democratic) 52.1', 'Robert P. Griffin (Republican) 47.9', '\n']","Robert P. Griffin
+",R,1,Michigan,MI,√ Carl Levin (Democratic) 52.1,1978
+MI_sen_2000,"['√ Debbie Stabenow (Democratic) 49.4', 'Spencer Abraham (Republican) 47.9', 'Matthew Abel (Green) 0.9', 'Michael Corliss (Libertarian) 0.7', 'Mark Forton (Reform) 0.6', 'John Mangopoulos (U.S. Taxpayers) 0.3', 'William Quarton (Natural Law) 0.1', '\n']","Spencer Abraham
+",R,1,Michigan,MI,√ Debbie Stabenow (Democratic) 49.4,2000
+MN_sen_1982,"['√ David Durenberger (Republican) 52.6', 'Mark Dayton (Democratic) 46.6', '\n']","David Durenberger
+",R,1,Minnesota,MN,√ David Durenberger (Republican) 52.6,1982
+MN_sen_1984,"['√ Rudy Boschwitz (Republican) 58.1', 'Joan Growe (Democratic) 41.3', '\n']","Rudy Boschwitz
+",R,1,Minnesota,MN,√ Rudy Boschwitz (Republican) 58.1,1984
+MN_sen_1982,"['√ David Durenberger (Republican) 52.6', 'Mark Dayton (Democratic) 46.6', '\n']","David Durenberger
+",R,1,Minnesota,MN,√ David Durenberger (Republican) 52.6,1982
+MN_sen_1984,"['√ Rudy Boschwitz (Republican) 58.1', 'Joan Growe (Democratic) 41.3', '\n']","Rudy Boschwitz
+",R,1,Minnesota,MN,√ Rudy Boschwitz (Republican) 58.1,1984
+MN_sen_1988,"['√ David Durenberger (Republican) 56.2', 'Skip Humphrey (Democratic) 40.9', 'Polly Mann (Progressive Issues) 2.1', 'Derrick Grimmer (Grassroots) 0.4', 'Arlen Overvig (Libertarian) 0.2', 'Wendy Lyons (Socialist Workers) 0.1', '\n']","David Durenberger
+",R,1,Minnesota,MN,√ David Durenberger (Republican) 56.2,1988
+MN_sen_1990,"['√ Paul Wellstone (Democratic) 50.4', 'Rudy Boschwitz (Republican) 47.8', 'Russell Bentley (Grassroots) 1.6', '\n']","Rudy Boschwitz
+",R,1,Minnesota,MN,√ Paul Wellstone (Democratic) 50.4,1990
+MN_sen_1994,"['√ Rod Grams (Republican) 49.1', 'Ann Wynia (DFL) 44.1', 'Dean Barkley (Reform) 5.4', 'Candice E. Sjostrom (Grassroots) 0.9', 'Stephen Johnson (Natural Law) 0.3', 'Chris Wege (Socialist Workers) 0.1', '\n']","David Durenberger
+",R,1,Minnesota,MN,√ Rod Grams (Republican) 49.1,1994
+MN_sen_2000,"['√ Mark Dayton (Democratic) 48.8', 'Rod Grams (Republican) 43.3', 'James Gibson (Independence) 5.8', 'David Daniels (Grassroots) 0.9', 'Rebecca Ellis (Socialist Workers) 0.5', 'David Swan (Constitution) 0.4', 'Erik D. Pakieser (Libertarian) 0.3', '\n']","Rod Grams
+",R,1,Minnesota,MN,√ Mark Dayton (Democratic) 48.8,2000
+MN_sen_2002,"['√ Al Franken (DFL) 41.99', 'Norm Coleman (Republican) 41.98', 'Dean Barkley (MIP) 15.15', 'Charles Aldrich (Libertarian) 0.48', 'James Niemackl (Constitution) 0.31Write-ins 0.08', '\n']","Norm Coleman
+",R,1,Minnesota,MN,√ Al Franken (DFL) 41.99,2002
+MS_sen_1984,"['√ Thad Cochran (Republican) 60.9', 'William Winter (Democratic) 39.1', '\n']","Thad Cochran
+",R,1,Mississippi,MS,√ Thad Cochran (Republican) 60.9,1984
+MS_sen_1984,"['√ Thad Cochran (Republican) 60.9', 'William Winter (Democratic) 39.1', '\n']","Thad Cochran
+",R,1,Mississippi,MS,√ Thad Cochran (Republican) 60.9,1984
+MS_sen_1990,['√ Thad Cochran (Republican)Unopposed\n'],"Thad Cochran
+",R,1,Mississippi,MS,"√ Thad Cochran (Republican)Unopposed
+",1990
+MS_sen_1994,"['√ Trent Lott (Republican) 68.8', 'Ken Harper (Democratic) 31.2', '\n']","Trent Lott
+",R,1,Mississippi,MS,√ Trent Lott (Republican) 68.8,1994
+MS_sen_1996,"['√ Thad Cochran (Republican) 71.0', 'James Hunt (Democratic) 27.4', 'Ted Weill (Independence) 1.6', '\n']","Thad Cochran
+",R,1,Mississippi,MS,√ Thad Cochran (Republican) 71.0,1996
+MS_sen_2000,"['√ Trent Lott (Republican) 65.9', 'Troy Brown (Democratic) 31.6', 'Jim Giles (Independent) 0.9', 'Lewis Napper (Libertarian) 0.9', ""Shawn O'Hara (Reform) 0.7"", '\n']","Trent Lott
+",R,1,Mississippi,MS,√ Trent Lott (Republican) 65.9,2000
+MS_sen_2002,"['√ Thad Cochran (Republican) 85.6', ""Shawn O'Hara (Reform) 15.4"", '\n']","Thad Cochran
+",R,1,Mississippi,MS,√ Thad Cochran (Republican) 85.6,2002
+MS_sen_2002,"['√ Thad Cochran (Republican) 85.6', ""Shawn O'Hara (Reform) 15.4"", '\n']","Thad Cochran
+",R,1,Mississippi,MS,√ Thad Cochran (Republican) 85.6,2002
+MS_sen_2006,"['√ Trent Lott (Republican) 63.6', 'Erik Fleming (Democratic) 34.8', 'Harold Taylor (Libertarian) 1.5', '\n']","Trent Lott
+",R,1,Mississippi,MS,√ Trent Lott (Republican) 63.6,2006
+MS_sen_2002,"['√ Thad Cochran (Republican) 61.4', 'Erik Fleming (Democratic) 38.6', '\n']","Thad Cochran
+",R,1,Mississippi,MS,√ Thad Cochran (Republican) 61.4,2002
+MS_sen_2012,"['√ Roger Wicker (Republican) 57.2', 'Albert N. Gore, Jr. (Democratic) 40.6', '[30]Thomas Cramer (Constitution Party) 1.2', ""Shawn O'Hara (Reform) 1"", '\n']","Roger Wicker
+",R,1,Mississippi,MS,√ Roger Wicker (Republican) 57.2,2012
+MS_sen_2014,"['√ Thad Cochran (Republican) 59.9', '[78]Travis Childers (Democratic) 37.9', ""[79]Shawn O'Hara (Reform) 2.2"", '[80]\n']","Thad Cochran
+",R,1,Mississippi,MS,√ Thad Cochran (Republican) 59.9,2014
+MS_sen_2002,"['√ Roger Wicker (Republican) 55.0', 'Ronnie Musgrove (Democratic) 45.0', '\n']","Roger Wicker
+",R,1,Mississippi,MS,√ Roger Wicker (Republican) 55.0,2002
+MO_sen_1982,"['√ John Danforth (Republican) 50.8', 'Harriett Woods (Democratic) 49.1', '\n']","John Danforth
+",R,1,Missouri,MO,√ John Danforth (Republican) 50.8,1982
+MO_sen_1982,"['√ John Danforth (Republican) 50.8', 'Harriett Woods (Democratic) 49.1', '\n']","John Danforth
+",R,1,Missouri,MO,√ John Danforth (Republican) 50.8,1982
+MO_sen_1988,"['√ John Danforth (Republican) 67.7', 'Jay Nixon (Democratic) 31.7', 'John Guze (Libertarian) 0.6', '\n']","John Danforth
+",R,1,Missouri,MO,√ John Danforth (Republican) 67.7,1988
+MO_sen_1992,"['√ Kit Bond (Republican) 51.9', 'Geri Rothman-Serot (Democratic) 44.9', 'Jeanne Bojarski (Libertarian) 3.2', '\n']","Kit Bond
+",R,1,Missouri,MO,√ Kit Bond (Republican) 51.9,1992
+MO_sen_1994,"['√ John Ashcroft (Republican) 59.8', 'Alan Wheat (Democratic) 35.7', 'Bill Johnson (Libertarian) 4.6', '\n']","John Danforth
+",R,1,Missouri,MO,√ John Ashcroft (Republican) 59.8,1994
+MO_sen_1998,"['√ Kit Bond (Republican) 52.7', 'Jay Nixon (Democratic) 43.8', 'Tamara Millay (Libertarian) 2.0', 'Curtis Frazier (U.S. Taxpayers) 1.0', 'James F. Newport (Reform) 0.5', '\n']","Kit Bond
+",R,1,Missouri,MO,√ Kit Bond (Republican) 52.7,1998
+MO_sen_2000,"['√ Mel Carnahan (Democratic) 50.4', 'John Ashcroft (Republican) 48.4', 'Evaline Taylor (Green) 0.5', 'Grant Samuel Stauffer (Libertarian) 0.4', 'Hugh Foley (Reform) 0.2', 'Charles Dockins (Natural Law) 0.1', '\n']","John Ashcroft
+",R,1,Missouri,MO,√ Mel Carnahan (Democratic) 50.4,2000
+MO_sen_2004,"['√ Kit Bond (Republican) 56', 'Nancy Farmer (Democratic) 42.8', 'Kevin Tull (Libertarian) 0.7', 'Don Griffin (Constitution) 0.4', '\n']","Kit Bond
+",R,1,Missouri,MO,√ Kit Bond (Republican) 56,2004
+MO_sen_2006,"['√ Claire McCaskill (Democratic) 49.6', 'Jim Talent (Republican) 47.3', 'Frank Gilmour (Libertarian) 1.2', 'Lydia Lewis (Green) 0.9', '\n']","Jim Talent
+",R,1,Missouri,MO,√ Claire McCaskill (Democratic) 49.6,2006
+MO_sen_2010,"['√ Roy Blunt (Republican) 54.3', 'Robin Carnahan (Democratic) 40.6', 'Jonathan Dine (Libertarian) 3.0', 'Jerry Beck (Constitution) 2.1', '\n']","Kit Bond
+",R,1,Missouri,MO,√ Roy Blunt (Republican) 54.3,2010
+MO_sen_2016,"['√ Roy Blunt (Republican)[70] 49.3', 'Jason Kander (Democratic)[71] 46.2', 'Jonathan Dine (Libertarian)[72]\n']","Roy Blunt
+",R,1,Missouri,MO,√ Roy Blunt (Republican)[70] 49.3,2016
+MT_sen_1994,"['√ Conrad Burns (Republican) 62.4', 'Jack Mudd (Democratic) 37.6', '\n']","Conrad Burns
+",R,1,Montana,MT,√ Conrad Burns (Republican) 62.4,1994
+MT_sen_2000,"['√ Conrad Burns (Republican) 50.6', 'Brian Schweitzer (Democratic) 47.2', 'Gary Lee (Reform) 2.2', '\n']","Conrad Burns
+",R,1,Montana,MT,√ Conrad Burns (Republican) 50.6,2000
+MT_sen_2006,"['√ Jon Tester (Democratic) 49.2', 'Conrad Burns (Republican) 48.3', 'Stan Jones (Libertarian) 2.6', '\n']","Conrad Burns
+",R,1,Montana,MT,√ Jon Tester (Democratic) 49.2,2006
+NE_sen_1976,"['√ Edward Zorinsky (Democratic) 52.4', 'John Y. McCollister (Republican) 47.5', '\n']","Roman Hruska
+",R,1,Nebraska,NE,√ Edward Zorinsky (Democratic) 52.4,1976
+NE_sen_1978,"['√ J. James Exon (Democratic) 67.6', 'Donald Shasteen (Republican) 32.3', '\n']","Carl Curtis
+",R,1,Nebraska,NE,√ J. James Exon (Democratic) 67.6,1978
+NE_sen_1988,"['√ Bob Kerrey (Democratic) 56.7', 'David Karnes (Republican) 41.7', 'Ernie Chambers (New Alliance) 1.6', '\n']","David Karnes
+",R,1,Nebraska,NE,√ Bob Kerrey (Democratic) 56.7,1988
+NE_sen_2002,"['√ Chuck Hagel (Republican) 82.8', 'Charlie A. Matulka (Democratic) 14.6', 'John J. Graziano (Libertarian) 1.5', 'Phil Chase (Independent) 1.1', '\n']","Chuck Hagel
+",R,1,Nebraska,NE,√ Chuck Hagel (Republican) 82.8,2002
+NE_sen_2002,"['√ Chuck Hagel (Republican) 82.8', 'Charlie A. Matulka (Democratic) 14.6', 'John J. Graziano (Libertarian) 1.5', 'Phil Chase (Independent) 1.1', '\n']","Chuck Hagel
+",R,1,Nebraska,NE,√ Chuck Hagel (Republican) 82.8,2002
+NE_sen_2002,"['√ Mike Johanns (Republican) 57.5', 'Scott Kleeb (Democratic) 40.1', 'Kelly Rosberg (Nebraska) 1.4', 'Steve Larrick (Green)  1.0', '\n']","Chuck Hagel
+",R,1,Nebraska,NE,√ Mike Johanns (Republican) 57.5,2002
+NE_sen_2014,"['√ Ben Sasse (Republican) 64.4', '[84]David Domina (Democratic) 31.5', '[85]Jim Jenkins (Independent) 2.9', '[86]Todd Watson (Independent) 1.2', '[87]\n']","Mike Johanns
+",R,1,Nebraska,NE,√ Ben Sasse (Republican) 64.4,2014
+NV_sen_1980,"['√ Paul Laxalt (Republican) 58.5', 'Mary Gojack (Democratic) 37.4', '\n']","Paul Laxalt
+",R,1,Nevada,NV,√ Paul Laxalt (Republican) 58.5,1980
+NV_sen_1986,"['√ Harry Reid (Democratic) 50.0', 'James David Santini (Republican) 44.5', 'Kent Cromwell (Libertarian) 1.9', '\n']","Paul Laxalt
+",R,1,Nevada,NV,√ Harry Reid (Democratic) 50.0,1986
+NV_sen_1986,"['√ Harry Reid (Democratic) 50.0', 'James David Santini (Republican) 44.5', 'Kent Cromwell (Libertarian) 1.9', '\n']","Paul Laxalt
+",R,1,Nevada,NV,√ Harry Reid (Democratic) 50.0,1986
+NV_sen_1986,"['√ Harry Reid (Democratic) 50.0', 'James David Santini (Republican) 44.5', 'Kent Cromwell (Libertarian) 1.9', '\n']","Paul Laxalt
+",R,1,Nevada,NV,√ Harry Reid (Democratic) 50.0,1986
+NV_sen_1988,"['√ Richard Bryan (Democratic) 51.3', 'Chic Hecht (Republican) 47.1', 'James Frye (Libertarian) 1.6', '\n']","Chic Hecht
+",R,1,Nevada,NV,√ Richard Bryan (Democratic) 51.3,1988
+NV_sen_2006,"['√ John Ensign (Republican) 55.4', 'Jack Carter (Democratic) 41', 'None of These Candidates 1.4', 'David Schumann (Constitution) 1.3', 'Brendan Trainor (Libertarian) 0.9', '\n']","John Ensign
+",R,1,Nevada,NV,√ John Ensign (Republican) 55.4,2006
+NV_sen_2012,"['√ Dean Heller (Republican) 45.9', 'Shelley Berkley (Democratic) 44.7', 'David VanderBeek (Independent American) 4.9', 'None of These Candidates 4.5', '\n']","Dean Heller
+",R,1,Nevada,NV,√ Dean Heller (Republican) 45.9,2012
+NH_sen_1984,"['√ Gordon J. Humphrey (Republican) 58.7', ""Norman D'Amours (Democratic) 41.0"", 'Saunder Primack (Libertarian) 0.3', '\n']","Gordon J. Humphrey
+",R,1,New_Hampshire,NH,√ Gordon J. Humphrey (Republican) 58.7,1984
+NH_sen_1986,"['√ Warren Rudman (Republican) 62.9', 'Endicott Peabody (Democratic) 32.4', 'Gruce Valley (Independent) 4.7', '\n']","Warren Rudman
+",R,1,New_Hampshire,NH,√ Warren Rudman (Republican) 62.9,1986
+NH_sen_1984,"['√ Gordon J. Humphrey (Republican) 58.7', ""Norman D'Amours (Democratic) 41.0"", 'Saunder Primack (Libertarian) 0.3', '\n']","Gordon J. Humphrey
+",R,1,New_Hampshire,NH,√ Gordon J. Humphrey (Republican) 58.7,1984
+NH_sen_1986,"['√ Warren Rudman (Republican) 62.9', 'Endicott Peabody (Democratic) 32.4', 'Gruce Valley (Independent) 4.7', '\n']","Warren Rudman
+",R,1,New_Hampshire,NH,√ Warren Rudman (Republican) 62.9,1986
+NH_sen_1986,"['√ Warren Rudman (Republican) 62.9', 'Endicott Peabody (Democratic) 32.4', 'Gruce Valley (Independent) 4.7', '\n']","Warren Rudman
+",R,1,New_Hampshire,NH,√ Warren Rudman (Republican) 62.9,1986
+NH_sen_1990,"['√ Bob Smith (Republican) 65.1', 'John A. Durkin (Democratic) 31.3', 'John Elsnau (Libertarian) 3.3', '\n']","Gordon J. Humphrey
+",R,1,New_Hampshire,NH,√ Bob Smith (Republican) 65.1,1990
+NH_sen_1992,"['√ Judd Gregg (Republican) 48.2', 'John Rauh (Democratic) 45.3', 'K. Alexander (Libertarian) 3.5', '\n']","Warren Rudman
+",R,1,New_Hampshire,NH,√ Judd Gregg (Republican) 48.2,1992
+NH_sen_1996,"['√ Bob Smith (Republican) 49.3', 'Dick Swett (Democratic) 46.2', 'Ken Blevens (Libertarian) 4.5', '\n']","Bob Smith
+",R,1,New_Hampshire,NH,√ Bob Smith (Republican) 49.3,1996
+NH_sen_1998,"['√ Judd Gregg (Republican) 67.8', 'George Condodemetraky (Democratic) 28.2', 'Brian Christeson (Libertarian) 2.4', 'Roy Kendel (Independent) 1.5', '\n']","Judd Gregg
+",R,1,New_Hampshire,NH,√ Judd Gregg (Republican) 67.8,1998
+NH_sen_2002,"['√ John E. Sununu (Republican) 50.8', 'Jeanne Shaheen (Democratic) 46.4', 'Ken Blevens (Libertarian) 2.2', '\n']","Bob Smith
+",R,1,New_Hampshire,NH,√ John E. Sununu (Republican) 50.8,2002
+NH_sen_2002,"['√ John E. Sununu (Republican) 50.8', 'Jeanne Shaheen (Democratic) 46.4', 'Ken Blevens (Libertarian) 2.2', '\n']","Bob Smith
+",R,1,New_Hampshire,NH,√ John E. Sununu (Republican) 50.8,2002
+NH_sen_2004,"['√ Judd Gregg (Republican) 66', 'Doris Haddock (Democratic) 34', '\n']","Judd Gregg
+",R,1,New_Hampshire,NH,√ Judd Gregg (Republican) 66,2004
+NH_sen_2002,"['√ Jeanne Shaheen (Democratic) 51.7', 'John E. Sununu (Republican) 45.2', 'Ken Blevens (Libertarian) 3.1', '\n']","John E. Sununu
+",R,1,New_Hampshire,NH,√ Jeanne Shaheen (Democratic) 51.7,2002
+NH_sen_2010,"['√ Kelly Ayotte (Republican) 60.2', 'Paul Hodes (Democratic) 36.7', 'Chris Booth (Independent) 2.0', 'Ken Blevens (Libertarian) 1.0', '\n']","Judd Gregg
+",R,1,New_Hampshire,NH,√ Kelly Ayotte (Republican) 60.2,2010
+NH_sen_2016,"['√ Maggie Hassan (Democratic) 47.97', '[75]Kelly Ayotte (Republican) 47.87', '[76]Brian Chabot (Libertarian)[77]\n']","Kelly Ayotte
+",R,1,New_Hampshire,NH,√ Maggie Hassan (Democratic) 47.97,2016
+NJ_sen_1978,"['√ Bill Bradley (Democratic) 55.3', 'Jeffrey Bell (Republican) 43.1', 'Herbert Harry Shaw (Independent) 0.2', 'Bill Gahres (Independent) 0.2', 'Jack Moyers (Independent) 0.2', 'Robert Bowen (Labor) 0.2', 'J.M. Carter, Jr. (Independent) 0.2', 'Jasper C. Gould (Independent) 0.2', 'William R. Thorn (Independent) 0.1', 'Paul Ferguson (Independent) 0.1', 'Alice Conner (Independent) 0.1', '\n']","Clifford P. Case
+",R,1,New_Jersey,NJ,√ Bill Bradley (Democratic) 55.3,1978
+NJ_sen_1982,"['√ Frank Lautenberg (Democratic) 50.9', 'Millicent Fenwick (Republican) 47.8', '\n']","Nicholas F. Brady
+",R,1,New_Jersey,NJ,√ Frank Lautenberg (Democratic) 50.9,1982
+NJ_sen_1982,"['√ Frank Lautenberg (Democratic) 50.9', 'Millicent Fenwick (Republican) 47.8', '\n']","Nicholas F. Brady
+",R,1,New_Jersey,NJ,√ Frank Lautenberg (Democratic) 50.9,1982
+NM_sen_1978,"['√ Pete Domenici (Republican) 53.4', 'Toney Anaya (Democratic) 46.6', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Pete Domenici (Republican) 53.4,1978
+NM_sen_1982,"['√ Jeff Bingaman (Democratic) 53.8', 'Harrison Schmitt (Republican) 46.2', '\n']","Harrison Schmitt
+",R,1,New_Mexico,NM,√ Jeff Bingaman (Democratic) 53.8,1982
+NM_sen_1984,"['√ Pete Domenici (Republican) 71.9', 'Judith A. Pratt (Democratic) 28.1', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Pete Domenici (Republican) 71.9,1984
+NM_sen_1982,"['√ Jeff Bingaman (Democratic) 53.8', 'Harrison Schmitt (Republican) 46.2', '\n']","Harrison Schmitt
+",R,1,New_Mexico,NM,√ Jeff Bingaman (Democratic) 53.8,1982
+NM_sen_1984,"['√ Pete Domenici (Republican) 71.9', 'Judith A. Pratt (Democratic) 28.1', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Pete Domenici (Republican) 71.9,1984
+NM_sen_1990,"['√ Pete Domenici (Republican) 72.9', 'Tom R. Benavides (Democratic) 27.1', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Pete Domenici (Republican) 72.9,1990
+NM_sen_1996,"['√ Pete Domenici (Republican) 64.7', 'Art Trujillo (Democratic) 29.8', 'Abraham Guttman (Green) 4.4', 'Bruce M. Bush (Libertarian) 1.1', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Pete Domenici (Republican) 64.7,1996
+NM_sen_2002,"['√ Pete Domenici (Republican) 65', 'Gloria Tristani (Democratic) 35', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Pete Domenici (Republican) 65,2002
+NM_sen_2002,"['√ Pete Domenici (Republican) 65', 'Gloria Tristani (Democratic) 35', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Pete Domenici (Republican) 65,2002
+NM_sen_2002,"['√ Tom Udall (Democratic) 61.3', 'Steve Pearce (Republican) 38.7', '\n']","Pete Domenici
+",R,1,New_Mexico,NM,√ Tom Udall (Democratic) 61.3,2002
+NY_sen_1980,"[""√ Al D'Amato (Republican) 44.9"", 'Elizabeth Holtzman (Democratic) 43.5', 'Jacob K. Javits (Liberal) 11.0', 'Richard Savadel (Libertarian) 0.36', 'William R. Scott (Communist) 0.07', 'Thomas Soto (Workers World) 0.06', 'Victor A. Nieto (Socialist Workers) 0.06', '\n']","Jacob K. Javits
+",R,1,New_York,NY,√ Al D'Amato (Republican) 44.9,1980
+NY_sen_1986,"[""√ Al D'Amato (Republican) 57.7"", 'Mark J. Green (Democratic) 40.9', 'John S. Dyson (Liberal) 1.4', 'Fred Newman (New Alliance) 0.3', 'Michael Shur (Socialist Workers) 0.2', '\n']","Al D'Amato
+",R,1,New_York,NY,√ Al D'Amato (Republican) 57.7,1986
+NY_sen_1986,"[""√ Al D'Amato (Republican) 57.7"", 'Mark J. Green (Democratic) 40.9', 'John S. Dyson (Liberal) 1.4', 'Fred Newman (New Alliance) 0.3', 'Michael Shur (Socialist Workers) 0.2', '\n']","Al D'Amato
+",R,1,New_York,NY,√ Al D'Amato (Republican) 57.7,1986
+NY_sen_1986,"[""√ Al D'Amato (Republican) 57.7"", 'Mark J. Green (Democratic) 40.9', 'John S. Dyson (Liberal) 1.4', 'Fred Newman (New Alliance) 0.3', 'Michael Shur (Socialist Workers) 0.2', '\n']","Al D'Amato
+",R,1,New_York,NY,√ Al D'Amato (Republican) 57.7,1986
+NY_sen_1992,"[""√ Al D'Amato (Republican) 49.0"", 'Robert Abrams (Democratic) 47.8', 'Norma Segal (Libertarian) 1.7', 'Mohammad T. Mehdi (New Alliance) 0.9', 'Stanley Nelson (Natural Law) 0.4', 'Ed Warren (Socialist Workers) 0.2', '\n']","Al D'Amato
+",R,1,New_York,NY,√ Al D'Amato (Republican) 49.0,1992
+NY_sen_1998,"['√ Chuck Schumer (Democratic) 54.6', ""Al D'Amato (Republican) 44.1"", 'Corinne E. Kurtz (Marijuana Reform) 0.7', 'Joel Kovel (Green) 0.3', 'William P. Mc Millen (Libertarian) 0.2', 'Rose Ana Berbeo (Socialist Workers) 0.1', '\n']","Al D'Amato
+",R,1,New_York,NY,√ Chuck Schumer (Democratic) 54.6,1998
+NC_sen_1978,"['√ Jesse Helms (Republican) 54.5', 'John Ingram (Democratic) 45.5', '\n']","Jesse Helms
+",R,1,North_Carolina,NC,√ Jesse Helms (Republican) 54.5,1978
+NC_sen_1984,"['√ Jesse Helms (Republican) 51.7', 'Jim Hunt (Democratic) 47.8', '\n']","Jesse Helms
+",R,1,North_Carolina,NC,√ Jesse Helms (Republican) 51.7,1984
+NC_sen_1986,"['√ Terry Sanford (Democratic) 51.8', 'Jim Broyhill (Republican) 48.2', '\n']","Jim Broyhill
+",R,1,North_Carolina,NC,√ Terry Sanford (Democratic) 51.8,1986
+NC_sen_1984,"['√ Jesse Helms (Republican) 51.7', 'Jim Hunt (Democratic) 47.8', '\n']","Jesse Helms
+",R,1,North_Carolina,NC,√ Jesse Helms (Republican) 51.7,1984
+NC_sen_1986,"['√ Terry Sanford (Democratic) 51.8', 'Jim Broyhill (Republican) 48.2', '\n']","Jim Broyhill
+",R,1,North_Carolina,NC,√ Terry Sanford (Democratic) 51.8,1986
+NC_sen_1986,"['√ Terry Sanford (Democratic) 51.8', 'Jim Broyhill (Republican) 48.2', '\n']","Jim Broyhill
+",R,1,North_Carolina,NC,√ Terry Sanford (Democratic) 51.8,1986
+NC_sen_1990,"['√ Jesse Helms (Republican) 52.6', 'Harvey Gantt (Democratic) 47.4', '\n']","Jesse Helms
+",R,1,North_Carolina,NC,√ Jesse Helms (Republican) 52.6,1990
+NC_sen_1996,"['√ Jesse Helms (Republican) 52.6', 'Harvey Gantt (Democratic) 45.9', 'Ray Ubinger (Libertarian) 1.0', 'J. Victor Pardo (Natural Law) 0.4', '\n']","Jesse Helms
+",R,1,North_Carolina,NC,√ Jesse Helms (Republican) 52.6,1996
+NC_sen_1998,"['√ John Edwards (Democratic) 51.2', 'Lauch Faircloth (Republican) 47.0', 'Barbara Howe (Libertarian) 1.8', '\n']","Lauch Faircloth
+",R,1,North_Carolina,NC,√ John Edwards (Democratic) 51.2,1998
+NC_sen_2002,"['√ Elizabeth Dole (Republican) 53.6', 'Erskine Bowles (Democratic) 45', 'Sean Haugh (Libertarian) 1.5', '\n']","Jesse Helms
+",R,1,North_Carolina,NC,√ Elizabeth Dole (Republican) 53.6,2002
+NC_sen_2002,"['√ Elizabeth Dole (Republican) 53.6', 'Erskine Bowles (Democratic) 45', 'Sean Haugh (Libertarian) 1.5', '\n']","Jesse Helms
+",R,1,North_Carolina,NC,√ Elizabeth Dole (Republican) 53.6,2002
+NC_sen_2002,"['√ Kay Hagan (Democratic) 52.7', 'Elizabeth Dole (Republican) 44.2', 'Chris Cole (Libertarian) 3.1', '\n']","Elizabeth Dole
+",R,1,North_Carolina,NC,√ Kay Hagan (Democratic) 52.7,2002
+NC_sen_2010,"['√ Richard Burr (Republican) 55.0', 'Elaine Marshall (Democratic) 42.9', 'Mike Beitler (Libertarian) 2.1', '\n']","Richard Burr
+",R,1,North_Carolina,NC,√ Richard Burr (Republican) 55.0,2010
+NC_sen_2016,"['√ Richard Burr (Republican) 51.1', '[81]Deborah Ross (Democratic) 45.3', '[82]Sean Haugh (Libertarian)[83]\n']","Richard Burr
+",R,1,North_Carolina,NC,√ Richard Burr (Republican) 51.1,2016
+NC_sen_1986,"['√ Terry Sanford (Democratic) 50.9', 'Jim Broyhill (Republican) 49.1', '\n']","Jim Broyhill
+",R,1,North_Carolina,NC,√ Terry Sanford (Democratic) 50.9,1986
+NC_sen_1986,"['√ Terry Sanford (Democratic) 50.9', 'Jim Broyhill (Republican) 49.1', '\n']","Jim Broyhill
+",R,1,North_Carolina,NC,√ Terry Sanford (Democratic) 50.9,1986
+NC_sen_1986,"['√ Terry Sanford (Democratic) 50.9', 'Jim Broyhill (Republican) 49.1', '\n']","Jim Broyhill
+",R,1,North_Carolina,NC,√ Terry Sanford (Democratic) 50.9,1986
+ND_sen_1980,"['√ Mark Andrews (Republican) 70.3', 'Kent Johanneson (Democratic) 29.0', 'Harley McLain (Independent) 0.5', 'Don J. Klingensmith (Independent) 0.2', '\n']","Milton Young
+",R,1,North_Dakota,ND,√ Mark Andrews (Republican) 70.3,1980
+ND_sen_1986,"['√ Kent Conrad (Democratic) 49.8', 'Mark Andrews (Republican) 49.0', '\n']","Mark Andrews
+",R,1,North_Dakota,ND,√ Kent Conrad (Democratic) 49.8,1986
+ND_sen_1986,"['√ Kent Conrad (Democratic) 49.8', 'Mark Andrews (Republican) 49.0', '\n']","Mark Andrews
+",R,1,North_Dakota,ND,√ Kent Conrad (Democratic) 49.8,1986
+ND_sen_1986,"['√ Kent Conrad (Democratic) 49.8', 'Mark Andrews (Republican) 49.0', '\n']","Mark Andrews
+",R,1,North_Dakota,ND,√ Kent Conrad (Democratic) 49.8,1986
+ND_sen_2016,"['√ John Hoeven (Republican) 78.4', '[84]Eliot Glassheim (Democratic) 17.0', '[85]Robert Marquette (Libertarian)[86]\n']","John Hoeven
+",R,1,North_Dakota,ND,√ John Hoeven (Republican) 78.4,2016
+OH_sen_1976,"['√ Howard Metzenbaum (Democratic) 49.5', 'Robert Taft Jr. (Republican) 46.5', '\n']","Robert Taft Jr.
+",R,1,Ohio,OH,√ Howard Metzenbaum (Democratic) 49.5,1976
+OH_sen_2000,"['√ Mike DeWine (Republican) 59.9', 'Ted Celeste (Democratic) 35.9', 'John McAlister (Libertarian) 2.6', 'John Eastman (Natural Law) 1.6', '\n']","Mike DeWine
+",R,1,Ohio,OH,√ Mike DeWine (Republican) 59.9,2000
+OH_sen_2004,"['√ George Voinovich (Republican) 63.9', 'Eric Fingerhut (Democratic) 36.1', '\n']","George Voinovich
+",R,1,Ohio,OH,√ George Voinovich (Republican) 63.9,2004
+OH_sen_2006,"['√ Sherrod Brown (Democratic) 56.2', 'Mike DeWine (Republican) 43.8', '\n']","Mike DeWine
+",R,1,Ohio,OH,√ Sherrod Brown (Democratic) 56.2,2006
+OH_sen_2010,"['√ Rob Portman (Republican) 57.3', 'Lee Fisher (Democratic) 39.0', 'Eric Deaton (Constitution) 1.7', 'Michael Pryce (Independent) 1.3', '\n']","George Voinovich
+",R,1,Ohio,OH,√ Rob Portman (Republican) 57.3,2010
+OH_sen_2016,"['√ Rob Portman (Republican) 58.0', '[87]Ted Strickland (Democratic) 37.1', '[88]Joseph DeMare (Green)[89]\n']","Rob Portman
+",R,1,Ohio,OH,√ Rob Portman (Republican) 58.0,2016
+OK_sen_1978,"['√ David L. Boren (Democratic) 65.5', 'Robert B. Kamm (Republican) 32.9', 'Glenn E. Hager (Independent) 0.5', 'Riley Donica (Independent) 0.4', 'Paul Edward Trent (Independent) 0.4', 'Richard King Carter (Independent) 0.3', '\n']","Dewey F. Bartlett
+",R,1,Oklahoma,OK,√ David L. Boren (Democratic) 65.5,1978
+OK_sen_1980,"['√ Don Nickles (Republican) 53.5', 'Andrew Coats (Democratic) 43.5', 'Charles R. Nesbitt (Independent) 1.9', 'Robert T. Murphy (Libertarian) 0.9', 'Paul E. Trent (Independent) 0.2', '\n']","Henry Bellmon
+",R,1,Oklahoma,OK,√ Don Nickles (Republican) 53.5,1980
+OK_sen_1986,"['√ Don Nickles (Republican) 54.5', 'James R. Jones (Democratic) 45.5', '\n']","Don Nickles
+",R,1,Oklahoma,OK,√ Don Nickles (Republican) 54.5,1986
+OK_sen_1986,"['√ Don Nickles (Republican) 54.5', 'James R. Jones (Democratic) 45.5', '\n']","Don Nickles
+",R,1,Oklahoma,OK,√ Don Nickles (Republican) 54.5,1986
+OK_sen_1986,"['√ Don Nickles (Republican) 54.5', 'James R. Jones (Democratic) 45.5', '\n']","Don Nickles
+",R,1,Oklahoma,OK,√ Don Nickles (Republican) 54.5,1986
+OK_sen_1992,"['√ Don Nickles (Republican) 58.5', 'Steve Lewis (Democratic) 38.2', 'Roy V. Edwards (Independent) 1.6', 'Thomas D. Ledgerwood II (Independent) 1.6', '\n']","Don Nickles
+",R,1,Oklahoma,OK,√ Don Nickles (Republican) 58.5,1992
+OK_sen_1996,"['√ Jim Inhofe (Republican) 56.7', 'James Boren (Democratic) 40.1', 'Bill Maguire (Independent) 1.3', 'Agnes Marie Regier (Libertarian) 1.2', 'Chris Nedbalek (Independent) 0.7', '\n']","Jim Inhofe
+",R,1,Oklahoma,OK,√ Jim Inhofe (Republican) 56.7,1996
+OK_sen_1998,"['√ Don Nickles (Republican) 66.4', 'Don Carroll (Democratic) 31.3', 'Mike Morris (Independent) 1.8', 'Argus W. Yandell, Jr. (Independent) 0.5', '\n']","Don Nickles
+",R,1,Oklahoma,OK,√ Don Nickles (Republican) 66.4,1998
+OK_sen_2002,"['√ Jim Inhofe (Republican) 57.3', 'David Walters (Democratic) 36.3', 'James Germalic (Independent) 6.4', '\n']","Jim Inhofe
+",R,1,Oklahoma,OK,√ Jim Inhofe (Republican) 57.3,2002
+OK_sen_2002,"['√ Jim Inhofe (Republican) 57.3', 'David Walters (Democratic) 36.3', 'James Germalic (Independent) 6.4', '\n']","Jim Inhofe
+",R,1,Oklahoma,OK,√ Jim Inhofe (Republican) 57.3,2002
+OK_sen_2004,"['√ Tom Coburn (Republican) 52.8', 'Brad Carson (Democratic) 41.2', 'Sheila Bilyeu (Independent) 6', '\n']","Don Nickles
+",R,1,Oklahoma,OK,√ Tom Coburn (Republican) 52.8,2004
+OK_sen_2002,"['√ Jim Inhofe (Republican) 56.7', 'Andrew Rice (Democratic) 39.2', 'Stephen Wallace (Independent) 4.1', '\n']","Jim Inhofe
+",R,1,Oklahoma,OK,√ Jim Inhofe (Republican) 56.7,2002
+OK_sen_2010,"['√ Tom Coburn (Republican) 70.5', 'Jim Rogers (Democratic) 26.1', 'Stephen Wallace (Independent) 2.5', 'Ronald Dwyer (Independent) 0.9', '\n']","Tom Coburn
+",R,1,Oklahoma,OK,√ Tom Coburn (Republican) 70.5,2010
+OK_sen_2014,"['√ Jim Inhofe (Republican) 68.0', '[75]Matt Silverstein (Democratic) 28.6', '[100]Joan Farr (Independent) 1.3', '[101]Ray Woods (Independent) 1.2', '[22]Aaron DeLozier (Independent) 0.9', '[22]\n']","Jim Inhofe
+",R,1,Oklahoma,OK,√ Jim Inhofe (Republican) 68.0,2014
+OK_sen_2016,"['√ James Lankford (Republican) 67.7', '[37]Mike Workman (Democratic) 24.5', '[90]Robert Murphy (Libertarian)[91]\n']","James Lankford
+",R,1,Oklahoma,OK,√ James Lankford (Republican) 67.7,2016
+OK_sen_2014,"['√ James Lankford (Republican) 67.9', '[21]Connie Johnson (Democratic) 29.0', '[22] Mark T. Beard (Independent) 3.2', '[22]\n']","Tom Coburn
+",R,1,Oklahoma,OK,√ James Lankford (Republican) 67.9,2014
+OR_sen_1978,"['√ Mark Hatfield (Republican) 61.6', 'Vernon Cook (Democratic) 38.3', '\n']","Mark Hatfield
+",R,1,Oregon,OR,√ Mark Hatfield (Republican) 61.6,1978
+OR_sen_1980,"['√ Bob Packwood (Republican) 52.1', 'Ted Kulongoski (Democratic) 44.0', 'Theodora Nathalia Nathan (Libertarian) 3.8', '\n']","Bob Packwood
+",R,1,Oregon,OR,√ Bob Packwood (Republican) 52.1,1980
+OR_sen_1984,"['√ Mark Hatfield (Republican) 66.5', 'Margie Hendriksen (Democratic) 33.4', '\n']","Mark Hatfield
+",R,1,Oregon,OR,√ Mark Hatfield (Republican) 66.5,1984
+OR_sen_1986,"['√ Bob Packwood (Republican) 63.5', 'Rick Bauman (Democratic) 36.5', '\n']","Bob Packwood
+",R,1,Oregon,OR,√ Bob Packwood (Republican) 63.5,1986
+OR_sen_1984,"['√ Mark Hatfield (Republican) 66.5', 'Margie Hendriksen (Democratic) 33.4', '\n']","Mark Hatfield
+",R,1,Oregon,OR,√ Mark Hatfield (Republican) 66.5,1984
+OR_sen_1986,"['√ Bob Packwood (Republican) 63.5', 'Rick Bauman (Democratic) 36.5', '\n']","Bob Packwood
+",R,1,Oregon,OR,√ Bob Packwood (Republican) 63.5,1986
+OR_sen_1986,"['√ Bob Packwood (Republican) 63.5', 'Rick Bauman (Democratic) 36.5', '\n']","Bob Packwood
+",R,1,Oregon,OR,√ Bob Packwood (Republican) 63.5,1986
+OR_sen_1990,"['√ Mark Hatfield (Republican) 53.9', 'Harry Lonsdale (Democratic) 46.1', '\n']","Mark Hatfield
+",R,1,Oregon,OR,√ Mark Hatfield (Republican) 53.9,1990
+OR_sen_1992,"['√ Bob Packwood (Republican) 52.1', 'Les AuCoin (Democratic) 46.5', '\n']","Bob Packwood
+",R,1,Oregon,OR,√ Bob Packwood (Republican) 52.1,1992
+OR_sen_1996,"['√ Gordon H. Smith (Republican) 49.8', 'Tom Bruggere (Democratic) 45.9', 'Brent Thompson (Reform) 1.5', 'Gary Kutcher (Green) 1.0', 'Paul Mohn (Libertarian) 0.9', 'Christopher Phelps (Socialist) 0.4', 'Michael L. Hoyes (Natural Law) 0.3', '\n']","Mark Hatfield
+",R,1,Oregon,OR,√ Gordon H. Smith (Republican) 49.8,1996
+OR_sen_2002,"['√ Gordon Smith (Republican) 56.2', 'Bill Bradbury (Democratic) 39.6', 'Dan Fitzgerald (Libertarian) 2.4', 'Lon Mabon (Constitution) 1.7', '\n']","Gordon Smith
+",R,1,Oregon,OR,√ Gordon Smith (Republican) 56.2,2002
+OR_sen_2002,"['√ Gordon Smith (Republican) 56.2', 'Bill Bradbury (Democratic) 39.6', 'Dan Fitzgerald (Libertarian) 2.4', 'Lon Mabon (Constitution) 1.7', '\n']","Gordon Smith
+",R,1,Oregon,OR,√ Gordon Smith (Republican) 56.2,2002
+OR_sen_2002,"['√ Jeff Merkley (Democratic) 48.9', 'Gordon Smith (Republican) 45.6', 'Dave Brownlow (Constitution) 5.2', '\n']","Gordon Smith
+",R,1,Oregon,OR,√ Jeff Merkley (Democratic) 48.9,2002
+OR_sen_1996,"['√ Ron Wyden (Democratic) 47.8', 'Gordon H. Smith (Republican) 46.2', 'Karen Shilling (American Independent) 2.1', 'Gene Nanni (Libertarian) 1.3', 'Vickie Valdez (Socialist) 0.7', 'Lou Gold (Pacific Green) 0.6', '\n']","Bob Packwood
+",R,1,Oregon,OR,√ Ron Wyden (Democratic) 47.8,1996
+PA_sen_1976,"['√ H. John Heinz III (Republican) 52.4', 'William J. Green, III (Democratic) 46.8', '\n']","Hugh Scott
+",R,1,Pennsylvania,PA,√ H. John Heinz III (Republican) 52.4,1976
+PA_sen_1980,"['√ Arlen Specter (Republican) 50.5', 'Pete Flaherty (Democratic) 48.0', '\n']","Richard Schweiker
+",R,1,Pennsylvania,PA,√ Arlen Specter (Republican) 50.5,1980
+PA_sen_1982,"['√ H. John Heinz III (Republican) 59.3', 'Cyril Wecht (Democratic) 39.2', '\n']","H. John Heinz III
+",R,1,Pennsylvania,PA,√ H. John Heinz III (Republican) 59.3,1982
+PA_sen_1986,"['√ Arlen Specter (Republican) 56.9', 'Robert W. Edgar (Democratic) 43.1', '\n']","Arlen Specter
+",R,1,Pennsylvania,PA,√ Arlen Specter (Republican) 56.9,1986
+PA_sen_1982,"['√ H. John Heinz III (Republican) 59.3', 'Cyril Wecht (Democratic) 39.2', '\n']","H. John Heinz III
+",R,1,Pennsylvania,PA,√ H. John Heinz III (Republican) 59.3,1982
+PA_sen_1986,"['√ Arlen Specter (Republican) 56.9', 'Robert W. Edgar (Democratic) 43.1', '\n']","Arlen Specter
+",R,1,Pennsylvania,PA,√ Arlen Specter (Republican) 56.9,1986
+PA_sen_1986,"['√ Arlen Specter (Republican) 56.9', 'Robert W. Edgar (Democratic) 43.1', '\n']","Arlen Specter
+",R,1,Pennsylvania,PA,√ Arlen Specter (Republican) 56.9,1986
+PA_sen_1988,"['√ H. John Heinz III (Republican) 66.4', 'Joseph C. Vignola (Democratic) 32.4', 'Darcy Richardson (Consumer) 0.6', 'Henry Haller (Libertarian) 0.3', 'Samuel Cross (Populist) 0.1', 'Sam Blancato (New Alliance) 0.1', '\n']","H. John Heinz III
+",R,1,Pennsylvania,PA,√ H. John Heinz III (Republican) 66.4,1988
+PA_sen_1992,"['√ Arlen Specter (Republican) 49.1', 'Lynn Yeakel (Democratic) 46.3', 'John Perry III (Independent) 4.6', '\n']","Arlen Specter
+",R,1,Pennsylvania,PA,√ Arlen Specter (Republican) 49.1,1992
+PA_sen_1998,"['√ Arlen Specter (Republican) 61.3', 'Bill Lloyd (Democratic) 34.8', 'Dean Snyder (Constitution) 2.3', 'Jack Iannantuono (Libertarian) 1.6', '\n']","Arlen Specter
+",R,1,Pennsylvania,PA,√ Arlen Specter (Republican) 61.3,1998
+PA_sen_2000,"['√ Rick Santorum (Republican) 52.4', 'Ron Klink (Democratic) 45.5', 'John Featherman (Libertarian) 1', 'Lester Searer (Constitution) 0.6', 'Robert Domske (Reform) 0.5', '\n']","Rick Santorum
+",R,1,Pennsylvania,PA,√ Rick Santorum (Republican) 52.4,2000
+PA_sen_2004,"['√ Arlen Specter (Republican) 52.6', 'Joe Hoeffel (Democratic) 42', 'Jim Clymer (Constitution) 4', 'Betsy Summers (Libertarian) 1.4', '\n']","Arlen Specter
+",R,1,Pennsylvania,PA,√ Arlen Specter (Republican) 52.6,2004
+PA_sen_2006,"['√ Bob Casey Jr. (Democratic) 58.7', 'Rick Santorum (Republican) 41.3', '\n']","Rick Santorum
+",R,1,Pennsylvania,PA,"√ Bob Casey, Jr. (Democratic) 58.7",2006
+PA_sen_2016,"['√ Pat Toomey (Republican) 48.9', '[94]Katie McGinty (Democratic) 47.2', '[95]Edward Clifford (Libertarian)[96]\n']","Pat Toomey
+",R,1,Pennsylvania,PA,√ Pat Toomey (Republican) 48.9,2016
+RI_sen_1982,"['√ John Chafee (Republican) 51.2', 'Julius C. Michaelson (Democratic) 48.8', '\n']","John Chafee
+",R,1,Rhode_Island,RI,√ John Chafee (Republican) 51.2,1982
+RI_sen_1982,"['√ John Chafee (Republican) 51.2', 'Julius C. Michaelson (Democratic) 48.8', '\n']","John Chafee
+",R,1,Rhode_Island,RI,√ John Chafee (Republican) 51.2,1982
+RI_sen_1988,"['√ John Chafee (Republican) 54.3', 'Richard A. Licht (Democratic) 45.7', '\n']","John Chafee
+",R,1,Rhode_Island,RI,√ John Chafee (Republican) 54.3,1988
+RI_sen_1994,"['√ John Chafee (Republican) 64', 'Linda Kushner (Democratic) 36', '\n']","John Chafee
+",R,1,Rhode_Island,RI,√ John Chafee (Republican) 64,1994
+RI_sen_2000,"['√ Lincoln Chafee (Republican) 56.8', 'Robert Weygand (Democratic) 41.1', 'Christopher Young (Reform) 1', 'Kenneth Proulx (Independent) 0.9', '\n']","Lincoln Chafee
+",R,1,Rhode_Island,RI,√ Lincoln Chafee (Republican) 56.8,2000
+RI_sen_2006,"['√ Sheldon Whitehouse (Democratic) 53.5', 'Lincoln Chafee (Republican) 46.5', '\n']","Lincoln Chafee
+",R,1,Rhode_Island,RI,√ Sheldon Whitehouse (Democratic) 53.5,2006
+SC_sen_1978,"['√ Strom Thurmond (Republican) 55.6', 'Charles D. Ravenel (Democratic) 44.4', '\n']","Strom Thurmond
+",R,1,South_Carolina,SC,√ Strom Thurmond (Republican) 55.6,1978
+SC_sen_1984,"['√ Strom Thurmond (Republican) 66.8', 'Melvin Purvis, Jr. (Democratic) 31.8', '\n']","Strom Thurmond
+",R,1,South_Carolina,SC,√ Strom Thurmond (Republican) 66.8,1984
+SC_sen_1984,"['√ Strom Thurmond (Republican) 66.8', 'Melvin Purvis, Jr. (Democratic) 31.8', '\n']","Strom Thurmond
+",R,1,South_Carolina,SC,√ Strom Thurmond (Republican) 66.8,1984
+SC_sen_1990,"['√ Strom Thurmond (Republican) 64.2', 'Bob Cunningham (Democratic) 32.5', 'William H. Griffin (Libertarian) 1.8', 'Marion C. Metts (American) 1.4', '\n']","Strom Thurmond
+",R,1,South_Carolina,SC,√ Strom Thurmond (Republican) 64.2,1990
+SC_sen_1996,"['√ Strom Thurmond (Republican) 53.4', 'Elliot Close (Democratic) 44.0', 'Richard T. Quillian (Libertarian) 1.1', 'Peter J. Ashy (Reform) 0.8', 'Annette C. Estes (Natural Law) 0.7', '\n']","Strom Thurmond
+",R,1,South_Carolina,SC,√ Strom Thurmond (Republican) 53.4,1996
+SC_sen_2002,"['√ Lindsey Graham (Republican) 54.4', 'Alex Sanders (Democratic) 44.2', 'Ted Adams (Constitution) 0.8', 'Victor Kocher (Libertarian) 0.6', '\n']","Strom Thurmond
+",R,1,South_Carolina,SC,√ Lindsey Graham (Republican) 54.4,2002
+SC_sen_2002,"['√ Lindsey Graham (Republican) 54.4', 'Alex Sanders (Democratic) 44.2', 'Ted Adams (Constitution) 0.8', 'Victor Kocher (Libertarian) 0.6', '\n']","Strom Thurmond
+",R,1,South_Carolina,SC,√ Lindsey Graham (Republican) 54.4,2002
+SC_sen_2002,"['√ Lindsey Graham (Republican) 57.5', 'Bob Conley (Democratic) 42.3', '\n']","Lindsey Graham
+",R,1,South_Carolina,SC,√ Lindsey Graham (Republican) 57.5,2002
+SC_sen_2010,"['√ Jim DeMint (Republican) 62.4', ' Alvin Greene (Democratic) 28.2', 'Tom Clements (Green) 9.4', '\n']","Jim DeMint
+",R,1,South_Carolina,SC,√ Jim DeMint (Republican) 62.4,2010
+SC_sen_2014,"['√ Lindsey Graham (Republican) 54.3', '[109][109]Brad Hutto (Democratic) 38.8', '[110]Thomas Ravenel (Independent) 3.8', '[110]Victor Kocher (Libertarian) 2.7', '[110]\n']","Lindsey Graham
+",R,1,South_Carolina,SC,√ Lindsey Graham (Republican) 54.3,2014
+SC_sen_2016,"['√ Tim Scott (Republican) 60.5', '[37]Thomas Dixon (Democratic) 37.0', '[97]Bill Bledsoe (Libertarian)[98]\n']","Tim Scott
+",R,1,South_Carolina,SC,√ Tim Scott (Republican) 60.5,2016
+SC_sen_2014,"['√ Tim Scott (Republican) 61.1', '[23]Joyce Dickerson (Democratic) 37.1', '[24]Jill Bossi (American) 1.7', '[clarification needed]\n']","Tim Scott
+",R,1,South_Carolina,SC,√ Tim Scott (Republican) 61.1,2014
+SD_sen_1984,"['√ Larry Pressler (Republican) 74.5', 'George V. Cunningham (Democratic) 25.5', '\n']","Larry Pressler
+",R,1,South_Dakota,SD,√ Larry Pressler (Republican) 74.5,1984
+SD_sen_1986,"['√ Tom Daschle (Democratic) 51.6', 'James Abdnor (Republican) 48.4', '\n']","James Abdnor
+",R,1,South_Dakota,SD,√ Tom Daschle (Democratic) 51.6,1986
+SD_sen_1984,"['√ Larry Pressler (Republican) 74.5', 'George V. Cunningham (Democratic) 25.5', '\n']","Larry Pressler
+",R,1,South_Dakota,SD,√ Larry Pressler (Republican) 74.5,1984
+SD_sen_1986,"['√ Tom Daschle (Democratic) 51.6', 'James Abdnor (Republican) 48.4', '\n']","James Abdnor
+",R,1,South_Dakota,SD,√ Tom Daschle (Democratic) 51.6,1986
+SD_sen_1986,"['√ Tom Daschle (Democratic) 51.6', 'James Abdnor (Republican) 48.4', '\n']","James Abdnor
+",R,1,South_Dakota,SD,√ Tom Daschle (Democratic) 51.6,1986
+SD_sen_1990,"['√ Larry Pressler (Republican) 52.4', 'Ted Muenster (Democratic) 45.1', 'Dean L. Sinclair (Independent) 2.5', '\n']","Larry Pressler
+",R,1,South_Dakota,SD,√ Larry Pressler (Republican) 52.4,1990
+SD_sen_1996,"['√ Tim Johnson (Democratic) 51.3', 'Larry Pressler (R) 48.7', '\n']","Larry Pressler
+",R,1,South_Dakota,SD,√ Tim Johnson (Democratic) 51.3,1996
+SD_sen_2010,['√ John Thune (Republican)Unopposed\n'],"John Thune
+",R,1,South_Dakota,SD,"√ John Thune (Republican)Unopposed
+",2010
+SD_sen_2016,"['√ John Thune (Republican) 71.8', '[99]Jay Williams (Democratic) 28.2', '[100]\n']","John Thune
+",R,1,South_Dakota,SD,√ John Thune (Republican) 71.8,2016
+TN_sen_1976,"['√ Jim Sasser (Democratic) 52.5', 'Bill Brock (Republican) 47.0', '\n']","Bill Brock
+",R,1,Tennessee,TN,√ Jim Sasser (Democratic) 52.5,1976
+TN_sen_1978,"['√ Howard Baker (Republican) 55.5', 'Jane Eskind (Democratic) 40.3', 'Thomas Anderson (Independent) 4.0', 'Fern Lucius Keasler (Independent) 0.2', '\n']","Howard Baker
+",R,1,Tennessee,TN,√ Howard Baker (Republican) 55.5,1978
+TN_sen_1984,"['√ Al Gore (Democratic) 60.7', 'Victor Ashe (Republican) 33.8', 'Ed McAteer (Independent) 5.3', '\n']","Howard Baker
+",R,1,Tennessee,TN,√ Al Gore (Democratic) 60.7,1984
+TN_sen_1984,"['√ Al Gore (Democratic) 60.7', 'Victor Ashe (Republican) 33.8', 'Ed McAteer (Independent) 5.3', '\n']","Howard Baker
+",R,1,Tennessee,TN,√ Al Gore (Democratic) 60.7,1984
+TN_sen_1996,"['√ Fred Thompson (Republican) 61.4', 'J. Houston Gordon (Democratic) 36.8', 'John Jay Hooker (Independent) 0.8', 'Bruce Gold (Independent) 0.3', 'Robert O. Watson (Independent) 0.3', 'Greg Samples (Independent) 0.2', 'Philip L. Kienlen (Independent) 0.1', '\n']","Fred Thompson
+",R,1,Tennessee,TN,√ Fred Thompson (Republican) 61.4,1996
+TN_sen_2000,"['√ Bill Frist (Republican) 65.1', 'Jeff Clark (Democratic) 32.2', 'Tom Burrell (Green) 1.3', 'Charles F. Johnson (Independent) 0.5', 'Robert Watson (Independent) 0.4', 'David Jarrod Ownby (Independent) 0.2', 'Joel Kinstle (Independent) 0.2', '\n']","Bill Frist
+",R,1,Tennessee,TN,√ Bill Frist (Republican) 65.1,2000
+TN_sen_2002,"['√ Lamar Alexander (Republican) 54', 'Bob Clement (Democratic) 44', '\n']","Fred Thompson
+",R,1,Tennessee,TN,√ Lamar Alexander (Republican) 54,2002
+TN_sen_2002,"['√ Lamar Alexander (Republican) 54', 'Bob Clement (Democratic) 44', '\n']","Fred Thompson
+",R,1,Tennessee,TN,√ Lamar Alexander (Republican) 54,2002
+TN_sen_2006,"['√ Bob Corker (Republican) 50.7', 'Harold Ford, Jr. (Democratic) 48.0', 'Ed Choate (Independent) 0.6', 'David Gatchell (Independent) 0.2', 'Emory ""Bo"" Heyward (Independent) 0.2', 'H. Gary Keplinger (Independent) 0.2', 'Chris Lugo (Green) 0.1', '\n']","Bill Frist
+",R,1,Tennessee,TN,√ Bob Corker (Republican) 50.7,2006
+TN_sen_2002,"['√ Lamar Alexander (Republican) 65.1', 'Bob Tuke (Democratic) 31.6', 'Edward Buck (Independent) 1.3', 'Christopher Fenner (Independent) 0.5', 'Daniel Lewis (Libertarian) 0.4', 'Chris Lugo (Green)  0.4', 'Ed Lawhorn (Independent) 0.4', 'David Gatchell 0.3', ' (Independent)\n']","Lamar Alexander
+",R,1,Tennessee,TN,√ Lamar Alexander (Republican) 65.1,2002
+TN_sen_2012,"['√ Bob Corker (Republican) 64.9', 'Mark Clayton (Democratic) 30.4', 'Martin Pleasant (Green) 1.7', 'Dr. Shaun Crowell (Libertarian) 0.9', 'Kermit Steck (Constitution) 0.8', '\n']","Bob Corker
+",R,1,Tennessee,TN,√ Bob Corker (Republican) 64.9,2012
+TN_sen_2014,"['√ Lamar Alexander (Republican) 61.9', '[116]Gordon Ball (Democratic) 31.8', '[117]Joe B. Wilmoth (Constitution) 2.6', '[118]Martin Pleasant (Green) 0.9', '[118]Tom Emerson Jr. (Independent) 0.8', '[118]Danny Page (Independent) 0.6', '[118]Rick Tyler (Independent) 0.4', '[118]Joshua James (Independent) 0.4', '[118]Bartholomew J. Phillips (Independent) 0.2', '[118]Edmund L. Gauthier (Independent) 0.2', '[118]Eric Schechter (Independent) 0.1', '[118]Choudhury Salekin (Independent) 0.1', '[118]\n']","Lamar Alexander
+",R,1,Tennessee,TN,√ Lamar Alexander (Republican) 61.9,2014
+TX_sen_1978,"['√ John Tower (Republican) 49.8', 'Bob Krueger (Democratic) 49.3', 'Luis A. Diaz de Leon (La Raza Unida) 0.8', 'Miguel Pendas (Socialist Workers) 0.2', '\n']","John Tower
+",R,1,Texas,TX,√ John Tower (Republican) 49.8,1978
+TX_sen_1984,"['√ Phil Gramm (Republican) 58.5', 'Lloyd Doggett (Democratic) 41.4', '\n']","John Tower
+",R,1,Texas,TX,√ Phil Gramm (Republican) 58.5,1984
+TX_sen_1984,"['√ Phil Gramm (Republican) 58.5', 'Lloyd Doggett (Democratic) 41.4', '\n']","John Tower
+",R,1,Texas,TX,√ Phil Gramm (Republican) 58.5,1984
+TX_sen_1990,"['√ Phil Gramm (Republican) 60.2', 'Hugh Parmer (Democratic) 37.4', 'Gary Johnson (Libertarian) 2.3', '\n']","Phil Gramm
+",R,1,Texas,TX,√ Phil Gramm (Republican) 60.2,1990
+TX_sen_1994,"['√ Kay Bailey Hutchison (Republican) 60.8', 'Richard W. Fisher (Democratic) 38.3', 'Pierre Blondeau (Libertarian) 0.8', '\n']","Kay Bailey Hutchison
+",R,1,Texas,TX,√ Kay Bailey Hutchison (Republican) 60.8,1994
+TX_sen_1996,"['√ Phil Gramm (Republican) 54.8', 'Victor Morales (Democratic) 43.9', 'Michael Bird (Libertarian) 0.9', 'John Huff (Natural Law) 0.4', '\n']","Phil Gramm
+",R,1,Texas,TX,√ Phil Gramm (Republican) 54.8,1996
+TX_sen_2000,"['√ Kay Bailey Hutchison (Republican) 65', 'Gene Kelly (Democratic) 32.3', 'Doug Sandage (Green) 1.5', 'Mary Ruwart (Libertarian) 1.1', '\n']","Kay Bailey Hutchison
+",R,1,Texas,TX,√ Kay Bailey Hutchison (Republican) 65,2000
+TX_sen_2002,"['√ John Cornyn (Republican) 55.3', 'Ron Kirk (Democratic) 43.3', 'Scott Jameson (Libertarian) 0.8', 'Roy H. Williams (Green) 0.6', '\n']","Phil Gramm
+",R,1,Texas,TX,√ John Cornyn (Republican) 55.3,2002
+TX_sen_2002,"['√ John Cornyn (Republican) 55.3', 'Ron Kirk (Democratic) 43.3', 'Scott Jameson (Libertarian) 0.8', 'Roy H. Williams (Green) 0.6', '\n']","Phil Gramm
+",R,1,Texas,TX,√ John Cornyn (Republican) 55.3,2002
+TX_sen_2006,"['√ Kay Bailey Hutchison (Republican) 61.7', 'Barbara Ann Radnofsky (Democratic) 36.0', 'Scott Jameson (Libertarian) 2.3', '\n']","Kay Bailey Hutchison
+",R,1,Texas,TX,√ Kay Bailey Hutchison (Republican) 61.7,2006
+TX_sen_2002,"['√ John Cornyn (Republican) 54.8', 'Rick Noriega (Democratic) 42.8', 'Yvonne Adams Schick (Libertarian) 2.3', '\n']","John Cornyn
+",R,1,Texas,TX,√ John Cornyn (Republican) 54.8,2002
+TX_sen_2012,"['√ Ted Cruz (Republican) 56.5', '[48]Paul Sadler (Democratic) 40.7', '[49]John Jay Myers (Libertarian) 2.1', '[50]David Collins (Green) 0.9', '\n']","Kay Bailey Hutchison
+",R,1,Texas,TX,√ Ted Cruz (Republican) 56.5,2012
+TX_sen_2014,"['√ John Cornyn (Republican) 61.6', '[109][109]David Alameel (Democratic) 34.4', '[119]Rebecca Paddock (Libertarian) 2.9', '[120]Emily Marie Sanchez (Green) 1.2', '[121]\n']","John Cornyn
+",R,1,Texas,TX,√ John Cornyn (Republican) 61.6,2014
+UT_sen_1980,"['√ Jake Garn (Republican) 73.6', 'Dan Berman (Democratic) 25.5', '\n']","Jake Garn
+",R,1,Utah,UT,√ Jake Garn (Republican) 73.6,1980
+UT_sen_1982,"['√ Orrin G. Hatch (Republican) 58.3', 'Ted Wilson (Democratic) 41.3', 'George Mercier (Libertarian) 0.2', 'Lawrence R Kauffman (American) 0.2', '\n']","Orrin Hatch
+",R,1,Utah,UT,√ Orrin G. Hatch (Republican) 58.3,1982
+UT_sen_1986,"['√ Jake Garn (Republican) 72.3', 'Craig Oliver (Democratic) 26.6', 'Hugh A. Butler (Libertarian) 0.7', 'Mary Zins (Independent) 0.4', '\n']","Jake Garn
+",R,1,Utah,UT,√ Jake Garn (Republican) 72.3,1986
+UT_sen_1982,"['√ Orrin G. Hatch (Republican) 58.3', 'Ted Wilson (Democratic) 41.3', 'George Mercier (Libertarian) 0.2', 'Lawrence R Kauffman (American) 0.2', '\n']","Orrin Hatch
+",R,1,Utah,UT,√ Orrin G. Hatch (Republican) 58.3,1982
+UT_sen_1986,"['√ Jake Garn (Republican) 72.3', 'Craig Oliver (Democratic) 26.6', 'Hugh A. Butler (Libertarian) 0.7', 'Mary Zins (Independent) 0.4', '\n']","Jake Garn
+",R,1,Utah,UT,√ Jake Garn (Republican) 72.3,1986
+UT_sen_1986,"['√ Jake Garn (Republican) 72.3', 'Craig Oliver (Democratic) 26.6', 'Hugh A. Butler (Libertarian) 0.7', 'Mary Zins (Independent) 0.4', '\n']","Jake Garn
+",R,1,Utah,UT,√ Jake Garn (Republican) 72.3,1986
+UT_sen_1988,"['√ Orrin Hatch (Republican) 67.1', 'Brian Moss (Democratic) 31.7', 'Robert J. Smith (American) 0.9', 'William M. Arth (Socialist Workers) 0.2', '\n']","Orrin Hatch
+",R,1,Utah,UT,√ Orrin Hatch (Republican) 67.1,1988
+UT_sen_1992,"['√ Robert Foster Bennett (Republican) 55.4', 'Wayne Owens (Democratic) 39.7', 'Anita Morrow (Independent) 2.3', '\n']","Jake Garn
+",R,1,Utah,UT,√ Robert Foster Bennett (Republican) 55.4,1992
+UT_sen_1994,"['√ Orrin Hatch (Republican) 68.8', 'Patrick Shea (Democratic) 28.3', 'Craig Oliver (Independent) 1.8', 'Gary R. Van Horn (American) 0.5', 'Nelson Gonzalez (Socialist Workers) 0.3', 'Lawrence Rey Topham (Independent American) 0.3', '\n']","Orrin Hatch
+",R,1,Utah,UT,√ Orrin Hatch (Republican) 68.8,1994
+UT_sen_1998,"['√ Bob Bennett (Republican) 64', 'Scott Leckman (Democratic) 33', 'Gary R. Van Horn (Independent American) 3', '\n']","Bob Bennett
+",R,1,Utah,UT,√ Bob Bennett (Republican) 64,1998
+UT_sen_2000,"['√ Orrin Hatch (Republican) 65.6', 'Scott Howell (Democratic) 31.5', 'Carlton Edward Bowen (Independent American) 1.6', 'Jim Dexter (Libertarian) 1.4', '\n']","Orrin Hatch
+",R,1,Utah,UT,√ Orrin Hatch (Republican) 65.6,2000
+UT_sen_2004,"['√ Robert Foster Bennett (Republican) 68.7', 'Paul Van Dam (Democratic) 28.4', 'Gary R. Van Horn (Constitution) 1.9', 'Joe Labonte (Personal Choice) 1', '\n']","Bob Bennett
+",R,1,Utah,UT,√ Robert Foster Bennett (Republican) 68.7,2004
+UT_sen_2006,"['√ Orrin Hatch (Republican) 62.6', 'Pete Ashdown (Democratic) 30.8', 'Scott Bradley (Constitution) 3.8', 'Roger Price (Personal Choice)1.6', 'Dave Seely (Libertarian) 0.8', 'Julian Hatch (Green) 0.4', '\n']","Orrin Hatch
+",R,1,Utah,UT,√ Orrin Hatch (Republican) 62.6,2006
+UT_sen_2010,"['√ Mike Lee (Republican) 61.6', 'Sam Granato (Democratic) 32.8', 'Scott Bradley (Constitution) 5.7', '\n']","Bob Bennett
+",R,1,Utah,UT,√ Mike Lee (Republican) 61.6,2010
+UT_sen_2012,"['√ Orrin Hatch (Republican) 65.3', 'Scott Howell (Democratic) 30.0', 'Shaun Lynn McCausland 3.2', 'Daniel Geery (UT Justice) 0.83', '\n']","Orrin Hatch
+",R,1,Utah,UT,√ Orrin Hatch (Republican) 65.3,2012
+UT_sen_2016,"['√ Mike Lee (Republican) 68.1', '[101]Misty K. Snow (Democratic) 27.1', '[102]Stoney Fonua (Independent American)Bill Barron (unaffiliated)\n']","Mike Lee
+",R,1,Utah,UT,√ Mike Lee (Republican) 68.1,2016
+VT_sen_1976,"['√ Robert Stafford (Republican) 50.0', 'Thomas P. Salmon (Democratic) 45.3', '\n']","Robert Stafford
+",R,1,Vermont,VT,√ Robert Stafford (Republican) 50.0,1976
+VT_sen_1982,"['√ Robert Stafford (Republican) 50.3', 'James A. Guest (Democratic) 47.2', '\n']","Robert Stafford
+",R,1,Vermont,VT,√ Robert Stafford (Republican) 50.3,1982
+VT_sen_1982,"['√ Robert Stafford (Republican) 50.3', 'James A. Guest (Democratic) 47.2', '\n']","Robert Stafford
+",R,1,Vermont,VT,√ Robert Stafford (Republican) 50.3,1982
+VT_sen_1988,"['√ Jim Jeffords (Republican) 67.9', 'William Gray (Democratic) 29.8', 'Jerry Levy (Liberty Union) 1.1', 'King Milne (Independent) 1.0', '\n']","Robert Stafford
+",R,1,Vermont,VT,√ Jim Jeffords (Republican) 67.9,1988
+VT_sen_1994,"['√ Jim Jeffords (Republican) 50.3', 'Jan Backus (Democratic) 40.6', 'Gavin T. Mills (Independent) 5.9', 'Matthew S. Mulligan (Independent) 1.4', 'Bob Melamede (Grassroots) 0.7', 'Jerry Levy (Liberty Union) 0.6', 'Joseph Victor Pardo (Natural Law Party) 0.3', '\n']","Jim Jeffords
+",R,1,Vermont,VT,√ Jim Jeffords (Republican) 50.3,1994
+VT_sen_2000,"['√ Jim Jeffords (Republican) 65.6', 'Ed Flanagan (Democratic) 25.4', 'Charles W. Russell (Constitution) 3.5', 'Rick Hubbard (Independent) 1.9', 'Billy Greer (Vermont Grassroots) 1.7', 'Hugh Douglas (Libertarian) 1.3', 'Jerry Levy (Liberty Union) 0.5', '\n']","Jim Jeffords
+",R,1,Vermont,VT,√ Jim Jeffords (Republican) 65.6,2000
+VA_sen_1978,"['√ John Warner (Republican) 50.2', 'Andrew P. Miller (Democratic) 49.8', '\n']","William L. Scott
+",R,1,Virginia,VA,√ John Warner (Republican) 50.2,1978
+VA_sen_1984,"['√ John Warner (Republican) 70.0', 'Edythe C. Harrison (Democratic) 29.9', '\n']","John Warner
+",R,1,Virginia,VA,√ John Warner (Republican) 70.0,1984
+VA_sen_1984,"['√ John Warner (Republican) 70.0', 'Edythe C. Harrison (Democratic) 29.9', '\n']","John Warner
+",R,1,Virginia,VA,√ John Warner (Republican) 70.0,1984
+VA_sen_1988,"['√ Chuck Robb (Democratic) 71.2', 'Maurice A. Dawkins (Republican) 28.8', '\n']","Paul S. Trible Jr.
+",R,1,Virginia,VA,√ Chuck Robb (Democratic) 71.2,1988
+VA_sen_1990,"['√ John Warner (Republican) 80.9', 'Nancy B. Spannaus (Independent) 18.2', '\n']","John Warner
+",R,1,Virginia,VA,√ John Warner (Republican) 80.9,1990
+VA_sen_1996,"['√ John Warner (Republican) 52.5', 'Mark Warner (Democratic) 47.4', '\n']","John Warner
+",R,1,Virginia,VA,√ John Warner (Republican) 52.5,1996
+VA_sen_2002,"['√ John Warner (Republican) 82.6', 'Nancy Spannaus (Independent) 9.7', 'Jacob G. Hornberger (Independent) 7.1', '\n']","John Warner
+",R,1,Virginia,VA,√ John Warner (Republican) 82.6,2002
+VA_sen_2002,"['√ John Warner (Republican) 82.6', 'Nancy Spannaus (Independent) 9.7', 'Jacob G. Hornberger (Independent) 7.1', '\n']","John Warner
+",R,1,Virginia,VA,√ John Warner (Republican) 82.6,2002
+VA_sen_2006,"['√ Jim Webb (Democratic) 49.6', 'George Allen (Republican) 49.2', 'Gail Parker (Independent Green) 1.1', '\n']","George Allen
+",R,1,Virginia,VA,√ Jim Webb (Democratic) 49.6,2006
+VA_sen_2002,"['√ Mark Warner (Democratic) 65.0', 'Jim Gilmore (Republican) 33.7', 'Bill Redpath (Libertarian) 0.6', 'Gail Parker (Independent Green) 0.6', '\n']","John Warner
+",R,1,Virginia,VA,√ Mark Warner (Democratic) 65.0,2002
+WA_sen_1986,"['√ Brock Adams (Democratic) 50.6', 'Slade Gorton (Republican) 48.7', 'Jill Fein (Socialist Workers) 0.7', '\n']","Slade Gorton
+",R,1,Washington,WA,√ Brock Adams (Democratic) 50.6,1986
+WA_sen_1986,"['√ Brock Adams (Democratic) 50.6', 'Slade Gorton (Republican) 48.7', 'Jill Fein (Socialist Workers) 0.7', '\n']","Slade Gorton
+",R,1,Washington,WA,√ Brock Adams (Democratic) 50.6,1986
+WA_sen_1986,"['√ Brock Adams (Democratic) 50.6', 'Slade Gorton (Republican) 48.7', 'Jill Fein (Socialist Workers) 0.7', '\n']","Slade Gorton
+",R,1,Washington,WA,√ Brock Adams (Democratic) 50.6,1986
+WA_sen_1988,"['√ Slade Gorton (Republican) 50.7', 'Mike Lowry (Democratic) 49.3', '\n']","Daniel J. Evans
+",R,1,Washington,WA,√ Slade Gorton (Republican) 50.7,1988
+WA_sen_1994,"['√ Slade Gorton (Republican) 55.75', 'Ron Sims (Democratic) 44.25', '\n']","Slade Gorton
+",R,1,Washington,WA,√ Slade Gorton (Republican) 55.75,1994
+WA_sen_2000,"['√ Maria Cantwell (Democratic) 48.7', 'Slade Gorton (Republican) 48.6', 'Jeff Jared (Libertarian) 2.6', '\n']","Slade Gorton
+",R,1,Washington,WA,√ Maria Cantwell (Democratic) 48.7,2000
+WI_sen_1986,"['√ Bob Kasten (Republican) 51.8', 'Ed Garvey (Democratic) 48.2', '\n']","Bob Kasten
+",R,1,Wisconsin,WI,√ Bob Kasten (Republican) 51.8,1986
+WI_sen_1986,"['√ Bob Kasten (Republican) 51.8', 'Ed Garvey (Democratic) 48.2', '\n']","Bob Kasten
+",R,1,Wisconsin,WI,√ Bob Kasten (Republican) 51.8,1986
+WI_sen_1986,"['√ Bob Kasten (Republican) 51.8', 'Ed Garvey (Democratic) 48.2', '\n']","Bob Kasten
+",R,1,Wisconsin,WI,√ Bob Kasten (Republican) 51.8,1986
+WI_sen_1992,"['√ Russ Feingold (Democratic) 52.6', 'Bob Kasten (Republican) 46.0', 'Patrick W. Johnson (Independent) 0.7', 'William Bittner (Libertarian) 0.4', 'Mervin A. Hanson, Sr. (Independent) 0.1', 'Robert L. Kundert (Independent) 0.1', 'Joseph Selliken (Independent) 0.1', '\n']","Bob Kasten
+",R,1,Wisconsin,WI,√ Russ Feingold (Democratic) 52.6,1992
+WI_sen_2016,"['√ Ron Johnson (Republican) 50.19', '[107]Russ Feingold (Democratic) 46.84', '[108]Phil Anderson (Libertarian) 2.7', '[109]\n']","Ron Johnson
+",R,1,Wisconsin,WI,√ Ron Johnson (Republican) 50.19,2016
+WY_sen_1978,"['√ Alan K. Simpson (Republican) 62.2', 'Raymond B. Whitaker (Democratic) 37.8', '\n']","Clifford Hansen
+",R,1,Wyoming,WY,√ Alan K. Simpson (Republican) 62.2,1978
+WY_sen_1982,"['√ Malcolm Wallop (Republican) 56.7', 'Rodger McDaniel (Democratic) 43.3', '\n']","Malcolm Wallop
+",R,1,Wyoming,WY,√ Malcolm Wallop (Republican) 56.7,1982
+WY_sen_1984,"['√ Alan K. Simpson (Republican) 78.3', 'Victor A. Ryan (Democratic) 21.7', '\n']","Alan K. Simpson
+",R,1,Wyoming,WY,√ Alan K. Simpson (Republican) 78.3,1984
+WY_sen_1982,"['√ Malcolm Wallop (Republican) 56.7', 'Rodger McDaniel (Democratic) 43.3', '\n']","Malcolm Wallop
+",R,1,Wyoming,WY,√ Malcolm Wallop (Republican) 56.7,1982
+WY_sen_1984,"['√ Alan K. Simpson (Republican) 78.3', 'Victor A. Ryan (Democratic) 21.7', '\n']","Alan K. Simpson
+",R,1,Wyoming,WY,√ Alan K. Simpson (Republican) 78.3,1984
+WY_sen_1988,"['√ Malcolm Wallop (Republican) 50.4', 'John Vinich (Democratic) 49.6', '\n']","Malcolm Wallop
+",R,1,Wyoming,WY,√ Malcolm Wallop (Republican) 50.4,1988
+WY_sen_1990,"['√ Alan K. Simpson (Republican) 66.4', 'Kathy Helling (Democratic) 33.6', '\n']","Alan K. Simpson
+",R,1,Wyoming,WY,√ Alan K. Simpson (Republican) 66.4,1990
+WY_sen_1994,"['√ Craig Thomas (Republican) 58.9', 'Mike Sullivan (Democratic) 39.3', 'Craig McCune (Libertarian) 1.8', '\n']","Malcolm Wallop
+",R,1,Wyoming,WY,√ Craig Thomas (Republican) 58.9,1994
+WY_sen_1996,"['√ Mike Enzi (Republican) 54.1', 'Kathy Karpan (Democratic) 42.2', 'W. David Herbert (Libertarian) 2.5', 'Lloyd Marsden (Natural Law) 1.2', '\n']","Alan K. Simpson
+",R,1,Wyoming,WY,√ Mike Enzi (Republican) 54.1,1996
+WY_sen_2000,"['√ Craig L. Thomas (Republican) 73.7', 'Mel Logan (Democratic) 22', 'Margaret Dawson (Libertarian) 4.2', '\n']","Craig L. Thomas
+",R,1,Wyoming,WY,√ Craig L. Thomas (Republican) 73.7,2000
+WY_sen_2002,"['√ Mike Enzi (Republican) 73', 'Joyce Jansa Corcoran (Democratic) 27', '\n']","Mike Enzi
+",R,1,Wyoming,WY,√ Mike Enzi (Republican) 73,2002
+WY_sen_2002,"['√ Mike Enzi (Republican) 73', 'Joyce Jansa Corcoran (Democratic) 27', '\n']","Mike Enzi
+",R,1,Wyoming,WY,√ Mike Enzi (Republican) 73,2002
+WY_sen_2006,"['√ Craig L. Thomas (Republican) 69.99', 'Dale Groutage (Democratic) 29.86', '\n']","Craig L. Thomas
+",R,1,Wyoming,WY,√ Craig L. Thomas (Republican) 69.99,2006
+WY_sen_2002,"['√ Mike Enzi (Republican) 75.6', 'Chris Rothfuss (Democratic) 24.3', '\n']","Mike Enzi
+",R,1,Wyoming,WY,√ Mike Enzi (Republican) 75.6,2002
+WY_sen_2012,"['√ John Barrasso (Republican) 75.7', 'Tim Chesnut (Democratic) 21.7', 'Joel Otto (Country) 2.5', 'Write-ins 2', '\n']","John Barrasso
+",R,1,Wyoming,WY,√ John Barrasso (Republican) 75.7,2012
+WY_sen_2014,"['√ Mike Enzi (Republican) 71.2', '[131]Charlie Hardy (Democratic) 17.4', '[132] Curt Gottshall (Independent) 7.9', '[133]Joe Porambo (Libertarian) 2.2', '\n']","Mike Enzi
+",R,1,Wyoming,WY,√ Mike Enzi (Republican) 71.2,2014
+WY_sen_2002,"['√  John Barrasso (Republican) 73.4', 'Nick Carter (Democratic) 26.5', '\n']"," John Barrasso
+",R,1,Wyoming,WY,√  John Barrasso (Republican) 73.4,2002

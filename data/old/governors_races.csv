@@ -1,0 +1,2110 @@
+race_id,candidates,inc,inc_party,inc_party,inc_R,inc_results,state,abbrev,rival,year
+AL_gov_1978,"['Fob James (Democratic) 72.6', 'H. Guy Hunt (Republican) 25.9', 'Jim Partain (Prohibition) 1.1', 'Richard Dare (Independent) 0.5', '\n']","George Wallace
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Alabama,AL,Fob James (Democratic) 72.6,1978
+AL_gov_1982,"['George Wallace (Democratic) 57.6', 'Emory Folmar (Republican) 39.1', 'Leo Suiter (Alabama Conservative) 1.6', 'Henry Klingler (Libertarian) 0.7', ""John Jackson (Alabama Nat'l Democrat) 0.4"", 'John Dyer (Prohibition) 0.4', 'Martin J. Boyers (Socialist Workers) 0.2', '\n']","Fob James
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Alabama,AL,George Wallace (Democratic) 57.6,1982
+AL_gov_1986,"['H. Guy Hunt (Republican) 56.4', 'Bill Baxley (Democratic) 43.6', '\n']","George Wallace
+",D,"Democratic
+",0,"Retired, Republican victory
+",Alabama,AL,H. Guy Hunt (Republican) 56.4,1986
+AL_gov_1990,"['Paul Hubbert (Democratic) 47.9', '\n']","H. Guy Hunt
+",R,"Republican
+",1,"Re-elected, 52.1%
+",Alabama,AL,Paul Hubbert (Democratic) 47.9,1990
+AL_gov_1994,"['Fob James (Republican) 50.3', '\n']","Jim Folsom
+",D,"Democratic
+",0,"Defeated, 49.4%
+",Alabama,AL,Fob James (Republican) 50.3,1994
+AL_gov_1998,"['Don Siegelman (Democratic) 57.7', '\n']","Fob James
+",R,"Republican
+",1,"Defeated, 42.1%
+",Alabama,AL,Don Siegelman (Democratic) 57.7,1998
+AL_gov_2002,"['Bob Riley (Republican) 49.2', 'John Sophocleus (Libertarian) 1.7', '\n']","Don Siegelman
+",D,"Democratic
+",0,"Defeated, 49.0%
+",Alabama,AL,Bob Riley (Republican) 49.2,2002
+AL_gov_2006,"['Bob Riley (R) 57.4', 'Lucy Baxley (D) 41.6', '\n']","Bob Riley
+",R,"Republican
+",1,"Re-elected
+",Alabama,AL,Bob Riley (R) 57.4,2006
+AL_gov_2010,"['Robert Bentley (R), 57.9', '\nRon Sparks (D), 42.1', '\n\n']","Bob Riley
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Alabama,AL,"Robert Bentley (R), 57.9",2010
+AL_gov_2014,"['√ Robert Bentley (R), 63.6', ' Parker Griffith (D)[4], 36.4', '\n']",Robert Bentley,R,Republican,1,Re-elected 63.6%.,Alabama,AL,"√ Robert Bentley (R), 63.6",2014
+AK_gov_1978,"['Walter Joseph Hickel (write-in) 26.4', 'Chancy Croft (Democratic) 20.2', 'Tom Kelly (Independent) 12.3', 'Don R. Wright (Alaskan Ind.) 1.9', '\n']","Jay Hammond
+",R,"Republican
+",1,"Re-elected, 39.1%
+",Alaska,AK,Walter Joseph Hickel (write-in) 26.4,1978
+AK_gov_1982,"['Bill Sheffield (Democratic) 46.1', 'Tom Fink (Republican) 37.1', 'Dick Randolph (Libertarian) 14.9', 'Joe Vogler (Alaskan Ind.) 1.7', '\n']","Jay Hammond
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Alaska,AK,Bill Sheffield (Democratic) 46.1,1982
+AK_gov_1986,"['Steve Cowper (Democratic) 47.3', 'Arliss Sturgulewski (Republican) 42.6', 'Joe Vogler (Alaskan Ind.) 5.6', 'Walter Joseph Hickel (write-in) 2.8', ""Mary Jane O'Brannon (Libertarian) 0.6"", '\n']","Bill Sheffield
+",D,"Democratic
+",0,"Defeated in primary, Democratic victory
+",Alaska,AK,Steve Cowper (Democratic) 47.3,1986
+AK_gov_1990,"['Walter Joseph Hickel (Alaskan Ind.) 38.9', 'Tony Knowles (Democratic) 30.9', 'Arliss Sturgulewski (Republican) 26.2', 'Jim Sykes (Green) 3.4', ""Michael O'Callaghan (Independent) 0.5"", '\n']","Steve Cowper
+",D,"Democratic
+",0,"Retired, Alaskan Ind. victory
+",Alaska,AK,Walter Joseph Hickel (Alaskan Ind.) 38.9,1990
+AK_gov_1994,"['Tony Knowles (Democratic) 41.1', 'Jim Campbell (Republican) 40.8', 'Jack Coghill (Alaskan Independence) 13', 'Jim Sykes (Green) 4.1', 'Jack Coghill (Patriot) 0.8', '\n']","Walter Hickel
+",R,"Republican
+",1,"Retired, Democratic victory
+",Alaska,AK,Tony Knowles (Democratic) 41.1,1994
+AK_gov_1998,"['Robin Taylor (Write-in) 18.3', 'John Lindauer (Republican) 17.9', 'Ray Metcalfe (Republican Moderate) 6.2', 'Erica Jacobsson (Green) 3.0', '\n']","Tony Knowles
+",D,"Democratic
+",0,"Re-elected, 51.3%
+",Alaska,AK,Robin Taylor (Write-in) 18.3,1998
+AK_gov_2002,"['Frank Murkowski (Republican) 55.8', 'Fran Ulmer (Democratic) 40.7', 'Diane Benson (Green) 1.3', 'Don Wright (Alaskan Indep.)Raymond VinZant (Rep. Mod.) 0.7', 'Billy Toien (Libertarian) 0.5', '\n']","Tony Knowles
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Alaska,AK,Frank Murkowski (Republican) 55.8,2002
+AK_gov_2006,"['Sarah Palin (R) 48.3', 'Tony Knowles (D) 40.9', ' Andrew Halcro (I) 9.5', 'Don Wright (AI) 0.5', 'Billy Tolen (L) 0.3', 'David Massie (G) 0.3', '\n']","Frank Murkowski
+",R,"Republican
+",1,"Lost primary, Republican hold
+",Alaska,AK,Sarah Palin (R) 48.3,2006
+AK_gov_2010,"['Ethan Berkowitz (D), 38.3', 'Billy Toien (L), 2,682 1.05', '\n']","Sean Parnell
+",R,"Republican
+",1,"Elected to full term, 58.9%
+",Alaska,AK,"Ethan Berkowitz (D), 38.3",2010
+AK_gov_2014,['√ Bill Walker (I)[5] Sean Parnell (R)[5] J. R. Myers (Constitution)[6]Carolyn Clift (L)\n'],Sean Parnell,R,Republican,1,Incumbent lost re-election.Independent gain,Alaska,AK,"√ Bill Walker (I)[5] Sean Parnell (R)[5] J. R. Myers (Constitution)[6]Carolyn Clift (L)
+",2014
+AZ_gov_1978,"['Evan Mecham (Republican) 44.8', 'V. Gene Lewter (Liberatarian) 1.9', 'Jessica Sampson (Socialist Workers) 0.8', '\n']","Bruce Babbitt
+",D,"Democratic
+",0,"Re-elected, 52.5%
+",Arizona,AZ,Evan Mecham (Republican) 44.8,1978
+AZ_gov_1982,"['Leo Corbet (Republican) 32.5', 'Sam Steiger (Libertarian) 5.0', '\n']","Bruce Babbitt
+",D,"Democratic
+",0,"Re-elected, 62.5%
+",Arizona,AZ,Leo Corbet (Republican) 32.5,1982
+AZ_gov_1986,"['Evan Mecham (Republican) 39.7', 'Carolyn Warner (Democratic) 34.5', 'Bill Schulz (Independent) 25.8', '\n']","Bruce Babbitt
+",D,"Democratic
+",0,"Retired, Republican victory
+",Arizona,AZ,Evan Mecham (Republican) 39.7,1986
+AZ_gov_1990,"['Fife Symington III (Republican) 49.65', ' (52', ')Terry Goddard (Democratic) 49.24', ' (48', ')Max Hawkins (Stop Abortion) (WI) 1.04', 'Ed Yetman (Libertarian) (WI) 0.03', '\n']","Rose Perica Mofford
+",D,"Democratic
+",0,"Retired, Republican victoryin runoff
+",Arizona,AZ,Fife Symington III (Republican) 49.65,1990
+AZ_gov_1994,"['Eddie Basha (Democratic) 44.3', 'John Buttrick (Libertarian) 3.1', '\n']","Fife Symington
+",R,"Republican
+",1,"Re-elected, 52.5%
+",Arizona,AZ,Eddie Basha (Democratic) 44.3,1994
+AZ_gov_1998,"['Paul Johnson (Democratic) 35.5', 'Katherine Gallant (Libertarian) 2.7', 'Scott Malcomson (Reform) 0.8', '\n']","Jane Hull
+",R,"Republican
+",1,"Re-elected, 61.0%
+",Arizona,AZ,Paul Johnson (Democratic) 35.5,1998
+AZ_gov_2002,"['Janet Napolitano (Democratic) 46.2', ' Matt Salmon (Republican) 45.2', 'Richard D. Mahoney (Independent) 6.9', ' Barry Hess (Libertarian) 1.7', '\n']","Jane Hull
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Arizona,AZ,Janet Napolitano (Democratic) 46.2,2002
+AZ_gov_2006,"['Janet Napolitano (D) 62.6', 'Len Munsil (R) 35.4', 'Barry Hess (L) 2', '\n']","Janet Napolitano
+",D,"Democratic
+",0,"Re-elected
+",Arizona,AZ,Janet Napolitano (D) 62.6,2006
+AZ_gov_2010,"['Terry Goddard (D), 42.2', '\nBarry Hess (L), 38,722 2.24', '\n\n']","Jan Brewer
+",R,"Republican
+",1,"Elected to full term, 54.7%
+",Arizona,AZ,"Terry Goddard (D), 42.2",2010
+AZ_gov_2014,['√ Doug Ducey (R) Fred DuVal (D)[5]John Mealer (Americans Elect)[7]Barry Hess (L)[7]\n'],Jan Brewer,R,Republican,1,Incumbent term-limited.Republican hold,Arizona,AZ,"√ Doug Ducey (R) Fred DuVal (D)[5]John Mealer (Americans Elect)[7]Barry Hess (L)[7]
+",2014
+AR_gov_1976,"['Leon Griffith (Republican) 16.74', '\n']","David Pryor
+",D,"Democratic
+",0,"Re-elected, 83.24%
+",Arkansas,AR,Leon Griffith (Republican) 16.74,1976
+AR_gov_1978,"['Bill Clinton (Democratic) 63.4', 'Lynn Lowe (Republican) 36.6', '\n']","David Pryor
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Arkansas,AR,Bill Clinton (Democratic) 63.4,1978
+AR_gov_1980,"['Frank D. White (Republican) 51.9', '\n']","Bill Clinton
+",D,"Democratic
+",0,"Defeated, 48.1%
+",Arkansas,AR,Frank D. White (Republican) 51.9,1980
+AR_gov_1982,"['Bill Clinton (Democratic) 54.7', '\n']","Frank D. White
+",R,"Republican
+",1,"Defeated, 45.3%
+",Arkansas,AR,Bill Clinton (Democratic) 54.7,1982
+AR_gov_1984,"['Elwood A.""Woody"" Freeman (Republican) 37.4', '\n']","Bill Clinton
+",D,"Democratic
+",0,"Re-elected, 62.5%
+",Arkansas,AR,"Elwood A.""Woody"" Freeman (Republican) 37.4",1984
+AR_gov_1986,"['Frank D. White (Republican) 36.1', '\n']","Bill Clinton
+",D,"Democratic
+",0,"Re-elected, 63.9%
+",Arkansas,AR,Frank D. White (Republican) 36.1,1986
+AR_gov_1990,"['Sheffield Nelson (Republican) 42.5', '\n']","Bill Clinton
+",D,"Democratic
+",0,"Re-elected, 57.5%
+",Arkansas,AR,Sheffield Nelson (Republican) 42.5,1990
+AR_gov_1994,"['Sheffield Nelson (Republican) 40.4', '\n']","Jim Tucker
+",D,"Democratic
+",0,"Re-elected, 59.6%
+",Arkansas,AR,Sheffield Nelson (Republican) 40.4,1994
+AR_gov_1998,"['Bill Bristow (Democratic) 38.7', 'Keith Carle (Reform) 1.6', '\n']","Mike Huckabee
+",R,"Republican
+",1,"Re-elected, 59.8%
+",Arkansas,AR,Bill Bristow (Democratic) 38.7,1998
+AR_gov_2002,"['Jimmie Lou Fisher (Democratic) 46', '\n']","Mike Huckabee
+",R,"Republican
+",1,"Re-elected, 53%
+",Arkansas,AR,Jimmie Lou Fisher (Democratic) 46,2002
+AR_gov_2006,"['Mike Beebe (D) 55.3', ' Asa Hutchinson (R) 41.0', ' Rod Bryan (Independent) 2.0', ' Jim Lendall (G) 1.7', '\n']","Mike Huckabee
+",R,"Republican
+",1,"Term-limited, Democratic gain
+",Arkansas,AR,Mike Beebe (D) 55.3,2006
+AR_gov_2010,"['Jim Keet (R), 33.6', '\n']","Mike Beebe
+",D,"Democratic
+",0,"Re-elected, 64.5%
+",Arkansas,AR,"Jim Keet (R), 33.6",2010
+AR_gov_2014,['√ Asa Hutchinson (R)Mike Ross (D)[5]Josh Drake (Green)[8] Frank Gilbert (L)[9]\n'],Mike Beebe,D,Democratic,0,Incumbent term-limited.Republican gain,Arkansas,AR,"√ Asa Hutchinson (R)Mike Ross (D)[5]Josh Drake (Green)[8] Frank Gilbert (L)[9]
+",2014
+CA_gov_1978,"['Evelle J. Younger (Republican) 36.5', 'Ed Clark (Independent) 5.5', 'Marilyn Seals (PF) 1.0', 'Theresa F. Dietrich (AI) 1.0', '\n']","Jerry Brown
+",D,"Democratic
+",0,"Re-elected, 56.0%
+",California,CA,Evelle J. Younger (Republican) 36.5,1978
+CA_gov_1982,"['George Deukmejian (R) 49.3', 'Tom Bradley (D) 48.1', 'Don P. Dougherty (L) 1.0', 'Elizabeth Martinez (PF) 0.9', 'James C. Griffin (AI) 0.7', '\n']","Jerry Brown
+",D,"Democratic
+",0,"Retired, Republican victory
+",California,CA,George Deukmejian (R) 49.3,1982
+CA_gov_1986,"['Tom Bradley (Democratic) 37.2', 'Maria Elizabeth Muñoz (PF) 1.3', 'Joseph Fuhrig (Libertarian) 0.7', 'Gary V. Miller (American Ind.) 0.7', '\n']","George Deukmejian
+",R,"Republican
+",1,"Re-elected, 60.2%
+",California,CA,Tom Bradley (Democratic) 37.2,1986
+CA_gov_1990,"['Pete Wilson (Republican) 48.7', 'Dianne Feinstein (Democratic) 46.3', 'Dennis Thompson (Libertarian) 1.9', 'Jerome McCready (American Ind.) 1.8', 'Maria Elizabeth Muñoz (Peace & Freedom) 1.3', '\n']","George Deukmejian
+",R,"Republican
+",1,"Retired, Republican victory
+",California,CA,Pete Wilson (Republican) 48.7,1990
+CA_gov_1994,"['Kathleen Brown (Democratic) 40.4', 'Richard Rider (Libertarian) 1.7', 'Jerome McCready (American Ind.) 1.6', 'Gloria La Riva (Peace & Freedom) 0.9', '\n']","Pete Wilson
+",R,"Republican
+",1,"Re-elected, 55.3%
+",California,CA,Kathleen Brown (Democratic) 40.4,1994
+CA_gov_1998,"['Gray Davis (Democratic) 58.0', 'Dan Lungren (Republican) 38.4', 'Dan Hamburg (Green) 1.2', 'Steve Kubby (Libertarian) 0.9', 'Gloria La Riva (Peace & Freedom) 0.7', 'Nathan Johnson (American Ind.) 0.5', 'Harold Bloomfield (Natural Law) 0.4', '\n']","Pete Wilson
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",California,CA,Gray Davis (Democratic) 58.0,1998
+CA_gov_2002,"['Bill Simon (Republican) 42.4', 'Peter Camejo (Green) 5.3', 'Gary Copeland (Libertarian) 2.2', 'Reinhold Gulke (American Ind.) 1.7', 'Iris Adam (Natural Law) 1.1', '\n']","Gray Davis
+",D,"Democratic
+",0,"Re-elected, 47.4%
+",California,CA,Bill Simon (Republican) 42.4,2002
+CA_gov_2003,"['Arnold Schwarzenegger (R) 48.58', 'Cruz Bustamante (D) 31.47', 'Tom McClintock (R) 13.41', 'Peter Camejo (G) 2.8', 'Full List\n']","Gray Davis
+",D,"Democratic
+",0,"Recalled, 55.4%-44.6%
+",California,CA,Arnold Schwarzenegger (R) 48.58,2003
+CA_gov_2006,"['Arnold Schwarzenegger (R) 55.9', 'Phil Angelides (D) 39', 'Peter Camejo (G) 2.3', 'Art Olivier (L) 1.3', 'Janice Jordan (PF) 0.8', 'Ed Noonan (AIP) 0.7', '\n']","Arnold Schwarzenegger
+",R,"Republican
+",1,"Re-elected
+",California,CA,Arnold Schwarzenegger (R) 55.9,2006
+CA_gov_2010,"['Jerry Brown (D), 53.1', '\nMeg Whitman (R), 41.7', '\nDale Ogden (L), 150,898 1.5', '\n\n']","Arnold Schwarzenegger
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",California,CA,"Jerry Brown (D), 53.1",2010
+CA_gov_2014,['√ Jerry Brown (D) Neel Kashkari (R)[10]\n'],Jerry Brown,D,Democratic,0,Re-elected 58.7%,California,CA,"√ Jerry Brown (D) Neel Kashkari (R)[10]
+",2014
+CO_gov_1978,"['Ted L. Strickland (Republican) 38.5', 'Roy Peister (Tea) 1.7', 'Elsa Blum (Socialist Workers) 0.4', 'Sal Mandor (Independent) 0.3', 'Earl Dodge (Prohibition) 0.3', '\n']","Richard Lamm
+",D,"Democratic
+",0,"Re-elected, 58.8%
+",Colorado,CO,Ted L. Strickland (Republican) 38.5,1978
+CO_gov_1982,"['John D. Fuhr (Republican) 31.2', 'Paul K. Grant (Libertarian) 2.0', 'Earl Dodge (Prohibition) 0.4', 'Alan Gummerson (Socialist Workers) 0.3', '\n']","Richard Lamm
+",D,"Democratic
+",0,"Re-elected, 65.7%
+",Colorado,CO,John D. Fuhr (Republican) 31.2,1982
+CO_gov_1986,"['Roy Romer (Democratic) 58.2', 'Ted Strickland (Republican) 41.0', 'Earl Dodge (Prohibition) 0.8', '\n']","Richard Lamm
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Colorado,CO,Roy Romer (Democratic) 58.2,1986
+CO_gov_1990,"['John Andrews (Republican) 35.4', 'David Aitken (Libertarian) 1.9', 'William David Livingston (Prohibition) 0.8', '\n']","Roy Romer
+",D,"Democratic
+",0,"Re-elected, 61.9%
+",Colorado,CO,John Andrews (Republican) 35.4,1990
+CO_gov_1994,"['Bruce Benson (Republican) 38.7', 'Kevin Swanson (Taxpayers) 3.6', ' Philip Hufford (Green) 1.5', 'Earl Dodge (Prohibition) 0.7', '\n']","Roy Romer
+",D,"Democratic
+",0,"Re-elected, 55.5%
+",Colorado,CO,Bruce Benson (Republican) 38.7,1994
+CO_gov_1998,"['Bill Owens (Republican) 49.1', 'Gail Schoettler (Democratic) 48.4', 'Sandra Johnson (Libertarian) 1.7', 'Tim Leonard (American Constitution) 0.8', '\n']","Roy Romer
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Colorado,CO,Bill Owens (Republican) 49.1,1998
+CO_gov_2002,"['Rollie Heath (Democratic) 33.7', '  Ronald Forthofer (Green) 2.3', '  Ralph Shnelvar (Libertarian) 1', '\n']","Bill Owens
+",R,"Republican
+",1,"Re-elected, 62.6%
+",Colorado,CO,Rollie Heath (Democratic) 33.7,2002
+CO_gov_2006,"['Bill Ritter (D) 57.0', ' Bob Beauprez (R) 40.2', ' Dawn Winkler-Kinateder (L) 1.5', ' Paul Fiorino (I) 0.7', ' Clyde Harkins (C) 0.6', '\n']","Bill Owens
+",R,"Republican
+",1,"Term-limited, Democratic gain
+",Colorado,CO,Bill Ritter (D) 57.0,2006
+CO_gov_2010,"['John Hickenlooper (D), 50.7', '\nTom Tancredo (Am.C.), 36.8', '\nDan Maes (R), 11.1', '\nJaimes Brown (L),  0.74', '\n\n']","Bill Ritter
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Colorado,CO,"John Hickenlooper (D), 50.7",2010
+CO_gov_2014,['√ John Hickenlooper (D)[11] Bob Beauprez (R)[12] Matthew Hess (L)[13] Mike Dunafon (I)  Paul Fiorino (I)  Jim Rundberg (I)  Harry Hempy (Green)\n'],John Hickenlooper,D,Democratic,0,Re-elected 48.4%,Colorado,CO,"√ John Hickenlooper (D)[11] Bob Beauprez (R)[12] Matthew Hess (L)[13] Mike Dunafon (I)  Paul Fiorino (I)  Jim Rundberg (I)  Harry Hempy (Green)
+",2014
+CT_gov_1978,"['Ronald A. Sarasin (Republican) 40.7', '\n']","Ella T. Grasso
+",D,"Democratic
+",0,"Re-elected, 59.1%
+",Connecticut,CT,Ronald A. Sarasin (Republican) 40.7,1978
+CT_gov_1982,"['Lewis B. Rome (Republican) 46.3', '\n']","William O'Neill
+",D,"Democratic
+",0,"Re-elected, 53.7%
+",Connecticut,CT,Lewis B. Rome (Republican) 46.3,1982
+CT_gov_1986,"['Julie Belaga (Republican) 41.5', '\n']","William O'Neill
+",D,"Democratic
+",0,"Re-elected, 58.5%
+",Connecticut,CT,Julie Belaga (Republican) 41.5,1986
+CT_gov_1990,"['Lowell Weicker (A Connecticut Party) 40.4', 'John G. Rowland (Republican) 37.5', 'Bruce Morrison (Democratic) 20.7', 'Joseph A. Zdonczyk (Concerned Citizens) 1.4', '\n']","William O'Neill
+",D,"Democratic
+",0,"Retired, A ConnecticutParty victory
+",Connecticut,CT,Lowell Weicker (A Connecticut Party) 40.4,1990
+CT_gov_1994,"['John Rowland (Republican) 36.2', 'Bill Curry (Democratic) 32.7', 'Eunice Groark (A Connecticut Party) 18.9', 'Tom Scott (Independence) 11.3', 'Joseph Zdonczyk (Concerned Citizens) 0.9', '\n']","Lowell Weicker
+",A,"A Connecticut Party
+",0,"Retired, Republican victory
+",Connecticut,CT,John Rowland (Republican) 36.2,1994
+CT_gov_1998,"['Barbara Kennelly (Democratic) 35.4', 'Joseph Zdoneczyk (Concerned Citizens) 0.9', 'Ned Vare (Libertarian) 0.6', 'Roberta Scaglione (Term Limits) 0.2', '\n']","John Rowland
+",R,"Republican
+",1,"Re-elected, 62.9%
+",Connecticut,CT,Barbara Kennelly (Democratic) 35.4,1998
+CT_gov_2002,"['Bill Curry (Democratic) 43.9', '\n']","John Rowland
+",R,"Republican
+",1,"Re-elected, 56.1%
+",Connecticut,CT,Bill Curry (Democratic) 43.9,2002
+CT_gov_2006,"['Jodi Rell (R) 63.2', ' John DeStefano (D) 35.5', '  Cliff Thornton (G) 0.9', ' Joseph Zdonczyk (CC) 0.9', '\n']","Jodi Rell
+",R,"Republican
+",1,"Re-elected
+",Connecticut,CT,Jodi Rell (R) 63.2,2006
+CT_gov_2010,"['Dan Malloy (D), 49.6', '\nTom Foley (R), 48.9', '\n\n']","Jodi Rell
+",R,"Republican
+",1,"Retired, Democratic victory
+",Connecticut,CT,"Dan Malloy (D), 49.6",2010
+CT_gov_2014,['√ Dan Malloy (D) Tom Foley (R)[14] Joe Visconti (I)[14]Lee Whitnum (I)[15]\n'],Dan Malloy,D,Democratic,0,Re-elected 50.9%,Connecticut,CT,"√ Dan Malloy (D) Tom Foley (R)[14] Joe Visconti (I)[14]Lee Whitnum (I)[15]
+",2014
+DE_gov_1976,"['Pierre S. du Pont IV (Republican) 56.86', '  George Cripps (American) 0.55', '  Harry Connor (Prohibition) 0.13', '\n']","Sherman W. Tribbitt
+",D,"Democratic
+",0,"Defeated, 42.46%
+",Delaware,DE,"Pierre S. du Pont, IV (Republican) 56.86",1976
+DE_gov_1980,"['William J. Gordy (Democratic) 28.5', 'Lawrence Levy (Libertarian) 0.8', '\n']","Pierre S. du Pont, IV
+",R,"Republican
+",1,"Re-elected, 70.7%
+",Delaware,DE,William J. Gordy (Democratic) 28.5,1980
+DE_gov_1984,"['Michael N. Castle (Republican) 55.0', 'William J. Quillen (Democratic) 45.0', '\n']","Pierre S. du Pont, IV
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Delaware,DE,Michael N. Castle (Republican) 55.0,1984
+DE_gov_1988,"['Jacob Kreshtool (Democratic) 29.3', '\n']","Michael N. Castle
+",R,"Republican
+",1,"Re-elected, 70.7%
+",Delaware,DE,Jacob Kreshtool (Democratic) 29.3,1988
+DE_gov_1992,"['Tom Carper (Democratic) 65.6', 'Gary Scott (Republican) 33.2', 'Floyd McDowell (A Delaware Party) 1.4', 'Richard Cohen (Libertarian) 1.2', '\n']","Mike Castle
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Delaware,DE,Tom Carper (Democratic) 65.6,1992
+DE_gov_1996,"['Janet Rzewnicki (Republican) 30.5', '\n']","Tom Carper
+",D,"Democratic
+",0,"Re-elected, 69.5%
+",Delaware,DE,Janet Rzewnicki (Republican) 30.5,1996
+DE_gov_2000,"['Ruth Ann Minner (Democratic) 59.2', ' John Burris (Republican) 39.7', 'Floyd McDowell (Ind. Delaware) 1.1', '\n']","Tom Carper
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Delaware,DE,Ruth Ann Minner (Democratic) 59.2,2000
+DE_gov_2004,"['Bill Lee (Republican) 45.8', ' Frank Infante (IPD) 3.4', '\n']","Ruth Ann Minner
+",D,"Democratic
+",0,"Re-elected, 50.9%
+",Delaware,DE,Bill Lee (Republican) 45.8,2004
+DE_gov_2008,"['Jack Markell (D) 67.5', 'Bill Lee (R) 32.0', 'Jeffrey Brown (BE) 0.5', '\n']","Ruth Ann Minner
+",D,"Democratic
+",0,"Term-limited, Democratic hold
+",Delaware,DE,Jack Markell (D) 67.5,2008
+DE_gov_2012,"['Jeff Cragg (R) 28.6', 'Mark Perri (G) 1.15', 'Jesse McVay (L) 0.92', '\n']","Jack Markell
+",D,"Democratic
+",0,"Re-elected, 69.3%
+",Delaware,DE,Jeff Cragg (R) 28.6,2012
+DE_gov_2016,['John Carney (Democratic)[11]Colin Bonini (Republican)[12]Sean Goward (Libertarian)[13]Andrew Groff (Green)\n'],"Jack Markell
+",D,"Democratic
+",0,"Incumbent term-limited. New governor elected. Democratic Hold.
+",Delaware,DE,"John Carney (Democratic)[11]Colin Bonini (Republican)[12]Sean Goward (Libertarian)[13]Andrew Groff (Green)
+",2016
+FL_gov_1978,"['Bob Graham (Democratic) 55.6', 'Jack Eckerd (Republican) 44.4', '\n']","Reubin O'Donovan Askew
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Florida,FL,Bob Graham (Democratic) 55.6,1978
+FL_gov_1982,"['Louis A. Bafalis (Republican) 35.3', '\n']","Bob Graham
+",D,"Democratic
+",0,"Re-elected, 64.7%
+",Florida,FL,Louis A. Bafalis (Republican) 35.3,1982
+FL_gov_1986,"['Bob Martinez (Republican) 54.6', 'Steve Pajcic (Democratic) 45.4', '\n']","Bob Graham
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Florida,FL,Bob Martinez (Republican) 54.6,1986
+FL_gov_1990,"['Lawton Chiles (Democratic) 56.5', ""Rose 'Jackie' Floyd (Independent) (WI) 0.02"", '\n']","Bob Martinez
+",R,"Republican
+",1,"Defeated, 43.5%
+",Florida,FL,Lawton Chiles (Democratic) 56.5,1990
+FL_gov_1994,"['Jeb Bush (Republican) 49.2', '\n']","Lawton Chiles
+",D,"Democratic
+",0,"Re-elected, 50.7%
+",Florida,FL,Jeb Bush (Republican) 49.2,1994
+FL_gov_1998,"['Jeb Bush (Republican) 55.3', 'Buddy MacKay (Democratic) 44.7', '\n']","Lawton Chiles
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Florida,FL,Jeb Bush (Republican) 55.3,1998
+FL_gov_2002,"['Bill McBride (Democratic) 43.1', '\n']","Jeb Bush
+",R,"Republican
+",1,"Re-elected, 56%
+",Florida,FL,Bill McBride (Democratic) 43.1,2002
+FL_gov_2006,"['Charlie Crist (R) 52.2', ' Jim Davis (D) 45.1', ' Max Linn (Ref) 1.9', ' John Wayne Smith (L) 0.3', ' Richard Paul Dembinsky (I) 0.2', ' Karl Behm (I) 0.2', '\n']","Jeb Bush
+",R,"Republican
+",1,"Term-limited, Republican hold
+",Florida,FL,Charlie Crist (R) 52.2,2006
+FL_gov_2010,"['Rick Scott (R), 48.9', '\nAlex Sink (D), 47.7', '\n\n']","Charlie Crist
+",I,"Independent
+",0,"Retired, Republican victory
+",Florida,FL,"Rick Scott (R), 48.9",2010
+FL_gov_2014,['√ Rick Scott (R) Charlie Crist (D)[16] Adrian Wyllie (L)[17][18]Joe Allen (No Party Affiliation)Glenn Burkett (No Party Affiliation) Farid Khavari (No Party Affiliation)[19]\n'],Rick Scott,R,Republican,1,Re-elected 48.2%,Florida,FL,"√ Rick Scott (R) Charlie Crist (D)[16] Adrian Wyllie (L)[17][18]Joe Allen (No Party Affiliation)Glenn Burkett (No Party Affiliation) Farid Khavari (No Party Affiliation)[19]
+",2014
+GA_gov_1978,"['Rodney M. Cook (Republican) 19.3', '\n']","George Busbee
+",D,"Democratic
+",0,"Re-elected, 80.7%
+",Georgia,GA,Rodney M. Cook (Republican) 19.3,1978
+GA_gov_1982,"['Joe Frank Harris (Democratic) 62.8', 'Robert H. Bell (Republican) 37.2', '\n']","George Busbee
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Georgia,GA,Joe Frank Harris (Democratic) 62.8,1982
+GA_gov_1986,"['Guy Davis (Republican) 29.5', '\n']","Joe Frank Harris
+",D,"Democratic
+",0,"Re-elected, 70.5%
+",Georgia,GA,Guy Davis (Republican) 29.5,1986
+GA_gov_1990,"['Zell Miller (Democratic) 52.9', 'Johnny Isakson (Republican) 44.5', 'Carole Ann Rand (Libertarian) 2.3', '\n']","Joe Frank Harris
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Georgia,GA,Zell Miller (Democratic) 52.9,1990
+GA_gov_1994,"['Guy Millner (Republican) 48.95', '\n']","Zell Miller
+",D,"Democratic
+",0,"Re-elected, 51.05%
+",Georgia,GA,Guy Millner (Republican) 48.95,1994
+GA_gov_1998,"['Roy Barnes (Democratic) 52.5', 'Guy Millner (Republican) 44.0', 'Jack Cashin (Libertarian) 3.4', '\n']","Zell Miller
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Georgia,GA,Roy Barnes (Democratic) 52.5,1998
+GA_gov_2002,"['Sonny Perdue (Republican) 51.4', '  Garrett Hayes (Libertarian) 2.3', '\n']","Roy Barnes
+",D,"Democratic
+",0,"Defeated, 46.3%
+",Georgia,GA,Sonny Perdue (Republican) 51.4,2002
+GA_gov_2006,"['Sonny Perdue (R) 57.9', 'Mark Taylor (D) 38.2', 'Garrett Hayes (L) 3.8', '\n']","Sonny Perdue
+",R,"Republican
+",1,"Re-elected
+",Georgia,GA,Sonny Perdue (R) 57.9,2006
+GA_gov_2010,"['Nathan Deal (R), 52.9', '\nRoy Barnes (D), 43.1', '\nJohn Monds (L), 103,194 4', '\n\n']","Sonny Perdue
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Georgia,GA,"Nathan Deal (R), 52.9",2010
+GA_gov_2014,['√ Nathan Deal (R) Jason Carter (D)[20] Andrew Hunt (L)[21]\n'],Nathan Deal,R,Republican,1,Re-elected 52.8%,Georgia,GA,"√ Nathan Deal (R) Jason Carter (D)[20] Andrew Hunt (L)[21]
+",2014
+HI_gov_1978,"['John R. Leopold (Republican) 44.3', 'Alema Leota (non-partisan) 0.7', 'Gregory Reeser (Libertarian) 0.4', 'John Moore (Aloha Democratic) 0.2', '\n']","George Ariyoshi
+",D,"Democratic
+",0,"Re-elected, 54.5%
+",Hawaii,HI,John R. Leopold (Republican) 44.3,1978
+HI_gov_1982,"['Frank Fasi (Independent Democrat) 28.6', 'D. G. Anderson (Republican) 26.1', '\n']","George Ariyoshi
+",D,"Democratic
+",0,"Re-elected, 45.2%
+",Hawaii,HI,Frank Fasi (Independent Democrat) 28.6,1982
+HI_gov_1986,"['John D. Waihee III (Democratic) 52.0', 'D. G. Anderson (Republican) 48.0', '\n']","George Ariyoshi
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Hawaii,HI,John D. Waihee III (Democratic) 52.0,1986
+HI_gov_1990,"['Fred Hemmings (Republican) 38.6', 'Triaka-Don Smith (Libertarian) 0.9', 'Peggy Ross (Natural Law) 0.7', '\n']","John D. Waihee III
+",D,"Democratic
+",0,"Re-elected, 59.8%
+",Hawaii,HI,Fred Hemmings (Republican) 38.6,1990
+HI_gov_1994,"['Ben Cayetano (Democratic) 36.6', 'Frank Fasi (Best Party of Hawaii) 30.7', 'Pat Saiki (Republican) 29.2', 'Kioni Dudley (Green) 3.5', '\n']","John Waihee
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Hawaii,HI,Ben Cayetano (Democratic) 36.6,1994
+HI_gov_1998,"['Linda Lingle (Republican) 48.8', 'George Peabody (Libertarian) 1.1', '\n']","Ben Cayetano
+",D,"Democratic
+",0,"Re-elected, 50.1%
+",Hawaii,HI,Linda Lingle (Republican) 48.8,1998
+HI_gov_2002,"['Linda Lingle (Republican) 51.6', '  Mazie Hirono (Democratic) 47', ' Kau`i Hill (Natural Law) 0.7', ' Tracy Ryan (Libertarian) 0.4', ' Jim Brewer (Independent) 0.3', '\n']","Ben Cayetano
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Hawaii,HI,Linda Lingle (Republican) 51.6,2002
+HI_gov_2006,"['Linda Lingle (R) 62.5', ' Randy Iwase (D) 35.4', ' Jim Brewer (G) 1.6', ' Ozell Daniel (L) 0.5', '\n']","Linda Lingle
+",R,"Republican
+",1,"Re-elected
+",Hawaii,HI,Linda Lingle (R) 62.5,2006
+HI_gov_2010,"['Neil Abercrombie (D), 58.2', '\nDuke Aiona (R), 41.1', '\n\n']","Linda Lingle
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Hawaii,HI,"Neil Abercrombie (D), 58.2",2010
+HI_gov_2014,['√ David Ige (D)[22]Duke Aiona (R)[23]Mufi Hannemann (Hawaii Independent) Jeff Davis (L)[24]\n'],Neil Abercrombie,D,Democratic,0,Incumbent defeated in primary.Democratic hold,Hawaii,HI,"√ David Ige (D)[22]Duke Aiona (R)[23]Mufi Hannemann (Hawaii Independent) Jeff Davis (L)[24]
+",2014
+ID_gov_1978,"['Allan Larsen (Republican) 39.6', 'Wayne Loveless (American) 1.7', '\n']","John V. Evans
+",D,"Democratic
+",0,"Re-elected, 58.8%
+",Idaho,ID,Allan Larsen (Republican) 39.6,1978
+ID_gov_1982,"['Phil Batt (Republican) 47.1', '\n']","John V. Evans
+",D,"Democratic
+",0,"Re-elected, 52.9%
+",Idaho,ID,Phil Batt (Republican) 47.1,1982
+ID_gov_1986,"['Cecil D. Andrus (Democratic) 50.5', 'David H. Leroy (Republican) 49.5', '\n']","John V. Evans
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Idaho,ID,Cecil D. Andrus (Democratic) 50.5,1986
+ID_gov_1990,"['Roger Fairchild (Republican) 31.8', '\n']","Cecil D. Andrus
+",D,"Democratic
+",0,"Re-elected, 68.2%
+",Idaho,ID,Roger Fairchild (Republican) 31.8,1990
+ID_gov_1994,"['Phil Batt (Republican) 52.3', 'Larry EchoHawk (Democratic) 43.9', 'Ronald Rankin (Independent) 3.8', '\n']","Cecil Andrus
+",D,"Democratic
+",0,"Retired, Republican victory
+",Idaho,ID,Phil Batt (Republican) 52.3,1994
+ID_gov_1998,"['Dirk Kempthorne (Republican) 67.7', 'Robert Huntley (Democratic) 29.1', 'Peter Rickards (Independent) 3.2', '\n']","Phil Batt
+",R,"Republican
+",1,"Retired, Republican victory
+",Idaho,ID,Dirk Kempthorne (Republican) 67.7,1998
+ID_gov_2002,"['Jerry Brady (Democratic) 41.7', '  Daniel Adams (Libertarian) 2', '\n']","Dirk Kempthorne
+",R,"Republican
+",1,"Re-elected, 56.3%
+",Idaho,ID,Jerry Brady (Democratic) 41.7,2002
+ID_gov_2006,"['Butch Otter (R) 52.7', ' Jerry Brady (D) 44.1', 'Marvin Richardson (C) 1.6', ' Ted Dunlap (L) 1.6', '\n']","Jim Risch
+",R,"Republican
+",1,"Elected Lieutenant Governor, Republican hold
+",Idaho,ID,Butch Otter (R) 52.7,2006
+ID_gov_2010,"['Keith Allred (D), 32.9', '\nJana Kemp (I), 5.9', '\n\n']","Butch Otter
+",R,"Republican
+",1,"Re-elected, 59.1%
+",Idaho,ID,"Keith Allred (D), 32.9",2010
+ID_gov_2014,['√ Butch Otter (R)A.J. Balukoff (D)[25] Steve Pankey (Constitution)[25] John Bujak (L)[25] Jill Humble (I)[25] Pro-Life (Marvin Richardson) (I)[25][26]\n'],Butch Otter,R,Republican,1,Re-elected 53.5%,Idaho,ID,"√ Butch Otter (R)A.J. Balukoff (D)[25] Steve Pankey (Constitution)[25] John Bujak (L)[25] Jill Humble (I)[25] Pro-Life (Marvin Richardson) (I)[25][26]
+",2014
+IL_gov_1976,"['James R. Thompson (Republican) 64.68', '  Michael Howlett (Democratic) 34.71', '  Ishmael Flory (Communist) 0.22', '\n']","Daniel Walker
+",D,"Democratic
+",0,"Defeated in Primary,[4] Republican victory
+",Illinois,IL,James R. Thompson (Republican) 64.68,1976
+IL_gov_1978,"['Michael Bakalis (Democratic) 40.1', 'Georgia Shields (Libertarian) 0.4', 'Cecil Lampkin (Socialist Workers) 0.4', 'Melvin Klenetsky (U.S. Labor) 0.2', '\n']","James R. Thompson
+",R,"Republican
+",1,"Re-elected, 59.0%
+",Illinois,IL,Michael Bakalis (Democratic) 40.1,1978
+IL_gov_1982,"['Adlai Stevenson III (Democratic) 49.30', 'Bea Armstrong (Libertarian) 0.67', 'John E. Roche (U.S. Taxpayers) 0.60', '\n']","James R. Thompson
+",R,"Republican
+",1,"Re-elected, 49.44%
+",Illinois,IL,Adlai Stevenson III (Democratic) 49.30,1982
+IL_gov_1986,"['Adlai Stevenson III (Solidarity) 40.0', '(No gubernatorial candidate)[1] (Democratic) 6.6', 'Gary L. Shilts (Libertarian) 0.5', '\n']","James R. Thompson
+",R,"Republican
+",1,"Re-elected, 52.7%
+",Illinois,IL,Adlai Stevenson III (Solidarity) 40.0,1986
+IL_gov_1990,"['Jim Edgar (Republican) 50.8', 'Neil Hartigan (Democratic) 48.2', 'Jessie Fields (Solidarity) 1.1', '\n']","James R. Thompson
+",R,"Republican
+",1,"Retired, Republican victory
+",Illinois,IL,Jim Edgar (Republican) 50.8,1990
+IL_gov_1994,"['Dawn Netsch (Democratic) 34.4', 'David Kelley (Libertarian) 1.7', '\n']","Jim Edgar
+",R,"Republican
+",1,"Re-elected, 63.9%
+",Illinois,IL,Dawn Netsch (Democratic) 34.4,1994
+IL_gov_1998,"['George Ryan (Republican) 51.0', 'Glenn Poshard (Democratic) 47.5', 'Lawrence Redmond (Reform) 1.5', '\n']","Jim Edgar
+",R,"Republican
+",1,"Retired, Republican victory
+",Illinois,IL,George Ryan (Republican) 51.0,1998
+IL_gov_2002,"['Rod Blagojevich (Democratic) 52.2', '  Jim Ryan (Republican) 45.1', '  Cal Skinner (Libertarian) 2.1', '\n']","George Ryan
+",R,"Republican
+",1,"Retired, Democratic victory
+",Illinois,IL,Rod Blagojevich (Democratic) 52.2,2002
+IL_gov_2006,"['Rod Blagojevich (D) 49.8', ' Judy Baar Topinka (R) 39.3', 'Rich Whitney (G) 10.4', ' Randy Stufflebeam (Write-in) (C) 0.5', '\n']","Rod Blagojevich
+",D,"Democratic
+",0,"Re-elected
+",Illinois,IL,Rod Blagojevich (D) 49.8,2006
+IL_gov_2010,"['Bill Brady (R), 46.1', '\n']","Pat Quinn
+",D,"Democratic
+",0,"Elected to full term, 46.6%
+",Illinois,IL,"Bill Brady (R), 46.1",2010
+IL_gov_2014,['√ Bruce Rauner (R)[27] Pat Quinn (D)[27] Chad Grimm (L)[28]\n'],Pat Quinn,D,Democratic,0,Incumbent lost re-election.Republican gain,Illinois,IL,"√ Bruce Rauner (R)[27] Pat Quinn (D)[27] Chad Grimm (L)[28]
+",2014
+IN_gov_1976,"['Larry Conrad (Democratic) 42.63', 'Daniel P. Talbot (American) 0.45', 'Samuel L. Washington (U.S. Labor) 0.08', '\n']","Otis R. Bowen
+",R,"Republican
+",1,"Re-elected, 56.85%
+",Indiana,IN,Larry Conrad (Democratic) 42.63,1976
+IN_gov_1980,"['Robert D. Orr (Republican) 57.7', 'John A. Hillenbrand (Democratic) 41.9', 'Cletis Artist (American) 0.4', '\n']","Otis R. Bowen
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Indiana,IN,Robert D. Orr (Republican) 57.7,1980
+IN_gov_1984,"['Wayne Townsend (Democratic) 47.18', 'Rockland Snyder (American) 0.34', 'James A. Ridenour (Libertarian) 0.32', '\n']","Robert D. Orr
+",R,"Republican
+",1,"Re-elected, 52.16%
+",Indiana,IN,Wayne Townsend (Democratic) 47.18,1984
+IN_gov_1988,"['Evan Bayh (Democratic) 53.2', 'John Mutz (Republican) 46.8', '\n']","Robert D. Orr
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Indiana,IN,Evan Bayh (Democratic) 53.2,1988
+IN_gov_1992,"['Linley Pearson (Republican) 36.9', 'Mary Barton (New Alliance) 1.1', '\n']","Evan Bayh
+",D,"Democratic
+",0,"Re-elected, 62.0%
+",Indiana,IN,Linley Pearson (Republican) 36.9,1992
+IN_gov_1996,"[""Frank O'Bannon (Democratic) 51.5"", 'Steve Goldsmith (Republican) 46.8', 'Steve Dillon (Libertarian) 1.7', '\n']","Evan Bayh
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Indiana,IN,Frank O'Bannon (Democratic) 51.5,1996
+IN_gov_2000,"['David McIntosh (Republican) 41.7', 'Andrew Horning (Libertarian) 1.8', '\n']","Frank O'Bannon
+",D,"Democratic
+",0,"Re-elected, 56.6%
+",Indiana,IN,David McIntosh (Republican) 41.7,2000
+IN_gov_2004,"['Mitch Daniels (Republican) 53.2', 'Kenn Gividen (Libertarian) 1.2', '\n']","Joe Kernan
+",D,"Democratic
+",0,"Defeated, 45.5%
+",Indiana,IN,Mitch Daniels (Republican) 53.2,2004
+IN_gov_2008,"['Jill Long Thompson (D) 40.1', 'Andy Horning (L) 2.1', '\n']","Mitch Daniels
+",R,"Republican
+",1,"Re-elected, 57.8%
+",Indiana,IN,Jill Long Thompson (D) 40.1,2008
+IN_gov_2012,"['Mike Pence (R) 49.49', 'John Gregg (D) 46.56', 'Rupert Boneham (L) 3.95', '\n']","Mitch Daniels
+",R,"Republican
+",1,"Term-limited, Republican hold
+",Indiana,IN,Mike Pence (R) 49.49,2012
+IN_gov_2016,['Eric Holcomb (Republican)[15]John Gregg (Democratic)[16] Rex Bell (Libertarian)[17]\n'],"Mike Pence
+",R,"Republican
+",1,"Incumbent retired to run for Vice President of the United States.[14] New governor elected. Republican Hold.
+",Indiana,IN,"Eric Holcomb (Republican)[15]John Gregg (Democratic)[16] Rex Bell (Libertarian)[17]
+",2016
+IA_gov_1978,"['Jerome D. Fitzgerald (Democratic) 41.0', 'John Ball (Libertarian) 0.5', 'Joseph Grant (Socialist) 0.2', '\n']","Robert D. Ray
+",R,"Republican
+",1,"Re-elected, 58.3%
+",Iowa,IA,Jerome D. Fitzgerald (Democratic) 41.0,1978
+IA_gov_1982,"['Terry E. Branstad (Republican) 52.8', 'Roxanne Conlin (Democratic) 46.6', 'Marcia Farrington (Libertarian) 0.3', 'Jim Bittner (Socialist) 0.3', '\n']","Robert D. Ray
+",R,"Republican
+",1,"Retired, Republican victory
+",Iowa,IA,Terry E. Branstad (Republican) 52.8,1982
+IA_gov_1986,"['Lowell Junkins (Democratic) 48.0', '\n']","Terry E. Branstad
+",R,"Republican
+",1,"Re-elected, 51.9%
+",Iowa,IA,Lowell Junkins (Democratic) 48.0,1986
+IA_gov_1990,"['Donald Avenson (Democratic) 38.5', 'F. Nan Bailey (Socialist Workers) 0.4', '\n']","Terry E. Branstad
+",R,"Republican
+",1,"Re-elected, 60.6%
+",Iowa,IA,Donald Avenson (Democratic) 38.5,1990
+IA_gov_1994,"['Bonnie Campbell (Democratic) 41.6', 'Richard Hughes (Nom. By Petition) 0.6', 'Veronica Butler (Natural Law) 0.4', 'Carl Olsen (Libertarian) 0.3', 'Michael Galati (Socialist Workers) 0.1', '\n']","Terry Branstad
+",R,"Republican
+",1,"Re-elected, 56.80%
+",Iowa,IA,Bonnie Campbell (Democratic) 41.6,1994
+IA_gov_1998,"['Tom Vilsack (Democratic) 52.3', 'Jim Lightfoot (Republican) 46.5', 'Jim Hennager (Reform) 0.6', '\n']","Terry Branstad
+",R,"Republican
+",1,"Retired, Democratic victory
+",Iowa,IA,Tom Vilsack (Democratic) 52.3,1998
+IA_gov_2002,"['Doug Gross (Republican) 44.5', '  Jay Robinson (Green) 1.4', '  Clyde Cleveland (Libertarian) 1.3', '\n']","Tom Vilsack
+",D,"Democratic
+",0,"Re-elected, 52.7%
+",Iowa,IA,Doug Gross (Republican) 44.5,2002
+IA_gov_2006,"['Chet Culver (D) 54.0', ' Jim Nussle (R) 44.6', ' Wendy Barth (G) 0.7', ' Kevin Litten (L) 0.5', ' Mary Martin (SW) 0.2', '\n']","Tom Vilsack
+",D,"Democratic
+",0,"Retired, Democratic hold
+",Iowa,IA,Chet Culver (D) 54.0,2006
+IA_gov_2010,"['Terry Branstad (R), 53.0', '\nEric Cooper (L),  1.27', '\n\n']","Chet Culver
+",D,"Democratic
+",0,"Defeated, 43.3%
+",Iowa,IA,"Terry Branstad (R), 53.0",2010
+IA_gov_2014,['√ Terry Branstad (R) Jack Hatch (D)[29] Lee Hieb (L)[30]David Rosenfeld (Socialist Workers)\n'],Terry Branstad,R,Republican,1,Re-elected 59.1%,Iowa,IA,"√ Terry Branstad (R) Jack Hatch (D)[29] Lee Hieb (L)[30]David Rosenfeld (Socialist Workers)
+",2014
+KS_gov_1978,"['John W. Carlin (Democratic) 49.4', 'Frank W. Shelton Jr. (American) 2.3', 'Berry Beets (Prohibition) 1.0', '\n']","Robert F. Bennett
+",R,"Republican
+",1,"Defeated, 47.3%
+",Kansas,KS,John W. Carlin (Democratic) 49.4,1978
+KS_gov_1982,"['Sam Hardage (Republican) 44.5', 'James H. Ward (Libertarian) 1.0', 'Frank Shelton (American) 0.8', 'Warren C. Martin (Prohibition) 0.6', '\n']","John W. Carlin
+",D,"Democratic
+",0,"Re-elected, 53.2%
+",Kansas,KS,Sam Hardage (Republican) 44.5,1982
+KS_gov_1986,"['Mike Hayden (Republican) 51.9', 'Thomas R. Docking (Democratic) 48.1', '\n']","John W. Carlin
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Kansas,KS,Mike Hayden (Republican) 51.9,1986
+KS_gov_1990,"['Joan Finney (Democratic) 48.6', 'Christina Campbell-Cline (Independent) 8.8', '\n']","Mike Hayden
+",R,"Republican
+",1,"Defeated, 42.6%
+",Kansas,KS,Joan Finney (Democratic) 48.6,1990
+KS_gov_1994,"['Bill Graves (Republican) 64.1', 'Jim Slattery (Democratic) 35.9', '\n']","Joan Finney
+",D,"Democratic
+",0,"Retired, Republican victory
+",Kansas,KS,Bill Graves (Republican) 64.1,1994
+KS_gov_1998,"['Tom Sawyer (Democratic) 22.7', 'Kirt Poovey (Taxpayers) 2.9', 'Darrel King (Reform) 1.1', '\n']","Bill Graves
+",R,"Republican
+",1,"Re-elected, 73.4%
+",Kansas,KS,Tom Sawyer (Democratic) 22.7,1998
+KS_gov_2002,"['Kathleen Sebelius (Democratic) 52.9', '  Tim Shallenburger (Republican) 45.1', ' Ted Pettibone (Reform) 1.1', ' Dennis Hawver (Libertarian) 1.0', '\n']","Bill Graves
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Kansas,KS,Kathleen Sebelius (Democratic) 52.9,2002
+KS_gov_2006,"['Kathleen Sebelius (D) 57.8', ' Jim Barnett (R) 40.5', ' Carl Kramer (L) 1.0', ' Robert Conroy (Ref) 0.6', '\n']","Kathleen Sebelius
+",D,"Democratic
+",0,"Re-elected
+",Kansas,KS,Kathleen Sebelius (D) 57.8,2006
+KS_gov_2010,"['Sam Brownback (R), 63.4', '\nTom Holland (D), 32.1', '\nAndrew P. Gray (L), 22,460 2.7', '\n\n']","Mark Parkinson
+",D,"Democratic
+",0,"Retired, Republican victory
+",Kansas,KS,"Sam Brownback (R), 63.4",2010
+KS_gov_2014,['√ Sam Brownback (R) Paul Davis (D)[31] Keen Umbehr (L)[32]\n'],Sam Brownback,R,Republican,1,Re-elected 50%,Kansas,KS,"√ Sam Brownback (R) Paul Davis (D)[31] Keen Umbehr (L)[32]
+",2014
+KY_gov_1979,"['John Y. Brown Jr. (Democratic) 59.41', 'Louie B. Nunn (Republican) 40.59', '\n']","Julian Carroll
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Kentucky,KY,"John Y. Brown, Jr. (Democratic) 59.41",1979
+KY_gov_1983,"['Martha Layne Collins (Democratic) 54.5', 'Jim Bunning (Republican) 44.1', 'Nicholas McCubbin (Independent) 1.4', '\n']","John Y. Brown, Jr.
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Kentucky,KY,Martha Layne Collins (Democratic) 54.5,1983
+KY_gov_1987,"['Wallace G. Wilkinson (Democratic) 64.5', 'John Harper (Republican) 34.9', '\n']","Martha Layne Collins
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Kentucky,KY,Wallace G. Wilkinson (Democratic) 64.5,1987
+KY_gov_1991,"['Brereton Jones (Democratic) 64.7', 'Larry Hopkins (Republican) 35.3', '\n']","Wallace Wilkinson
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Kentucky,KY,Brereton Jones (Democratic) 64.7,1991
+KY_gov_1995,"['Paul Patton (Democratic) 50.9', 'Larry Forgy (Republican) 48.7', 'Gatewood Galbraith (Independent) 0.4', '\n']","Brereton Jones
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Kentucky,KY,Paul Patton (Democratic) 50.9,1995
+KY_gov_1999,"['Peppy Martin (Republican) 22.2', ' Gatewood Galbraith (Reform) 15.3', 'Nailah Jumoke-Yarbrough (Natural Law) 1.2', '\n']","Paul Patton
+",D,"Democratic
+",0,"Re-elected, 60.7%
+",Kentucky,KY,Peppy Martin (Republican) 22.2,1999
+KY_gov_2003,"['Ernie Fletcher (R) 55', 'Ben Chandler (D) 45', '\n']","Paul Patton
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Kentucky,KY,Ernie Fletcher (R) 55,2003
+KY_gov_2007,"['Steve Beshear (Democratic) 58.7', '\n']","Ernie Fletcher
+",R,"Republican
+",1,"Defeated, 41.3%
+",Kentucky,KY,Steve Beshear (Democratic) 58.7,2007
+KY_gov_2011,"['Steve Beshear (D), 55.65', ' David Williams (R), 35.29', '  Gatewood Galbraith (I), 8.97', '\n']","Steve Beshear
+",D,"Democrat
+",0,"Re-elected
+",Kentucky,KY,"Steve Beshear (D), 55.65",2011
+KY_gov_2015,"? Matt Bevin (R) 53%, Jack Conway (D) 44%, Drew Curtis (I) 4%",Steve Beshear,D,Democratic,0,2007,Kentucky,KY,Incumbent term-limited.Republican gain,2015
+LA_gov_1979,"['Dave Treen (Republican) 21.79', ' (50.35', ' in Runoff) Louis Lambert (Democratic) 20.74', ' (49.65', ' in Runoff) Jimmy Fitzmorris (Democratic) 20.56', ' Paul Hardy (Democratic) 16.62', ' E. L. Henry (Democratic) 9.94', ' Edgar G. ""Sonny"" Mouton, Jr. (Democratic) 9.103', ' L. D. Knox (Democratic) 0.46', '\n']","Edwin Edwards
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Louisiana,LA,Dave Treen (Republican) 21.79,1979
+LA_gov_1983,"['Edwin Edwards (Democratic) 62.3', 'Robert M. Ross (Republican) 0.5', 'Ken ""Cousin Ken"" Lewis (Democratic) 0.3', 'Charlie Moore (Independent) 0.1', 'Floyd W. Smith, Jr. (Democratic) 0.1', 'Midiele Smith (Independent) 0.1', 'Joseph T. Robino (Independent) 0.1', 'Michael Musmeci (Democratic) 0.1', '\n']","David C. Treen
+",R,"Republican
+",1,"Defeated, 36.4%
+",Louisiana,LA,Edwin Edwards (Democratic) 62.3,1983
+LA_gov_1987,"['Buddy Roemer (Democratic) 33.2', 'Bob Livingston (Republican) 18.5', 'Billy Tauzin (Democratic) 9.9', 'Jim Brown (Democratic) 8.9', 'Speedy O. Long (Democratic) 1.2', '\n']","Edwin Edwards
+",D,"Democratic
+",0,"Advanced in primary (27.9%), withdrew from runoff
+",Louisiana,LA,Buddy Roemer (Democratic) 33.2,1987
+LA_gov_1991,"['Edwin Edwards (Democratic) 33.7', ' (61.2', ' in runoff)David Duke (Republican) 31.7', ' (38.3', ' in runoff) Buddy Roemer (Republican) 28', ' Clyde Holloway (Republican) 5.3', 'Sam Jones (Democratic) 0.8', 'Ed Karst (no party) 0.6', '\n']","Buddy Roemer
+",R,"Republican
+",1,"Defeated in primary (26.5%), Democratic victory
+",Louisiana,LA,Edwin Edwards (Democratic) 33.7,1991
+LA_gov_1995,"['Mike Foster (Republican) 63.5', 'Cleo Fields (Democratic) 36.5', '\n']","Edwin Edwards
+",D,"Democratic
+",0,"Retired, Republican victory
+",Louisiana,LA,Mike Foster (Republican) 63.5,1995
+LA_gov_1999,"['Bill Jefferson (Democratic) 29.5', 'Tom Greene (Republican) 2.4', '\n']","Mike Foster
+",R,"Republican
+",1,"Re-elected, 62.2%
+",Louisiana,LA,Bill Jefferson (Democratic) 29.5,1999
+LA_gov_2003,"['Bobby Jindal (R) 33', ' (48', ' in runoff)Kathleen Blanco (D) 18', ' (52', ' in runoff)Richard Ieyoub (D) 16', 'Buddy Leach (D) 14', ' Randy Ewing (D) 9', 'Hunt Downer (R) 6', '\n']","Mike Foster
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Louisiana,LA,Bobby Jindal (R) 33,2003
+LA_gov_2007,"['Bobby Jindal (Republican) 53.9', 'Walter Boasso (Democratic) 17.4', 'John Georges (Independent) 14.4', 'Foster Campbell (Democratic) 12.4', 'Others 1.9', '\n']","Kathleen Blanco
+",D,"Democratic
+",0,"Retired, Republican victory
+",Louisiana,LA,Bobby Jindal (Republican) 53.9,2007
+LA_gov_2011,"['Bobby Jindal (R), 65.82', '  Tara Hollis (D), 17.87', '\n']","Bobby Jindal
+",R,"Republican
+",1,"Re-elected
+",Louisiana,LA,"Bobby Jindal (R), 65.82",2011
+LA_gov_2015,"? John Bel Edwards (D) 56%, David Vitter (R) 44%, ",Bobby Jindal,R,Republican,1,2007,Louisiana,LA,Incumbent term-limited.Democratic gain,2015
+ME_gov_1978,"['Joseph E. Brennan (Democratic) 47.7', 'Linwood E. Palmer, Jr. (Republican) 34.3', 'Herman Franklin (Independent) 17.8', 'James B. Longley (write-in) 0.2', '\n']","James B. Longley
+",I,"Independent
+",0,"Retired, Democratic victory
+",Maine,ME,Joseph E. Brennan (Democratic) 47.7,1978
+ME_gov_1982,"['Charles R. Cragin (Republican) 37.7', 'Venn Warren (Independent) 0.6', 'J. Martin ""Marty"" Vachon (Independent) 0.6', '\n']","Joseph E. Brennan
+",D,"Democratic
+",0,"Re-elected, 61.2%
+",Maine,ME,Charles R. Cragin (Republican) 37.7,1982
+ME_gov_1986,"['John R. McKernan Jr. (Republican) 39.9', 'James E. Tierney (Democratic) 30.2', 'Sherry Huber (Independent) 15.1', 'John Menario (Independent) 14.9', '\n']","Joseph E. Brennan
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Maine,ME,"John R. McKernan, Jr. (Republican) 39.9",1986
+ME_gov_1990,"['Joseph E. Brennan (Democratic) 44.0', 'Andrew Adam (Independent) 9.3', '\n']","John R. McKernan, Jr.
+",R,"Republican
+",1,"Re-elected, 46.6%
+",Maine,ME,Joseph E. Brennan (Democratic) 44.0,1990
+ME_gov_1994,"['Angus King (Independent) 35.4', 'Joseph Brennan (Democratic) 33.8', 'Susan Collins (Republican) 23.1', 'Johnathan Carter (Green) 6.4', 'Ed Finks (Write-in) 1.3', '\n']","Jock McKernan
+",R,"Republican
+",1,"Term-limited, Independent victory
+",Maine,ME,Angus King (Independent) 35.4,1994
+ME_gov_1998,"['Jim Longley (Republican) 18.9', 'Tom Connolly (Democratic) 12.0', 'Pat LaMarche (Green Independent) 6.8', 'William Clarke (Taxpayers) 3.6', '\n']","Angus King
+",I,"Independent
+",0,"Re-elected, 58.6%
+",Maine,ME,Jim Longley (Republican) 18.9,1998
+ME_gov_2002,"['John Baldacci (Democratic) 47.2', '  Peter Cianchette (Republican) 41.5', '  Jonathan Carter (Green) 9.3', '  John Michael (Independent) 2.1', '\n']","Angus King
+",I,"Independent
+",0,"Term-limited, Democratic victory
+",Maine,ME,John Baldacci (Democratic) 47.2,2002
+ME_gov_2006,"['John Baldacci (D) 38.0', ' Chandler Woodcock (R) 30.3', ' Barbara Merrill (I) 21.5', ' Pat LaMarche (G) 9.6', ' Phillip Morris Napier (I) 0.6', '\n']","John Baldacci
+",D,"Democratic
+",0,"Re-elected
+",Maine,ME,John Baldacci (D) 38.0,2006
+ME_gov_2010,"['Paul LePage (R), 38.3', '\nEliot Cutler (I), 36.5', '\nLibby Mitchell (D), 19.1', '\n\n']","John Baldacci
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Maine,ME,"Paul LePage (R), 38.3",2010
+ME_gov_2014,['√ Paul LePage (R) Mike Michaud (D)[23] Eliot Cutler (Unenrolled)[33]\n'],Paul LePage,R,Republican,1,Re-elected 48.2%,Maine,ME,"√ Paul LePage (R) Mike Michaud (D)[23] Eliot Cutler (Unenrolled)[33]
+",2014
+MD_gov_1978,"['Harry Hughes (Democratic) 70.6', 'John Glenn Beall, Jr. (Republican) 29.4', '\n']","Marvin Mandel(Blair Lee III, acting governor)
+",D,"Democratic
+",0,"Term-limited, Democratic victory (Lee defeated in primary)
+",Maryland,MD,Harry Hughes (Democratic) 70.6,1978
+MD_gov_1982,"['Robert A. Pascal (Republican) 38.0', '\n']","Harry Hughes
+",D,"Democratic
+",0,"Re-elected, 62.0%
+",Maryland,MD,Robert A. Pascal (Republican) 38.0,1982
+MD_gov_1986,"['William Donald Schaefer (Democratic) 82.4', 'Thomas J. Mooney (Republican) 17.6', '\n']","Harry Hughes
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Maryland,MD,William Donald Schaefer (Democratic) 82.4,1986
+MD_gov_1990,"['William S. Shepard (Republican) 40.2', 'Carol Thies (Independent) (WI) 0.01', '\n']","William Donald Schaefer
+",D,"Democratic
+",0,"Re-elected, 59.8%
+",Maryland,MD,William S. Shepard (Republican) 40.2,1990
+MD_gov_1994,"['Parris Glendening (Democratic) 50.1', 'Ellen Sauerbrey (Republican) 49.8', '\n']","William Schaefer
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Maryland,MD,Parris Glendening (Democratic) 50.1,1994
+MD_gov_1998,"['Ellen Sauerbrey (Republican) 44.8', '\n']","Parris Glendening
+",D,"Democratic
+",0,"Re-elected, 55.1%
+",Maryland,MD,Ellen Sauerbrey (Republican) 44.8,1998
+MD_gov_2002,"['Bob Ehrlich (Republican) 51.6', '  Kathleen Kennedy Townsend (Democratic) 47.7', '  Spear Lancaster (Libertarian) 0.7', '\n']","Parris Glendening
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Maryland,MD,Bob Ehrlich (Republican) 51.6,2002
+MD_gov_2006,"[""Martin O'Malley (D) 52.7"", ' Bob Ehrlich (R) 46.2', ' Eddie Boyd (Green) 0.9', ' Christopher Driscoll (Pop) 0.2', '\n']","Bob Ehrlich
+",R,"Republican
+",1,"Defeated, Democratic gain
+",Maryland,MD,Martin O'Malley (D) 52.7,2006
+MD_gov_2010,"['Bob Ehrlich (R), 42.3', '\nSusan J. Gaztanaga (L), 14,137 0.8', '\n\n']","Martin O'Malley
+",D,"Democratic
+",0,"Re-elected, 55.8%
+",Maryland,MD,"Bob Ehrlich (R), 42.3",2010
+MD_gov_2014,['√ Larry Hogan (R)[34]  Anthony Brown (D)[34] Shawn Quinn (L)\n'],Martin O'Malley,D,Democratic,0,Incumbent term-limited.Republican gain,Maryland,MD,"√ Larry Hogan (R)[34]  Anthony Brown (D)[34] Shawn Quinn (L)
+",2014
+MA_gov_1978,"['Edward J. King (Democratic) 52.5', 'Francis W. Hatch, Jr. (Republican) 47.2', '\n']","Michael Dukakis
+",D,"Democratic
+",0,"Defeated in primary, Democratic victory
+",Massachusetts,MA,Edward J. King (Democratic) 52.5,1978
+MA_gov_1982,"['Michael Dukakis (Democratic) 59.5', 'John W. Sears (Republican) 36.6', 'Frank Rich (Independent) 3.1', 'Rebecca Shipman (Libertarian) 0.9', '\n']","Edward J. King
+",D,"Democratic
+",0,"Defeated in primary, Democratic victory
+",Massachusetts,MA,Michael Dukakis (Democratic) 59.5,1982
+MA_gov_1986,"['George Kariotis (Republican) 31.2', '\n']","Michael Dukakis
+",D,"Democratic
+",0,"Re-elected, 68.8%
+",Massachusetts,MA,George Kariotis (Republican) 31.2,1986
+MA_gov_1990,"['William Weld (Republican) 50.2', 'John Silber (Democratic) 46.9', 'Leonard Umina (Independent) 2.7', '\n']","Michael Dukakis
+",D,"Democratic
+",0,"Retired, Republican victory
+",Massachusetts,MA,William Weld (Republican) 50.2,1990
+MA_gov_1994,"['Mark Roosevelt (Democratic) 28.3', 'Dean Cook (Libertarian) 0.7', 'Jeffrey Rebello (LaRouche was Right) 0.2', '\n']","Bill Weld
+",R,"Republican
+",1,"Re-elected, 70.8%
+",Massachusetts,MA,Mark Roosevelt (Democratic) 28.3,1994
+MA_gov_1998,"['Scott Harshbarger (Democratic) 47.4', 'Dean Cook (Libertarian) 1.7', '\n']","Paul Cellucci (acting)
+",R,"Republican
+",1,"Elected, 50.8%
+",Massachusetts,MA,Scott Harshbarger (Democratic) 47.4,1998
+MA_gov_2002,"['Mitt Romney (Republican) 49.8', ""  Shannon O'Brien (Democratic) 44.9"", '  Jill Stein (G-R) 3.5', '  Carla Howell (Libertarian) 1.1', ' Barbara Johnson (Independent) 0.7', '\n']","Jane Swift (acting)
+",R,"Republican
+",1,"Retired, Republican victory
+",Massachusetts,MA,Mitt Romney (Republican) 49.8,2002
+MA_gov_2006,"['Deval Patrick (D) 55.6', ' Kerry Healey (R) 35.3', ' Christy Mihos (I) 7.0', ' Grace Ross (GRP) 2.0', '\n']","Mitt Romney
+",R,"Republican
+",1,"Retired, Democratic gain
+",Massachusetts,MA,Deval Patrick (D) 55.6,2006
+MA_gov_2010,"['Charlie Baker (R), 42.1', '\nTim Cahill (I), 8.0', '\n\n']","Deval Patrick
+",D,"Democratic
+",0,"Re-elected, 48.4%
+",Massachusetts,MA,"Charlie Baker (R), 42.1",2010
+MA_gov_2014,['√ Charlie Baker (R)[35] Martha Coakley (D)[36] Evan Falchuk (United Independent)[37] Scott Lively (I)[38] Jeff McCormick (I)[39]\n'],Deval Patrick,D,Democratic,0,Incumbent retired.Republican gain,Massachusetts,MA,"√ Charlie Baker (R)[35] Martha Coakley (D)[36] Evan Falchuk (United Independent)[37] Scott Lively (I)[38] Jeff McCormick (I)[39]
+",2014
+MI_gov_1978,"['William B. Fitzgerald Jr. (Democratic) 43.2', '\n']","William Milliken
+",R,"Republican
+",1,"Re-elected, 56.8%
+",Michigan,MI,"William B. Fitzgerald, Jr. (Democratic) 43.2",1978
+MI_gov_1982,"['James Blanchard (Democratic) 51.4', 'Richard Headlee (Republican) 45.1', 'Robert Tisch (Tisch Ind. Citizens) 2.6', 'Dick Jacobs (Libertarian) 0.5', 'James Phillips (American Ind.) 0.2', 'Leslie E. Craine (Socialist Workers) 0.1', 'Martin P. McLaughlin (Workers League) 0.1', '\n']","William Milliken
+",R,"Republican
+",1,"Retired, Democratic victory
+",Michigan,MI,James Blanchard (Democratic) 51.4,1982
+MI_gov_1986,"['William Lucas (Republican) 31.5', '\n']","James Blanchard
+",D,"Democratic
+",0,"Re-elected, 68.1%
+",Michigan,MI,William Lucas (Republican) 31.5,1986
+MI_gov_1990,"['John Engler (Republican) 49.8', 'William Roundtree (Workers World) 1.1', '\n']","James Blanchard
+",D,"Democratic
+",0,"Defeated, 49.1%
+",Michigan,MI,John Engler (Republican) 49.8,1990
+MI_gov_1994,"['Howard Wolpe (Democratic) 38.5', '\n']","John Engler
+",R,"Republican
+",1,"Re-elected, 61.5%
+",Michigan,MI,Howard Wolpe (Democratic) 38.5,1994
+MI_gov_1998,"['Geoffrey Fieger (Democratic) 37.8', '\n']","John Engler
+",R,"Republican
+",1,"Re-elected, 62.2%
+",Michigan,MI,Geoffrey Fieger (Democratic) 37.8,1998
+MI_gov_2002,"['Jennifer Granholm (Democratic) 51.4', '  Dick Posthumus (Republican) 47.4', '  Douglas Campell (Green) 0.8', '  Joseph Pilchak (U.S. Taxpayers) 0.4', '\n']","John Engler
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Michigan,MI,Jennifer Granholm (Democratic) 51.4,2002
+MI_gov_2006,"['Jennifer Granholm (D) 56.3', ' Dick DeVos (R) 42.3', ' Greg Creswell (L) 0.6', ' Douglas Campbell (G) 0.5', ' Bhagwan Dashairya (C) 0.2', '\n']","Jennifer Granholm
+",D,"Democratic
+",0,"Re-elected
+",Michigan,MI,Jennifer Granholm (D) 56.3,2006
+MI_gov_2010,"['Rick Snyder (R), 58.1', '\nVirg Bernero (D), 39.9', '\nKen Proctor (L), 22,390 0.69', '\n\n']","Jennifer Granholm
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Michigan,MI,"Rick Snyder (R), 58.1",2010
+MI_gov_2014,['√ Rick Snyder (R) Mark Schauer (D)[40]Mary Buzuma (L)Paul Homeniuk (G) Robin Sanders (I)[41]\n'],Rick Snyder,R,Republican,1,Re-elected 51%,Michigan,MI,"√ Rick Snyder (R) Mark Schauer (D)[40]Mary Buzuma (L)Paul Homeniuk (G) Robin Sanders (I)[41]
+",2014
+MN_gov_1978,"['Al Quie (Republican) 52.3', 'Richard Pedersen (American) 1.3', 'Jill Lakowske (Socialist Workers) 0.4', 'Tom McDonald (Honest Government) 0.3', 'Robin E. Miller (Libertarian) 0.2', 'Edwin C. Pommerening (Savings Account) 0.1', '\n']","Rudy Perpich
+",D,"DFL
+",0,"Defeated, 45.3%
+",Minnesota,MN,Al Quie (Republican) 52.3,1978
+MN_gov_1982,"['Rudy Perpich (Democratic) 58.6', 'Wheelock Whitney (Republican) 40.0', 'Kathy Wheeler (Socialist Workers) 0.6', 'Tom McDonald (Honest Government) 0.5', 'Franklin H. Haws (Libertarian) 0.4', '\n']","Al Quie
+",R,"Republican
+",1,"Retired, Democratic victory
+",Minnesota,MN,Rudy Perpich (Democratic) 58.6,1982
+MN_gov_1986,"['Cal Ludeman (Republican) 43.1', '\n']","Rudy Perpich
+",D,"Democratic
+",0,"Re-elected, 56.1%
+",Minnesota,MN,Cal Ludeman (Republican) 43.1,1986
+MN_gov_1990,"['Arne Carlson (Ind. Republican) 50.1', 'Judith Ann Chosa (Independent) 1.2', 'Ross S. Culverhouse (Grassroots) 1.0', 'Jon Grunseth (Ind. Republican) 0.6', 'Wendy Lyons (Socialist Workers) 0.4', '\n']","Rudy Perpich
+",D,"DFL
+",0,"Defeated, 46.8%
+",Minnesota,MN,Arne Carlson (Ind. Republican) 50.1,1990
+MN_gov_1994,"['John Marty (DFL) 34.1', 'Will Shetterly (Grassroots) 1.2', 'Eric Olson (Libertarian) 0.9', 'Leslie Davis (Nutritional Rights Alliance) 0.3', 'Jon Hillson (Socialist Workers) 0.2', '\n']","Arne Carlson
+",I,"Independent-Republican
+",0,"Re-elected, 63.3%
+",Minnesota,MN,John Marty (DFL) 34.1,1994
+MN_gov_1998,"['Jesse Ventura (Reform) 37.0', 'Norm Coleman (Republican) 34.3', 'Skip Humphrey (Democratic) 28.1', 'Ken Pentel (Green) 0.3', 'Frank Germann (Libertarian) 0.1', 'Chris Wright (Grassroots) 0.1', '\n']","Arne Carlson
+",R,"Republican
+",1,"Retired, Reform victory
+",Minnesota,MN,Jesse Ventura (Reform) 37.0,1998
+MN_gov_2002,"['Tim Pawlenty (Republican) 44.4', '  Roger Moe (Democratic) 36.5', '  Tim Penny (Independence) 16.2', '  Ken Pentel (Green) 2.3', ' Kari Sachs (Socialist Workers) 0.1', ' Lawrence Aeshliman (Constitution) 0.1', '\n']","Jesse Ventura
+",R,"Reform Party/Independence
+",1,"Retired, Republican victory
+",Minnesota,MN,Tim Pawlenty (Republican) 44.4,2002
+MN_gov_2006,"['Tim Pawlenty (R) 46.7', ' Mike Hatch (DFL) 45.7', ' Peter Hutchinson (IPM) 6.4', 'Ken Pentel (G) 0.5', ' Walt Brown (I) 0.4', ' Leslie Davis (I) 0.2', '\n']","Tim Pawlenty
+",R,"Republican
+",1,"Re-elected
+",Minnesota,MN,Tim Pawlenty (R) 46.7,2006
+MN_gov_2010,"['Mark Dayton (D), 43.7', '\nTom Emmer (R), 43.2', '\nTom Horner (I), 11.9', '\n\n']","Tim Pawlenty
+",R,"Republican
+",1,"Retired, Democratic victory
+",Minnesota,MN,"Mark Dayton (D), 43.7",2010
+MN_gov_2014,"['√ Mark Dayton (DFL), 50.1', ' Jeff Johnson (R), 44.5', 'Hannah Nicollet (Independence), 2.9', 'Chris Wright (Grass Roots), 1.6', 'Chris Holbrook (L), 0.9', '\n']",Mark Dayton,D,Democratic–Farmer–Labor,0,Re-elected 50.1%,Minnesota,MN,"√ Mark Dayton (DFL), 50.1",2014
+MS_gov_1979,"['William Winter (Democratic) 61.07', ' Gil Carmichael (Republican) 38.93', '\n']","Cliff Finch
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Mississippi,MS,William Winter (Democratic) 61.07,1979
+MS_gov_1983,"['William Allain (Democratic) 55.1', 'Leon Bramlett (Republican) 38.9', 'Charles Evers (Independent) 4.1', 'Billie H. Taylor (Independent) 1.1', 'Henry McMullen Williams (Independent) 0.8', '\n']","William Winter
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Mississippi,MS,William Allain (Democratic) 55.1,1983
+MS_gov_1987,"['Ray Mabus (Democratic) 53.4', 'Jack Reed (Republican) 46.6', '\n']","William Allain
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Mississippi,MS,Ray Mabus (Democratic) 53.4,1987
+MS_gov_1991,"['Kirk Fordice (Republican) 50.8', ""Shawn O'Hara (Independent) 1.6"", '\n']","Ray Mabus
+",D,"Democratic
+",0,"Defeated, 47.6%
+",Mississippi,MS,Kirk Fordice (Republican) 50.8,1991
+MS_gov_1995,"['Dick Molpus (Democratic) 44.4', '\n']","Kirk Fordice
+",R,"Republican
+",1,"Re-elected, 55.6%
+",Mississippi,MS,Dick Molpus (Democratic) 44.4,1995
+MS_gov_1999,"['Ronnie Musgrove (Democratic) 49.6', 'Mike Parker (Republican) 48.5', 'Jerry Ladner (Reform) 1.1', 'Helen Perkins (Independent) 0.8', '\n']","Kirk Fordice
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Mississippi,MS,Ronnie Musgrove (Democratic) 49.6,1999
+MS_gov_2003,"['Haley Barbour (R) 52.59', 'John Cripps (Const.) 0.71', ""Shawn O'Hara (Ref.) 0.46"", 'Sherman Dillon (G) 0.44', '\n']","Ronnie Musgrove
+",D,"Democratic
+",0,"Defeated, 45.81%
+",Mississippi,MS,Haley Barbour (R) 52.59,2003
+MS_gov_2007,"['John Eaves (Democratic) 41.9', '\n']","Haley Barbour
+",R,"Republican
+",1,"Re-elected, 58.1%
+",Mississippi,MS,John Eaves (Democratic) 41.9,2007
+MS_gov_2011,"['Phil Bryant (R), 61.07', '  Johnny DuPree (D), 38.93', '\n']","Haley Barbour
+",R,"Republican
+",1,"Incumbent term-limited  Republican hold
+",Mississippi,MS,"Phil Bryant (R), 61.07",2011
+MS_gov_2015,"? Phil Bryant (R) 67%, Robert Gray (D) 32%",Phil Bryant,R,Republican,1,2011,Mississippi,MS,Re-elected[2],2015
+MO_gov_1976,"['Joseph P. Teasdale (Democratic) 50.23', '  Leon Striler (Nonpartisan) 0.22', '\n']","Kit Bond
+",R,"Republican
+",1,"Defeated, 49.55%
+",Missouri,MO,Joseph P. Teasdale (Democratic) 50.23,1976
+MO_gov_1980,"['Kit Bond (Republican) 52.6', 'Helen Savio (Socialist Workers) 0.3', '\n']","Joseph P. Teasdale
+",D,"Democratic
+",0,"Defeated, 47.0%
+",Missouri,MO,Kit Bond (Republican) 52.6,1980
+MO_gov_1984,"['John Ashcroft (Republican) 56.7', 'Ken Rothman (Democratic) 43.3', '\n']","Kit Bond
+",R,"Republican
+",1,"Retired, Republican victory
+",Missouri,MO,John Ashcroft (Republican) 56.7,1984
+MO_gov_1988,"['Betty Hearnes (Democratic) 34.8', 'Mike Roberts (Libertarian) 1.0', '\n']","John Ashcroft
+",R,"Republican
+",1,"Re-elected, 64.2%
+",Missouri,MO,Betty Hearnes (Democratic) 34.8,1988
+MO_gov_1992,"['Mel Carnahan (Democratic) 58.7', 'William Webster (Republican) 41.3', '\n']","John Ashcroft
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Missouri,MO,Mel Carnahan (Democratic) 58.7,1992
+MO_gov_1996,"['Margaret Kelly (Republican) 40.4', 'Mark Oglesby (Libertarian) 2.4', '\n']","Mel Carnahan
+",D,"Democratic
+",0,"Re-elected, 57.2%
+",Missouri,MO,Margaret Kelly (Republican) 40.4,1996
+MO_gov_2000,"['Bob Holden (Democratic) 49.1', 'Jim Talent (Republican) 48.2', 'Larry Rice (Independent) 1.5', 'John Swenson (Libertarian) 0.5', 'Lavoy Reed (Green) 0.4', 'Richard Kline (Reform) 0.2', 'Richard Smith (Constitution) 0.1', '\n']","Roger Wilson
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Missouri,MO,Bob Holden (Democratic) 49.1,2000
+MO_gov_2004,"['Matt Blunt (Republican) 50.8', 'Claire McCaskill (Democratic) 47.9', 'John Swenson (Libertarian) 1', 'Robert Wells (Constitution) 0.4', '\n']","Bob Holden
+",D,"Democratic
+",0,"Defeated in primary
+",Missouri,MO,Matt Blunt (Republican) 50.8,2004
+MO_gov_2008,"['Jay Nixon (D) 58.4', 'Kenny Hulshof (R) 39.5', 'Andrew Finkenstadt (L) 1.1', 'Gregory Thompson (C) 1.0', '\n']","Matt Blunt
+",R,"Republican
+",1,"Retired, Democratic victory
+",Missouri,MO,Jay Nixon (D) 58.4,2008
+MO_gov_2012,"['Dave Spence (R) 42.62', 'Jim Higgins (L) 2.7', '\n']","Jay Nixon
+",D,"Democratic
+",0,"Re-elected, 54.68%
+",Missouri,MO,Dave Spence (R) 42.62,2012
+MO_gov_2016,['Eric Greitens (Republican)[18]Chris Koster (Democratic)[19]Cisse Spragins (Libertarian)[13]Don Fitz (Green)Les Turilli (unaffiliated)\n'],"Jay Nixon
+",D,"Democratic
+",0,"Incumbent term-limited. New governor elected. Republican gain.
+",Missouri,MO,"Eric Greitens (Republican)[18]Chris Koster (Democratic)[19]Cisse Spragins (Libertarian)[13]Don Fitz (Green)Les Turilli (unaffiliated)
+",2016
+MT_gov_1976,"['Robert Woodahl (Republican) 36.58', '  Charley Mahoney (Independent) 1.72', '\n']","Thomas Lee Judge
+",D,"Democratic
+",0,"Re-elected, 61.7%
+",Montana,MT,Robert Woodahl (Republican) 36.58,1976
+MT_gov_1980,"['Ted Schwinden (Democratic) 55.4', 'Jack Ramirez (Republican) 44.6', '\n']","Thomas Lee Judge
+",D,"Democratic
+",0,"Defeated in primary, Democratic victory
+",Montana,MT,Ted Schwinden (Democratic) 55.4,1980
+MT_gov_1984,"['Pat M. Goodover (Republican) 26.4', 'Larry Dodge (Libertarian) 3.3', '\n']","Ted Schwinden
+",D,"Democratic
+",0,"Re-elected, 70.3%
+",Montana,MT,Pat M. Goodover (Republican) 26.4,1984
+MT_gov_1988,"['Stan Stephens (Republican) 51.9', 'Thomas Lee Judge (Democratic) 46.1', '\n']","Ted Schwinden
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Montana,MT,Stan Stephens (Republican) 51.9,1988
+MT_gov_1992,"['Marc Racicot (Republican) 51.4', 'Dorothy Bradley (Democratic) 48.7', '\n']","Stan Stephens
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Montana,MT,Marc Racicot (Republican) 51.4,1992
+MT_gov_1996,"['Judy Jacobson (Democratic) 20.8', '\n']","Marc Racicot
+",R,"Republican
+",1,"Re-elected, 79.2%
+",Montana,MT,Judy Jacobson (Democratic) 20.8,1996
+MT_gov_2000,"['Judy Martz (Republican) 51', ""Mark O'Keefe (Democratic) 47.1"", 'Stan Jones (Libertarian) 1.9', '\n']","Marc Racicot
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Montana,MT,Judy Martz (Republican) 51,2000
+MT_gov_2004,"['Brian Schweitzer (Democratic) 50.4', 'Bob Brown (Republican) 46', 'Bob Kelleher (Green) 1.9', 'Stan Jones (Libertarian) 1.7', '\n']","Judy Martz
+",R,"Republican
+",1,"Retired, Democratic victory
+",Montana,MT,Brian Schweitzer (Democratic) 50.4,2004
+MT_gov_2008,"['Roy Brown (R) 32.5', 'Stan Jones (L) 2.0', '\n']","Brian Schweitzer
+",D,"Democratic
+",0,"Re-elected, 65.5%
+",Montana,MT,Roy Brown (R) 32.5,2008
+MT_gov_2012,"['Steve Bullock (D) 48.9', 'Rick Hill (R) 47.34', 'Ron Vandevender (L) 3.76', '\n']","Brian Schweitzer
+",D,"Democratic
+",0,"Term-limited, Democrat hold
+",Montana,MT,Steve Bullock (D) 48.9,2012
+MT_gov_2016,['Steve Bullock (Democratic)[20]Greg Gianforte (Republican)[21]Ted Dunlap (Libertarian)[22]\n'],"Steve Bullock
+",D,"Democratic
+",0,"Incumbent won re-election.
+",Montana,MT,"Steve Bullock (Democratic)[20]Greg Gianforte (Republican)[21]Ted Dunlap (Libertarian)[22]
+",2016
+NE_gov_1978,"['Charles Thone (Republican) 56.0', 'Gerald T. Whelan (Democratic) 44.0', '\n']","J. James Exon
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Nebraska,NE,Charles Thone (Republican) 56.0,1978
+NE_gov_1982,"['Bob Kerrey (Democratic) 50.7', '\n']","Charles Thone
+",R,"Republican
+",1,"Defeated, 49.3%
+",Nebraska,NE,Bob Kerrey (Democratic) 50.7,1982
+NE_gov_1986,"['Kay A. Orr (Republican) 52.9', 'Helen Boosalis (Democratic) 47.1', '\n']","Bob Kerrey
+",D,"Democratic
+",0,"Retired, Republican victory
+",Nebraska,NE,Kay A. Orr (Republican) 52.9,1986
+NE_gov_1990,"['Ben Nelson (Democratic) 49.9', 'Mort Sullivan (Write-in) 0.3', '\n']","Kay A. Orr
+",R,"Republican
+",1,"Defeated, 49.2%
+",Nebraska,NE,Ben Nelson (Democratic) 49.9,1990
+NE_gov_1994,"['Gene Spence (Republican) 25.6', 'Ernie Chambers (Write-in) 0.5', '\n']","Ben Nelson
+",D,"Democratic
+",0,"Re-elected, 73.0%
+",Nebraska,NE,Gene Spence (Republican) 25.6,1994
+NE_gov_1998,"['Mike Johanns (Republican) 53.9', 'Bill Hoppner (Democratic) 46.0', '\n']","Ben Nelson
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Nebraska,NE,Mike Johanns (Republican) 53.9,1998
+NE_gov_2002,"['Stormy Dean (Democratic) 27.5', '  Paul Rosberg (Nebraska) 3.8', '\n']","Mike Johanns
+",R,"Republican
+",1,"Re-elected, 68.9%
+",Nebraska,NE,Stormy Dean (Democratic) 27.5,2002
+NE_gov_2006,"['Dave Heineman (R) 73.4', ' David Hahn (D) 24.4', 'Barry Richards (Ne) 1.5', ' Mort Sullivan (I) 0.6', '\n']","Dave Heineman
+",R,"Republican
+",1,"Re-elected
+",Nebraska,NE,Dave Heineman (R) 73.4,2006
+NE_gov_2010,"['Mike Meister (D), 25.7', '\n']","Dave Heineman
+",R,"Republican
+",1,"Re-elected, 74.3%
+",Nebraska,NE,"Mike Meister (D), 25.7",2010
+NE_gov_2014,['√ Pete Ricketts (R)[42] Chuck Hassebrook (D)[42] Mark Elworth (L)[42]\n'],Dave Heineman,R,Republican,1,Incumbent term-limited.Republican hold,Nebraska,NE,"√ Pete Ricketts (R)[42] Chuck Hassebrook (D)[42] Mark Elworth (L)[42]
+",2014
+NV_gov_1978,"['Robert List (Republican) 56.2', 'Robert E. Rose (Democratic) 39.7', 'Thomas F. Jefferson (Ind. American) 1.7', 'None of These Candidates1.7', 'John W. Grayson Jr. (Libertarian) 0.8', '\n']","Mike O'Callaghan
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Nevada,NV,Robert List (Republican) 56.2,1978
+NV_gov_1982,"['Richard Bryan (Democratic) 53.4', 'None of These Candidates 2.9', 'Dan Becan (Libertarian) 1.9', '\n']","Robert List
+",R,"Republican
+",1,"Defeated, 41.8%
+",Nevada,NV,Richard Bryan (Democratic) 53.4,1982
+NV_gov_1986,"['Patricia Dillon Cafferata (Republican) 25.0', 'None of These Candidates 2.1', 'Louis R. Tomburello (Libertarian) 1.0', '\n']","Richard Bryan
+",D,"Democratic
+",0,"Re-elected, 71.9%
+",Nevada,NV,Patricia Dillon Cafferata (Republican) 25.0,1986
+NV_gov_1990,"['Jim Gallaway (Republican) 29.9', 'None of These Candidates 2.8', 'James Frye (Libertarian) 2.5', '\n']","Bob Miller
+",D,"Democratic
+",0,"Re-elected, 64.8%
+",Nevada,NV,Jim Gallaway (Republican) 29.9,1990
+NV_gov_1994,"['Jim Gibbons (Republican) 41.3', 'Daniel Hansen (Independent American) 2.6', 'None of These Candidates 2.3', 'Denis Shotly (Libertarian) 1.1', '\n']","Bob Miller
+",D,"Democratic
+",0,"Re-elected, 52.7%
+",Nevada,NV,Jim Gibbons (Republican) 41.3,1994
+NV_gov_1998,"['Kenny Guinn (Republican) 51.6', 'Jan Jones (Democratic) 42.0', 'None of the above 2.9', 'Chuck Horne (Independent American) 1.7', 'Terry Savage (Libertarian) 1.7', '\n']","Bob Miller
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Nevada,NV,Kenny Guinn (Republican) 51.6,1998
+NV_gov_2002,"['Joe Neal (Democratic) 22', '  None of the above 4.7', '  Dick Geyer (Libertarian) 1.6', '  David Holmgren (Indep. American) 1.4', '  Jerry Norton (Independent) 1.1', '  Charles Laws (Green) 1', '\n']","Kenny Guinn
+",R,"Republican
+",1,"Re-elected, 68.3%
+",Nevada,NV,Joe Neal (Democratic) 22,2002
+NV_gov_2006,"['Jim Gibbons (R) 47.9', ' Dina Titus (D) 43.9', 'None of These Candidates 3.6', ' Christopher Hansen (C) 3.4', ' Craig Bergland (Green) 1.2', '\n']","Kenny Guinn
+",R,"Republican
+",1,"Term-limited, Republican hold
+",Nevada,NV,Jim Gibbons (R) 47.9,2006
+NV_gov_2010,"['Brian Sandoval (R), 53.4', '\nRory Reid (D), 41.6', '\nArthur Forrest Lampitt (L), 4,672 0.7', '\n\n']","Jim Gibbons
+",R,"Republican
+",1,"Defeated in primary, Republican victory
+",Nevada,NV,"Brian Sandoval (R), 53.4",2010
+NV_gov_2014,['√ Brian Sandoval (R) Robert Goodman (D)[43] David VanDerBeek (Independent American)[43]\n'],Brian Sandoval,R,Republican,1,Re-elected 70.6%,Nevada,NV,"√ Brian Sandoval (R) Robert Goodman (D)[43] David VanDerBeek (Independent American)[43]
+",2014
+NY_gov_1976,"['Harry Spanos (Democratic) 42.32', '\n']","Meldrim Thomson, Jr.
+",R,"Republican
+",1,"Re-elected, 57.66%
+",New_Hampshire,NY,Harry Spanos (Democratic) 42.32,1976
+NH_gov_1978,"['Hugh Gallen (Democratic) 49.4', 'Wesley Powell (Independent) 4.6', 'Mabel Everett (Libertarian) 4.6', 'Ralph Brewster (Independent) 0.2', '\n']","Meldrim Thomson, Jr.
+",R,"Republican
+",1,"Defeated, 45.4%
+",New_Hampshire,NH,Hugh Gallen (Democratic) 49.4,1978
+NH_gov_1980,"['Meldrim Thomson Jr. (Republican) 40.7', 'James Pinnaird (Libertarian) 0.3', '\n']","Hugh Gallen
+",D,"Democratic
+",0,"Re-elected, 59.0%
+",New_Hampshire,NH,"Meldrim Thomson, Jr. (Republican) 40.7",1980
+NH_gov_1982,"['John H. Sununu (Republican) 51.5', 'Meldrim Thomson, Jr. (Independent) 1.7', '\n']","Hugh Gallen
+",D,"Democratic
+",0,"Defeated, 46.8%
+",New_Hampshire,NH,John H. Sununu (Republican) 51.5,1982
+NH_gov_1984,"['Chris Spirou (Democratic) 33.1', '\n']","John H. Sununu
+",R,"Republican
+",1,"Re-elected, 66.8%
+",New_Hampshire,NH,Chris Spirou (Democratic) 33.1,1984
+NH_gov_1986,"['Paul McEachern (Democratic) 46.3', '\n']","John H. Sununu
+",R,"Republican
+",1,"Re-elected, 53.7%
+",New_Hampshire,NH,Paul McEachern (Democratic) 46.3,1986
+NH_gov_1988,"['Judd Gregg (Republican) 60.4', 'Paul McEachern (Democratic) 39.0', '\n']","John H. Sununu
+",R,"Republican
+",1,"Retired, Republican victory
+",New_Hampshire,NH,Judd Gregg (Republican) 60.4,1988
+NH_gov_1990,"['J. Joseph Grandmaison (Democratic) 34.7', 'Miriam F. Luce (Libertarian) 4.9', '\n']","Judd Gregg
+",R,"Republican
+",1,"Re-elected, 60.5%
+",New_Hampshire,NH,J. Joseph Grandmaison (Democratic) 34.7,1990
+NH_gov_1992,"['Steve Merrill (Republican) 56.0', 'Arnie Arnesen (Democratic) 40.0', 'Miriam Luce (Libertarian) 4.0', '\n']","Judd Gregg
+",R,"Republican
+",1,"Retired, Republican victory
+",New_Hampshire,NH,Steve Merrill (Republican) 56.0,1992
+NH_gov_1994,"['Wayne King (Democratic) 25.6', 'Steve Winter (Libertarian) 4', 'Cal Warburton (Libertarian) 0.4', '\n']","Steve Merrill
+",R,"Republican
+",1,"Re-elected, 70.0%
+",New_Hampshire,NH,Wayne King (Democratic) 25.6,1994
+NH_gov_1996,"['Jeanne Shaheen (Democratic) 57.2', 'Ovide Lamontagne (Republican) 39.5', 'Fred Bramante (Independent Reform) 2.1', 'Robert Kingsbury (Libertarian) 1.2', '\n']","Steve Merrill
+",R,"Republican
+",1,"Retired, Democratic victory
+",New_Hampshire,NH,Jeanne Shaheen (Democratic) 57.2,1996
+NH_gov_1998,"['Jay Lucas (Republican) 33.1', '\n']","Jeanne Shaheen
+",D,"Democratic
+",0,"Re-elected, 66.1%
+",New_Hampshire,NH,Jay Lucas (Republican) 33.1,1998
+NH_gov_2000,"['Gordon Humphrey (Republican) 43.8', 'Mary Brown (Independent) 6.4', 'John Babiarz (Libertarian) 1.1', '\n']","Jeanne Shaheen
+",D,"Democratic
+",0,"Re-elected, 48.7%
+",New_Hampshire,NH,Gordon Humphrey (Republican) 43.8,2000
+NH_gov_2002,"['Craig Benson (Republican) 58.6', '  Mark Fernald (Democratic) 38.2', '  John Babiarz (Libertarian) 2.9', '\n']","Jeanne Shaheen
+",D,"Democratic
+",0,"Retired, Republican victory
+",New_Hampshire,NH,Craig Benson (Republican) 58.6,2002
+NH_gov_2004,"['John Lynch (Democratic) 51', '\n']","Craig Benson
+",R,"Republican
+",1,"Defeated, 48.9%
+",New_Hampshire,NH,John Lynch (Democratic) 51,2004
+NH_gov_2006,"['John Lynch (D) 73.5', ' Jim Coburn (R) 26.5', '\n']","John Lynch
+",D,"Democratic
+",0,"Re-elected
+",New_Hampshire,NH,John Lynch (D) 73.5,2006
+NH_gov_2008,"['Joe Kenney (R) 27.6', 'Susan Newell (L) 2.2', '\n']","John Lynch
+",D,"Democratic
+",0,"Re-elected, 70.2%
+",New_Hampshire,NH,Joe Kenney (R) 27.6,2008
+NH_gov_2010,"['John Stephen (R), 45.1', 'John J. Babiarz (L), 2.21', '\n']","John Lynch
+",D,"Democratic
+",0,"Re-elected, 52.6%
+",New_Hampshire,NH,"John Stephen (R), 45.1",2010
+NH_gov_2012,"['Maggie Hassan (D) 54.61', 'Ovide Lamontagne (R) 42.42', 'John Babiarz (L) 2.77', '\n']","John Lynch
+",D,"Democratic
+",0,"Retired, Democrat hold
+",New_Hampshire,NH,Maggie Hassan (D) 54.61,2012
+NH_gov_2014,['√ Maggie Hassan (D)Walt Havenstein (R)\n'],Maggie Hassan,D,Democratic,0,Re-elected 52.6%,New_Hampshire,NH,"√ Maggie Hassan (D)Walt Havenstein (R)
+",2014
+NH_gov_2016,['Chris Sununu (Republican)[23]Colin Van Ostern (Democratic)[24]Max Ambramson (Libertarian)[13]\n'],"Maggie Hassan
+",D,"Democratic
+",0,"Incumbent retired to run for the United States Senate.New governor elected. Republican gain.
+",New_Hampshire,NH,"Chris Sununu (Republican)[23]Colin Van Ostern (Democratic)[24]Max Ambramson (Libertarian)[13]
+",2016
+NJ_gov_1977,"['Ray Bateman (Republican) 41.81', 'Francis Flowers (Declare Your Independence) 0.41', '\n']","Brendan Byrne
+",D,"Democratic
+",0,"Re-elected, 55.71%
+",New_Jersey,NJ,Ray Bateman (Republican) 41.81,1977
+NJ_gov_1981,"['Thomas Kean (Republican) 49.5', 'James Florio (Democratic) 49.4', '[1]\n']","Brendan Byrne
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",New_Jersey,NJ,Thomas Kean (Republican) 49.5,1981
+NJ_gov_1985,"['Peter Shapiro (Democratic) 29.3', '\n']","Thomas Kean
+",R,"Republican
+",1,"Re-elected, 69.6%
+",New_Jersey,NJ,Peter Shapiro (Democratic) 29.3,1985
+NJ_gov_1989,"['James Florio (Democratic) 61.23', 'Jim Courter (Republican) 37.21', 'Dan Karlan (Libertarian) .53', 'Michael Ziruolo  (Independent) .45', 'Tom Fuscaldo (Independent) .31', 'Catherine Renee Sedwick (Socialist Workers) .28', '\n']","Thomas Kean
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",New_Jersey,NJ,James Florio (Democratic) 61.23,1989
+NJ_gov_1993,"['Christine Todd Whitman (Republican) 49.33', '\n']","Jim Florio
+",D,"Democratic
+",0,"Defeated, 48.29%
+",New_Jersey,NJ,Christine Todd Whitman (Republican) 49.33,1993
+NJ_gov_1997,"['Jim McGreevey (Democratic) 46.0', 'Murray Sabrin (Libertarian) 4.7', 'Richard Pezzullo (Conservative) 1.5', 'Madelyn Hoffman (Green) 0.4', 'Michael Perrone (Independent) 0.3', 'Robert Miller (Socialist Workers) 0.1', '\n']","Christine Todd Whitman
+",R,"Republican
+",1,"Re-elected, 47.1%
+",New_Jersey,NJ,Jim McGreevey (Democratic) 46.0,1997
+NJ_gov_2001,"['Jim McGreevey (Democratic) 56.4', 'Bret Schundler (Republican) 41.7', 'Bill Schluter (Independent) 1.1', 'Jerry Coleman (Green) 0.3', 'Mark Edgerton (Libertarian) 0.2', '\n']","Donald DiFrancesco
+",R,"Republican
+",1,"Retired, Democratic victory
+",New_Jersey,NJ,Jim McGreevey (Democratic) 56.4,2001
+NJ_gov_2005,"['Jon Corzine (Democratic) 52.87', 'Doug Forrester (Republican) 43.17', 'Hector Castillo (Independent) 1.29', 'Jeffrey Pawlowski (Libertarian) 0.67', 'Matt Thieke (Green) 0.54', 'Richard Codey (as write-in) 0.43', 'Edward Forchion (Marijuana) 0.41', 'Michael Latigona (Independent) 0.23', 'Wesley Bell (Independent) 0.18', 'Angela Lariscy (Socialist Workers) 0.11', 'Constantino Rozzo (Socialist) 0.09', '\n']","Richard Codey
+",D,"Democratic
+",0,"Retired, Democratic victory
+",New_Jersey,NJ,Jon Corzine (Democratic) 52.87,2005
+NJ_gov_2009,"['Chris Christie (R) 48.8', 'Chris Daggett (I) 5.8', 'and 10 others[4]\n']","Jon Corzine
+",D,"Democratic
+",0,"Defeated, 44.5%
+",New_Jersey,NJ,Chris Christie (R) 48.8,2009
+NJ_gov_2013,"['Barbara Buono (D) 38.19', '\n']","Chris Christie
+",R,"Republican
+",1,"Re-elected, 60.3%
+",New_Jersey,NJ,Barbara Buono (D) 38.19,2013
+NJ_gov_2017,"Phil Murphy (Democratic)[6], Kim Guadagno (Republican)[7], Seth Kaper-Dale (Green)[8]",Chris Christie,R,Republican,1,2009,New_Jersey,NJ,"Term-limited, Democratic victory
+",2017
+NM_gov_1978,"['Bruce King (Democratic) 50.5', 'Joe Skeen (Republican) 49.4', '\n']","Jerry Apodaca
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",New_Mexico,NM,Bruce King (Democratic) 50.5,1978
+NM_gov_1982,"['Toney Anaya (Democratic) 53.0', 'John B. Irick (Republican) 47.0', '\n']","Bruce King
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",New_Mexico,NM,Toney Anaya (Democratic) 53.0,1982
+NM_gov_1986,"['Garrey Carruthers (Republican) 53.0', 'Ray Powell (Democratic) 47.0', '\n']","Toney Anaya
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",New_Mexico,NM,Garrey Carruthers (Republican) 53.0,1986
+NM_gov_1990,"['Bruce King (Democratic) 54.6', 'Frank M. Bond (Republican) 45.2', '\n']","Garrey Carruthers
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",New_Mexico,NM,Bruce King (Democratic) 54.6,1990
+NM_gov_1994,"['Gary Johnson (Republican) 49.8', 'Roberto Mondragón (Green) 10.3', '\n']","Bruce King
+",D,"Democratic
+",0,"Defeated, 39.9%
+",New_Mexico,NM,Gary Johnson (Republican) 49.8,1994
+NM_gov_1998,"['Martin Chávez (Democratic) 45.5', '\n']","Gary Johnson
+",R,"Republican
+",1,"Re-elected, 54.5%
+",New_Mexico,NM,Martin Chávez (Democratic) 45.5,1998
+NM_gov_2002,"['Bill Richardson (Democratic) 56', '  John Sanchez (Republican) 39', '  David Bacon (Green) 5', '[1]\n']","Gary Johnson
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",New_Mexico,NM,Bill Richardson (Democratic) 56,2002
+NM_gov_2006,"['Bill Richardson (D) 68.8', ' John Dendahl (R) 31.2', '\n']","Bill Richardson
+",D,"Democratic
+",0,"Re-elected
+",New_Mexico,NM,Bill Richardson (D) 68.8,2006
+NM_gov_2010,"['Susana Martinez (R), 53.6', '\nDiane Denish (D), 46.4', '\n\n']","Bill Richardson
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",New_Mexico,NM,"Susana Martinez (R), 53.6",2010
+NM_gov_2014,['√ Susana Martinez (R) Gary King (D)[23]\n'],Susana Martinez,R,Republican,1,Re-elected 57.3%,New_Mexico,NM,"√ Susana Martinez (R) Gary King (D)[23]
+",2014
+NY_gov_1978,"['Perry Duryea (Republican) 45.2', 'Mary Jane Tobin (Right to Life) 2.7', 'Gary Greenberg  (Libertarian) 0.4', 'Dianne M. Feeley (Socialist Workers) 0.3', 'Jarvis Tyner (Communist) 0.2', 'Paul Gallagher (U.S. Labor) 0.2', '\n']","Hugh Carey
+",D,"Democratic
+",0,"Re-elected, 50.9%
+",New_York,NY,Perry Duryea (Republican) 45.2,1978
+NY_gov_1982,"['Mario Cuomo (Democratic) 50.9', 'Lewis Lehrman (Republican) 47.5', 'Robert J. Bohner (Right to Life) 1.0', 'John H. Northrup (Libertarian) 0.3', 'Jane Benedict (Unity) 0.1', 'Nancy Ross (New Alliance) 0.1', 'Diane Wang (Socialist Workers) 0.1', '\n']","Hugh Carey
+",D,"Democratic
+",0,"Retired, Democratic victory
+",New_York,NY,Mario Cuomo (Democratic) 50.9,1982
+NY_gov_1986,"[""Andrew O'Rourke (Republican) 31.8"", 'Denis Dillon (Right to Life) 3.1', 'Lenora Fulani (New Alliance) 0.6', '\n']","Mario Cuomo
+",D,"Democratic
+",0,"Re-elected, 64.3%
+",New_York,NY,Andrew O'Rourke (Republican) 31.8,1986
+NY_gov_1990,"['Pierre Andrew Rinfret (Republican) 21.35', 'Herbert London (Conservative) 20.40', 'Louis P. Wein (Right to Life) 3.40', 'Lenora Fulani (New Alliance) 0.77', 'W. Gary Johnson (Libertarian) 0.61', 'Craig Gannon (Socialist Workers) 0.31', '\n']","Mario Cuomo
+",D,"Democratic
+",0,"Re-elected, 53.17%
+",New_York,NY,Pierre Andrew Rinfret (Republican) 21.35,1990
+NY_gov_1994,"['George Pataki (Republican) 48.8', 'Tom Golisano (Independence) 4.2', 'Robert Walsh (Right-to-Life) 1.3', 'Robert Schulz (Libertarian) 0.2', 'Lawrence Lane (Socialist Workers) 0.1', '\n']","Mario Cuomo
+",D,"Democratic
+",0,"Defeated, 45.4%
+",New_York,NY,George Pataki (Republican) 48.8,1994
+NY_gov_1998,"['Peter Vallone (Democratic) 33.2', 'Tom Golisano (Independence) 7.7', 'Betsy McCaughey (Liberal) 1.7', 'Michael Reynolds (Right to Life) 1.2', 'Al Lewis (Green) 1.1', 'Thomas Leighton (Marijuana Reform) 0.5', 'Alice France (Unity) 0.2', 'Christopher Garvey (Libertarian) 0.1', 'Alfred Duncan (Socialist Workers) 0.1', '\n']","George Pataki
+",R,"Republican
+",1,"Re-elected, 54.3%
+",New_York,NY,Peter Vallone (Democratic) 33.2,1998
+NY_gov_2002,"['Carl McCall (Democratic), (Working Families 33.5', ' Tom Golisano (Independence) 14.3', 'Jerry Cronin (Right to Life) 0.9', 'Stanley Aronowitz (Green) 0.9', 'Thomas Leighton  (Marijuana Reform) 0.5', 'Andrew Cuomo (Liberal) 0.3', 'Scott Jeffrey (Libertarian) 0.1', '', '\n']","George Pataki
+",R,"Republican, Conservative
+",1,"Re-elected, 49.4%
+",New_York,NY,"Carl McCall (Democratic), (Working Families 33.5",2002
+NY_gov_2006,"['Eliot Spitzer (D) 69.0', ' John Faso (R/Con) 29.2', ' Malachy McCourt (G) 1.0', ' John Clifton (L) 0.4', ' Jimmy McMillan (I) 0.3', ' Maura DeLuca (SW) 0.2', '\n']","George Pataki
+",R,"Republican
+",1,"Retired, Democratic gain
+",New_York,NY,Eliot Spitzer (D) 69.0,2006
+NY_gov_2010,"['Andrew Cuomo (D), 61.4', '\nCarl Paladino (R), 34.1', '\nWarren Redlich (L), 48,386\n\n']","David Paterson
+",D,"Democratic
+",0,"Withdrew from primary, Democratic victory
+",New_York,NY,"Andrew Cuomo (D), 61.4",2010
+NY_gov_2014,['√ Andrew Cuomo (D) Rob Astorino (R)[23] Howie Hawkins (G)[44]Michael McDermott (L)\n'],Andrew Cuomo,D,Democratic,0,Re-elected 54%,New_York,NY,"√ Andrew Cuomo (D) Rob Astorino (R)[23] Howie Hawkins (G)[44]Michael McDermott (L)
+",2014
+NC_gov_1976,"['Jim Hunt (Democratic) 64.99', '  David Flaherty (Republican) 33.9', '  Herbert F. ""Chub"" Seawell Jr. (American) 0.82', '  Arlan Andrews (Libertarian) 0.29', '\n']","James Holshouser
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",North_Carolina,NC,Jim Hunt (Democratic) 64.99,1976
+NC_gov_1980,"['I. Beverly Lake (Republican) 37.4', 'Robert Y. Emory (Libertarian) 0.5', 'Douglas A. Cooper (Socialist Workers) 0.2', '\n']","Jim Hunt
+",D,"Democratic
+",0,"Re-elected, 61.9%
+",North_Carolina,NC,I. Beverly Lake (Republican) 37.4,1980
+NC_gov_1984,"['James G. Martin (Republican) 54.3', 'Rufus L. Edmisten (Democratic) 45.4', '\n']","Jim Hunt
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",North_Carolina,NC,James G. Martin (Republican) 54.3,1984
+NC_gov_1988,"['Robert B. Jordan III (Democratic) 43.9', '\n']","James G. Martin
+",R,"Republican
+",1,"Re-elected, 56.1%
+",North_Carolina,NC,"Robert B. Jordan, III (Democratic) 43.9",1988
+NC_gov_1992,"['Jim Hunt (Democratic) 52.7', 'Jim Gardner (Republican) 43.2', 'Scott McLaughlin (Libertarian) 4.1', '\n']","Jim Martin
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",North_Carolina,NC,Jim Hunt (Democratic) 52.7,1992
+NC_gov_1996,"['Robin Hayes (Republican) 42.8', 'Scott Yost (Libertarian) 0.7', 'Julia Van Witt (Natural Law) 0.6', '\n']","Jim Hunt
+",D,"Democratic
+",0,"Re-elected, 56.0%
+",North_Carolina,NC,Robin Hayes (Republican) 42.8,1996
+NC_gov_2000,"['Mike Easley (Democratic) 52', 'Richard Vinroot (Republican) 46.3', 'Barbara Howe (Libertarian) 1.5', 'Douglas Schell (Reform) 0.3', '\n']","Jim Hunt
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",North_Carolina,NC,Mike Easley (Democratic) 52,2000
+NC_gov_2004,"['Patrick Ballantine (Republican) 42.9', 'Barbara Howe (Libertarian) 1.5', '\n']","Mike Easley
+",D,"Democratic
+",0,"Re-elected, 55.6%
+",North_Carolina,NC,Patrick Ballantine (Republican) 42.9,2004
+NC_gov_2008,"['Bev Perdue (D) 50.3', 'Pat McCrory (R) 46.9', 'Mike Munger (L) 2.8', '\n']","Mike Easley
+",D,"Democratic
+",0,"Term-limited, Democratic hold
+",North_Carolina,NC,Bev Perdue (D) 50.3,2008
+NC_gov_2012,"['Pat McCrory (R) 54.7', 'Walter Dalton (D) 43.17', ' Barbara Howe (I) 2.13', '\n']","Beverly Perdue
+",D,"Democratic
+",0,"Retired, Republican gain
+",North_Carolina,NC,Pat McCrory (R) 54.7,2012
+NC_gov_2016,['Roy Cooper (Democratic)[25]Pat McCrory (Republican)[26]Lon Cecil (Libertarian)[13]\n'],"Pat McCrory
+",R,"Republican
+",1,"Incumbent lost re-election. New governor elected. Democratic gain.
+",North_Carolina,NC,"Roy Cooper (Democratic)[25]Pat McCrory (Republican)[26]Lon Cecil (Libertarian)[13]
+",2016
+ND_gov_1976,"['Richard Elkin (Republican) 46.53', '  Martin Vaaler (American) 1.89', '\n']","Arthur A. Link
+",D,"Democratic
+",0,"Re-elected, 51.58%
+",North_Dakota,ND,Richard Elkin (Republican) 46.53,1976
+ND_gov_1980,"['Allen I. Olson (Republican) 53.6', '\n']","Arthur A. Link
+",D,"Democratic-NPL
+",0,"Defeated, 46.4%
+",North_Dakota,ND,Allen I. Olson (Republican) 53.6,1980
+ND_gov_1984,"['George Sinner (Democratic) 55.3', '\n']","Allen I. Olson
+",R,"Republican
+",1,"Defeated, 44.7%
+",North_Dakota,ND,George Sinner (Democratic) 55.3,1984
+ND_gov_1988,"['Leon L. Mallberg (Republican) 40.1', '\n']","George Sinner
+",D,"Democratic
+",0,"Re-elected, 59.9%
+",North_Dakota,ND,Leon L. Mallberg (Republican) 40.1,1988
+ND_gov_1992,"['Ed Schafer (Republican) 58.2', 'Nicholas Spaeth (Democratic) 40.9', 'Harley McLain (Independent) 0.9', 'Michael DuPaul (Independent) 0.7', '\n']","George Sinner
+",D,"Democratic
+",0,"Retired, Republican victory
+",North_Dakota,ND,Ed Schafer (Republican) 58.2,1992
+ND_gov_1996,"['Lee Kaldor (Democratic) 33.8', '\n']","Ed Schafer
+",R,"Republican
+",1,"Re-elected, 66.2%
+",North_Dakota,ND,Lee Kaldor (Democratic) 33.8,1996
+ND_gov_2000,"['John Hoeven (Republican) 55', 'Heidi Heitkamp (Democratic) 45', '\n']","Ed Schafer
+",R,"Republican
+",1,"Retired, Republican victory
+",North_Dakota,ND,John Hoeven (Republican) 55,2000
+ND_gov_2004,"['Joe Satrom (Democratic) 27.4', 'Roland Riemers (Libertarian) 1.4', '\n']","John Hoeven
+",R,"Republican
+",1,"Re-elected, 71.3%
+",North_Dakota,ND,Joe Satrom (Democratic) 27.4,2004
+ND_gov_2008,"['Tim Mathern (D) 23.5', 'DuWayne Hendrickson (I) 2.1', '\n']","John Hoeven
+",R,"Republican
+",1,"Re-elected, 74.4%
+",North_Dakota,ND,Tim Mathern (D) 23.5,2008
+ND_gov_2012,"['Ryan Taylor (D) 34.31', 'Paul Sorum (I) 1.69', '\n']","Jack Dalrymple
+",R,"Republican
+",1,"Elected to a full term, 63.1%
+",North_Dakota,ND,Ryan Taylor (D) 34.31,2012
+ND_gov_2016,['Doug Burgum (Republican)[27]Marvin Nelson (Democratic)[28]Marty Riske (Libertarian)[13]\n'],"Jack Dalrymple
+",R,"Republican
+",1,"Incumbent retired. New governor elected. Republican hold.
+",North_Dakota,ND,"Doug Burgum (Republican)[27]Marvin Nelson (Democratic)[28]Marty Riske (Libertarian)[13]
+",2016
+OH_gov_1978,"['Dick Celeste (Democratic) 47.6', 'Patricia H. Wright (Independent) 1.2', ""John O'Neill (Independent) 1.0"", 'Allan Friedman (Independent) 0.8', '\n']","Jim Rhodes
+",R,"Republican
+",1,"Re-elected, 49.3%
+",Ohio,OH,Dick Celeste (Democratic) 47.6,1978
+OH_gov_1982,"['Dick Celeste (Democratic) 59.0', 'Bud Brown (Republican) 38.9', 'Phyllis Goetz (Libertarian) 1.2', 'Kurt O. Landefiled (Independent) 0.5', 'Erwin Reupert (Independent) 0.4', '\n']","Jim Rhodes
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Ohio,OH,Dick Celeste (Democratic) 59.0,1982
+OH_gov_1986,"['Jim Rhodes (Republican) 39.4', '\n']","Dick Celeste
+",D,"Democratic
+",0,"Re-elected, 60.6%
+",Ohio,OH,Jim Rhodes (Republican) 39.4,1986
+OH_gov_1990,"['George Voinovich (Republican) 55.7', 'Anthony J. Celebrezze Jr. (Democratic) 44.3', '\n']","Dick Celeste
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Ohio,OH,George Voinovich (Republican) 55.7,1990
+OH_gov_1994,"['Rob Burch (Democratic) 25', 'Billy Inmon (Independent) 3.2', '\n']","George Voinovich
+",R,"Republican
+",1,"Re-elected, 71.8%
+",Ohio,OH,Rob Burch (Democratic) 25,1994
+OH_gov_1998,"['Bob Taft (Republican) 50.1', 'Lee Fisher (Democratic) 44.7', 'John Mitchel (Independent) 3.3', 'Zanna Feitler (Independent) 1.9', '\n']","George Voinovich
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Ohio,OH,Bob Taft (Republican) 50.1,1998
+OH_gov_2002,"['Tim Hagan (Democratic) 38.3', '  John Eastman (Independent) 3.9', '\n']","Bob Taft
+",R,"Republican
+",1,"Re-elected, 57.7%
+",Ohio,OH,Tim Hagan (Democratic) 38.3,2002
+OH_gov_2006,"['Ted Strickland (D) 60.4', ' Ken Blackwell (R) 36.8', ' Bill Peirce (L) 1.8', 'Bob Fitrakis (G) 1.0', '\n']","Bob Taft
+",R,"Republican
+",1,"Term-limited, Democratic gain
+",Ohio,OH,Ted Strickland (D) 60.4,2006
+OH_gov_2010,"['John Kasich (R), 49.4', '\nKen Matesz (L), 92,116 2.4', '\n\n']","Ted Strickland
+",D,"Democratic
+",0,"Defeated, 46.7%
+",Ohio,OH,"John Kasich (R), 49.4",2010
+OH_gov_2014,['√ John Kasich (R) Ed FitzGerald (D)[23][45]Anita Rios (G)[46]\n'],John Kasich,R,Republican,1,Re-elected 63.8%,Ohio,OH,"√ John Kasich (R) Ed FitzGerald (D)[23][45]Anita Rios (G)[46]
+",2014
+OK_gov_1978,"['George Nigh (Democratic) 51.7', 'Ron Shotts (Republican) 47.2', 'Billy Joe Clegg (Independent) 0.5', 'Floyd Sheally (Independent) 0.3', 'Jim McCuiston (Independent) 0.2', '\n']","David L. Boren
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Oklahoma,OK,George Nigh (Democratic) 51.7,1978
+OK_gov_1982,"['Tom Daxon (Republican) 37.6', 'Allah-U Akbar Allah-U Wahid (Independent) 0.3', '\n']","George Nigh
+",D,"Democratic
+",0,"Re-elected, 62.1%
+",Oklahoma,OK,Tom Daxon (Republican) 37.6,1982
+OK_gov_1986,"['Henry Bellmon (Republican) 48.1', 'David Walters (Democratic) 45.2', 'Jerry Brown (Independent) 6.7', '\n']","George Nigh
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Oklahoma,OK,Henry Bellmon (Republican) 48.1,1986
+OK_gov_1990,"['David Walters (Democratic) 57.4', 'Bill Price (Republican) 32.3', 'Thomas D. Ledgerwood II (Reform) 9.9', '\n']","Henry Bellmon
+",R,"Republican
+",1,"Retired, Democratic victory
+",Oklahoma,OK,David Walters (Democratic) 57.4,1990
+OK_gov_1994,"['Frank Keating (Republican) 46.9', 'Jack Mildren (Democratic) 29.6', 'Wes Watkins (Independent) 23.5', '\n']","David Walters
+",D,"Democratic
+",0,"Retired, Republican victory
+",Oklahoma,OK,Frank Keating (Republican) 46.9,1994
+OK_gov_1998,"['Laura Boyd (Democratic) 40.9', 'Hoppy Heidelberg (Reform) 1.2', '\n']","Frank Keating
+",R,"Republican
+",1,"Re-elected, 57.9%
+",Oklahoma,OK,Laura Boyd (Democratic) 40.9,1998
+OK_gov_2002,"['Brad Henry (Democratic) 43.3', '  Steve Largent (Republican) 42.6', '  Gary Richardson (Independent) 14.1', '\n']","Frank Keating
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Oklahoma,OK,Brad Henry (Democratic) 43.3,2002
+OK_gov_2006,"['Brad Henry (D) 66.5', ' Ernest Istook (R) 33.5', '\n']","Brad Henry
+",D,"Democratic
+",0,"Re-elected
+",Oklahoma,OK,Brad Henry (D) 66.5,2006
+OK_gov_2010,"['Mary Fallin (R), 60.1', '\nJari Askins (D), 39.9', '\n\n']","Brad Henry
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Oklahoma,OK,"Mary Fallin (R), 60.1",2010
+OK_gov_2014,"['√ Mary Fallin (R)Joe Dorman (D)[23] Richard Prawdzienski (L, running as I)[47]\n']",Mary Fallin,R,Republican,1,Re-elected 55.8%,Oklahoma,OK,"√ Mary Fallin (R)Joe Dorman (D)[23] Richard Prawdzienski (L, running as I)[47]
+",2014
+OR_gov_1978,"['Victor G. Atiyeh (Republican) 54.9', '\n']","Robert W. Straub
+",D,"Democratic
+",0,"Defeated, 45.1%
+",Oregon,OR,Victor G. Atiyeh (Republican) 54.9,1978
+OR_gov_1982,"['Ted Kulongoski (Democratic) 36.9', '\n']","Victor G. Atiyeh
+",R,"Republican
+",1,"Re-elected, 63.1%
+",Oregon,OR,Ted Kulongoski (Democratic) 36.9,1982
+OR_gov_1986,"['Neil Goldschmidt (Democratic) 52.0', 'Norma Paulus (Republican) 48.0', '\n']","Victor G. Atiyeh
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Oregon,OR,Neil Goldschmidt (Democratic) 52.0,1986
+OR_gov_1990,"['Barbara Roberts (Democratic) 45.7', 'David B. Frohnmayer (Republican) 40.0', 'Al Mobley (Independent) 13.0', 'Fred Oerther (Libertarian) 1.3', '\n']","Neil Goldschmidt
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Oregon,OR,Barbara Roberts (Democratic) 45.7,1990
+OR_gov_1994,"['John Kitzhaber (Democratic) 51', 'Denny Smith (Republican) 42.4', 'Ed Hickam (American) 4.8', 'Danford Vander Ploeg (Libertarian) 1.7', '\n']","Barbara Roberts
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Oregon,OR,John Kitzhaber (Democratic) 51,1994
+OR_gov_1998,"['Bill Sizemore (Republican) 30.0', 'Richard Burke (Libertarian) 1.8', 'Blair Bobier (Pacific Green) 1.4', 'Roger Weidner (Reform) 0.9', 'Patti Steurer (Natural Law) 0.7', 'Trey Smith (Socialist) 0.5', '\n']","John Kitzhaber
+",D,"Democratic
+",0,"Re-elected, 64.4%
+",Oregon,OR,Bill Sizemore (Republican) 30.0,1998
+OR_gov_2002,"['Ted Kulongoski (Democratic) 49', '  Kevin Mannix (Republican) 46.1', '  Tom Cox (Libertarian) 4.58', '\n']","John Kitzhaber
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Oregon,OR,Ted Kulongoski (Democratic) 49,2002
+OR_gov_2006,"['Ted Kulongoski (D) 50.8', ' Ron Saxton (R) 42.7', 'Mary Starrett (C) 3.6', 'Joe Keating (G) 1.5', 'Richard Morley (L) 1.2', '\n']","Ted Kulongoski
+",D,"Democratic
+",0,"Re-elected
+",Oregon,OR,Ted Kulongoski (D) 50.8,2006
+OR_gov_2010,"['John Kitzhaber (D), 49.2', '\nChris Dudley (R), 48.1', '\nWes Wagner (L), 19,048 1.3', '\n\n']","Ted Kulongoski
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Oregon,OR,"John Kitzhaber (D), 49.2",2010
+OR_gov_2014,['√ John Kitzhaber (D) Dennis Richardson (R)[23]Paul Grad (Libertarian)Aaron Auer (Constitution)\n'],John Kitzhaber,D,Democratic,0,Re-elected 49.5%,Oregon,OR,"√ John Kitzhaber (D) Dennis Richardson (R)[23]Paul Grad (Libertarian)Aaron Auer (Constitution)
+",2014
+OR_gov_2016,['Kate Brown (Democratic)[30]Bud Pierce (Republican)[31]\n'],"Kate Brown
+",D,"Democratic
+",0,"Incumbent won election to rest of term.
+",Oregon,OR,"Kate Brown (Democratic)[30]Bud Pierce (Republican)[31]
+",2016
+PA_gov_1978,"['Dick Thornburgh (Republican) 52.5', 'Peter F. Flaherty (Democratic) 46.4', 'Mark Zola (Socialist Workers) 0.5', 'Lee Frissell (Consumer) 0.5', '\n']","Milton Shapp
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Pennsylvania,PA,Dick Thornburgh (Republican) 52.5,1978
+PA_gov_1982,"['Allen E. Ertel (Democratic) 48.1', 'Mark Zola (Socialist Workers) 0.4', 'Lee Frissell (Consumer) 0.4', 'Richard D. Fuerle (Libertarian) 0.3', '\n']","Dick Thornburgh
+",R,"Republican
+",1,"Re-elected, 50.8%
+",Pennsylvania,PA,Allen E. Ertel (Democratic) 48.1,1982
+PA_gov_1986,"['Robert P. Casey (Democratic) 50.7', 'William Scranton, III (Republican) 48.4', 'Heidi Hoover (Consumer) 1.0', '\n']","Dick Thornburgh
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Pennsylvania,PA,Robert P. Casey (Democratic) 50.7,1986
+PA_gov_1990,"['Barbara Hafer (Republican) 32.3', '\n']","Robert P. Casey
+",D,"Democratic
+",0,"Re-elected, 67.7%
+",Pennsylvania,PA,Barbara Hafer (Republican) 32.3,1990
+PA_gov_1994,"['Tom Ridge (Republican) 45.4', 'Mark Singel (Democratic) 39.9', 'Peg Luksik (Constitution) 12.8', 'Patrick Fallon (Libertarian) 0.9', 'Timothy Holloway (Patriot) 0.9', '\n']","Bob Casey
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Pennsylvania,PA,Tom Ridge (Republican) 45.4,1994
+PA_gov_1998,"['Ivan Itkin (Democratic) 31.0', 'Peg Luksik (Taxpayers) 10.4', 'Ken Krawchuk (Libertarian) 1.1', '\n']","Tom Ridge
+",R,"Republican
+",1,"Re-elected, 57.4%
+",Pennsylvania,PA,Ivan Itkin (Democratic) 31.0,1998
+PA_gov_2002,"['Ed Rendell (Democratic) 53.4', '  Mike Fisher (Republican) 44.4', '  Ken Krawchuk (Libertarian) 1.14', '  Michael Morrill (Green) 1.07', '\n']","Mark Schweiker
+",R,"Republican
+",1,"Retired, Democratic victory
+",Pennsylvania,PA,Ed Rendell (Democratic) 53.4,2002
+PA_gov_2006,"['Ed Rendell (D) 60.4', ' Lynn Swann (R) 39.6', '\n']","Ed Rendell
+",D,"Democratic
+",0,"Re-elected
+",Pennsylvania,PA,Ed Rendell (D) 60.4,2006
+PA_gov_2010,"['Tom Corbett (R), 54.5', '\nDan Onorato (D), 45.5', '\n\n']","Ed Rendell
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Pennsylvania,PA,"Tom Corbett (R), 54.5",2010
+PA_gov_2014,['√ Tom Wolf (D)[23] Tom Corbett (R)\n'],Tom Corbett,R,Republican,1,Incumbent lost re-election.Democratic gain,Pennsylvania,PA,"√ Tom Wolf (D)[23] Tom Corbett (R)
+",2014
+RI_gov_1976,"['John Garrahy (Democratic) 54.82', '  James Taft (Republican) 44.71', '  John C. Swift (Independent) 0.32', '\n']","Philip W. Noel
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Rhode_Island,RI,John Garrahy (Democratic) 54.82,1976
+RI_gov_1978,"['Lincoln Almond (Republican) 30.7', 'Joseph A. Doorley (Independent) 6.5', '\n']","John Garrahy
+",D,"Democratic
+",0,"Re-elected, 62.8%
+",Rhode_Island,RI,Lincoln Almond (Republican) 30.7,1978
+RI_gov_1980,"['Buddy Cianci (Republican) 26.9', '\n']","John Garrahy
+",D,"Democratic
+",0,"Re-elected, 73.7%
+",Rhode_Island,RI,Buddy Cianci (Republican) 26.9,1980
+RI_gov_1982,"['Vincent Marzullo (Republican) 23.6', 'Hilary R. Salk (Independent) 2.1', 'Peter Van Daam (Independent) 1.0', '\n']","John Garrahy
+",D,"Democratic
+",0,"Re-elected, 73.3%
+",Rhode_Island,RI,Vincent Marzullo (Republican) 23.6,1982
+RI_gov_1984,"['Edward D. DiPrete (Republican) 60.0', 'Anthony J. Solomon (Democratic) 40.0', '\n']","John Garrahy
+",D,"Democratic
+",0,"Retired, Republican victory
+",Rhode_Island,RI,Edward D. DiPrete (Republican) 60.0,1984
+RI_gov_1986,"['Bruce Sundlun (Democratic) 32.4', 'Robert Healey (Cool Moose) 1.9', 'Tony Affigne (Citizens) 1.1', '\n']","Edward D. DiPrete
+",R,"Republican
+",1,"Re-elected, 64.7%
+",Rhode_Island,RI,Bruce Sundlun (Democratic) 32.4,1986
+RI_gov_1988,"['Bruce Sundlun (Democratic) 49.2', '\n']","Edward D. DiPrete
+",R,"Republican
+",1,"Re-elected, 50.8%
+",Rhode_Island,RI,Bruce Sundlun (Democratic) 49.2,1988
+RI_gov_1990,"['Bruce Sundlun (Democratic) 74.2', '\n']","Edward D. DiPrete
+",R,"Republican
+",1,"Defeated, 25.8%
+",Rhode_Island,RI,Bruce Sundlun (Democratic) 74.2,1990
+RI_gov_1992,"['Elizabeth Leonard (Republican) 35.5', 'Joseph Devine (Reform) 3.5', 'Jack Potter (Natural Law) 0.4', 'John Staradumsky (Independent) 0.4', '\n']","Bruce Sundlun
+",D,"Democratic
+",0,"Re-elected, 63.7%
+",Rhode_Island,RI,Elizabeth Leonard (Republican) 35.5,1992
+RI_gov_1994,"['Lincoln Almond (Republican) 47.4', 'Myrth York (Democratic) 43.5', 'Bob Healey (Independent) 9.1', '\n']","Bruce Sundlun
+",D,"Democratic
+",0,"Defeated in primary, Republican victory
+",Rhode_Island,RI,Lincoln Almond (Republican) 47.4,1994
+RI_gov_1998,"['Myrth York (Democratic) 42.1', 'Bob Healey (Cool Moose) 6.3', 'John Patrick (Reform) 0.6', '\n']","Lincoln Almond
+",R,"Republican
+",1,"Re-elected, 51.0%
+",Rhode_Island,RI,Myrth York (Democratic) 42.1,1998
+RI_gov_2002,"['Don Carcieri (Republican) 54.8', '  Myrth York (Democratic) 45.2', '\n']","Lincoln Almond
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Rhode_Island,RI,Don Carcieri (Republican) 54.8,2002
+RI_gov_2006,"['Don Carcieri (R) 51', ' Charlie Fogarty (D) 49', '\n']","Don Carcieri
+",R,"Republican
+",1,"Re-elected
+",Rhode_Island,RI,Don Carcieri (R) 51,2006
+RI_gov_2010,"['Lincoln Chafee (I), 36.1', '\nJohn Robitaille (R), 33.6', '\nFrank Caprio (D), 23.0', '\n\n']","Don Carcieri
+",R,"Republican
+",1,"Term-limited, Independent victory
+",Rhode_Island,RI,"Lincoln Chafee (I), 36.1",2010
+RI_gov_2014,['√ Gina Raimondo (D)[23]Allan Fung (R)[23] Bob Healey (Moderate)  Kate Fletcher (I)Leon Kayarian (I)\n'],Lincoln Chafee,D,Democratic,0,Incumbent retired.Democratic hold,Rhode_Island,RI,"√ Gina Raimondo (D)[23]Allan Fung (R)[23] Bob Healey (Moderate)  Kate Fletcher (I)Leon Kayarian (I)
+",2014
+SC_gov_1978,"['Richard Riley (Democratic) 61.9', 'Edward Lunn Young (Republican) 38.1', '\n']","James B. Edwards
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",South_Carolina,SC,Richard Riley (Democratic) 61.9,1978
+SC_gov_1982,"['W. D. Workman Jr. (Republican) 30.2', '\n']","Richard Riley
+",D,"Democratic
+",0,"Re-elected, 69.8%
+",South_Carolina,SC,W. D. Workman Jr. (Republican) 30.2,1982
+SC_gov_1986,"['Carroll A. Campbell Jr. (Republican) 51.0', 'Michael R. Daniel (Democratic) 47.9', 'William H. Griffin (Libertarian) 0.6', '\n']","Richard Riley
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",South_Carolina,SC,"Carroll A. Campbell, Jr. (Republican) 51.0",1986
+SC_gov_1990,"['Theo Mitchell (Democratic) 27.9', 'John R. Peeples, Jr. (American) 2.3', '\n']","Carroll A. Campbell, Jr.
+",R,"Republican
+",1,"Re-elected, 69.5%
+",South_Carolina,SC,Theo Mitchell (Democratic) 27.9,1990
+SC_gov_1994,"['David Beasley (Republican) 50.4', 'Nick Theodore (Democratic) 47.9', 'John Peeples (Taxpayers) 0.9', 'Wayne Griffin (New Alliance) 0.6', '\n']","Carroll Campbell
+",R,"Republican
+",1,"Term-limited, Republican victory
+",South_Carolina,SC,David Beasley (Republican) 50.4,1994
+SC_gov_1998,"['Jim Hodges (Democratic) 53.2', 'Timothy Moultrie (Libertarian) 1.4', '\n']","David Beasley
+",R,"Republican
+",1,"Defeated, 45.2%
+",South_Carolina,SC,Jim Hodges (Democratic) 53.2,1998
+SC_gov_2002,"['Mark Sanford (Republican) 52.9', '\n']","Jim Hodges
+",D,"Democratic
+",0,"Defeated, 47.1%
+",South_Carolina,SC,Mark Sanford (Republican) 52.9,2002
+SC_gov_2006,"['Mark Sanford (R) 55.1', ' Tommy Moore (D) 44.8', '\n']","Mark Sanford
+",R,"Republican
+",1,"Re-elected
+",South_Carolina,SC,Mark Sanford (R) 55.1,2006
+SC_gov_2010,"['Nikki Haley (R), 51.4', '\nVincent Sheheen (D), 47.1', '\n\n']","Mark Sanford
+",R,"Republican
+",1,"Term-limited, Republican victory
+",South_Carolina,SC,"Nikki Haley (R), 51.4",2010
+SC_gov_2014,['√ Nikki Haley (R)[48] Vincent Sheheen (D)[48] Steve French (L)[48] Morgan Reeves (United Citizens)[48]Tom Ervin (I)\n'],Nikki Haley,R,Republican,1,Re-elected 56%,South_Carolina,SC,"√ Nikki Haley (R)[48] Vincent Sheheen (D)[48] Steve French (L)[48] Morgan Reeves (United Citizens)[48]Tom Ervin (I)
+",2014
+SD_gov_1978,"['Bill Janklow (Republican) 56.6', 'Roger D. McKellips (Democratic) 43.4', '\n']","Harvey L. Wollman
+",D,"Democratic
+",0,"Defeated in primary, Republican victory
+",South_Dakota,SD,Bill Janklow (Republican) 56.6,1978
+SD_gov_1982,"[""Mike O'Connor (Democratic) 29.1"", '\n']","Bill Janklow
+",R,"Republican
+",1,"Re-elected, 70.9%
+",South_Dakota,SD,Mike O'Connor (Democratic) 29.1,1982
+SD_gov_1986,"['George S. Mickelson (Republican) 51.8', 'Lars Herseth (Democratic) 48.2', '\n']","Bill Janklow
+",R,"Republican
+",1,"Term-limited, Republican victory
+",South_Dakota,SD,George S. Mickelson (Republican) 51.8,1986
+SD_gov_1990,"['Bob L. Samuelson (Democratic) 41.1', '\n']","George S. Mickelson
+",R,"Republican
+",1,"Re-elected, 58.9%
+",South_Dakota,SD,Bob L. Samuelson (Democratic) 41.1,1990
+SD_gov_1994,"['Bill Janklow (Republican) 55.4', 'Jim Beddow (Democratic) 40.5', 'Nathan Barton (Libertarian) 4.1', '\n']","Walt Miller
+",R,"Republican
+",1,"Defeated in primary, Republican victory
+",South_Dakota,SD,Bill Janklow (Republican) 55.4,1994
+SD_gov_1998,"['Bernie Hunhoff (Democratic) 32.9', 'Bob Newland (Libertarian) 1.7', 'Ronald Wieczorek (Independent) 1.4', '\n']","Bill Janklow
+",R,"Republican
+",1,"Re-elected, 64.0%
+",South_Dakota,SD,Bernie Hunhoff (Democratic) 32.9,1998
+SD_gov_2002,"['Mike Rounds (Republican) 56.8', '  Jim Abbott (Democratic) 41.9', '  James Carlson (Independent) 0.7', ' Nathan Barton (Libertarian) 0.6', '\n']","Bill Janklow
+",R,"Republican
+",1,"Term-limited, Republican victory
+",South_Dakota,SD,Mike Rounds (Republican) 56.8,2002
+SD_gov_2006,"['Mike Rounds (R) 61.7', ' Jack Billion (D) 36.1', ' Steven Willis (C) 1.2', ' Tom Gerber (L) 1.0', '\n']","Mike Rounds
+",R,"Republican
+",1,"Re-elected
+",South_Dakota,SD,Mike Rounds (R) 61.7,2006
+SD_gov_2010,"['Dennis Daugaard (R), 61.5', '\nScott Heidepriem (D), 38.5', '\n\n']","Mike Rounds
+",R,"Republican
+",1,"Term-limited, Republican victory
+",South_Dakota,SD,"Dennis Daugaard (R), 61.5",2010
+SD_gov_2014,['√ Dennis Daugaard (R) Susan Wismer (D)[23] Mike Myers (I)[49]\n'],Dennis Daugaard,R,Republican,1,Re-elected 70.5%,South_Dakota,SD,"√ Dennis Daugaard (R) Susan Wismer (D)[23] Mike Myers (I)[49]
+",2014
+TN_gov_1978,"['Lamar Alexander (Republican) 55.8', 'Jake Butcher (Democratic) 44.2', '\n']","Ray Blanton
+",D,"Democratic
+",0,"Retired, Republican victory
+",Tennessee,TN,Lamar Alexander (Republican) 55.8,1978
+TN_gov_1982,"['Randy Tyree (Democratic) 40.4', '\n']","Lamar Alexander
+",R,"Republican
+",1,"Re-elected, 59.6%
+",Tennessee,TN,Randy Tyree (Democratic) 40.4,1982
+TN_gov_1986,"['Ned McWherter (Democratic) 54.3', 'Winfield Dunn (Republican) 45.7', '\n']","Lamar Alexander
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Tennessee,TN,Ned McWherter (Democratic) 54.3,1986
+TN_gov_1990,"['Dwight Henry (Republican) 36.6', 'W. Curtis Jacox (Independent) 1.4', 'David Brandon Shepard (Independent) 1.2', '\n']","Ned McWherter
+",D,"Democratic
+",0,"Re-elected, 60.8%
+",Tennessee,TN,Dwight Henry (Republican) 36.6,1990
+TN_gov_1994,"['Don Sundquist (Republican) 54.3', 'Phil Bredesen (Democratic) 44.7', 'Stephanie Holt (Independent) 0.7', 'Will Smith (Independent) 0.2', 'Charlie Moffett (Independent) 0.2', '\n']","Ned McWherter
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Tennessee,TN,Don Sundquist (Republican) 54.3,1994
+TN_gov_1998,"['John Jay Hooker (Democratic) 29.5', 'George Hamilton (Independent) 0.6', 'Irwin Gibbs (Independent) 0.5', 'Lonnie Creech (Independent) 0.4', 'Thomas Smith (Independent) 0.2', 'Karl Smithson (Independent) 0.2', '\n']","Don Sundquist
+",R,"Republican
+",1,"Re-elected, 68.6%
+",Tennessee,TN,John Jay Hooker (Democratic) 29.5,1998
+TN_gov_2002,"['Phil Bredesen (Democratic) 50.7', '  Van Hilleary (Republican) 47.6', '\n']","Don Sundquist
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Tennessee,TN,Phil Bredesen (Democratic) 50.7,2002
+TN_gov_2006,"['Phil Bredesen (D) 68.6', ' Jim Bryson (R) 29.7', 'Carl Whitaker (I) 0.6', 'George Banks (I) 0.4', 'Charles Smith (I) 0.2', ' Howard Switzer (G) 0.1', 'David Gatchell (I) 0.1', 'Marivuana Stout Leinoff (I) 0.1', '\n']","Phil Bredesen
+",D,"Democratic
+",0,"Re-elected
+",Tennessee,TN,Phil Bredesen (D) 68.6,2006
+TN_gov_2010,"['Bill Haslam (R), 65.0', '\nMike McWherter (D), 33.1', '\n\n']","Phil Bredesen
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Tennessee,TN,"Bill Haslam (R), 65.0",2010
+TN_gov_2014,"['√ Bill Haslam (R), 70.3', ' Charlie Brown (D),[50] 22.8', ' John Jay Hooker (I),[50] 2.3', 'Shaun Crowell (Constitution),[50] 2.0', ' Isa Infante (Green),[50] 1.4', ' Daniel Lewis (L),[50] 0.6', ' Steve Coburn (I),[50] 0.6', '\n']",Bill Haslam,R,Republican,1,Re-elected 70.3%,Tennessee,TN,"√ Bill Haslam (R), 70.3",2014
+TX_gov_1978,"['Bill Clements (Republican) 50.0', 'John Hill (Democratic) 49.2', 'Mario Compean (La Raza Unida) 0.6', 'Sara Jean Johnston (Socialist Workers) 0.2', '\n']","Dolph Briscoe
+",D,"Democratic
+",0,"Defeated in primary, Republican victory
+",Texas,TX,Bill Clements (Republican) 50.0,1978
+TX_gov_1982,"['Mark White (Democratic) 53.2', 'David Hutzelman (Libertarian) 0.6', 'Bob Poteet (U.S. Taxpayers) 0.3', '\n']","Bill Clements
+",R,"Republican
+",1,"Defeated, 45.9%
+",Texas,TX,Mark White (Democratic) 53.2,1982
+TX_gov_1986,"['Bill Clements (Republican) 52.7', 'Theresa S. Doyle (Libertarian) 1.2', '\n']","Mark White
+",D,"Democratic
+",0,"Defeated, 46.0%
+",Texas,TX,Bill Clements (Republican) 52.7,1986
+TX_gov_1990,"['Ann Richards (Democratic) 49.5', 'Clayton Williams (Republican) 46.9', 'Jeff Daiell (Libertarian) 3.3', '\n']","Bill Clements
+",R,"Republican
+",1,"Retired, Democratic victory
+",Texas,TX,Ann Richards (Democratic) 49.5,1990
+TX_gov_1994,"['George W. Bush (Republican) 53.5', 'Keary Ehlers (Libertarian) 0.6', '\n']","Ann Richards
+",D,"Democratic
+",0,"Defeated, 45.9%
+",Texas,TX,George W. Bush (Republican) 53.5,1994
+TX_gov_1998,"['Garry Mauro (Democratic) 31.2', 'Lester Turlington (Libertarian) 0.6', '\n']","George W. Bush
+",R,"Republican
+",1,"Re-elected, 68.2%
+",Texas,TX,Garry Mauro (Democratic) 31.2,1998
+TX_gov_2002,"['Tony Sanchez (Democratic) 40', 'Jeff Daiell (Libertarian) 1.6', '  Rahul Mahajan (Green) 1', '\n']","Rick Perry
+",R,"Republican
+",1,"Re-elected, 57.8%
+",Texas,TX,Tony Sanchez (Democratic) 40,2002
+TX_gov_2006,"['Rick Perry (R) 39.0', ' Chris Bell (D)29.8', ' Carole Keeton (I) 18.1', ' Kinky Friedman (I) 12.4', ' James Werner (L) 0.6', '\n']","Rick Perry
+",R,"Republican
+",1,"Re-elected
+",Texas,TX,Rick Perry (R) 39.0,2006
+TX_gov_2010,"['Bill White (D), 42.3', '\nKathie Glas (L)\n\n']","Rick Perry
+",R,"Republican
+",1,"Re-elected, 55.1%
+",Texas,TX,"Bill White (D), 42.3",2010
+TX_gov_2014,['√ Greg Abbott (R)[27] Wendy Davis (D)[27] Brandon Parmer (Green)[51]  Kathie Glass (L)[52]\n'],Rick Perry,R,Republican,1,Incumbent retired.Republican hold,Texas,TX,"√ Greg Abbott (R)[27] Wendy Davis (D)[27] Brandon Parmer (Green)[51]  Kathie Glass (L)[52]
+",2014
+UT_gov_1976,"['Scott M. Matheson (Democratic) 52.02', '  Vernon B. Romney (Republican) 45.96', '  L. S. Brown (American) 1.33', '  Betty Bates (Concerned Citizens) 0.69', '\n']","Calvin L. Rampton
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Utah,UT,Scott M. Matheson (Democratic) 52.02,1976
+UT_gov_1980,"['Bob Wright (Republican) 44.4', 'Lawrence Rey Topham (American) 0.4', '\n']","Scott M. Matheson
+",D,"Democratic
+",0,"Re-elected, 55.2%
+",Utah,UT,Bob Wright (Republican) 44.4,1980
+UT_gov_1984,"['Norman H. Bangerter (Republican) 55.9', 'Wayne Owens (Democratic) 43.8', '\n']","Scott M. Matheson
+",D,"Democratic
+",0,"Retired, Republican victory
+",Utah,UT,Norman H. Bangerter (Republican) 55.9,1984
+UT_gov_1988,"['Ted Wilson (Democratic) 38.4', 'Merrill Cook (Independent) 21.1', 'Kitty K. Burton (Libertarian) 0.3', 'Arly H. Pedersen (Ind. American) 0.2', '\n']","Norman H. Bangerter
+",R,"Republican
+",1,"Re-elected, 40.1%
+",Utah,UT,Ted Wilson (Democratic) 38.4,1988
+UT_gov_1992,"['Mike Leavitt (Republican) 42.2', 'Merrill Cook (Independent) 33.6', 'Stewart Hanson (Democratic) 23.3', 'Rita Gum (Populist) 0.5', 'Gary Van Horn (American) 0.2', 'Eleanor Garcia (Socialist Workers) 0.2', 'Linda Metzger-Agin (Independent) 0.1', 'Frank Richins (Independent American) 0.1', '\n']","Norm Bangerter
+",R,"Republican
+",1,"Retired, Republican victory
+",Utah,UT,Mike Leavitt (Republican) 42.2,1992
+UT_gov_1996,"['James Bradley  (Democratic) 23.3', 'Ken Larsen (Independent American) 0.7', 'Dub Richards (Independent) 0.6', 'Robert Lesh (Natural Law) 0.4', '\n']","Mike Leavitt
+",R,"Republican
+",1,"Re-elected, 75.0%
+",Utah,UT,James Bradley  (Democratic) 23.3,1996
+UT_gov_2000,"['Bill Orton (Democratic) 42.7', 'Jeremy Friedbaum (Independent American) 2', '\n']","Mike Leavitt
+",R,"Republican
+",1,"Re-elected, 55.8%
+",Utah,UT,Bill Orton (Democratic) 42.7,2000
+UT_gov_2004,"['Jon Huntsman (Republican) 57.7', 'Scott Matheson (Democratic) 41.4', 'Ken Larsen (Personal Choice) 1', '\n']","Olene Walker
+",R,"Republican
+",1,"Defeated in primary
+",Utah,UT,Jon Huntsman (Republican) 57.7,2004
+UT_gov_2008,"['Bob Springmeyer (D) 19.7', 'Dell Schanze (L) 2.6', '\n']","Jon Huntsman
+",R,"Republican
+",1,"Re-elected, 77.7%
+",Utah,UT,Bob Springmeyer (D) 19.7,2008
+UT_gov_2010,"['Peter Corroon (D), 31.8', '\nW. Andrew McCullough (L), 11,723 2', '\n\n']","Gary Herbert
+",R,"Republican
+",1,"Elected to finish term, 64.2%
+",Utah,UT,"Peter Corroon (D), 31.8",2010
+UT_gov_2012,"['Peter Cooke (D) 27.75', 'Ken Larsen (L) 2.18', '\n']","Gary Herbert
+",R,"Republican
+",1,"Re-elected, 68.37%
+",Utah,UT,Peter Cooke (D) 27.75,2012
+UT_gov_2016,['Gary Herbert (Republican)[32]Mike Weinholtz (Democratic)[33]Brian Kamerath (Libertarian)[13]\n'],"Gary Herbert
+",R,"Republican
+",1,"Incumbent won re-election.
+",Utah,UT,"Gary Herbert (Republican)[32]Mike Weinholtz (Democratic)[33]Brian Kamerath (Libertarian)[13]
+",2016
+VT_gov_1976,"['Richard A. Snelling (Republican) 53.39', '  Stella Hackel (Democratic) 40.48', '  Bernie Sanders (Liberty Union) 6.09', '\n']","Thomas P. Salmon
+",D,"Democratic
+",0,"Retired, Republican victory
+",Vermont,VT,Richard A. Snelling (Republican) 53.39,1976
+VT_gov_1978,"['Edwin C. Granai (Democratic) 34.1', 'Earl S. Gardner (Liberty Union) 2.9', '\n']","Richard A. Snelling
+",R,"Republican
+",1,"Re-elected, 62.8%
+",Vermont,VT,Edwin C. Granai (Democratic) 34.1,1978
+VT_gov_1980,"['M. Jerome Diamond (Democratic) 36.6', 'Daniel E. Woodward (Independent) 2.5', 'Bruce Cullen (Independent) 1.1', 'John Potthast (Liberty Union) 0.9', '\n']","Richard A. Snelling
+",R,"Republican
+",1,"Re-elected, 58.7%
+",Vermont,VT,M. Jerome Diamond (Democratic) 36.6,1980
+VT_gov_1982,"['Madeleine M. Kunin (Democratic) 44.0', 'Richard Gottlieb (Liberty Union) 0.5', 'John L. Buttolph III (Libertarian) 0.5', '\n']","Richard A. Snelling
+",R,"Republican
+",1,"Re-elected, 55.0%
+",Vermont,VT,Madeleine M. Kunin (Democratic) 44.0,1982
+VT_gov_1984,"['Madeleine M. Kunin (Democratic) 50.0', 'John J. Easton, Jr. (Republican) 48.5', 'William E. Wicker (Libertarian) 0.8', '\n']","Richard A. Snelling
+",R,"Republican
+",1,"Retired, Democratic victory
+",Vermont,VT,Madeleine M. Kunin (Democratic) 50.0,1984
+VT_gov_1986,"['Peter P. Smith (Republican) 38.3', 'Bernie Sanders (Independent) 14.5', '\n']","Madeleine M. Kunin
+",D,"Democratic
+",0,"Re-elected, 47.0%[2]
+",Vermont,VT,Peter P. Smith (Republican) 38.3,1986
+VT_gov_1988,"['Michael Bernhardt (Republican) 43.3', 'Richard Gottlieb (Liberty Union) 1.2', '\n']","Madeleine M. Kunin
+",D,"Democratic
+",0,"Re-elected, 55.3%
+",Vermont,VT,Michael Bernhardt (Republican) 43.3,1988
+VT_gov_1990,"['Richard A. Snelling (Republican) 51.8', 'Peter Welch (Democratic) 46.0', 'David Atkinson (Libertarian) 1.3', 'Richard F. Gottlieb (Liberty Union) 0.7', '\n']","Madeleine M. Kunin
+",D,"Democratic
+",0,"Retired, Republican victory
+",Vermont,VT,Richard A. Snelling (Republican) 51.8,1990
+VT_gov_1992,"['John McClaughry (Republican) 23.0', 'Richard Gottlieb (Liberty Union) 1.6', 'August Jaccaci (Natural Law) 1.0', '\n']","Howard Dean
+",D,"Democratic
+",0,"Re-elected, 74.7%
+",Vermont,VT,John McClaughry (Republican) 23.0,1992
+VT_gov_1994,"['David F. Kelley (Republican) 19.0', 'Thomas Morse (Independent) 7.1', 'Dennis Lane (Vermont Grassroots) 1.0', 'William Brueckner (Independent) 1.0', 'August Jaccaci (People of Vermont) 1.0', 'Richard Gottlieb (Liberty Union) 0.8', 'Bill Brunelle (Natural Law) 0.8', '\n']","Howard Dean
+",D,"Democratic
+",0,"Re-elected, 68.7%
+",Vermont,VT,David F. Kelley (Republican) 19.0,1994
+VT_gov_1996,"['John Gropper (Republican) 22.5', 'Mal Herbert (Liberty Union) 1.6', 'Dennis Lane (Grassroots) 1.4', 'Bill Brunelle (Natural Law) 1.3', 'August St. John (Independent) 1.3', 'Neil Randall (Libertarian) 1.2', '\n']","Howard Dean
+",D,"Democratic
+",0,"Re-elected, 70.5%
+",Vermont,VT,John Gropper (Republican) 22.5,1996
+VT_gov_1998,"['Ruth Dwyer (Republican) 41.1', 'Joel Williams (Grassroots) 1.5', 'Amy Berkey (Libertarian) 1.0', 'Richard Gottlieb (Liberty Union) 0.5', '\n']","Howard Dean
+",D,"Democratic
+",0,"Re-elected, 55.7%
+",Vermont,VT,Ruth Dwyer (Republican) 41.1,1998
+VT_gov_2000,"['Ruth Dwyer (Republican) 37.9', 'Anthony Pollina (Progressive) 9.5', 'Phil Stannard (Independent) 0.7', 'Joel Williams (Vermont Grassroots) 0.5', 'Hardy Macia (Libertarian) 0.3', 'Richard Gottlieb (Liberty Union) 0.1', '\n']","Howard Dean
+",D,"Democratic
+",0,"Re-elected, 50.4%
+",Vermont,VT,Ruth Dwyer (Republican) 37.9,2000
+VT_gov_2002,"['Jim Douglas (Republican) 44.9', '  Doug Racine (Democratic) 42.4', '  Cornelius Hogan (Independent) 9.7', ' Cris Ericson (Make Marijuana Legal) 0.8', ' Michael Badamo (VT Progressive) 0.6', '  Joel Williams (Libertarian) 0.4', 'Patricia Hejny (VT Grassroots) 0.3', ' Marilynn Christian (Restore Justice-Freedom) 0.3', 'Pete Diamondstone (Liberty Union) 0.3', '\n']","Howard Dean
+",D,"Democratic
+",0,"Retired, Republican victory
+",Vermont,VT,Jim Douglas (Republican) 44.9,2002
+VT_gov_2004,"['Peter Clavelle (Democratic) 37.9', 'Cris Ericson (Marijuana) 1.4', 'Patricia Hejny (Independent) 0.8', 'Hardy Machia (Libertarian) 0.8', 'Peter Diamondstone (Liberty Union) 0.4', '\n']","Jim Douglas
+",R,"Republican
+",1,"Re-elected, 58.7%
+",Vermont,VT,Peter Clavelle (Democratic) 37.9,2004
+VT_gov_2006,"['Jim Douglas (R) 56.3', ' Scudder Parker (D) 41.1', ' Cris Ericson (I) 0.9', 'Jim Hogue (G) 0.7', ' Benjamin Clarke (I) 0.4', ' Robert Skold (LU) 0.2', '\n']","Jim Douglas
+",R,"Republican
+",1,"Re-elected
+",Vermont,VT,Jim Douglas (R) 56.3,2006
+VT_gov_2008,"['Anthony Pollina (I) 21.8', 'Gaye Symington (D) 21.7', ""Tony O'Connor (I) 0.9"", 'Sam Young (I) 0.7', 'Pete Diamondstone (LU) 0.5', 'Cris Ericson (I) 0.5', '\n']","Jim Douglas
+",R,"Republican
+",1,"Re-elected, 53.4%
+",Vermont,VT,Anthony Pollina (I) 21.8,2008
+VT_gov_2010,"['Peter Shumlin (D), 49.6', '\nBrian Dubie (R), 47.8', '\n\n']","Jim Douglas
+",R,"Republican
+",1,"Retired, Democratic victory
+",Vermont,VT,"Peter Shumlin (D), 49.6",2010
+VT_gov_2012,"['Randy Brock (R) 37.6', 'Emily Peyton (I) 2', '\n']","Peter Shumlin
+",D,"Democratic
+",0,"Re-elected, 57.8%
+",Vermont,VT,Randy Brock (R) 37.6,2012
+VT_gov_2014,"['√ Peter Shumlin (D), 46.4', 'Scott Milne (R), 45.3', 'Dan Feliciano (L), 4.4', 'Emily Peyton (I), 1.7', 'Pete Diamondstone (Liberty Union), 0.9', 'Bernard Peters (I), 0.7', 'Cris Ericson (I),[53] 0.6', '\n']",Peter Shumlin,D,Democratic,0,"After no candidate received over 50% of the popular vote, the election was decided in January 2015 by the Vermont General Assembly.",Vermont,VT,"√ Peter Shumlin (D), 46.4",2014
+VT_gov_2016,"['Phil Scott (Republican)[34]Sue Minter (Democratic)[35] Bill ""Spaceman"" Lee (Liberty Union)\n']","Peter Shumlin
+",D,"Democratic
+",0,"Incumbent retired. New governor elected. Republican gain.
+",Vermont,VT,"Phil Scott (Republican)[34]Sue Minter (Democratic)[35] Bill ""Spaceman"" Lee (Liberty Union)
+",2016
+VA_gov_1977,"['John N. Dalton (Republican) 55.90', 'Henry Howell (Democratic) 43.27', 'Alan Ogden (Independent) 0.81', '\n']","Mills E. Godwin, Jr.
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Virginia,VA,John N. Dalton (Republican) 55.90,1977
+VA_gov_1981,"['Chuck Robb (Democratic) 53.6', 'Marshall Coleman (Republican) 46.4', '\n']","John N. Dalton
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Virginia,VA,Chuck Robb (Democratic) 53.6,1981
+VA_gov_1985,"['Gerald L. Baliles (Democratic) 55.2', 'Wyatt B. Durrette, Jr. (Republican) 44.8', '\n']","Chuck Robb
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Virginia,VA,Gerald L. Baliles (Democratic) 55.2,1985
+VA_gov_1989,"['Douglas Wilder (Democratic) 50.19', 'Marshall Coleman (Republican) 49.81', '\n']","Gerald L. Baliles
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Virginia,VA,Douglas Wilder (Democratic) 50.19,1989
+VA_gov_1993,"['George Allen (Republican) 58.29', 'Mary Sue Terry (Democratic) 40.91', '\n']","Douglas Wilder
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Virginia,VA,George Allen (Republican) 58.29,1993
+VA_gov_1997,"['Jim Gilmore (Republican) 55.8', 'Don Beyer (Democratic) 42.6', 'Sue DeBauche (Reform) 1.5', '\n']","George Allen
+",R,"Republican
+",1,"Term-limited, Republican victory
+",Virginia,VA,Jim Gilmore (Republican) 55.8,1997
+VA_gov_2001,"['Mark Warner (Democratic) 52.2', 'Mark Earley (Republican) 47', 'Bill Redpath (Libertarian) 0.8', '\n']","Jim Gilmore
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Virginia,VA,Mark Warner (Democratic) 52.2,2001
+VA_gov_2005,"['Tim Kaine (Democratic) 51.72', 'Jerry Kilgore (Republican) 45.99', 'Russ Potts (Independent) 2.22', '\n']","Mark Warner
+",D,"Democratic
+",0,"Term-limited, Democratic victory
+",Virginia,VA,Tim Kaine (Democratic) 51.72,2005
+VA_gov_2009,"['Bob McDonnell (R) 58.6', 'Creigh Deeds (D) 41.3', '\n']","Tim Kaine
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Virginia,VA,Bob McDonnell (R) 58.6,2009
+VA_gov_2013,"['Terry McAuliffe (D) 47.75', 'Ken Cuccinelli (R) 45.23', 'Robert Sarvis (L) 6.52', '\n']","Bob McDonnell
+",R,"Republican
+",1,"Term-limited, Democrat gain
+",Virginia,VA,Terry McAuliffe (D) 47.75,2013
+VA_gov_2017,"Ralph Northam (Democratic)[9], Ed Gillespie (Republican)[10], Cliff Hyra (Libertarian)",Terry McAuliffe,D,Democratic,0,2013,Virginia,VA,"Term-limited, Democratic victory
+",2017
+WA_gov_1976,"['Dixy Lee Ray (Democratic) 53.14', '  John Spellman (Republican) 44.43', '  Art Manning (American) 0.8', '  Red Kelly (OWL Party) 0.8', '  Henry Killman (Socialist Labor) 0.27', '\n']","Daniel J. Evans
+",R,"Republican
+",1,"Retired, Democratic victory
+",Washington,WA,Dixy Lee Ray (Democratic) 53.14,1976
+WA_gov_1980,"['John Spellman (Republican) 56.7', 'Jim McDermott (Democratic) 43.3', '\n']","Dixy Lee Ray
+",D,"Democratic
+",0,"Defeated in primary, Republican victory
+",Washington,WA,John Spellman (Republican) 56.7,1980
+WA_gov_1984,"['Booth Gardner (Democratic) 53.3', '\n']","John Spellman
+",R,"Republican
+",1,"Defeated, 46.7%
+",Washington,WA,Booth Gardner (Democratic) 53.3,1984
+WA_gov_1988,"['Robert Williams (Republican) 37.8', '\n']","Booth Gardner
+",D,"Democratic
+",0,"Re-elected, 62.2%
+",Washington,WA,Robert Williams (Republican) 37.8,1988
+WA_gov_1992,"['Mike Lowry (Democratic) 52.2', 'Ken Eikenberry (Republican) 47.8', '\n']","Booth Gardner
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Washington,WA,Mike Lowry (Democratic) 52.2,1992
+WA_gov_1996,"['Gary Locke (Democratic) 58.0', 'Ellen Craswell (Republican) 42.0', '\n']","Mike Lowry
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Washington,WA,Gary Locke (Democratic) 58.0,1996
+WA_gov_2000,"['John Carlson (Republican) 39.7', 'Steve LePage (Libertarian) 1.9', '\n']","Gary Locke
+",D,"Democratic
+",0,"Re-elected, 58.4
+",Washington,WA,John Carlson (Republican) 39.7,2000
+WA_gov_2004,"['Christine Gregoire (Democratic) 48.873', 'Dino Rossi (Republican) 48.868', 'Ruth Bennett (Libertarian) 2.26', '\n']","Gary Locke
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Washington,WA,Christine Gregoire (Democratic) 48.873,2004
+WA_gov_2008,"['Dino Rossi (R) 46.7', '\n']","Christine Gregoire
+",D,"Democratic
+",0,"Re-elected, 53.3%
+",Washington,WA,Dino Rossi (R) 46.7,2008
+WA_gov_2012,"['Jay Inslee (D) 51.54', 'Rob McKenna (R) 48.46', '\n']","Christine Gregoire
+",D,"Democratic
+",0,"Retired, Democratic hold
+",Washington,WA,Jay Inslee (D) 51.54,2012
+WA_gov_2016,['Jay Inslee (Democratic)[36]Bill Bryant (Republican)[37]\n'],"Jay Inslee
+",D,"Democratic
+",0,"Incumbent won re-election.
+",Washington,WA,"Jay Inslee (Democratic)[36]Bill Bryant (Republican)[37]
+",2016
+WV_gov_2011,"['Earl Ray Tomblin (D), 49.47', '  Bill Maloney (R), 47.14', '\n']","Earl Ray Tomblin (Acting)
+",D,"Democrat
+",0,"Elected to serve remainder of term
+",West Virginia (special election,WV,"Earl Ray Tomblin (D), 49.47",2011
+WV_gov_1976,"['Jay Rockefeller (Democratic) 66.15', '  Cecil H. Underwood (Republican) 33.82', '\n']","Arch A. Moore, Jr.
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",West_Virginia,WV,Jay Rockefeller (Democratic) 66.15,1976
+WV_gov_1980,"['Arch A. Moore Jr. (Republican) 45.4', 'Jack Kelley (Libertarian) 0.4', '\n']","Jay Rockefeller
+",D,"Democratic
+",0,"Re-elected, 54.1%
+",West_Virginia,WV,"Arch A. Moore, Jr. (Republican) 45.4",1980
+WV_gov_1984,"['Arch A. Moore Jr. (Republican) 53.3', 'Clyde M. See, Jr. (Democratic) 46.7', '\n']","Jay Rockefeller
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",West_Virginia,WV,"Arch A. Moore, Jr. (Republican) 53.3",1984
+WV_gov_1988,"['Gaston Caperton (Democratic) 58.9', '\n']","Arch A. Moore, Jr.
+",R,"Republican
+",1,"Defeated, 41.1%
+",West_Virginia,WV,Gaston Caperton (Democratic) 58.9,1988
+WV_gov_1992,"['Cleve Benedict (Republican) 39.5', 'Charlotte Pritt (Write-in) 8.0', '\n']","Gaston Caperton
+",D,"Democratic
+",0,"Re-elected, 60.5%
+",West_Virginia,WV,Cleve Benedict (Republican) 39.5,1992
+WV_gov_1996,"['Cecil Underwood (Republican) 51.6', 'Charlotte Pritt (Democratic) 45.8', 'Wallace Johnson (Libertarian) 2.6', '\n']","Gaston Caperton
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",West_Virginia,WV,Cecil Underwood (Republican) 51.6,1996
+WV_gov_2000,"['Bob Wise (Democratic) 50.1', 'Denise Giardina (Mountain) 1.6', 'Bob Myers (Libertarian) 0.9', 'Randall Ashelman (Natural Law) 0.2', '\n']","Cecil Underwood
+",R,"Republican
+",1,"Defeated, 47.2%
+",West_Virginia,WV,Bob Wise (Democratic) 50.1,2000
+WV_gov_2004,"['Joe Manchin (Democratic) 63.5', 'Monty Warner (Republican) 34', 'Jesse Johnson (Mountain) 2.5', '\n']","Bob Wise
+",D,"Democratic
+",0,"Retired, Democratic victory
+",West_Virginia,WV,Joe Manchin (Democratic) 63.5,2004
+WV_gov_2008,"['Russ Weeks (R) 25.7', 'Jesse Johnson (M) 4.5', '\n']","Joe Manchin
+",D,"Democratic
+",0,"Re-elected, 69.8%
+",West_Virginia,WV,Russ Weeks (R) 25.7,2008
+WV_gov_2012,"['Bill Maloney (R) 45.68', 'Jesse Johnson (M) 2.51', '\n']","Earl Ray Tomblin
+",D,"Democratic
+",0,"Re-elected, 50.47%
+",West_Virginia,WV,Bill Maloney (R) 45.68,2012
+WV_gov_2016,['Jim Justice (Democratic)[38]Bill Cole (Republican)[39]David Moran (Libertarian)[13]Charlotte Pritt (Green)[40]\n'],"Earl Ray Tomblin
+",D,"Democratic
+",0,"Incumbent term-limited. New governor elected. Democratic hold.
+",West_Virginia,WV,"Jim Justice (Democratic)[38]Bill Cole (Republican)[39]David Moran (Libertarian)[13]Charlotte Pritt (Green)[40]
+",2016
+WI_gov_1978,"['Lee S. Dreyfus (Republican) 54.4', 'Eugene R. Zimmerman (Constitution) 0.4', 'John C. Doherty (Independent) 0.1', 'Adrienne Kaplan (Socialist Workers) 0.1', 'Henry A. Ochsner (Socialist Labor) 0.1', '\n']","Martin J. Schreiber
+",D,"Democratic
+",0,"Defeated, 44.9%
+",Wisconsin,WI,Lee S. Dreyfus (Republican) 54.4,1978
+WI_gov_1982,"['Tony Earl (Democratic) 56.8', 'Terry Kohler (Republican) 42.0', 'Larry Smiley (Libertarian) 0.6', 'James Wickstrom (U.S. Taxpayers) 0.5', 'Peter Seidman (Socialist Workers) 0.2', '\n']","Lee S. Dreyfus
+",R,"Republican
+",1,"Retired, Democratic victory
+",Wisconsin,WI,Tony Earl (Democratic) 56.8,1982
+WI_gov_1986,"['Tommy Thompson (Republican) 52.7', 'Kathryn Christenson (Labor and Farm) 0.7', '\n']","Tony Earl
+",D,"Democratic
+",0,"Defeated, 46.2%
+",Wisconsin,WI,Tommy Thompson (Republican) 52.7,1986
+WI_gov_1990,"['Tom Loftus (Democratic) 41.8', '\n']","Tommy Thompson
+",R,"Republican
+",1,"Re-elected, 58.2%
+",Wisconsin,WI,Tom Loftus (Democratic) 41.8,1990
+WI_gov_1994,"['Chuck Chvala (Democratic) 30.9', 'David Harmon (Libertarian) 1.0', 'Edward Frami (Taxpayers) 1.0', 'Michael Mangan (Independent) 1.0', '\n']","Tommy Thompson
+",R,"Republican
+",1,"Re-elected, 67.2%
+",Wisconsin,WI,Chuck Chvala (Democratic) 30.9,1994
+WI_gov_1998,"['Ed Garvey (Democratic) 38.7', 'Jim Mueller (Libertarian) 0.6', 'Edward Frami (Taxpayers) 0.6', 'Mike Mangan (Independent) 0.3', 'Ja Mu Muhammad (Independent) 0.1', '\n']","Tommy Thompson
+",R,"Republican
+",1,"Re-elected, 59.7%
+",Wisconsin,WI,Ed Garvey (Democratic) 38.7,1998
+WI_gov_2002,"['Jim Doyle (Democratic) 45.1', '  Ed Thompson (Libertarian) 10.5', '  Jim Young (Green) 2.5', '\n']","Scott McCallum
+",R,"Republican
+",1,"Defeated, 41.4%
+",Wisconsin,WI,Jim Doyle (Democratic) 45.1,2002
+WI_gov_2006,"['Jim Doyle (D) 52.8', ' Mark Green (R)45.3', ' Nelson Eisman (G) 1.9', '\n']","Jim Doyle
+",D,"Democratic
+",0,"Re-elected
+",Wisconsin,WI,Jim Doyle (D) 52.8,2006
+WI_gov_2010,"['Scott Walker (R), 52.3', '\nTom Barrett (D), 46.6', '\n\n']","Jim Doyle
+",D,"Democratic
+",0,"Retired, Republican victory
+",Wisconsin,WI,"Scott Walker (R), 52.3",2010
+WI_gov_2012,"['Tom Barrett (D) 46.3', '\n']","Scott Walker
+",R,"Republican
+",1,"Survived recall, 53.1%
+",Wisconsin,WI,Tom Barrett (D) 46.3,2012
+WI_gov_2014,"['√ Scott Walker (R), 52.3', ' Mary Burke (D),[54] 46.6', ' Robert Burke (L), 0.8', '\n']",Scott Walker,R,Republican,1,"Re-elected, 52.3%",Wisconsin,WI,"√ Scott Walker (R), 52.3",2014
+WY_gov_1978,"['John C. Ostlund (Republican) 49.1', '\n']","Edgar Herschler
+",D,"Democratic
+",0,"Re-elected, 50.9%
+",Wyoming,WY,John C. Ostlund (Republican) 49.1,1978
+WY_gov_1982,"['Warren A. Morton (Republican) 36.9', '\n']","Edgar Herschler
+",D,"Democratic
+",0,"Re-elected, 63.1%
+",Wyoming,WY,Warren A. Morton (Republican) 36.9,1982
+WY_gov_1986,"['Mike Sullivan (Wyoming) (Democratic) 54.0', 'Pete Simpson (Republican) 46.0', '\n']","Edward Herschler
+",D,"Democratic
+",0,"Retired, Democratic victory
+",Wyoming,WY,Mike Sullivan (Wyoming) (Democratic) 54.0,1986
+WY_gov_1990,"['Mary Mead (Republican) 34.6', '\n']","Mike Sullivan
+",D,"Democratic
+",0,"Re-elected, 65.4%
+",Wyoming,WY,Mary Mead (Republican) 34.6,1990
+WY_gov_1994,"['Jim Geringer (Republican) 58.7', 'Kathy Karpan (Democratic) 40.2', 'Seaghan Uibreaslain (Libertarian) 1.1', '\n']","Mike Sullivan
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Wyoming,WY,Jim Geringer (Republican) 58.7,1994
+WY_gov_1998,"['John Vinich (Democratic) 40.5', 'Dave Dawson (Libertarian) 3.9', '\n']","Jim Geringer
+",R,"Republican
+",1,"Re-elected, 55.6%
+",Wyoming,WY,John Vinich (Democratic) 40.5,1998
+WY_gov_2002,"['Dave Freudenthal (Democratic) 50', '  Eli Bebout (Republican) 47.9', '  Dave Dawson (Libertarian) 2.12', '\n']","Jim Geringer
+",R,"Republican
+",1,"Term-limited, Democratic victory
+",Wyoming,WY,Dave Freudenthal (Democratic) 50,2002
+WY_gov_2006,"['Dave Freudenthal (D) 69.9', ' Ray Hunkins (R) 30', '\n']","Dave Freudenthal
+",D,"Democratic
+",0,"Re-elected
+",Wyoming,WY,Dave Freudenthal (D) 69.9,2006
+WY_gov_2010,"['Matt Mead (R), 71.6', '\nLeslie Petersen (D), 25.1', '\nMike Wheeler (L), 5,362 2.8', '\n\n']","Dave Freudenthal
+",D,"Democratic
+",0,"Term-limited, Republican victory
+",Wyoming,WY,"Matt Mead (R), 71.6",2010
+WY_gov_2014,"['√ Matt Mead (R), 62.5', ' Pete Gosar (D), 28.9', '  Don Wills (I), 6.1', '  Dee Cozzens (L), 2.5', '\n']",Matt Mead,R,Republican,1,"Re-elected, 62.5%",Wyoming,WY,"√ Matt Mead (R), 62.5",2014

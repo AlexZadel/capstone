@@ -1,0 +1,894 @@
+,race_id,office,loc_date_id,state,abbrev,year,GOP_win,winner,rival,pred_GOP,pred_DEM,unopposed,inc_GOP_running,inc_DEM_running
+0,NY_sen_1976,NY_sen,NY_1976,New_York,NY,1976,0,Daniel P  Moynihan,James L  Buckley,0,0,0,0,1
+1,MN_sen_1996,MN_sen,MN_1996,Minnesota,MN,1996,0,Paul Wellstone  Democratic,Rudy Boschwitz,0,0,0,0,1
+2,AL_sen_1978,AL_sen,AL_1978,Alabama,AL,1978,0,Howell Heflin,Jerome B  Couch,0,1,0,0,0
+3,AL_sen_1980,AL_sen,AL_1980,Alabama,AL,1980,1,Jeremiah Denton,Jim Folsom Jr ,0,1,0,0,0
+4,AL_sen_1984,AL_sen,AL_1984,Alabama,AL,1984,0,Howell Heflin,Albert L  Smith Jr ,0,1,0,0,1
+5,AL_sen_1984,AL_sen,AL_1984,Alabama,AL,1984,0,Howell Heflin,Albert L  Smith Jr ,0,1,0,0,1
+6,AL_sen_1990,AL_sen,AL_1990,Alabama,AL,1990,0,Howell Heflin,William J  Cabaniss,0,1,0,0,1
+7,AL_sen_1992,AL_sen,AL_1992,Alabama,AL,1992,0,Richard Shelby,Richard Sellars,0,1,0,0,1
+8,AL_sen_1996,AL_sen,AL_1996,Alabama,AL,1996,1,Jeff Sessions,Roger Bedford,0,1,0,0,0
+9,AL_sen_1978,AL_sen,AL_1978,Alabama,AL,1978,0,Donald W  Stewart,James D  Martin,0,1,0,0,0
+10,AK_sen_1980,AK_sen,AK_1980,Alaska,AK,1980,1,Frank Murkowski,Clark Gruening,0,1,0,0,0
+11,AK_sen_2014,AK_sen,AK_2014,Alaska,AK,2014,1,Dan Sullivan,Mark Begich,0,1,0,0,1
+12,AZ_sen_1982,AZ_sen,AZ_1982,Arizona,AZ,1982,0,Dennis DeConcini,Pete Dunn,0,1,0,0,1
+13,AZ_sen_1982,AZ_sen,AZ_1982,Arizona,AZ,1982,0,Dennis DeConcini,Pete Dunn,0,1,0,0,1
+14,AZ_sen_1988,AZ_sen,AZ_1988,Arizona,AZ,1988,0,Dennis DeConcini,Keith DeGreen,0,1,0,0,1
+15,AZ_sen_1994,AZ_sen,AZ_1994,Arizona,AZ,1994,1,Jon Kyl,Sam Coppersmith,0,1,0,0,0
+16,AR_sen_1978,AR_sen,AR_1978,Arkansas,AR,1978,0,David Pryor,Tom Kelly,0,1,0,0,0
+17,AR_sen_1980,AR_sen,AR_1980,Arkansas,AR,1980,0,Dale Bumpers,William Clark,0,1,0,0,1
+18,AR_sen_1984,AR_sen,AR_1984,Arkansas,AR,1984,0,David Pryor,Ed Bethune,0,1,0,0,1
+19,AR_sen_1986,AR_sen,AR_1986,Arkansas,AR,1986,0,Dale Bumpers,Asa Hutchinson,0,1,0,0,1
+20,AR_sen_1984,AR_sen,AR_1984,Arkansas,AR,1984,0,David Pryor,Ed Bethune,0,1,0,0,1
+21,AR_sen_1986,AR_sen,AR_1986,Arkansas,AR,1986,0,Dale Bumpers,Asa Hutchinson,0,1,0,0,1
+22,AR_sen_1986,AR_sen,AR_1986,Arkansas,AR,1986,0,Dale Bumpers,Asa Hutchinson,0,1,0,0,1
+23,AR_sen_1990,AR_sen,AR_1990,Arkansas,AR,1990,0,David Pryor  Democratic,Unopposed,0,1,1,0,1
+24,AR_sen_1992,AR_sen,AR_1992,Arkansas,AR,1992,0,Dale Bumpers,Mike Huckabee,0,1,0,0,1
+25,AR_sen_1996,AR_sen,AR_1996,Arkansas,AR,1996,1,Tim Hutchinson,Winston Bryant,0,1,0,0,0
+26,AR_sen_1998,AR_sen,AR_1998,Arkansas,AR,1998,0,Blanche Lincoln,Fay Boozman,0,1,0,0,0
+27,AR_sen_2004,AR_sen,AR_2004,Arkansas,AR,2004,0,Blanche Lincoln,Jim Holt,0,1,0,0,1
+28,AR_sen_2002,AR_sen,AR_2002,Arkansas,AR,2002,0,Mark Pryor,Rebekah Kennedy,0,1,0,0,1
+29,AR_sen_2010,AR_sen,AR_2010,Arkansas,AR,2010,1,John Boozman,Blanche Lincoln,0,1,0,0,1
+30,AR_sen_2014,AR_sen,AR_2014,Arkansas,AR,2014,1,Tom Cotton,Mark Pryor,0,1,0,0,1
+31,CA_sen_1976,CA_sen,CA_1976,California,CA,1976,1,S  I  Hayakawa,John V  Tunney,0,1,0,0,1
+32,CA_sen_1980,CA_sen,CA_1980,California,CA,1980,0,Alan Cranston,Paul Gann,0,1,0,0,1
+33,CA_sen_1986,CA_sen,CA_1986,California,CA,1986,0,Alan Cranston,Ed Zschau,0,1,0,0,1
+34,CA_sen_1986,CA_sen,CA_1986,California,CA,1986,0,Alan Cranston,Ed Zschau,0,1,0,0,1
+35,CA_sen_1986,CA_sen,CA_1986,California,CA,1986,0,Alan Cranston,Ed Zschau,0,1,0,0,1
+36,CA_sen_1992,CA_sen,CA_1992,California,CA,1992,0,Barbara Boxer,Bruce Herschensohn,0,1,0,0,0
+37,CA_sen_1994,CA_sen,CA_1994,California,CA,1994,0,Dianne Feinstein,Michael Huffington,0,1,0,0,1
+38,CA_sen_1998,CA_sen,CA_1998,California,CA,1998,0,Barbara Boxer,Matt Fong,0,1,0,0,1
+39,CA_sen_2000,CA_sen,CA_2000,California,CA,2000,0,Dianne Feinstein,Tom Campbell,0,1,0,0,1
+40,CA_sen_2004,CA_sen,CA_2004,California,CA,2004,0,Barbara Boxer,Bill Jones,0,1,0,0,1
+41,CA_sen_2006,CA_sen,CA_2006,California,CA,2006,0,Dianne Feinstein,Dick Mountjoy,0,1,0,0,1
+42,CA_sen_2010,CA_sen,CA_2010,California,CA,2010,0,Barbara Boxer,Carly Fiorina,0,1,0,0,1
+43,CA_sen_2012,CA_sen,CA_2012,California,CA,2012,0,Dianne Feinstein,Elizabeth Emken,0,1,0,0,1
+44,CA_sen_2016,CA_sen,CA_2016,California,CA,2016,0,Kamala Harris,Loretta Sanchez,0,1,0,0,0
+45,CO_sen_1978,CO_sen,CO_1978,Colorado,CO,1978,1,William L  Armstrong,Floyd K  Haskell,0,1,0,0,1
+46,CO_sen_1980,CO_sen,CO_1980,Colorado,CO,1980,0,Gary Hart,Mary E  Buchanan,0,1,0,0,1
+47,CO_sen_1986,CO_sen,CO_1986,Colorado,CO,1986,0,Tim Wirth,Ken Kramer,0,1,0,0,0
+48,CO_sen_1986,CO_sen,CO_1986,Colorado,CO,1986,0,Tim Wirth,Ken Kramer,0,1,0,0,0
+49,CO_sen_1986,CO_sen,CO_1986,Colorado,CO,1986,0,Tim Wirth,Ken Kramer,0,1,0,0,0
+50,CO_sen_1992,CO_sen,CO_1992,Colorado,CO,1992,0,Ben Nighthorse Campbell,Terry Considine,0,1,0,0,0
+51,CO_sen_2010,CO_sen,CO_2010,Colorado,CO,2010,0,Michael Bennet,Ken Buck,0,1,0,0,1
+52,CO_sen_2014,CO_sen,CO_2014,Colorado,CO,2014,1,Cory Gardner,Mark Udall,0,1,0,0,1
+53,CO_sen_2016,CO_sen,CO_2016,Colorado,CO,2016,0,Michael Bennet,Darryl Glenn,0,1,0,0,1
+54,CT_sen_1980,CT_sen,CT_1980,Connecticut,CT,1980,0,Chris Dodd,James L  Buckley,0,1,0,0,0
+55,CT_sen_1986,CT_sen,CT_1986,Connecticut,CT,1986,0,Chris Dodd,Roger W  Eddy,0,1,0,0,1
+56,CT_sen_1986,CT_sen,CT_1986,Connecticut,CT,1986,0,Chris Dodd,Roger W  Eddy,0,1,0,0,1
+57,CT_sen_1986,CT_sen,CT_1986,Connecticut,CT,1986,0,Chris Dodd,Roger W  Eddy,0,1,0,0,1
+58,CT_sen_1992,CT_sen,CT_1992,Connecticut,CT,1992,0,Christopher Dodd,Brook Johnson,0,1,0,0,0
+59,CT_sen_1994,CT_sen,CT_1994,Connecticut,CT,1994,0,Joe Lieberman,Jerry Labriola,0,1,0,0,1
+60,CT_sen_1998,CT_sen,CT_1998,Connecticut,CT,1998,0,Chris Dodd,Gary Franks,0,1,0,0,1
+61,CT_sen_2000,CT_sen,CT_2000,Connecticut,CT,2000,0,Joe Lieberman,Philip Giordano,0,1,0,0,1
+62,CT_sen_2004,CT_sen,CT_2004,Connecticut,CT,2004,0,Chris Dodd,Jack Orchulli,0,1,0,0,1
+63,CT_sen_2006,CT_sen,CT_2006,Connecticut,CT,2006,0,Joe Lieberman  Connecticut,Ned Lamont,0,1,0,0,1
+64,CT_sen_2010,CT_sen,CT_2010,Connecticut,CT,2010,0,Richard Blumenthal,Linda McMahon,0,1,0,0,0
+65,CT_sen_2016,CT_sen,CT_2016,Connecticut,CT,2016,0,Richard Blumenthal,Dan Carter,0,1,0,0,1
+66,DE_sen_1978,DE_sen,DE_1978,Delaware,DE,1978,0,Joe Biden,James H  Baxter,0,1,0,0,1
+67,DE_sen_1984,DE_sen,DE_1984,Delaware,DE,1984,0,Joe Biden,John M  Burris,0,1,0,0,1
+68,DE_sen_1984,DE_sen,DE_1984,Delaware,DE,1984,0,Joe Biden,John M  Burris,0,1,0,0,1
+69,DE_sen_1990,DE_sen,DE_1990,Delaware,DE,1990,0,Joe Biden,M  Jane Brady,0,1,0,0,1
+70,DE_sen_1996,DE_sen,DE_1996,Delaware,DE,1996,0,Joe Biden,Raymond J  Clatworthy,0,1,0,0,1
+71,DE_sen_2002,DE_sen,DE_2002,Delaware,DE,2002,0,Joe Biden,Raymond J  Clatworthy,0,1,0,0,1
+72,DE_sen_2002,DE_sen,DE_2002,Delaware,DE,2002,0,Joe Biden,Raymond J  Clatworthy,0,1,0,0,1
+73,DE_sen_2006,DE_sen,DE_2006,Delaware,DE,2006,0,Tom Carper,Jan Ting,0,1,0,0,1
+74,DE_sen_2002,DE_sen,DE_2002,Delaware,DE,2002,0,Joe Biden,Christine O Donnell,0,1,0,0,1
+75,DE_sen_2012,DE_sen,DE_2012,Delaware,DE,2012,0,Tom Carper,Kevin Wade,0,1,0,0,1
+76,DE_sen_2014,DE_sen,DE_2014,Delaware,DE,2014,0,Chris Coons,Kevin Wade,0,1,0,0,1
+77,DE_sen_2010,DE_sen,DE_2010,Delaware,DE,2010,0,Chris Coons,Christine O Donnell,0,1,0,0,0
+78,FL_sen_1976,FL_sen,FL_1976,Florida,FL,1976,0,Lawton Chiles,John Grady,0,1,0,0,1
+79,FL_sen_1980,FL_sen,FL_1980,Florida,FL,1980,1,Paula Hawkins,Bill Gunter,0,1,0,0,0
+80,FL_sen_1982,FL_sen,FL_1982,Florida,FL,1982,0,Lawton Chiles,Van B  Poole,0,1,0,0,1
+81,FL_sen_1982,FL_sen,FL_1982,Florida,FL,1982,0,Lawton Chiles,Van B  Poole,0,1,0,0,1
+82,FL_sen_1988,FL_sen,FL_1988,Florida,FL,1988,1,Connie Mack III,Buddy MacKay,0,1,0,0,0
+83,FL_sen_1992,FL_sen,FL_1992,Florida,FL,1992,0,Bob Graham,James W  Grant,0,1,0,0,1
+84,FL_sen_1998,FL_sen,FL_1998,Florida,FL,1998,0,Bob Graham,Charlie Crist,0,1,0,0,1
+85,FL_sen_2004,FL_sen,FL_2004,Florida,FL,2004,1,Mel Martinez,Betty Castor,0,1,0,0,0
+86,FL_sen_2006,FL_sen,FL_2006,Florida,FL,2006,0,Bill Nelson,Katherine Harris,0,1,0,0,1
+87,FL_sen_2012,FL_sen,FL_2012,Florida,FL,2012,0,Bill Nelson,Connie Mack IV,0,1,0,0,1
+88,GA_sen_1978,GA_sen,GA_1978,Georgia,GA,1978,0,Sam Nunn,John W  Stokes,0,1,0,0,1
+89,GA_sen_1980,GA_sen,GA_1980,Georgia,GA,1980,1,Mack Mattingly,Herman Talmadge,0,1,0,0,1
+90,GA_sen_1984,GA_sen,GA_1984,Georgia,GA,1984,0,Sam Nunn,Jon M  Hicks,0,1,0,0,1
+91,GA_sen_1984,GA_sen,GA_1984,Georgia,GA,1984,0,Sam Nunn,Jon M  Hicks,0,1,0,0,1
+92,GA_sen_1990,GA_sen,GA_1990,Georgia,GA,1990,0,Sam Nunn  Democratic,Unopposed,0,1,1,0,1
+93,GA_sen_1992,GA_sen,GA_1992,Georgia,GA,1992,1,Paul Coverdell,Wyche Fowler,0,1,0,0,1
+94,GA_sen_1996,GA_sen,GA_1996,Georgia,GA,1996,0,Max Cleland,Guy Millner,0,1,0,0,0
+95,GA_sen_2002,GA_sen,GA_2002,Georgia,GA,2002,1,Saxby Chambliss,Max Cleland,0,1,0,0,1
+96,GA_sen_2002,GA_sen,GA_2002,Georgia,GA,2002,1,Saxby Chambliss,Max Cleland,0,1,0,0,1
+97,GA_sen_2004,GA_sen,GA_2004,Georgia,GA,2004,1,Johnny Isakson,Denise Majette,0,1,0,0,0
+98,GA_sen_2000,GA_sen,GA_2000,Georgia,GA,2000,0,Zell Miller,Mack Mattingly,0,1,0,0,1
+99,HI_sen_1980,HI_sen,HI_1980,Hawaii,HI,1980,0,Daniel Inouye,Cooper Brown,0,1,0,0,1
+100,HI_sen_1982,HI_sen,HI_1982,Hawaii,HI,1982,0,Spark Matsunaga,Clarence J  Brown,0,1,0,0,1
+101,HI_sen_1986,HI_sen,HI_1986,Hawaii,HI,1986,0,Daniel Inouye,Frank Hutchinson,0,1,0,0,1
+102,HI_sen_1982,HI_sen,HI_1982,Hawaii,HI,1982,0,Spark Matsunaga,Clarence J  Brown,0,1,0,0,1
+103,HI_sen_1986,HI_sen,HI_1986,Hawaii,HI,1986,0,Daniel Inouye,Frank Hutchinson,0,1,0,0,1
+104,HI_sen_1986,HI_sen,HI_1986,Hawaii,HI,1986,0,Daniel Inouye,Frank Hutchinson,0,1,0,0,1
+105,HI_sen_1988,HI_sen,HI_1988,Hawaii,HI,1988,0,Spark Matsunaga,Maria M  Hustace,0,1,0,0,1
+106,HI_sen_1992,HI_sen,HI_1992,Hawaii,HI,1992,0,Daniel Inouye,Rick Reed,0,1,0,0,1
+107,HI_sen_1994,HI_sen,HI_1994,Hawaii,HI,1994,0,Daniel Akaka,Maria Hustace,0,1,0,0,1
+108,HI_sen_1998,HI_sen,HI_1998,Hawaii,HI,1998,0,Daniel Inouye,Crystal Young,0,1,0,0,1
+109,HI_sen_2000,HI_sen,HI_2000,Hawaii,HI,2000,0,Daniel Akaka,John S  Carroll,0,1,0,0,1
+110,HI_sen_2004,HI_sen,HI_2004,Hawaii,HI,2004,0,Daniel Inouye,Campbell Cavasso,0,1,0,0,1
+111,HI_sen_2006,HI_sen,HI_2006,Hawaii,HI,2006,0,Daniel Akaka,Cynthia Thielen,0,1,0,0,1
+112,HI_sen_2010,HI_sen,HI_2010,Hawaii,HI,2010,0,Daniel Inouye,Campbell Cavasso,0,1,0,0,1
+113,HI_sen_2012,HI_sen,HI_2012,Hawaii,HI,2012,0,Mazie Hirono,Linda Lingle,0,1,0,0,0
+114,HI_sen_2016,HI_sen,HI_2016,Hawaii,HI,2016,0,Brian Schatz,John Carroll,0,1,0,0,1
+115,HI_sen_1990,HI_sen,HI_1990,Hawaii,HI,1990,0,Daniel Akaka,Pat Saiki,0,1,0,0,1
+116,HI_sen_2014,HI_sen,HI_2014,Hawaii,HI,2014,0,Brian Schatz,Campbell Cavasso,0,1,0,0,1
+117,ID_sen_1980,ID_sen,ID_1980,Idaho,ID,1980,1,Steve Symms,Frank Church,0,1,0,0,1
+118,IL_sen_1980,IL_sen,IL_1980,Illinois,IL,1980,0,Alan J  Dixon,Dave O Neal,0,1,0,0,0
+119,IL_sen_1986,IL_sen,IL_1986,Illinois,IL,1986,0,Alan J  Dixon,Judy Koehler,0,1,0,0,1
+120,IL_sen_1986,IL_sen,IL_1986,Illinois,IL,1986,0,Alan J  Dixon,Judy Koehler,0,1,0,0,1
+121,IL_sen_1986,IL_sen,IL_1986,Illinois,IL,1986,0,Alan J  Dixon,Judy Koehler,0,1,0,0,1
+122,IL_sen_1990,IL_sen,IL_1990,Illinois,IL,1990,0,Paul Simon,Lynn Morley Martin,0,1,0,0,1
+123,IL_sen_1992,IL_sen,IL_1992,Illinois,IL,1992,0,Carol Moseley Braun,Richard S  Williamson,0,1,0,0,0
+124,IL_sen_1996,IL_sen,IL_1996,Illinois,IL,1996,0,Dick Durbin,Al Salvi,0,1,0,0,0
+125,IL_sen_1998,IL_sen,IL_1998,Illinois,IL,1998,1,Peter Fitzgerald,Carol Moseley Braun,0,1,0,0,1
+126,IL_sen_2002,IL_sen,IL_2002,Illinois,IL,2002,0,Dick Durbin,Jim Durkin,0,1,0,0,1
+127,IL_sen_2002,IL_sen,IL_2002,Illinois,IL,2002,0,Dick Durbin,Jim Durkin,0,1,0,0,1
+128,IL_sen_2002,IL_sen,IL_2002,Illinois,IL,2002,0,Dick Durbin,Steve Sauerberg,0,1,0,0,1
+129,IL_sen_2010,IL_sen,IL_2010,Illinois,IL,2010,1,Mark Kirk,Alexi Giannoulias,0,1,0,0,0
+130,IL_sen_2014,IL_sen,IL_2014,Illinois,IL,2014,0,Dick Durbin,Jim Oberweis,0,1,0,0,1
+131,IL_sen_2010,IL_sen,IL_2010,Illinois,IL,2010,1,Mark Kirk,Alexi Giannoulias,0,1,0,0,0
+132,IN_sen_1976,IN_sen,IN_1976,Indiana,IN,1976,1,Richard Lugar,Vance Hartke,0,1,0,0,1
+133,IN_sen_1980,IN_sen,IN_1980,Indiana,IN,1980,1,Dan Quayle,Birch Bayh,0,1,0,0,1
+134,IN_sen_2004,IN_sen,IN_2004,Indiana,IN,2004,0,Evan Bayh,Marvin Scott,0,1,0,0,1
+135,IN_sen_2010,IN_sen,IN_2010,Indiana,IN,2010,1,Dan Coats,Brad Ellsworth,0,1,0,0,0
+136,IA_sen_1978,IA_sen,IA_1978,Iowa,IA,1978,1,Roger Jepsen,Dick Clark,0,1,0,0,1
+137,IA_sen_1980,IA_sen,IA_1980,Iowa,IA,1980,1,Chuck Grassley,John Culver,0,1,0,0,1
+138,IA_sen_1990,IA_sen,IA_1990,Iowa,IA,1990,0,Tom Harkin,Tom Tauke,0,1,0,0,1
+139,IA_sen_1996,IA_sen,IA_1996,Iowa,IA,1996,0,Tom Harkin,Jim Ross Lightfoot,0,1,0,0,1
+140,IA_sen_2002,IA_sen,IA_2002,Iowa,IA,2002,0,Tom Harkin,Greg Ganske,0,1,0,0,1
+141,IA_sen_2002,IA_sen,IA_2002,Iowa,IA,2002,0,Tom Harkin,Greg Ganske,0,1,0,0,1
+142,IA_sen_2002,IA_sen,IA_2002,Iowa,IA,2002,0,Tom Harkin,Christopher Reed,0,1,0,0,1
+143,IA_sen_2014,IA_sen,IA_2014,Iowa,IA,2014,1,Joni Ernst,Bruce Braley,0,1,0,0,0
+144,KY_sen_1978,KY_sen,KY_1978,Kentucky,KY,1978,0,Walter Huddleston,Louis Guenthner,0,1,0,0,1
+145,KY_sen_1980,KY_sen,KY_1980,Kentucky,KY,1980,0,Wendell H  Ford,Mary L  Foust,0,1,0,0,1
+146,KY_sen_1984,KY_sen,KY_1984,Kentucky,KY,1984,1,Mitch McConnell,Walter Huddleston,0,1,0,0,1
+147,KY_sen_1986,KY_sen,KY_1986,Kentucky,KY,1986,0,Wendell H  Ford,Jackson M  Andrews,0,1,0,0,1
+148,KY_sen_1984,KY_sen,KY_1984,Kentucky,KY,1984,1,Mitch McConnell,Walter Huddleston,0,1,0,0,1
+149,KY_sen_1986,KY_sen,KY_1986,Kentucky,KY,1986,0,Wendell H  Ford,Jackson M  Andrews,0,1,0,0,1
+150,KY_sen_1986,KY_sen,KY_1986,Kentucky,KY,1986,0,Wendell H  Ford,Jackson M  Andrews,0,1,0,0,1
+151,KY_sen_1992,KY_sen,KY_1992,Kentucky,KY,1992,0,Wendell H  Ford,David Williams,0,1,0,0,1
+152,KY_sen_1998,KY_sen,KY_1998,Kentucky,KY,1998,1,Jim Bunning,Scotty Baesler,0,1,0,0,0
+153,LA_sen_1978,LA_sen,LA_1978,Louisiana,LA,1978,0,J  Bennett Johnston,Woody Jenkins,0,1,0,0,1
+154,LA_sen_1980,LA_sen,LA_1980,Louisiana,LA,1980,0,Russell B  Long,Woody Jenkins,0,1,0,0,1
+155,LA_sen_1984,LA_sen,LA_1984,Louisiana,LA,1984,0,Bennett Johnston Jr ,Robert Max Ross,0,1,0,0,0
+156,LA_sen_1986,LA_sen,LA_1986,Louisiana,LA,1986,0,John Breaux,Henson Moore,0,1,0,0,0
+157,LA_sen_1984,LA_sen,LA_1984,Louisiana,LA,1984,0,Bennett Johnston Jr ,Robert Max Ross,0,1,0,0,0
+158,LA_sen_1986,LA_sen,LA_1986,Louisiana,LA,1986,0,John Breaux,Henson Moore,0,1,0,0,0
+159,LA_sen_1986,LA_sen,LA_1986,Louisiana,LA,1986,0,John Breaux,Henson Moore,0,1,0,0,0
+160,LA_sen_1990,LA_sen,LA_1990,Louisiana,LA,1990,0,Bennett Johnston Jr ,David Duke,0,1,0,0,0
+161,LA_sen_1992,LA_sen,LA_1992,Louisiana,LA,1992,0,John Breaux,Jon Khachaturian,0,1,0,0,1
+162,LA_sen_1996,LA_sen,LA_1996,Louisiana,LA,1996,0,Mary Landrieu,Woody Jenkins,0,1,0,0,0
+163,LA_sen_1998,LA_sen,LA_1998,Louisiana,LA,1998,0,John Breaux,Jim Donelon,0,1,0,0,1
+164,LA_sen_2002,LA_sen,LA_2002,Louisiana,LA,2002,0,Mary Landrieu,Suzanne Haik Terrell,0,1,0,0,1
+165,LA_sen_2002,LA_sen,LA_2002,Louisiana,LA,2002,0,Mary Landrieu,Suzanne Haik Terrell,0,1,0,0,1
+166,LA_sen_2004,LA_sen,LA_2004,Louisiana,LA,2004,1,David Vitter,Chris John,0,1,0,0,0
+167,LA_sen_2002,LA_sen,LA_2002,Louisiana,LA,2002,0,Mary Landrieu,John Neely Kennedy,0,1,0,0,1
+168,LA_sen_2014,LA_sen,LA_2014,Louisiana,LA,2014,1,Bill Cassidy,Mary Landrieu,0,1,0,0,1
+169,ME_sen_1976,ME_sen,ME_1976,Maine,ME,1976,0,Edmund Muskie,Robert A  G  Monks,0,1,0,0,1
+170,ME_sen_1978,ME_sen,ME_1978,Maine,ME,1978,1,William Cohen,William Hathaway,0,1,0,0,1
+171,ME_sen_1982,ME_sen,ME_1982,Maine,ME,1982,0,George Mitchell,David F  Emery,0,1,0,0,0
+172,ME_sen_1982,ME_sen,ME_1982,Maine,ME,1982,0,George Mitchell,David F  Emery,0,1,0,0,0
+173,ME_sen_1988,ME_sen,ME_1988,Maine,ME,1988,0,George J  Mitchell,Jasper S  Wyman,0,1,0,0,1
+174,ME_sen_1994,ME_sen,ME_1994,Maine,ME,1994,1,Olympia Snowe,Thomas Andrews,0,1,0,0,0
+175,MD_sen_1982,MD_sen,MD_1982,Maryland,MD,1982,0,Paul Sarbanes,Lawrence Hogan,0,1,0,0,1
+176,MD_sen_1982,MD_sen,MD_1982,Maryland,MD,1982,0,Paul Sarbanes,Lawrence Hogan,0,1,0,0,1
+177,MD_sen_1988,MD_sen,MD_1988,Maryland,MD,1988,0,Paul Sarbanes,Alan Keyes,0,1,0,0,1
+178,MD_sen_1992,MD_sen,MD_1992,Maryland,MD,1992,0,Barbara Mikulski,Alan Keyes,0,1,0,0,1
+179,MD_sen_1994,MD_sen,MD_1994,Maryland,MD,1994,0,Paul Sarbanes,Bill Brock,0,1,0,0,1
+180,MD_sen_1998,MD_sen,MD_1998,Maryland,MD,1998,0,Barbara Mikulski,Ross Pierpont,0,1,0,0,1
+181,MD_sen_2000,MD_sen,MD_2000,Maryland,MD,2000,0,Paul Sarbanes,Paul Rappaport,0,1,0,0,1
+182,MD_sen_2004,MD_sen,MD_2004,Maryland,MD,2004,0,Barbara Mikulski,E  J  Pipkin,0,1,0,0,1
+183,MD_sen_2006,MD_sen,MD_2006,Maryland,MD,2006,0,Ben Cardin,Michael Steele,0,1,0,0,0
+184,MD_sen_2010,MD_sen,MD_2010,Maryland,MD,2010,0,Barbara Mikulski,Eric Wargotz,0,1,0,0,1
+185,MD_sen_2012,MD_sen,MD_2012,Maryland,MD,2012,0,Ben Cardin,Dan Bongino,0,1,0,0,1
+186,MD_sen_2016,MD_sen,MD_2016,Maryland,MD,2016,0,Chris Van Hollen,Kathy Szeliga,0,1,0,0,0
+187,MA_sen_1976,MA_sen,MA_1976,Massachusetts,MA,1976,0,Ted Kennedy,Michael S  Robertson,0,1,0,0,1
+188,MA_sen_1982,MA_sen,MA_1982,Massachusetts,MA,1982,0,Ted Kennedy,Ray Shamie,0,1,0,0,1
+189,MA_sen_1984,MA_sen,MA_1984,Massachusetts,MA,1984,0,John Kerry,Ray Shamie,0,1,0,0,0
+190,MA_sen_1982,MA_sen,MA_1982,Massachusetts,MA,1982,0,Ted Kennedy,Ray Shamie,0,1,0,0,1
+191,MA_sen_1984,MA_sen,MA_1984,Massachusetts,MA,1984,0,John Kerry,Ray Shamie,0,1,0,0,0
+192,MA_sen_1988,MA_sen,MA_1988,Massachusetts,MA,1988,0,Ted Kennedy,Joe Malone,0,1,0,0,1
+193,MA_sen_1990,MA_sen,MA_1990,Massachusetts,MA,1990,0,John Kerry,Jim Rappaport,0,1,0,0,1
+194,MA_sen_1994,MA_sen,MA_1994,Massachusetts,MA,1994,0,Ted Kennedy,Mitt Romney,0,1,0,0,1
+195,MA_sen_1996,MA_sen,MA_1996,Massachusetts,MA,1996,0,John Kerry,William Weld,0,1,0,0,1
+196,MA_sen_2000,MA_sen,MA_2000,Massachusetts,MA,2000,0,Ted Kennedy,Jack E  Robinson III,0,1,0,0,1
+197,MA_sen_2002,MA_sen,MA_2002,Massachusetts,MA,2002,0,John Kerry,Michael E  Cloud,0,1,0,0,1
+198,MA_sen_2002,MA_sen,MA_2002,Massachusetts,MA,2002,0,John Kerry,Michael E  Cloud,0,1,0,0,1
+199,MA_sen_2006,MA_sen,MA_2006,Massachusetts,MA,2006,0,Ted Kennedy,Kenneth Chase,0,1,0,0,1
+200,MA_sen_2002,MA_sen,MA_2002,Massachusetts,MA,2002,0,John Kerry,Jeff Beatty,0,1,0,0,1
+201,MA_sen_2014,MA_sen,MA_2014,Massachusetts,MA,2014,0,Ed Markey,Brian Herr,0,1,0,0,1
+202,MA_sen_2010,MA_sen,MA_2010,Massachusetts,MA,2010,1,Scott Brown,Martha Coakley,0,1,0,0,0
+203,MI_sen_1976,MI_sen,MI_1976,Michigan,MI,1976,0,Donald W  Riegle Jr ,Marvin L  Esch,0,1,0,0,0
+204,MI_sen_1982,MI_sen,MI_1982,Michigan,MI,1982,0,Don Riegle,Philip Ruppe,0,1,0,0,0
+205,MI_sen_1984,MI_sen,MI_1984,Michigan,MI,1984,0,Carl Levin,Jack R  Lousma,0,1,0,0,1
+206,MI_sen_1982,MI_sen,MI_1982,Michigan,MI,1982,0,Don Riegle,Philip Ruppe,0,1,0,0,0
+207,MI_sen_1984,MI_sen,MI_1984,Michigan,MI,1984,0,Carl Levin,Jack R  Lousma,0,1,0,0,1
+208,MI_sen_1988,MI_sen,MI_1988,Michigan,MI,1988,0,Donald W  Riegle Jr ,James Whitney Dunn,0,1,0,0,1
+209,MI_sen_1990,MI_sen,MI_1990,Michigan,MI,1990,0,Carl Levin,Bill Schuette,0,1,0,0,1
+210,MI_sen_1994,MI_sen,MI_1994,Michigan,MI,1994,1,Spencer Abraham,Bob Carr,0,1,0,0,0
+211,MI_sen_1996,MI_sen,MI_1996,Michigan,MI,1996,0,Carl Levin,Ronna Romney,0,1,0,0,1
+212,MI_sen_2002,MI_sen,MI_2002,Michigan,MI,2002,0,Carl Levin,Andrew Raczkowski,0,1,0,0,1
+213,MI_sen_2002,MI_sen,MI_2002,Michigan,MI,2002,0,Carl Levin,Andrew Raczkowski,0,1,0,0,1
+214,MI_sen_2006,MI_sen,MI_2006,Michigan,MI,2006,0,Debbie Stabenow,Mike Bouchard,0,1,0,0,1
+215,MI_sen_2002,MI_sen,MI_2002,Michigan,MI,2002,0,Carl Levin,Jack Hoogendyk,0,1,0,0,1
+216,MI_sen_2012,MI_sen,MI_2012,Michigan,MI,2012,0,Debbie Stabenow,Pete Hoekstra,0,1,0,0,1
+217,MI_sen_2014,MI_sen,MI_2014,Michigan,MI,2014,0,Gary Peters,Terri Lynn Land,0,1,0,0,0
+218,MN_sen_1976,MN_sen,MN_1976,Minnesota,MN,1976,0,Hubert Humphrey,Gerald W  Brekke,0,1,0,0,1
+219,MN_sen_1978,MN_sen,MN_1978,Minnesota,MN,1978,1,Rudy Boschwitz,Wendell Anderson,0,1,0,0,1
+220,MN_sen_2006,MN_sen,MN_2006,Minnesota,MN,2006,0,Amy Klobuchar  Democratic,Mark Kennedy,0,1,0,0,0
+221,MN_sen_2012,MN_sen,MN_2012,Minnesota,MN,2012,0,Amy Klobuchar,Kurt Bills,0,1,0,0,1
+222,MN_sen_1978,MN_sen,MN_1978,Minnesota,MN,1978,1,David Durenberger,Bob Short,0,1,0,0,0
+223,MS_sen_1976,MS_sen,MS_1976,Mississippi,MS,1976,0,John C  Stennis  Democratic,Unopposed,0,1,1,0,1
+224,MS_sen_1978,MS_sen,MS_1978,Mississippi,MS,1978,1,Thad Cochran,Maurice Dantin,0,1,0,0,0
+225,MS_sen_1982,MS_sen,MS_1982,Mississippi,MS,1982,0,John C  Stennis,Haley Barbour,0,1,0,0,1
+226,MS_sen_1982,MS_sen,MS_1982,Mississippi,MS,1982,0,John C  Stennis,Haley Barbour,0,1,0,0,1
+227,MS_sen_1988,MS_sen,MS_1988,Mississippi,MS,1988,1,Trent Lott,Wayne Dowdy,0,1,0,0,0
+228,MO_sen_1976,MO_sen,MO_1976,Missouri,MO,1976,1,John Danforth,Warren E  Hearnes,0,1,0,0,0
+229,MO_sen_1980,MO_sen,MO_1980,Missouri,MO,1980,0,Thomas Eagleton,Gene McNary,0,1,0,0,1
+230,MO_sen_1986,MO_sen,MO_1986,Missouri,MO,1986,1,Kit Bond,Harriett Woods,0,1,0,0,0
+231,MO_sen_1986,MO_sen,MO_1986,Missouri,MO,1986,1,Kit Bond,Harriett Woods,0,1,0,0,0
+232,MO_sen_1986,MO_sen,MO_1986,Missouri,MO,1986,1,Kit Bond,Harriett Woods,0,1,0,0,0
+233,MO_sen_2012,MO_sen,MO_2012,Missouri,MO,2012,0,Claire McCaskill,Todd Akin,0,1,0,0,1
+234,MO_sen_2002,MO_sen,MO_2002,Missouri,MO,2002,1,Jim Talent,Jean Carnahan,0,1,0,0,1
+235,MO_sen_2002,MO_sen,MO_2002,Missouri,MO,2002,1,Jim Talent,Jean Carnahan,0,1,0,0,1
+236,MT_sen_1976,MT_sen,MT_1976,Montana,MT,1976,0,John Melcher,Stanley C  Burger,0,1,0,0,0
+237,MT_sen_1978,MT_sen,MT_1978,Montana,MT,1978,0,Max Baucus,Larry Williams,0,1,0,0,0
+238,MT_sen_1982,MT_sen,MT_1982,Montana,MT,1982,0,John Melcher,Larry R  Williams,0,1,0,0,1
+239,MT_sen_1984,MT_sen,MT_1984,Montana,MT,1984,0,Max Baucus,Chuck Cozzens,0,1,0,0,1
+240,MT_sen_1982,MT_sen,MT_1982,Montana,MT,1982,0,John Melcher,Larry R  Williams,0,1,0,0,1
+241,MT_sen_1984,MT_sen,MT_1984,Montana,MT,1984,0,Max Baucus,Chuck Cozzens,0,1,0,0,1
+242,MT_sen_1988,MT_sen,MT_1988,Montana,MT,1988,1,Conrad Burns,John Melcher,0,1,0,0,1
+243,MT_sen_1990,MT_sen,MT_1990,Montana,MT,1990,0,Max Baucus,Allen C  Kolstad,0,1,0,0,1
+244,MT_sen_1996,MT_sen,MT_1996,Montana,MT,1996,0,Max Baucus,Dennis Rehberg,0,1,0,0,1
+245,MT_sen_2002,MT_sen,MT_2002,Montana,MT,2002,0,Max Baucus,Mike Taylor,0,1,0,0,1
+246,MT_sen_2002,MT_sen,MT_2002,Montana,MT,2002,0,Max Baucus,Mike Taylor,0,1,0,0,1
+247,MT_sen_2002,MT_sen,MT_2002,Montana,MT,2002,0,Max Baucus,Bob Kelleher,0,1,0,0,1
+248,MT_sen_2012,MT_sen,MT_2012,Montana,MT,2012,0,Jon Tester,Denny Rehberg,0,1,0,0,1
+249,MT_sen_2014,MT_sen,MT_2014,Montana,MT,2014,1,Steve Daines,Amanda Curtis,0,1,0,0,0
+250,NE_sen_1982,NE_sen,NE_1982,Nebraska,NE,1982,0,Edward Zorinsky,Jim Keck,0,1,0,0,1
+251,NE_sen_1984,NE_sen,NE_1984,Nebraska,NE,1984,0,J  James Exon,Nancy Hoch,0,1,0,0,1
+252,NE_sen_1982,NE_sen,NE_1982,Nebraska,NE,1982,0,Edward Zorinsky,Jim Keck,0,1,0,0,1
+253,NE_sen_1984,NE_sen,NE_1984,Nebraska,NE,1984,0,J  James Exon,Nancy Hoch,0,1,0,0,1
+254,NE_sen_1990,NE_sen,NE_1990,Nebraska,NE,1990,0,J  James Exon,Hal Daub,0,1,0,0,1
+255,NE_sen_1994,NE_sen,NE_1994,Nebraska,NE,1994,0,Bob Kerrey,Jan Stoney,0,1,0,0,1
+256,NE_sen_1996,NE_sen,NE_1996,Nebraska,NE,1996,1,Chuck Hagel,Ben Nelson,0,1,0,0,0
+257,NE_sen_2000,NE_sen,NE_2000,Nebraska,NE,2000,0,Ben Nelson,Don Stenberg,0,1,0,0,0
+258,NE_sen_2006,NE_sen,NE_2006,Nebraska,NE,2006,0,Ben Nelson,Pete Ricketts,0,1,0,0,1
+259,NE_sen_2012,NE_sen,NE_2012,Nebraska,NE,2012,1,Deb Fischer,Bob Kerrey,0,1,0,0,0
+260,NV_sen_1976,NV_sen,NV_1976,Nevada,NV,1976,0,Howard Cannon,David Towell,0,1,0,0,1
+261,NV_sen_1982,NV_sen,NV_1982,Nevada,NV,1982,1,Chic Hecht,Howard Cannon,0,1,0,0,1
+262,NV_sen_1982,NV_sen,NV_1982,Nevada,NV,1982,1,Chic Hecht,Howard Cannon,0,1,0,0,1
+263,NV_sen_1992,NV_sen,NV_1992,Nevada,NV,1992,0,Harry Reid,Demar Dahl,0,1,0,0,1
+264,NV_sen_1994,NV_sen,NV_1994,Nevada,NV,1994,0,Richard Bryan,Hal Furman,0,1,0,0,0
+265,NV_sen_1998,NV_sen,NV_1998,Nevada,NV,1998,0,Harry Reid,John Ensign,0,1,0,0,1
+266,NV_sen_2000,NV_sen,NV_2000,Nevada,NV,2000,1,John Ensign,Edward M  Bernstein,0,1,0,0,0
+267,NV_sen_2004,NV_sen,NV_2004,Nevada,NV,2004,0,Harry Reid,Richard Ziser,0,1,0,0,1
+268,NV_sen_2010,NV_sen,NV_2010,Nevada,NV,2010,0,Harry Reid,Sharron Angle,0,1,0,0,1
+269,NV_sen_2016,NV_sen,NV_2016,Nevada,NV,2016,0,Catherine Cortez Masto,Joe Heck,0,1,0,0,0
+270,NH_sen_1978,NH_sen,NH_1978,New_Hampshire,NH,1978,1,Gordon J  Humphrey,Thomas J  McIntyre,0,1,0,0,1
+271,NH_sen_1980,NH_sen,NH_1980,New_Hampshire,NH,1980,1,Warren Rudman,John A  Durkin,0,1,0,0,1
+272,NH_sen_2014,NH_sen,NH_2014,New_Hampshire,NH,2014,0,Jeanne Shaheen,Scott Brown,0,1,0,0,1
+273,NJ_sen_1976,NJ_sen,NJ_1976,New_Jersey,NJ,1976,0,Harrison A  Williams,David A  Norcross,0,1,0,0,1
+274,NJ_sen_1984,NJ_sen,NJ_1984,New_Jersey,NJ,1984,0,Bill Bradley,Mary V  Mochary,0,1,0,0,1
+275,NJ_sen_1984,NJ_sen,NJ_1984,New_Jersey,NJ,1984,0,Bill Bradley,Mary V  Mochary,0,1,0,0,1
+276,NJ_sen_1988,NJ_sen,NJ_1988,New_Jersey,NJ,1988,0,Frank Lautenberg,Pete Dawkins,0,1,0,0,1
+277,NJ_sen_1990,NJ_sen,NJ_1990,New_Jersey,NJ,1990,0,Bill Bradley,Christine Todd Whitman,0,1,0,0,1
+278,NJ_sen_1994,NJ_sen,NJ_1994,New_Jersey,NJ,1994,0,Frank Lautenberg,Chuck Haytaian,0,1,0,0,1
+279,NJ_sen_1996,NJ_sen,NJ_1996,New_Jersey,NJ,1996,0,Robert Torricelli,Dick Zimmer,0,1,0,0,0
+280,NJ_sen_2000,NJ_sen,NJ_2000,New_Jersey,NJ,2000,0,Jon Corzine,Bob Franks,0,1,0,0,0
+281,NJ_sen_2002,NJ_sen,NJ_2002,New_Jersey,NJ,2002,0,Frank Lautenberg,Doug Forrester,0,1,0,0,0
+282,NJ_sen_2002,NJ_sen,NJ_2002,New_Jersey,NJ,2002,0,Frank Lautenberg,Doug Forrester,0,1,0,0,0
+283,NJ_sen_2006,NJ_sen,NJ_2006,New_Jersey,NJ,2006,0,Bob Menendez,Thomas Kean Jr ,0,1,0,0,1
+284,NJ_sen_2002,NJ_sen,NJ_2002,New_Jersey,NJ,2002,0,Frank Lautenberg,Dick Zimmer,0,1,0,0,1
+285,NJ_sen_2012,NJ_sen,NJ_2012,New_Jersey,NJ,2012,0,Bob Menendez,Joe Kyrillos,0,1,0,0,1
+286,NJ_sen_2014,NJ_sen,NJ_2014,New_Jersey,NJ,2014,0,Cory Booker,Jeff Bell,0,1,0,0,1
+287,NM_sen_1976,NM_sen,NM_1976,New_Mexico,NM,1976,1,Harrison Schmitt,Joseph Montoya,0,1,0,0,1
+288,NM_sen_1988,NM_sen,NM_1988,New_Mexico,NM,1988,0,Jeff Bingaman,Bill Valentine,0,1,0,0,1
+289,NM_sen_1994,NM_sen,NM_1994,New_Mexico,NM,1994,0,Jeff Bingaman,Colin McMillan,0,1,0,0,1
+290,NM_sen_2000,NM_sen,NM_2000,New_Mexico,NM,2000,0,Jeff Bingaman,William T  Redmond,0,1,0,0,1
+291,NM_sen_2006,NM_sen,NM_2006,New_Mexico,NM,2006,0,Jeff Bingaman,Allen McCulloch,0,1,0,0,1
+292,NM_sen_2012,NM_sen,NM_2012,New_Mexico,NM,2012,0,Martin Heinrich,Heather Wilson,0,1,0,0,0
+293,NM_sen_2014,NM_sen,NM_2014,New_Mexico,NM,2014,0,Tom Udall,Allen Weh,0,1,0,0,1
+294,NY_sen_1982,NY_sen,NY_1982,New_York,NY,1982,0,Daniel P  Moynihan,Florence M  Sullivan,0,1,0,0,0
+295,NY_sen_1982,NY_sen,NY_1982,New_York,NY,1982,0,Daniel P  Moynihan,Florence M  Sullivan,0,1,0,0,0
+296,NY_sen_1988,NY_sen,NY_1988,New_York,NY,1988,0,Daniel Patrick Moynihan,Robert R  McMillan,0,1,0,0,1
+297,NY_sen_1994,NY_sen,NY_1994,New_York,NY,1994,0,Daniel Patrick Moynihan,Bernadette Castro,0,1,0,0,1
+298,NY_sen_2000,NY_sen,NY_2000,New_York,NY,2000,0,Hillary Clinton,Rick Lazio,0,1,0,0,0
+299,NY_sen_2004,NY_sen,NY_2004,New_York,NY,2004,0,Chuck Schumer,Howard Mills III,0,1,0,0,1
+300,NY_sen_2006,NY_sen,NY_2006,New_York,NY,2006,0,Hillary Clinton,John Spencer,0,1,0,0,1
+301,NY_sen_2010,NY_sen,NY_2010,New_York,NY,2010,0,Chuck Schumer,Jay Townsend,0,1,0,0,1
+302,NY_sen_2012,NY_sen,NY_2012,New_York,NY,2012,0,Kirsten Gillibrand,Wendy E  Long,0,1,0,0,1
+303,NY_sen_2016,NY_sen,NY_2016,New_York,NY,2016,0,Chuck Schumer,Wendy Long,0,1,0,0,1
+304,NY_sen_2010,NY_sen,NY_2010,New_York,NY,2010,0,Kirsten Gillibrand,Joseph DioGuardi,0,1,0,0,1
+305,NC_sen_1980,NC_sen,NC_1980,North_Carolina,NC,1980,1,John Porter East,Robert Burren Morgan,0,1,0,0,1
+306,NC_sen_1992,NC_sen,NC_1992,North_Carolina,NC,1992,1,Lauch Faircloth,Terry Sanford,0,1,0,0,1
+307,NC_sen_2004,NC_sen,NC_2004,North_Carolina,NC,2004,1,Richard Burr,Erskine Bowles,0,1,0,0,0
+308,NC_sen_2014,NC_sen,NC_2014,North_Carolina,NC,2014,1,Thom Tillis,Kay Hagan,0,1,0,0,1
+309,ND_sen_1976,ND_sen,ND_1976,North_Dakota,ND,1976,0,Quentin N  Burdick,Robert Stroup,0,1,0,0,1
+310,ND_sen_1982,ND_sen,ND_1982,North_Dakota,ND,1982,0,Quentin N  Burdick,Gene Knorr,0,1,0,0,1
+311,ND_sen_1982,ND_sen,ND_1982,North_Dakota,ND,1982,0,Quentin N  Burdick,Gene Knorr,0,1,0,0,1
+312,ND_sen_1988,ND_sen,ND_1988,North_Dakota,ND,1988,0,Quentin N  Burdick,Earl Strinden,0,1,0,0,1
+313,ND_sen_1992,ND_sen,ND_1992,North_Dakota,ND,1992,0,Byron Dorgan,Steve Sydness,0,1,0,0,0
+314,ND_sen_2000,ND_sen,ND_2000,North_Dakota,ND,2000,0,Kent Conrad,Duane Sand,0,1,0,0,1
+315,ND_sen_2006,ND_sen,ND_2006,North_Dakota,ND,2006,0,Kent Conrad,Dwight Grotberg,0,1,0,0,1
+316,ND_sen_2012,ND_sen,ND_2012,North_Dakota,ND,2012,0,Heidi Heitkamp,Rick Berg,0,1,0,0,0
+317,ND_sen_1992,ND_sen,ND_1992,North_Dakota,ND,1992,0,Kent Conrad,Jack Dalrymple,0,1,0,0,0
+318,OH_sen_1980,OH_sen,OH_1980,Ohio,OH,1980,0,John Glenn,James E  Betts,0,1,0,0,1
+319,OH_sen_1982,OH_sen,OH_1982,Ohio,OH,1982,0,Howard Metzenbaum,Paul E  Pfeifer,0,1,0,0,1
+320,OH_sen_1986,OH_sen,OH_1986,Ohio,OH,1986,0,John Glenn,Tom Kindness,0,1,0,0,1
+321,OH_sen_1982,OH_sen,OH_1982,Ohio,OH,1982,0,Howard Metzenbaum,Paul E  Pfeifer,0,1,0,0,1
+322,OH_sen_1986,OH_sen,OH_1986,Ohio,OH,1986,0,John Glenn,Tom Kindness,0,1,0,0,1
+323,OH_sen_1986,OH_sen,OH_1986,Ohio,OH,1986,0,John Glenn,Tom Kindness,0,1,0,0,1
+324,OH_sen_1988,OH_sen,OH_1988,Ohio,OH,1988,0,Howard Metzenbaum,George Voinovich,0,1,0,0,1
+325,OH_sen_1992,OH_sen,OH_1992,Ohio,OH,1992,0,John Glenn,Mike DeWine,0,1,0,0,1
+326,OH_sen_1994,OH_sen,OH_1994,Ohio,OH,1994,1,Mike DeWine,Joel Hyatt,0,1,0,0,0
+327,OH_sen_1998,OH_sen,OH_1998,Ohio,OH,1998,1,George Voinovich,Mary Boyle,0,1,0,0,0
+328,OH_sen_2012,OH_sen,OH_2012,Ohio,OH,2012,0,Sherrod Brown,Josh Mandel,0,1,0,0,1
+329,OK_sen_1984,OK_sen,OK_1984,Oklahoma,OK,1984,0,David L  Boren,Will E  Crozier,0,1,0,0,1
+330,OK_sen_1984,OK_sen,OK_1984,Oklahoma,OK,1984,0,David L  Boren,Will E  Crozier,0,1,0,0,1
+331,OK_sen_1990,OK_sen,OK_1990,Oklahoma,OK,1990,0,David L  Boren,Stephen Jones,0,1,0,0,1
+332,OK_sen_1994,OK_sen,OK_1994,Oklahoma,OK,1994,1,James Inhofe,Dave McCurdy,0,1,0,0,0
+333,OR_sen_1998,OR_sen,OR_1998,Oregon,OR,1998,0,Ron Wyden,John Lim,0,1,0,0,1
+334,OR_sen_2004,OR_sen,OR_2004,Oregon,OR,2004,0,Ron Wyden,Al King,0,1,0,0,1
+335,OR_sen_2010,OR_sen,OR_2010,Oregon,OR,2010,0,Ron Wyden,Jim Huffman,0,1,0,0,1
+336,OR_sen_2014,OR_sen,OR_2014,Oregon,OR,2014,0,Jeff Merkley,Monica Wehby,0,1,0,0,1
+337,OR_sen_2016,OR_sen,OR_2016,Oregon,OR,2016,0,Ron Wyden,Mark Callahan,0,1,0,0,1
+338,PA_sen_1994,PA_sen,PA_1994,Pennsylvania,PA,1994,1,Rick Santorum,Harris Wofford,0,1,0,0,1
+339,PA_sen_2010,PA_sen,PA_2010,Pennsylvania,PA,2010,1,Pat Toomey,Joe Sestak,0,1,0,0,0
+340,PA_sen_2012,PA_sen,PA_2012,Pennsylvania,PA,2012,0,Bob Casey Jr ,Tom Smith,0,1,0,0,1
+341,RI_sen_1976,RI_sen,RI_1976,Rhode_Island,RI,1976,1,John Chafee,Richard P  Lorber,0,1,0,0,0
+342,RI_sen_1978,RI_sen,RI_1978,Rhode_Island,RI,1978,0,Claiborne Pell,James G  Reynolds,0,1,0,0,1
+343,RI_sen_1984,RI_sen,RI_1984,Rhode_Island,RI,1984,0,Claiborne Pell,Barbara Leonard,0,1,0,0,1
+344,RI_sen_1984,RI_sen,RI_1984,Rhode_Island,RI,1984,0,Claiborne Pell,Barbara Leonard,0,1,0,0,1
+345,RI_sen_1990,RI_sen,RI_1990,Rhode_Island,RI,1990,0,Claiborne Pell,Claudine Schneider,0,1,0,0,1
+346,RI_sen_1996,RI_sen,RI_1996,Rhode_Island,RI,1996,0,Jack Reed,Nancy J  Mayer,0,1,0,0,0
+347,RI_sen_2002,RI_sen,RI_2002,Rhode_Island,RI,2002,0,Jack Reed,Robert Tingle,0,1,0,0,1
+348,RI_sen_2002,RI_sen,RI_2002,Rhode_Island,RI,2002,0,Jack Reed,Robert Tingle,0,1,0,0,1
+349,RI_sen_2002,RI_sen,RI_2002,Rhode_Island,RI,2002,0,Jack Reed,Robert Tingle,0,1,0,0,1
+350,RI_sen_2012,RI_sen,RI_2012,Rhode_Island,RI,2012,0,Sheldon Whitehouse,Barry Hinckley,0,1,0,0,1
+351,RI_sen_2014,RI_sen,RI_2014,Rhode_Island,RI,2014,0,Jack Reed,Mark Zaccaria,0,1,0,0,1
+352,SC_sen_1980,SC_sen,SC_1980,South_Carolina,SC,1980,0,Ernest Hollings,Marshall T  Mays,0,1,0,0,1
+353,SC_sen_1986,SC_sen,SC_1986,South_Carolina,SC,1986,0,Ernest Hollings,Henry D  McMaster,0,1,0,0,1
+354,SC_sen_1986,SC_sen,SC_1986,South_Carolina,SC,1986,0,Ernest Hollings,Henry D  McMaster,0,1,0,0,1
+355,SC_sen_1986,SC_sen,SC_1986,South_Carolina,SC,1986,0,Ernest Hollings,Henry D  McMaster,0,1,0,0,1
+356,SC_sen_1992,SC_sen,SC_1992,South_Carolina,SC,1992,0,Ernest Hollings,Thomas F  Hartnett,0,1,0,0,1
+357,SC_sen_1998,SC_sen,SC_1998,South_Carolina,SC,1998,0,Ernest Hollings,Bob Inglis,0,1,0,0,1
+358,SC_sen_2004,SC_sen,SC_2004,South_Carolina,SC,2004,1,Jim DeMint,Inez Tenenbaum,0,1,0,0,0
+359,SD_sen_1978,SD_sen,SD_1978,South_Dakota,SD,1978,1,Larry Pressler,Don Barnett,0,1,0,0,0
+360,SD_sen_1980,SD_sen,SD_1980,South_Dakota,SD,1980,1,James Abdnor,George McGovern,0,1,0,0,1
+361,SD_sen_1992,SD_sen,SD_1992,South_Dakota,SD,1992,0,Tom Daschle,Charlene Haar,0,1,0,0,1
+362,SD_sen_1998,SD_sen,SD_1998,South_Dakota,SD,1998,0,Tom Daschle,Ron Schmidt,0,1,0,0,1
+363,SD_sen_2002,SD_sen,SD_2002,South_Dakota,SD,2002,0,Tim Johnson,John Thune,0,1,0,0,1
+364,SD_sen_2002,SD_sen,SD_2002,South_Dakota,SD,2002,0,Tim Johnson,John Thune,0,1,0,0,1
+365,SD_sen_2004,SD_sen,SD_2004,South_Dakota,SD,2004,1,John Thune,Tom Daschle,0,1,0,0,1
+366,SD_sen_2002,SD_sen,SD_2002,South_Dakota,SD,2002,0,Tim Johnson,Joel Dykstra,0,1,0,0,1
+367,SD_sen_2014,SD_sen,SD_2014,South_Dakota,SD,2014,1,Mike Rounds,Rick Weiland,0,1,0,0,0
+368,TN_sen_1982,TN_sen,TN_1982,Tennessee,TN,1982,0,Jim Sasser,Robin Beard,0,1,0,0,1
+369,TN_sen_1982,TN_sen,TN_1982,Tennessee,TN,1982,0,Jim Sasser,Robin Beard,0,1,0,0,1
+370,TN_sen_1988,TN_sen,TN_1988,Tennessee,TN,1988,0,Jim Sasser,Bill Anderson,0,1,0,0,1
+371,TN_sen_1990,TN_sen,TN_1990,Tennessee,TN,1990,0,Al Gore,William R  Hawkins,0,1,0,0,1
+372,TN_sen_1994,TN_sen,TN_1994,Tennessee,TN,1994,1,Bill Frist,Jim Sasser,0,1,0,0,1
+373,TN_sen_1994,TN_sen,TN_1994,Tennessee,TN,1994,1,Fred Thompson,Jim Cooper,0,1,0,0,0
+374,TX_sen_1976,TX_sen,TX_1976,Texas,TX,1976,0,Lloyd Bentsen,Alan Steelman,0,1,0,0,1
+375,TX_sen_1982,TX_sen,TX_1982,Texas,TX,1982,0,Lloyd Bentsen,James M  Collins,0,1,0,0,1
+376,TX_sen_1982,TX_sen,TX_1982,Texas,TX,1982,0,Lloyd Bentsen,James M  Collins,0,1,0,0,1
+377,TX_sen_1988,TX_sen,TX_1988,Texas,TX,1988,0,Lloyd Bentsen,Beau Boulter,0,1,0,0,1
+378,UT_sen_1976,UT_sen,UT_1976,Utah,UT,1976,1,Orrin Hatch,Frank Moss,0,1,0,0,1
+379,VT_sen_1980,VT_sen,VT_1980,Vermont,VT,1980,0,Patrick Leahy,Stewart M  Ledbetter,0,1,0,0,1
+380,VT_sen_1986,VT_sen,VT_1986,Vermont,VT,1986,0,Patrick Leahy,Richard A  Snelling,0,1,0,0,1
+381,VT_sen_1986,VT_sen,VT_1986,Vermont,VT,1986,0,Patrick Leahy,Richard A  Snelling,0,1,0,0,1
+382,VT_sen_1986,VT_sen,VT_1986,Vermont,VT,1986,0,Patrick Leahy,Richard A  Snelling,0,1,0,0,1
+383,VT_sen_1992,VT_sen,VT_1992,Vermont,VT,1992,0,Patrick Leahy,Jim Douglas,0,1,0,0,1
+384,VT_sen_1998,VT_sen,VT_1998,Vermont,VT,1998,0,Patrick Leahy,Fred Tuttle,0,1,0,0,1
+385,VT_sen_2004,VT_sen,VT_2004,Vermont,VT,2004,0,Patrick Leahy,Jack McMullen,0,1,0,0,1
+386,VT_sen_2010,VT_sen,VT_2010,Vermont,VT,2010,0,Patrick Leahy,Len Britton,0,1,0,0,1
+387,VT_sen_2016,VT_sen,VT_2016,Vermont,VT,2016,0,Patrick Leahy,Scott Milne,0,1,0,0,1
+388,VA_sen_1994,VA_sen,VA_1994,Virginia,VA,1994,0,Chuck Robb,Oliver North,0,1,0,0,1
+389,VA_sen_2000,VA_sen,VA_2000,Virginia,VA,2000,1,George Allen,Chuck Robb,0,1,0,0,1
+390,VA_sen_2012,VA_sen,VA_2012,Virginia,VA,2012,0,Tim Kaine,George Allen,0,1,0,0,0
+391,VA_sen_2014,VA_sen,VA_2014,Virginia,VA,2014,0,Mark Warner,Ed Gillespie,0,1,0,0,1
+392,WA_sen_1976,WA_sen,WA_1976,Washington,WA,1976,0,Henry M  Jackson,George M  Brown,0,1,0,0,1
+393,WA_sen_1980,WA_sen,WA_1980,Washington,WA,1980,1,Slade Gorton,Warren G  Magnuson,0,1,0,0,0
+394,WA_sen_1982,WA_sen,WA_1982,Washington,WA,1982,0,Henry M  Jackson,Doug Jewett,0,1,0,0,1
+395,WA_sen_1982,WA_sen,WA_1982,Washington,WA,1982,0,Henry M  Jackson,Doug Jewett,0,1,0,0,1
+396,WA_sen_1992,WA_sen,WA_1992,Washington,WA,1992,0,Patty Murray,Rod Chandler,0,1,0,0,0
+397,WA_sen_1998,WA_sen,WA_1998,Washington,WA,1998,0,Patty Murray,Linda Smith,0,1,0,0,1
+398,WA_sen_2004,WA_sen,WA_2004,Washington,WA,2004,0,Patty Murray,George Nethercutt,0,1,0,0,1
+399,WA_sen_2006,WA_sen,WA_2006,Washington,WA,2006,0,Maria Cantwell,Mike McGavick,0,1,0,0,1
+400,WA_sen_2010,WA_sen,WA_2010,Washington,WA,2010,0,Patty Murray,Dino Rossi,0,1,0,0,1
+401,WA_sen_2012,WA_sen,WA_2012,Washington,WA,2012,0,Maria Cantwell,Michael Baumgartner,0,1,0,0,1
+402,WA_sen_2016,WA_sen,WA_2016,Washington,WA,2016,0,Patty Murray,Chris Vance,0,1,0,0,1
+403,WV_sen_1976,WV_sen,WV_1976,West_Virginia,WV,1976,0,Robert Byrd,Unopposed,0,1,1,0,1
+404,WV_sen_1978,WV_sen,WV_1978,West_Virginia,WV,1978,0,Jennings Randolph,Arch A,0,1,0,0,1
+405,WV_sen_1982,WV_sen,WV_1982,West_Virginia,WV,1982,0,Robert Byrd,Cleve Benedict,0,1,0,0,1
+406,WV_sen_1984,WV_sen,WV_1984,West_Virginia,WV,1984,0,Jay Rockefeller,John Raese,0,1,0,0,0
+407,WV_sen_1982,WV_sen,WV_1982,West_Virginia,WV,1982,0,Robert Byrd,Cleve Benedict,0,1,0,0,1
+408,WV_sen_1984,WV_sen,WV_1984,West_Virginia,WV,1984,0,Jay Rockefeller,John Raese,0,1,0,0,0
+409,WV_sen_1988,WV_sen,WV_1988,West_Virginia,WV,1988,0,Robert Byrd,M  Jay Wolfe,0,1,0,0,1
+410,WV_sen_1990,WV_sen,WV_1990,West_Virginia,WV,1990,0,Jay Rockefeller,John Yoder,0,1,0,0,1
+411,WV_sen_1994,WV_sen,WV_1994,West_Virginia,WV,1994,0,Robert Byrd,Stanley L  Klos,0,1,0,0,1
+412,WV_sen_1996,WV_sen,WV_1996,West_Virginia,WV,1996,0,Jay Rockefeller,Betty Burks,0,1,0,0,1
+413,WV_sen_2000,WV_sen,WV_2000,West_Virginia,WV,2000,0,Robert Byrd,David T  Gallaher,0,1,0,0,1
+414,WV_sen_2002,WV_sen,WV_2002,West_Virginia,WV,2002,0,Jay Rockefeller,Jay Wolfe,0,1,0,0,1
+415,WV_sen_2002,WV_sen,WV_2002,West_Virginia,WV,2002,0,Jay Rockefeller,Jay Wolfe,0,1,0,0,1
+416,WV_sen_2006,WV_sen,WV_2006,West_Virginia,WV,2006,0,Robert Byrd,John Raese,0,1,0,0,1
+417,WV_sen_2002,WV_sen,WV_2002,West_Virginia,WV,2002,0,Jay Rockefeller,Jay Wolfe,0,1,0,0,1
+418,WV_sen_2012,WV_sen,WV_2012,West_Virginia,WV,2012,0,Joe Manchin,John Raese,0,1,0,0,1
+419,WV_sen_2014,WV_sen,WV_2014,West_Virginia,WV,2014,1,Shelley Moore Capito,Natalie Tennant,0,1,0,0,0
+420,WV_sen_2010,WV_sen,WV_2010,West_Virginia,WV,2010,0,Joe Manchin,John Raese,0,1,0,0,0
+421,WI_sen_1976,WI_sen,WI_1976,Wisconsin,WI,1976,0,William Proxmire,Stanley York,0,1,0,0,1
+422,WI_sen_1980,WI_sen,WI_1980,Wisconsin,WI,1980,1,Bob Kasten,Gaylord Nelson,0,1,0,0,1
+423,WI_sen_1982,WI_sen,WI_1982,Wisconsin,WI,1982,0,E  William Proxmire,Scott McCallum,0,1,0,0,1
+424,WI_sen_1982,WI_sen,WI_1982,Wisconsin,WI,1982,0,E  William Proxmire,Scott McCallum,0,1,0,0,1
+425,WI_sen_1988,WI_sen,WI_1988,Wisconsin,WI,1988,0,Herb Kohl,Susan Engeleiter,0,1,0,0,0
+426,WI_sen_1994,WI_sen,WI_1994,Wisconsin,WI,1994,0,Herb Kohl,Robert Welch,0,1,0,0,1
+427,WI_sen_1998,WI_sen,WI_1998,Wisconsin,WI,1998,0,Russ Feingold,Mark Neumann,0,1,0,0,1
+428,WI_sen_2000,WI_sen,WI_2000,Wisconsin,WI,2000,0,Herb Kohl,John Gillespie,0,1,0,0,1
+429,WI_sen_2004,WI_sen,WI_2004,Wisconsin,WI,2004,0,Russ Feingold,Tim Michels,0,1,0,0,1
+430,WI_sen_2006,WI_sen,WI_2006,Wisconsin,WI,2006,0,Herb Kohl,Robert Lorge,0,1,0,0,1
+431,WI_sen_2010,WI_sen,WI_2010,Wisconsin,WI,2010,1,Ron Johnson,Russ Feingold,0,1,0,0,1
+432,WI_sen_2012,WI_sen,WI_2012,Wisconsin,WI,2012,0,Tammy Baldwin,Tommy Thompson,0,1,0,0,0
+433,WY_sen_1976,WY_sen,WY_1976,Wyoming,WY,1976,1,Malcolm Wallop,Gale W  McGee,0,1,0,0,1
+434,MN_sen_2014,MN_sen,MN_2014,Minnesota,MN,2014,0,Al Franken  Democratic,Mike McFadden,0,0,0,0,1
+435,ND_sen_1994,ND_sen,ND_1994,North_Dakota,ND,1994,0,Kent Conrad,Ben Clayburgh,0,0,0,0,1
+436,ND_sen_1998,ND_sen,ND_1998,North_Dakota,ND,1998,0,Byron Dorgan,Donna Nalewaja,0,0,0,0,1
+437,ND_sen_2004,ND_sen,ND_2004,North_Dakota,ND,2004,0,Byron Dorgan ,Mike Liffrig,0,0,0,0,1
+438,ND_sen_2010,ND_sen,ND_2010,North_Dakota,ND,2010,1,John Hoeven,Tracy Potter,0,0,0,0,0
+439,MN_sen_2002,MN_sen,MN_2002,Minnesota,MN,2002,1,Norm Coleman,Walter Mondale,0,0,0,0,0
+440,MN_sen_2002,MN_sen,MN_2002,Minnesota,MN,2002,1,Norm Coleman,Walter Mondale,0,0,0,0,0
+441,CT_sen_2012,CT_sen,CT_2012,Connecticut,CT,2012,0,Chris Murphy,Linda McMahon,0,0,0,0,0
+442,VT_sen_2006,VT_sen,VT_2006,Vermont,VT,2006,0,Bernie Sanders,Richard Tarrant,0,0,0,0,0
+443,VT_sen_2012,VT_sen,VT_2012,Vermont,VT,2012,0,Bernie Sanders,John MacGovern,0,0,0,0,1
+444,VA_sen_1976,VA_sen,VA_1976,Virginia,VA,1976,0,Harry F  Byrd Jr ,Elmo R  Zumwalt Jr ,0,0,0,0,1
+445,VA_sen_1982,VA_sen,VA_1982,Virginia,VA,1982,1,Paul Trible,Dick Davis,0,0,0,0,0
+446,VA_sen_1982,VA_sen,VA_1982,Virginia,VA,1982,1,Paul Trible,Dick Davis,0,0,0,0,0
+447,AL_sen_1986,AL_sen,AL_1986,Alabama,AL,1986,0,Richard Shelby,Jeremiah Denton,1,0,0,1,0
+448,AL_sen_1986,AL_sen,AL_1986,Alabama,AL,1986,0,Richard Shelby,Jeremiah Denton,1,0,0,1,0
+449,AL_sen_1986,AL_sen,AL_1986,Alabama,AL,1986,0,Richard Shelby,Jeremiah Denton,1,0,0,1,0
+450,AL_sen_1998,AL_sen,AL_1998,Alabama,AL,1998,1,Richard Shelby,Clayton Suddith,1,0,0,1,0
+451,AL_sen_2002,AL_sen,AL_2002,Alabama,AL,2002,1,Jeff Sessions,Susan Parker,1,0,0,1,0
+452,AL_sen_2002,AL_sen,AL_2002,Alabama,AL,2002,1,Jeff Sessions,Susan Parker,1,0,0,1,0
+453,AL_sen_2004,AL_sen,AL_2004,Alabama,AL,2004,1,Richard Shelby,Wayne Sowell,1,0,0,1,0
+454,AL_sen_2002,AL_sen,AL_2002,Alabama,AL,2002,1,Jeff Sessions,Vivian Davis Figures,1,0,0,1,0
+455,AL_sen_2010,AL_sen,AL_2010,Alabama,AL,2010,1,Richard Shelby,William G  Barnes,1,0,0,1,0
+456,AL_sen_2014,AL_sen,AL_2014,Alabama,AL,2014,1,Jeff Sessions,,1,0,0,1,0
+457,AL_sen_2016,AL_sen,AL_2016,Alabama,AL,2016,1,Richard Shelby,Ron Crumpton,1,0,0,1,0
+458,AK_sen_1978,AK_sen,AK_1978,Alaska,AK,1978,1,Ted Stevens,Donald W  Hobbs,1,0,0,1,0
+459,AK_sen_1984,AK_sen,AK_1984,Alaska,AK,1984,1,Ted Stevens,John E  Havelock,1,0,0,1,0
+460,AK_sen_1986,AK_sen,AK_1986,Alaska,AK,1986,1,Frank Murkowski,Glenn Olds,1,0,0,1,0
+461,AK_sen_1984,AK_sen,AK_1984,Alaska,AK,1984,1,Ted Stevens,John E  Havelock,1,0,0,1,0
+462,AK_sen_1986,AK_sen,AK_1986,Alaska,AK,1986,1,Frank Murkowski,Glenn Olds,1,0,0,1,0
+463,AK_sen_1986,AK_sen,AK_1986,Alaska,AK,1986,1,Frank Murkowski,Glenn Olds,1,0,0,1,0
+464,AK_sen_1990,AK_sen,AK_1990,Alaska,AK,1990,1,Ted Stevens,Michael Beasley,1,0,0,1,0
+465,AK_sen_1992,AK_sen,AK_1992,Alaska,AK,1992,1,Frank Murkowski,Tony Smith,1,0,0,1,0
+466,AK_sen_1996,AK_sen,AK_1996,Alaska,AK,1996,1,Ted Stevens,Jeff Whittaker,1,0,0,1,0
+467,AK_sen_1998,AK_sen,AK_1998,Alaska,AK,1998,1,Frank Murkowski,Joe Sonneman,1,0,0,1,0
+468,AK_sen_2002,AK_sen,AK_2002,Alaska,AK,2002,1,Ted Stevens,Frank J  Vondersaar,1,0,0,1,0
+469,AK_sen_2002,AK_sen,AK_2002,Alaska,AK,2002,1,Ted Stevens,Frank J  Vondersaar,1,0,0,1,0
+470,AK_sen_2004,AK_sen,AK_2004,Alaska,AK,2004,1,Lisa Murkowski,Tony Knowles,1,0,0,1,0
+471,AK_sen_2002,AK_sen,AK_2002,Alaska,AK,2002,0,Mark Begich,Ted Stevens,1,0,0,1,0
+472,AK_sen_2010,AK_sen,AK_2010,Alaska,AK,2010,1,Lisa Murkowski,Joe Miller,1,0,0,1,0
+473,AK_sen_2016,AK_sen,AK_2016,Alaska,AK,2016,1,Lisa Murkowski,Joe Miller,1,0,0,1,0
+474,AZ_sen_1976,AZ_sen,AZ_1976,Arizona,AZ,1976,0,Dennis DeConcini,Sam Steiger,1,0,0,0,0
+475,AZ_sen_1980,AZ_sen,AZ_1980,Arizona,AZ,1980,1,Barry Goldwater,Bill Schulz,1,0,0,1,0
+476,AZ_sen_1986,AZ_sen,AZ_1986,Arizona,AZ,1986,1,John McCain,Richard Kimball,1,0,0,0,0
+477,AZ_sen_1986,AZ_sen,AZ_1986,Arizona,AZ,1986,1,John McCain,Richard Kimball,1,0,0,0,0
+478,AZ_sen_1986,AZ_sen,AZ_1986,Arizona,AZ,1986,1,John McCain,Richard Kimball,1,0,0,0,0
+479,AZ_sen_1992,AZ_sen,AZ_1992,Arizona,AZ,1992,1,John McCain,Claire Sargent,1,0,0,1,0
+480,AZ_sen_1998,AZ_sen,AZ_1998,Arizona,AZ,1998,1,John McCain,Ed Ranger,1,0,0,1,0
+481,AZ_sen_2000,AZ_sen,AZ_2000,Arizona,AZ,2000,1,Jon Kyl,William Toel,1,0,0,1,0
+482,AZ_sen_2004,AZ_sen,AZ_2004,Arizona,AZ,2004,1,John McCain,Stuart Starky,1,0,0,1,0
+483,AZ_sen_2006,AZ_sen,AZ_2006,Arizona,AZ,2006,1,Jon Kyl,Jim Pederson,1,0,0,1,0
+484,AZ_sen_2010,AZ_sen,AZ_2010,Arizona,AZ,2010,1,John McCain,Rodney Glassman,1,0,0,1,0
+485,AZ_sen_2012,AZ_sen,AZ_2012,Arizona,AZ,2012,1,Jeff Flake,Richard Carmona,1,0,0,0,0
+486,AZ_sen_2016,AZ_sen,AZ_2016,Arizona,AZ,2016,1,John McCain,Ann Kirkpatrick,1,0,0,1,0
+487,AR_sen_2002,AR_sen,AR_2002,Arkansas,AR,2002,0,Mark Pryor,Tim Hutchinson,1,0,0,1,0
+488,AR_sen_2002,AR_sen,AR_2002,Arkansas,AR,2002,0,Mark Pryor,Tim Hutchinson,1,0,0,1,0
+489,AR_sen_2016,AR_sen,AR_2016,Arkansas,AR,2016,1,John Boozman,Conner Eldridge,1,0,0,1,0
+490,CA_sen_1982,CA_sen,CA_1982,California,CA,1982,1,Pete Wilson,Jerry Brown,1,0,0,0,0
+491,CA_sen_1982,CA_sen,CA_1982,California,CA,1982,1,Pete Wilson,Jerry Brown,1,0,0,0,0
+492,CA_sen_1988,CA_sen,CA_1988,California,CA,1988,1,Pete Wilson,Leo T  McCarthy,1,0,0,1,0
+493,CA_sen_1992,CA_sen,CA_1992,California,CA,1992,0,Dianne Feinstein,John F  Seymour,1,0,0,1,0
+494,CO_sen_1984,CO_sen,CO_1984,Colorado,CO,1984,1,William L  Armstrong,Nancy E  Dick,1,0,0,1,0
+495,CO_sen_1984,CO_sen,CO_1984,Colorado,CO,1984,1,William L  Armstrong,Nancy E  Dick,1,0,0,1,0
+496,CO_sen_1990,CO_sen,CO_1990,Colorado,CO,1990,1,Hank Brown,Josie Heath,1,0,0,0,0
+497,CO_sen_1996,CO_sen,CO_1996,Colorado,CO,1996,1,Wayne Allard,Tom Strickland,1,0,0,0,0
+498,CO_sen_1998,CO_sen,CO_1998,Colorado,CO,1998,1,Ben Nighthorse Campbell,Dottie Lamm,1,0,0,1,0
+499,CO_sen_2002,CO_sen,CO_2002,Colorado,CO,2002,1,Wayne Allard,Tom Strickland,1,0,0,1,0
+500,CO_sen_2002,CO_sen,CO_2002,Colorado,CO,2002,1,Wayne Allard,Tom Strickland,1,0,0,1,0
+501,CO_sen_2004,CO_sen,CO_2004,Colorado,CO,2004,0,Ken Salazar,Pete Coors,1,0,0,0,0
+502,CO_sen_2002,CO_sen,CO_2002,Colorado,CO,2002,0,Mark Udall,Bob Schaffer,1,0,0,0,0
+503,CT_sen_1976,CT_sen,CT_1976,Connecticut,CT,1976,1,Lowell P  Weicker Jr ,Gloria Schaffer,1,0,0,1,0
+504,CT_sen_1982,CT_sen,CT_1982,Connecticut,CT,1982,1,Lowell Weicker,Toby Moffett,1,0,0,0,0
+505,CT_sen_1982,CT_sen,CT_1982,Connecticut,CT,1982,1,Lowell Weicker,Toby Moffett,1,0,0,0,0
+506,CT_sen_1988,CT_sen,CT_1988,Connecticut,CT,1988,0,Joe Lieberman,Lowell P  Weicker Jr ,1,0,0,1,0
+507,DE_sen_1976,DE_sen,DE_1976,Delaware,DE,1976,1,Bill Roth,Thomas C  Maloney,1,0,0,1,0
+508,DE_sen_1982,DE_sen,DE_1982,Delaware,DE,1982,1,Bill Roth,David N  Levinson,1,0,0,0,0
+509,DE_sen_1982,DE_sen,DE_1982,Delaware,DE,1982,1,Bill Roth,David N  Levinson,1,0,0,0,0
+510,DE_sen_1988,DE_sen,DE_1988,Delaware,DE,1988,1,William Roth,Shien Biau Woo,1,0,0,1,0
+511,DE_sen_1994,DE_sen,DE_1994,Delaware,DE,1994,1,William Roth,Charles Oberly,1,0,0,1,0
+512,DE_sen_2000,DE_sen,DE_2000,Delaware,DE,2000,0,Thomas R  Carper,William V,1,0,0,0,0
+513,FL_sen_1986,FL_sen,FL_1986,Florida,FL,1986,0,Bob Graham,Paula Hawkins,1,0,0,1,0
+514,FL_sen_1986,FL_sen,FL_1986,Florida,FL,1986,0,Bob Graham,Paula Hawkins,1,0,0,1,0
+515,FL_sen_1986,FL_sen,FL_1986,Florida,FL,1986,0,Bob Graham,Paula Hawkins,1,0,0,1,0
+516,FL_sen_1994,FL_sen,FL_1994,Florida,FL,1994,1,Connie Mack III,Hugh Rodham,1,0,0,1,0
+517,FL_sen_2000,FL_sen,FL_2000,Florida,FL,2000,0,Bill Nelson,Bill McCollum,1,0,0,0,0
+518,FL_sen_2010,FL_sen,FL_2010,Florida,FL,2010,1,Marco Rubio,Charlie Crist,1,0,0,0,0
+519,FL_sen_2016,FL_sen,FL_2016,Florida,FL,2016,1,Marco Rubio,Patrick Murphy,1,0,0,1,0
+520,GA_sen_1986,GA_sen,GA_1986,Georgia,GA,1986,0,Wyche Fowler,Mack Mattingly,1,0,0,1,0
+521,GA_sen_1986,GA_sen,GA_1986,Georgia,GA,1986,0,Wyche Fowler,Mack Mattingly,1,0,0,1,0
+522,GA_sen_1986,GA_sen,GA_1986,Georgia,GA,1986,0,Wyche Fowler,Mack Mattingly,1,0,0,1,0
+523,GA_sen_1998,GA_sen,GA_1998,Georgia,GA,1998,1,Paul Coverdell,Michael Coles,1,0,0,1,0
+524,GA_sen_2002,GA_sen,GA_2002,Georgia,GA,2002,1,Saxby Chambliss,Jim Martin,1,0,0,1,0
+525,GA_sen_2010,GA_sen,GA_2010,Georgia,GA,2010,1,Johnny Isakson,Michael Thurmond,1,0,0,1,0
+526,GA_sen_2014,GA_sen,GA_2014,Georgia,GA,2014,1,David Perdue,Michelle Nunn,1,0,0,0,0
+527,GA_sen_2016,GA_sen,GA_2016,Georgia,GA,2016,1,Johnny Isakson,Jim Barksdale,1,0,0,1,0
+528,HI_sen_1976,HI_sen,HI_1976,Hawaii,HI,1976,0,Spark Matsunaga,William F  Quinn,1,0,0,0,0
+529,ID_sen_1978,ID_sen,ID_1978,Idaho,ID,1978,1,James A  McClure,Dwight Jensen,1,0,0,1,0
+530,ID_sen_1984,ID_sen,ID_1984,Idaho,ID,1984,1,James A  McClure,Peter M  Busch,1,0,0,1,0
+531,ID_sen_1986,ID_sen,ID_1986,Idaho,ID,1986,1,Steve Symms,John V  Evans,1,0,0,1,0
+532,ID_sen_1984,ID_sen,ID_1984,Idaho,ID,1984,1,James A  McClure,Peter M  Busch,1,0,0,1,0
+533,ID_sen_1986,ID_sen,ID_1986,Idaho,ID,1986,1,Steve Symms,John V  Evans,1,0,0,1,0
+534,ID_sen_1986,ID_sen,ID_1986,Idaho,ID,1986,1,Steve Symms,John V  Evans,1,0,0,1,0
+535,ID_sen_1990,ID_sen,ID_1990,Idaho,ID,1990,1,Larry Craig,Ron J  Twilegar,1,0,0,0,0
+536,ID_sen_1992,ID_sen,ID_1992,Idaho,ID,1992,1,Dirk Kempthorne,Richard H  Stallings,1,0,0,0,0
+537,ID_sen_1996,ID_sen,ID_1996,Idaho,ID,1996,1,Larry E  Craig,Walt Minnick,1,0,0,0,0
+538,ID_sen_1998,ID_sen,ID_1998,Idaho,ID,1998,1,Mike Crapo,Bill Mauk,1,0,0,0,0
+539,ID_sen_2002,ID_sen,ID_2002,Idaho,ID,2002,1,Larry Craig,Alan Blinken,1,0,0,1,0
+540,ID_sen_2002,ID_sen,ID_2002,Idaho,ID,2002,1,Larry Craig,Alan Blinken,1,0,0,1,0
+541,ID_sen_2004,ID_sen,ID_2004,Idaho,ID,2004,1,Mike Crapo,Scott McClure,1,0,0,1,0
+542,ID_sen_2002,ID_sen,ID_2002,Idaho,ID,2002,1,Jim Risch,Larry LaRocco,1,0,0,0,0
+543,ID_sen_2010,ID_sen,ID_2010,Idaho,ID,2010,1,Mike Crapo,Tom Sullivan,1,0,0,1,0
+544,ID_sen_2014,ID_sen,ID_2014,Idaho,ID,2014,1,Jim Risch,Nels Mitchell,1,0,0,1,0
+545,ID_sen_2016,ID_sen,ID_2016,Idaho,ID,2016,1,Mike Crapo,Jerry Sturgill,1,0,0,1,0
+546,IL_sen_1978,IL_sen,IL_1978,Illinois,IL,1978,1,Charles H  Percy,Alex Seith,1,0,0,1,0
+547,IL_sen_1984,IL_sen,IL_1984,Illinois,IL,1984,0,Paul Simon,Charles H  Percy,1,0,0,1,0
+548,IL_sen_1984,IL_sen,IL_1984,Illinois,IL,1984,0,Paul Simon,Charles H  Percy,1,0,0,1,0
+549,IL_sen_2004,IL_sen,IL_2004,Illinois,IL,2004,0,Barack Obama,Alan Keyes,1,0,0,0,0
+550,IL_sen_2016,IL_sen,IL_2016,Illinois,IL,2016,0,Tammy Duckworth,Mark Kirk,1,0,0,1,0
+551,IN_sen_1982,IN_sen,IN_1982,Indiana,IN,1982,1,Richard Lugar,Floyd Fithian,1,0,0,1,0
+552,IN_sen_1986,IN_sen,IN_1986,Indiana,IN,1986,1,Dan Quayle,Jill L  Long,1,0,0,1,0
+553,IN_sen_1982,IN_sen,IN_1982,Indiana,IN,1982,1,Richard Lugar,Floyd Fithian,1,0,0,1,0
+554,IN_sen_1986,IN_sen,IN_1986,Indiana,IN,1986,1,Dan Quayle,Jill L  Long,1,0,0,1,0
+555,IN_sen_1986,IN_sen,IN_1986,Indiana,IN,1986,1,Dan Quayle,Jill L  Long,1,0,0,1,0
+556,IN_sen_1988,IN_sen,IN_1988,Indiana,IN,1988,1,Richard Lugar,Jack Wickes,1,0,0,1,0
+557,IN_sen_1992,IN_sen,IN_1992,Indiana,IN,1992,1,Dan Coats,Joseph Hogsett,1,0,0,1,0
+558,IN_sen_1994,IN_sen,IN_1994,Indiana,IN,1994,1,Richard Lugar,Jim Jontz,1,0,0,1,0
+559,IN_sen_1998,IN_sen,IN_1998,Indiana,IN,1998,0,Evan Bayh,Paul Helmke,1,0,0,0,0
+560,IN_sen_2000,IN_sen,IN_2000,Indiana,IN,2000,1,Richard Lugar,David Johnson,1,0,0,1,0
+561,IN_sen_2006,IN_sen,IN_2006,Indiana,IN,2006,1,Richard Lugar,Steve Osborn,1,0,0,1,0
+562,IN_sen_2012,IN_sen,IN_2012,Indiana,IN,2012,0,Joe Donnelly,Richard Mourdock,1,0,0,0,0
+563,IN_sen_2016,IN_sen,IN_2016,Indiana,IN,2016,1,Todd Young,Evan Bayh,1,0,0,0,0
+564,IN_sen_1990,IN_sen,IN_1990,Indiana,IN,1990,1,Dan Coats,Baron Hill,1,0,0,1,0
+565,IA_sen_1984,IA_sen,IA_1984,Iowa,IA,1984,0,Tom Harkin,Roger Jepsen,1,0,0,1,0
+566,IA_sen_1986,IA_sen,IA_1986,Iowa,IA,1986,1,Chuck Grassley,John P  Roehrick,1,0,0,1,0
+567,IA_sen_1984,IA_sen,IA_1984,Iowa,IA,1984,0,Tom Harkin,Roger Jepsen,1,0,0,1,0
+568,IA_sen_1986,IA_sen,IA_1986,Iowa,IA,1986,1,Chuck Grassley,John P  Roehrick,1,0,0,1,0
+569,IA_sen_1986,IA_sen,IA_1986,Iowa,IA,1986,1,Chuck Grassley,John P  Roehrick,1,0,0,1,0
+570,IA_sen_1992,IA_sen,IA_1992,Iowa,IA,1992,1,Chuck Grassley,Jean Hall Lloyd Jones,1,0,0,1,0
+571,IA_sen_1998,IA_sen,IA_1998,Iowa,IA,1998,1,Chuck Grassley,David Osterberg,1,0,0,1,0
+572,IA_sen_2004,IA_sen,IA_2004,Iowa,IA,2004,1,Chuck Grassley,Arthur Small,1,0,0,1,0
+573,IA_sen_2010,IA_sen,IA_2010,Iowa,IA,2010,1,Chuck Grassley,Roxanne Conlin,1,0,0,1,0
+574,IA_sen_2016,IA_sen,IA_2016,Iowa,IA,2016,1,Chuck Grassley,Patty Judge,1,0,0,1,0
+575,KS_sen_1978,KS_sen,KS_1978,Kansas,KS,1978,1,Nancy Kassebaum,William R  Roy,1,0,0,0,0
+576,KS_sen_1980,KS_sen,KS_1980,Kansas,KS,1980,1,Bob Dole,John Simpson,1,0,0,1,0
+577,KS_sen_1984,KS_sen,KS_1984,Kansas,KS,1984,1,Nancy Landon Kassebaum,James R  Maher,1,0,0,1,0
+578,KS_sen_1986,KS_sen,KS_1986,Kansas,KS,1986,1,Bob Dole,Guy MacDonald,1,0,0,1,0
+579,KS_sen_1984,KS_sen,KS_1984,Kansas,KS,1984,1,Nancy Landon Kassebaum,James R  Maher,1,0,0,1,0
+580,KS_sen_1986,KS_sen,KS_1986,Kansas,KS,1986,1,Bob Dole,Guy MacDonald,1,0,0,1,0
+581,KS_sen_1986,KS_sen,KS_1986,Kansas,KS,1986,1,Bob Dole,Guy MacDonald,1,0,0,1,0
+582,KS_sen_1990,KS_sen,KS_1990,Kansas,KS,1990,1,Nancy L  Kassebaum,Dick Williams,1,0,0,1,0
+583,KS_sen_1992,KS_sen,KS_1992,Kansas,KS,1992,1,Bob Dole,Gloria O Dell,1,0,0,1,0
+584,KS_sen_1996,KS_sen,KS_1996,Kansas,KS,1996,1,Pat Roberts,Sally Thompson,1,0,0,0,0
+585,KS_sen_1998,KS_sen,KS_1998,Kansas,KS,1998,1,Sam Brownback,Paul Feleciano Jr ,1,0,0,1,0
+586,KS_sen_2002,KS_sen,KS_2002,Kansas,KS,2002,1,Pat Roberts,Steven A  Rosile,1,0,0,1,0
+587,KS_sen_2002,KS_sen,KS_2002,Kansas,KS,2002,1,Pat Roberts,Steven A  Rosile,1,0,0,1,0
+588,KS_sen_2004,KS_sen,KS_2004,Kansas,KS,2004,1,Sam Brownback,Lee Jones,1,0,0,1,0
+589,KS_sen_2002,KS_sen,KS_2002,Kansas,KS,2002,1,Pat Roberts,Jim Slattery,1,0,0,1,0
+590,KS_sen_2010,KS_sen,KS_2010,Kansas,KS,2010,1,Jerry Moran,Lisa Johnston,1,0,0,0,0
+591,KS_sen_2014,KS_sen,KS_2014,Kansas,KS,2014,1,Pat Roberts,Greg Orman,1,0,0,1,0
+592,KS_sen_2016,KS_sen,KS_2016,Kansas,KS,2016,1,Jerry Moran,Patrick Wiesner,1,0,0,1,0
+593,KS_sen_1996,KS_sen,KS_1996,Kansas,KS,1996,1,Sam Brownback,Jill Docking,1,0,0,0,0
+594,KY_sen_1990,KY_sen,KY_1990,Kentucky,KY,1990,1,Mitch McConnell,Harvey I  Sloane,1,0,0,1,0
+595,KY_sen_1996,KY_sen,KY_1996,Kentucky,KY,1996,1,Mitch McConnell,Steve Beshear,1,0,0,1,0
+596,KY_sen_2002,KY_sen,KY_2002,Kentucky,KY,2002,1,Mitch McConnell,Lois Combs Weinberg,1,0,0,1,0
+597,KY_sen_2002,KY_sen,KY_2002,Kentucky,KY,2002,1,Mitch McConnell,Lois Combs Weinberg,1,0,0,1,0
+598,KY_sen_2004,KY_sen,KY_2004,Kentucky,KY,2004,1,Jim Bunning,Daniel Mongiardo,1,0,0,1,0
+599,KY_sen_2002,KY_sen,KY_2002,Kentucky,KY,2002,1,Mitch McConnell,Bruce Lunsford,1,0,0,1,0
+600,KY_sen_2010,KY_sen,KY_2010,Kentucky,KY,2010,1,Rand Paul,Jack Conway,1,0,0,0,0
+601,KY_sen_2014,KY_sen,KY_2014,Kentucky,KY,2014,1,Mitch McConnell,Alison Lundergan Grimes,1,0,0,1,0
+602,KY_sen_2016,KY_sen,KY_2016,Kentucky,KY,2016,1,Rand Paul,Jim Gray,1,0,0,1,0
+603,LA_sen_2010,LA_sen,LA_2010,Louisiana,LA,2010,1,David Vitter,Charles Melancon,1,0,0,1,0
+604,LA_sen_2016,LA_sen,LA_2016,Louisiana,LA,2016,1,John N  Kennedy,Foster Campbell,1,0,0,0,0
+605,ME_sen_1984,ME_sen,ME_1984,Maine,ME,1984,1,William Cohen,Libby Mitchell,1,0,0,1,0
+606,ME_sen_1984,ME_sen,ME_1984,Maine,ME,1984,1,William Cohen,Libby Mitchell,1,0,0,1,0
+607,ME_sen_1990,ME_sen,ME_1990,Maine,ME,1990,1,William Cohen,Neil Rolde,1,0,0,1,0
+608,ME_sen_1996,ME_sen,ME_1996,Maine,ME,1996,1,Susan M  Collins,Joseph E  Brennan,1,0,0,0,0
+609,ME_sen_2000,ME_sen,ME_2000,Maine,ME,2000,1,Olympia Snowe,Mark Lawrence,1,0,0,1,0
+610,ME_sen_2002,ME_sen,ME_2002,Maine,ME,2002,1,Susan Collins,Chellie Pingree,1,0,0,1,0
+611,ME_sen_2002,ME_sen,ME_2002,Maine,ME,2002,1,Susan Collins,Chellie Pingree,1,0,0,1,0
+612,ME_sen_2006,ME_sen,ME_2006,Maine,ME,2006,1,Olympia Snowe,Jean Hay Bright,1,0,0,1,0
+613,ME_sen_2002,ME_sen,ME_2002,Maine,ME,2002,1,Susan Collins,Tom Allen,1,0,0,1,0
+614,ME_sen_2012,ME_sen,ME_2012,Maine,ME,2012,0,Angus King,Charles E,1,0,0,0,0
+615,ME_sen_2014,ME_sen,ME_2014,Maine,ME,2014,1,Susan Collins,Shenna Bellows,1,0,0,1,0
+616,MD_sen_1976,MD_sen,MD_1976,Maryland,MD,1976,0,Paul Sarbanes,John Glenn Beall Jr ,1,0,0,1,0
+617,MD_sen_1980,MD_sen,MD_1980,Maryland,MD,1980,1,Charles Mathias Jr ,Edward T  Conroy,1,0,0,0,0
+618,MD_sen_1986,MD_sen,MD_1986,Maryland,MD,1986,0,Barbara Mikulski,Linda Chavez,1,0,0,0,0
+619,MD_sen_1986,MD_sen,MD_1986,Maryland,MD,1986,0,Barbara Mikulski,Linda Chavez,1,0,0,0,0
+620,MD_sen_1986,MD_sen,MD_1986,Maryland,MD,1986,0,Barbara Mikulski,Linda Chavez,1,0,0,0,0
+621,MA_sen_1978,MA_sen,MA_1978,Massachusetts,MA,1978,0,Paul Tsongas,Edward Brooke,1,0,0,1,0
+622,MA_sen_2012,MA_sen,MA_2012,Massachusetts,MA,2012,0,Elizabeth Warren,Scott Brown,1,0,0,1,0
+623,MI_sen_1978,MI_sen,MI_1978,Michigan,MI,1978,0,Carl Levin,Robert P  Griffin,1,0,0,1,0
+624,MI_sen_2000,MI_sen,MI_2000,Michigan,MI,2000,0,Debbie Stabenow,Spencer Abraham,1,0,0,1,0
+625,MN_sen_1982,MN_sen,MN_1982,Minnesota,MN,1982,1,David Durenberger,Mark Dayton,1,0,0,1,0
+626,MN_sen_1984,MN_sen,MN_1984,Minnesota,MN,1984,1,Rudy Boschwitz,Joan Growe,1,0,0,1,0
+627,MN_sen_1982,MN_sen,MN_1982,Minnesota,MN,1982,1,David Durenberger,Mark Dayton,1,0,0,1,0
+628,MN_sen_1984,MN_sen,MN_1984,Minnesota,MN,1984,1,Rudy Boschwitz,Joan Growe,1,0,0,1,0
+629,MN_sen_1988,MN_sen,MN_1988,Minnesota,MN,1988,1,David Durenberger,Skip Humphrey,1,0,0,1,0
+630,MN_sen_1990,MN_sen,MN_1990,Minnesota,MN,1990,0,Paul Wellstone,Rudy Boschwitz,1,0,0,1,0
+631,MN_sen_1994,MN_sen,MN_1994,Minnesota,MN,1994,1,Rod Grams,Ann Wynia,1,0,0,0,0
+632,MN_sen_2000,MN_sen,MN_2000,Minnesota,MN,2000,0,Mark Dayton,Rod Grams,1,0,0,1,0
+633,MN_sen_2002,MN_sen,MN_2002,Minnesota,MN,2002,0,Al Franken,Norm Coleman,1,0,0,1,0
+634,MS_sen_1984,MS_sen,MS_1984,Mississippi,MS,1984,1,Thad Cochran,William Winter,1,0,0,1,0
+635,MS_sen_1984,MS_sen,MS_1984,Mississippi,MS,1984,1,Thad Cochran,William Winter,1,0,0,1,0
+636,MS_sen_1990,MS_sen,MS_1990,Mississippi,MS,1990,1,Thad Cochran  Republican,Unopposed,1,0,1,1,0
+637,MS_sen_1994,MS_sen,MS_1994,Mississippi,MS,1994,1,Trent Lott,Ken Harper,1,0,0,1,0
+638,MS_sen_1996,MS_sen,MS_1996,Mississippi,MS,1996,1,Thad Cochran,James Hunt,1,0,0,1,0
+639,MS_sen_2000,MS_sen,MS_2000,Mississippi,MS,2000,1,Trent Lott,Troy Brown,1,0,0,1,0
+640,MS_sen_2002,MS_sen,MS_2002,Mississippi,MS,2002,1,Thad Cochran,Shawn O Hara,1,0,0,1,0
+641,MS_sen_2002,MS_sen,MS_2002,Mississippi,MS,2002,1,Thad Cochran,Shawn O Hara,1,0,0,1,0
+642,MS_sen_2006,MS_sen,MS_2006,Mississippi,MS,2006,1,Trent Lott,Erik Fleming,1,0,0,1,0
+643,MS_sen_2002,MS_sen,MS_2002,Mississippi,MS,2002,1,Thad Cochran,Erik Fleming,1,0,0,1,0
+644,MS_sen_2012,MS_sen,MS_2012,Mississippi,MS,2012,1,Roger Wicker,Albert N,1,0,0,1,0
+645,MS_sen_2014,MS_sen,MS_2014,Mississippi,MS,2014,1,Thad Cochran,Travis Childers,1,0,0,1,0
+646,MS_sen_2002,MS_sen,MS_2002,Mississippi,MS,2002,1,Roger Wicker,Ronnie Musgrove,1,0,0,1,0
+647,MO_sen_1982,MO_sen,MO_1982,Missouri,MO,1982,1,John Danforth,Harriett Woods,1,0,0,1,0
+648,MO_sen_1982,MO_sen,MO_1982,Missouri,MO,1982,1,John Danforth,Harriett Woods,1,0,0,1,0
+649,MO_sen_1988,MO_sen,MO_1988,Missouri,MO,1988,1,John Danforth,Jay Nixon,1,0,0,1,0
+650,MO_sen_1992,MO_sen,MO_1992,Missouri,MO,1992,1,Kit Bond,Geri Rothman Serot,1,0,0,1,0
+651,MO_sen_1994,MO_sen,MO_1994,Missouri,MO,1994,1,John Ashcroft,Alan Wheat,1,0,0,0,0
+652,MO_sen_1998,MO_sen,MO_1998,Missouri,MO,1998,1,Kit Bond,Jay Nixon,1,0,0,1,0
+653,MO_sen_2000,MO_sen,MO_2000,Missouri,MO,2000,0,Mel Carnahan,John Ashcroft,1,0,0,1,0
+654,MO_sen_2004,MO_sen,MO_2004,Missouri,MO,2004,1,Kit Bond,Nancy Farmer,1,0,0,1,0
+655,MO_sen_2006,MO_sen,MO_2006,Missouri,MO,2006,0,Claire McCaskill,Jim Talent,1,0,0,1,0
+656,MO_sen_2010,MO_sen,MO_2010,Missouri,MO,2010,1,Roy Blunt,Robin Carnahan,1,0,0,0,0
+657,MO_sen_2016,MO_sen,MO_2016,Missouri,MO,2016,1,Roy Blunt,Jason Kander,1,0,0,1,0
+658,MT_sen_1994,MT_sen,MT_1994,Montana,MT,1994,1,Conrad Burns,Jack Mudd,1,0,0,1,0
+659,MT_sen_2000,MT_sen,MT_2000,Montana,MT,2000,1,Conrad Burns,Brian Schweitzer,1,0,0,1,0
+660,MT_sen_2006,MT_sen,MT_2006,Montana,MT,2006,0,Jon Tester,Conrad Burns,1,0,0,1,0
+661,NE_sen_1976,NE_sen,NE_1976,Nebraska,NE,1976,0,Edward Zorinsky,John Y  McCollister,1,0,0,0,0
+662,NE_sen_1978,NE_sen,NE_1978,Nebraska,NE,1978,0,J  James Exon,Donald Shasteen,1,0,0,0,0
+663,NE_sen_1988,NE_sen,NE_1988,Nebraska,NE,1988,0,Bob Kerrey,David Karnes,1,0,0,1,0
+664,NE_sen_2002,NE_sen,NE_2002,Nebraska,NE,2002,1,Chuck Hagel,Charlie A  Matulka,1,0,0,1,0
+665,NE_sen_2002,NE_sen,NE_2002,Nebraska,NE,2002,1,Chuck Hagel,Charlie A  Matulka,1,0,0,1,0
+666,NE_sen_2002,NE_sen,NE_2002,Nebraska,NE,2002,1,Mike Johanns,Scott Kleeb,1,0,0,0,0
+667,NE_sen_2014,NE_sen,NE_2014,Nebraska,NE,2014,1,Ben Sasse,David Domina,1,0,0,0,0
+668,NV_sen_1980,NV_sen,NV_1980,Nevada,NV,1980,1,Paul Laxalt,Mary Gojack,1,0,0,1,0
+669,NV_sen_1986,NV_sen,NV_1986,Nevada,NV,1986,0,Harry Reid,James David Santini,1,0,0,0,0
+670,NV_sen_1986,NV_sen,NV_1986,Nevada,NV,1986,0,Harry Reid,James David Santini,1,0,0,0,0
+671,NV_sen_1986,NV_sen,NV_1986,Nevada,NV,1986,0,Harry Reid,James David Santini,1,0,0,0,0
+672,NV_sen_1988,NV_sen,NV_1988,Nevada,NV,1988,0,Richard Bryan,Chic Hecht,1,0,0,1,0
+673,NV_sen_2006,NV_sen,NV_2006,Nevada,NV,2006,1,John Ensign,Jack Carter,1,0,0,1,0
+674,NV_sen_2012,NV_sen,NV_2012,Nevada,NV,2012,1,Dean Heller,Shelley Berkley,1,0,0,1,0
+675,NH_sen_1984,NH_sen,NH_1984,New_Hampshire,NH,1984,1,Gordon J  Humphrey,Norman D Amours,1,0,0,1,0
+676,NH_sen_1986,NH_sen,NH_1986,New_Hampshire,NH,1986,1,Warren Rudman,Endicott Peabody,1,0,0,1,0
+677,NH_sen_1984,NH_sen,NH_1984,New_Hampshire,NH,1984,1,Gordon J  Humphrey,Norman D Amours,1,0,0,1,0
+678,NH_sen_1986,NH_sen,NH_1986,New_Hampshire,NH,1986,1,Warren Rudman,Endicott Peabody,1,0,0,1,0
+679,NH_sen_1986,NH_sen,NH_1986,New_Hampshire,NH,1986,1,Warren Rudman,Endicott Peabody,1,0,0,1,0
+680,NH_sen_1990,NH_sen,NH_1990,New_Hampshire,NH,1990,1,Bob Smith,John A  Durkin,1,0,0,0,0
+681,NH_sen_1992,NH_sen,NH_1992,New_Hampshire,NH,1992,1,Judd Gregg,John Rauh,1,0,0,0,0
+682,NH_sen_1996,NH_sen,NH_1996,New_Hampshire,NH,1996,1,Bob Smith,Dick Swett,1,0,0,1,0
+683,NH_sen_1998,NH_sen,NH_1998,New_Hampshire,NH,1998,1,Judd Gregg,George Condodemetraky,1,0,0,1,0
+684,NH_sen_2002,NH_sen,NH_2002,New_Hampshire,NH,2002,1,John E  Sununu,Jeanne Shaheen,1,0,0,0,0
+685,NH_sen_2002,NH_sen,NH_2002,New_Hampshire,NH,2002,1,John E  Sununu,Jeanne Shaheen,1,0,0,0,0
+686,NH_sen_2004,NH_sen,NH_2004,New_Hampshire,NH,2004,1,Judd Gregg,Doris Haddock,1,0,0,1,0
+687,NH_sen_2002,NH_sen,NH_2002,New_Hampshire,NH,2002,0,Jeanne Shaheen,John E  Sununu,1,0,0,1,0
+688,NH_sen_2010,NH_sen,NH_2010,New_Hampshire,NH,2010,1,Kelly Ayotte,Paul Hodes,1,0,0,0,0
+689,NH_sen_2016,NH_sen,NH_2016,New_Hampshire,NH,2016,0,Maggie Hassan,Kelly Ayotte,1,0,0,1,0
+690,NJ_sen_1978,NJ_sen,NJ_1978,New_Jersey,NJ,1978,0,Bill Bradley,Jeffrey Bell,1,0,0,0,0
+691,NJ_sen_1982,NJ_sen,NJ_1982,New_Jersey,NJ,1982,0,Frank Lautenberg,Millicent Fenwick,1,0,0,0,0
+692,NJ_sen_1982,NJ_sen,NJ_1982,New_Jersey,NJ,1982,0,Frank Lautenberg,Millicent Fenwick,1,0,0,0,0
+693,NM_sen_1978,NM_sen,NM_1978,New_Mexico,NM,1978,1,Pete Domenici,Toney Anaya,1,0,0,1,0
+694,NM_sen_1982,NM_sen,NM_1982,New_Mexico,NM,1982,0,Jeff Bingaman,Harrison Schmitt,1,0,0,1,0
+695,NM_sen_1984,NM_sen,NM_1984,New_Mexico,NM,1984,1,Pete Domenici,Judith A  Pratt,1,0,0,1,0
+696,NM_sen_1982,NM_sen,NM_1982,New_Mexico,NM,1982,0,Jeff Bingaman,Harrison Schmitt,1,0,0,1,0
+697,NM_sen_1984,NM_sen,NM_1984,New_Mexico,NM,1984,1,Pete Domenici,Judith A  Pratt,1,0,0,1,0
+698,NM_sen_1990,NM_sen,NM_1990,New_Mexico,NM,1990,1,Pete Domenici,Tom R  Benavides,1,0,0,1,0
+699,NM_sen_1996,NM_sen,NM_1996,New_Mexico,NM,1996,1,Pete Domenici,Art Trujillo,1,0,0,1,0
+700,NM_sen_2002,NM_sen,NM_2002,New_Mexico,NM,2002,1,Pete Domenici,Gloria Tristani,1,0,0,1,0
+701,NM_sen_2002,NM_sen,NM_2002,New_Mexico,NM,2002,1,Pete Domenici,Gloria Tristani,1,0,0,1,0
+702,NM_sen_2002,NM_sen,NM_2002,New_Mexico,NM,2002,0,Tom Udall,Steve Pearce,1,0,0,0,0
+703,NY_sen_1980,NY_sen,NY_1980,New_York,NY,1980,1,Al D Amato,Elizabeth Holtzman,1,0,0,1,0
+704,NY_sen_1986,NY_sen,NY_1986,New_York,NY,1986,1,Al D Amato,Mark J  Green,1,0,0,1,0
+705,NY_sen_1986,NY_sen,NY_1986,New_York,NY,1986,1,Al D Amato,Mark J  Green,1,0,0,1,0
+706,NY_sen_1986,NY_sen,NY_1986,New_York,NY,1986,1,Al D Amato,Mark J  Green,1,0,0,1,0
+707,NY_sen_1992,NY_sen,NY_1992,New_York,NY,1992,1,Al D Amato,Robert Abrams,1,0,0,1,0
+708,NY_sen_1998,NY_sen,NY_1998,New_York,NY,1998,0,Chuck Schumer,Al D Amato,1,0,0,1,0
+709,NC_sen_1978,NC_sen,NC_1978,North_Carolina,NC,1978,1,Jesse Helms,John Ingram,1,0,0,1,0
+710,NC_sen_1984,NC_sen,NC_1984,North_Carolina,NC,1984,1,Jesse Helms,Jim Hunt,1,0,0,1,0
+711,NC_sen_1986,NC_sen,NC_1986,North_Carolina,NC,1986,0,Terry Sanford,Jim Broyhill,1,0,0,1,0
+712,NC_sen_1984,NC_sen,NC_1984,North_Carolina,NC,1984,1,Jesse Helms,Jim Hunt,1,0,0,1,0
+713,NC_sen_1986,NC_sen,NC_1986,North_Carolina,NC,1986,0,Terry Sanford,Jim Broyhill,1,0,0,1,0
+714,NC_sen_1986,NC_sen,NC_1986,North_Carolina,NC,1986,0,Terry Sanford,Jim Broyhill,1,0,0,1,0
+715,NC_sen_1990,NC_sen,NC_1990,North_Carolina,NC,1990,1,Jesse Helms,Harvey Gantt,1,0,0,1,0
+716,NC_sen_1996,NC_sen,NC_1996,North_Carolina,NC,1996,1,Jesse Helms,Harvey Gantt,1,0,0,1,0
+717,NC_sen_1998,NC_sen,NC_1998,North_Carolina,NC,1998,0,John Edwards,Lauch Faircloth,1,0,0,1,0
+718,NC_sen_2002,NC_sen,NC_2002,North_Carolina,NC,2002,1,Elizabeth Dole,Erskine Bowles,1,0,0,0,0
+719,NC_sen_2002,NC_sen,NC_2002,North_Carolina,NC,2002,1,Elizabeth Dole,Erskine Bowles,1,0,0,0,0
+720,NC_sen_2002,NC_sen,NC_2002,North_Carolina,NC,2002,0,Kay Hagan,Elizabeth Dole,1,0,0,1,0
+721,NC_sen_2010,NC_sen,NC_2010,North_Carolina,NC,2010,1,Richard Burr,Elaine Marshall,1,0,0,1,0
+722,NC_sen_2016,NC_sen,NC_2016,North_Carolina,NC,2016,1,Richard Burr,Deborah Ross,1,0,0,1,0
+723,NC_sen_1986,NC_sen,NC_1986,North_Carolina,NC,1986,0,Terry Sanford,Jim Broyhill,1,0,0,1,0
+724,NC_sen_1986,NC_sen,NC_1986,North_Carolina,NC,1986,0,Terry Sanford,Jim Broyhill,1,0,0,1,0
+725,NC_sen_1986,NC_sen,NC_1986,North_Carolina,NC,1986,0,Terry Sanford,Jim Broyhill,1,0,0,1,0
+726,ND_sen_1980,ND_sen,ND_1980,North_Dakota,ND,1980,1,Mark Andrews,Kent Johanneson,1,0,0,0,0
+727,ND_sen_1986,ND_sen,ND_1986,North_Dakota,ND,1986,0,Kent Conrad,Mark Andrews,1,0,0,1,0
+728,ND_sen_1986,ND_sen,ND_1986,North_Dakota,ND,1986,0,Kent Conrad,Mark Andrews,1,0,0,1,0
+729,ND_sen_1986,ND_sen,ND_1986,North_Dakota,ND,1986,0,Kent Conrad,Mark Andrews,1,0,0,1,0
+730,ND_sen_2016,ND_sen,ND_2016,North_Dakota,ND,2016,1,John Hoeven,Eliot Glassheim,1,0,0,1,0
+731,OH_sen_1976,OH_sen,OH_1976,Ohio,OH,1976,0,Howard Metzenbaum,Robert Taft Jr ,1,0,0,1,0
+732,OH_sen_2000,OH_sen,OH_2000,Ohio,OH,2000,1,Mike DeWine,Ted Celeste,1,0,0,1,0
+733,OH_sen_2004,OH_sen,OH_2004,Ohio,OH,2004,1,George Voinovich,Eric Fingerhut,1,0,0,1,0
+734,OH_sen_2006,OH_sen,OH_2006,Ohio,OH,2006,0,Sherrod Brown,Mike DeWine,1,0,0,1,0
+735,OH_sen_2010,OH_sen,OH_2010,Ohio,OH,2010,1,Rob Portman,Lee Fisher,1,0,0,0,0
+736,OH_sen_2016,OH_sen,OH_2016,Ohio,OH,2016,1,Rob Portman,Ted Strickland,1,0,0,1,0
+737,OK_sen_1978,OK_sen,OK_1978,Oklahoma,OK,1978,0,David L  Boren,Robert B  Kamm,1,0,0,0,0
+738,OK_sen_1980,OK_sen,OK_1980,Oklahoma,OK,1980,1,Don Nickles,Andrew Coats,1,0,0,0,0
+739,OK_sen_1986,OK_sen,OK_1986,Oklahoma,OK,1986,1,Don Nickles,James R  Jones,1,0,0,1,0
+740,OK_sen_1986,OK_sen,OK_1986,Oklahoma,OK,1986,1,Don Nickles,James R  Jones,1,0,0,1,0
+741,OK_sen_1986,OK_sen,OK_1986,Oklahoma,OK,1986,1,Don Nickles,James R  Jones,1,0,0,1,0
+742,OK_sen_1992,OK_sen,OK_1992,Oklahoma,OK,1992,1,Don Nickles,Steve Lewis,1,0,0,1,0
+743,OK_sen_1996,OK_sen,OK_1996,Oklahoma,OK,1996,1,Jim Inhofe,James Boren,1,0,0,1,0
+744,OK_sen_1998,OK_sen,OK_1998,Oklahoma,OK,1998,1,Don Nickles,Don Carroll,1,0,0,1,0
+745,OK_sen_2002,OK_sen,OK_2002,Oklahoma,OK,2002,1,Jim Inhofe,David Walters,1,0,0,1,0
+746,OK_sen_2002,OK_sen,OK_2002,Oklahoma,OK,2002,1,Jim Inhofe,David Walters,1,0,0,1,0
+747,OK_sen_2004,OK_sen,OK_2004,Oklahoma,OK,2004,1,Tom Coburn,Brad Carson,1,0,0,0,0
+748,OK_sen_2002,OK_sen,OK_2002,Oklahoma,OK,2002,1,Jim Inhofe,Andrew Rice,1,0,0,1,0
+749,OK_sen_2010,OK_sen,OK_2010,Oklahoma,OK,2010,1,Tom Coburn,Jim Rogers,1,0,0,1,0
+750,OK_sen_2014,OK_sen,OK_2014,Oklahoma,OK,2014,1,Jim Inhofe,Matt Silverstein,1,0,0,1,0
+751,OK_sen_2016,OK_sen,OK_2016,Oklahoma,OK,2016,1,James Lankford,Mike Workman,1,0,0,1,0
+752,OK_sen_2014,OK_sen,OK_2014,Oklahoma,OK,2014,1,James Lankford,Connie Johnson,1,0,0,0,0
+753,OR_sen_1978,OR_sen,OR_1978,Oregon,OR,1978,1,Mark Hatfield,Vernon Cook,1,0,0,1,0
+754,OR_sen_1980,OR_sen,OR_1980,Oregon,OR,1980,1,Bob Packwood,Ted Kulongoski,1,0,0,1,0
+755,OR_sen_1984,OR_sen,OR_1984,Oregon,OR,1984,1,Mark Hatfield,Margie Hendriksen,1,0,0,1,0
+756,OR_sen_1986,OR_sen,OR_1986,Oregon,OR,1986,1,Bob Packwood,Rick Bauman,1,0,0,1,0
+757,OR_sen_1984,OR_sen,OR_1984,Oregon,OR,1984,1,Mark Hatfield,Margie Hendriksen,1,0,0,1,0
+758,OR_sen_1986,OR_sen,OR_1986,Oregon,OR,1986,1,Bob Packwood,Rick Bauman,1,0,0,1,0
+759,OR_sen_1986,OR_sen,OR_1986,Oregon,OR,1986,1,Bob Packwood,Rick Bauman,1,0,0,1,0
+760,OR_sen_1990,OR_sen,OR_1990,Oregon,OR,1990,1,Mark Hatfield,Harry Lonsdale,1,0,0,1,0
+761,OR_sen_1992,OR_sen,OR_1992,Oregon,OR,1992,1,Bob Packwood,Les AuCoin,1,0,0,1,0
+762,OR_sen_1996,OR_sen,OR_1996,Oregon,OR,1996,1,Gordon H  Smith,Tom Bruggere,1,0,0,0,0
+763,OR_sen_2002,OR_sen,OR_2002,Oregon,OR,2002,1,Gordon Smith,Bill Bradbury,1,0,0,1,0
+764,OR_sen_2002,OR_sen,OR_2002,Oregon,OR,2002,1,Gordon Smith,Bill Bradbury,1,0,0,1,0
+765,OR_sen_2002,OR_sen,OR_2002,Oregon,OR,2002,0,Jeff Merkley,Gordon Smith,1,0,0,1,0
+766,OR_sen_1996,OR_sen,OR_1996,Oregon,OR,1996,0,Ron Wyden,Gordon H  Smith,1,0,0,0,0
+767,PA_sen_1976,PA_sen,PA_1976,Pennsylvania,PA,1976,1,H  John Heinz III,William J,1,0,0,0,0
+768,PA_sen_1980,PA_sen,PA_1980,Pennsylvania,PA,1980,1,Arlen Specter,Pete Flaherty,1,0,0,0,0
+769,PA_sen_1982,PA_sen,PA_1982,Pennsylvania,PA,1982,1,H  John Heinz III,Cyril Wecht,1,0,0,1,0
+770,PA_sen_1986,PA_sen,PA_1986,Pennsylvania,PA,1986,1,Arlen Specter,Robert W  Edgar,1,0,0,1,0
+771,PA_sen_1982,PA_sen,PA_1982,Pennsylvania,PA,1982,1,H  John Heinz III,Cyril Wecht,1,0,0,1,0
+772,PA_sen_1986,PA_sen,PA_1986,Pennsylvania,PA,1986,1,Arlen Specter,Robert W  Edgar,1,0,0,1,0
+773,PA_sen_1986,PA_sen,PA_1986,Pennsylvania,PA,1986,1,Arlen Specter,Robert W  Edgar,1,0,0,1,0
+774,PA_sen_1988,PA_sen,PA_1988,Pennsylvania,PA,1988,1,H  John Heinz III,Joseph C  Vignola,1,0,0,1,0
+775,PA_sen_1992,PA_sen,PA_1992,Pennsylvania,PA,1992,1,Arlen Specter,Lynn Yeakel,1,0,0,1,0
+776,PA_sen_1998,PA_sen,PA_1998,Pennsylvania,PA,1998,1,Arlen Specter,Bill Lloyd,1,0,0,1,0
+777,PA_sen_2000,PA_sen,PA_2000,Pennsylvania,PA,2000,1,Rick Santorum,Ron Klink,1,0,0,1,0
+778,PA_sen_2004,PA_sen,PA_2004,Pennsylvania,PA,2004,1,Arlen Specter,Joe Hoeffel,1,0,0,1,0
+779,PA_sen_2006,PA_sen,PA_2006,Pennsylvania,PA,2006,0,Bob Casey Jr ,Rick Santorum,1,0,0,1,0
+780,PA_sen_2016,PA_sen,PA_2016,Pennsylvania,PA,2016,1,Pat Toomey,Katie McGinty,1,0,0,1,0
+781,RI_sen_1982,RI_sen,RI_1982,Rhode_Island,RI,1982,1,John Chafee,Julius C  Michaelson,1,0,0,1,0
+782,RI_sen_1982,RI_sen,RI_1982,Rhode_Island,RI,1982,1,John Chafee,Julius C  Michaelson,1,0,0,1,0
+783,RI_sen_1988,RI_sen,RI_1988,Rhode_Island,RI,1988,1,John Chafee,Richard A  Licht,1,0,0,1,0
+784,RI_sen_1994,RI_sen,RI_1994,Rhode_Island,RI,1994,1,John Chafee,Linda Kushner,1,0,0,1,0
+785,RI_sen_2000,RI_sen,RI_2000,Rhode_Island,RI,2000,1,Lincoln Chafee,Robert Weygand,1,0,0,1,0
+786,RI_sen_2006,RI_sen,RI_2006,Rhode_Island,RI,2006,0,Sheldon Whitehouse,Lincoln Chafee,1,0,0,1,0
+787,SC_sen_1978,SC_sen,SC_1978,South_Carolina,SC,1978,1,Strom Thurmond,Charles D  Ravenel,1,0,0,1,0
+788,SC_sen_1984,SC_sen,SC_1984,South_Carolina,SC,1984,1,Strom Thurmond,,1,0,0,1,0
+789,SC_sen_1984,SC_sen,SC_1984,South_Carolina,SC,1984,1,Strom Thurmond,,1,0,0,1,0
+790,SC_sen_1990,SC_sen,SC_1990,South_Carolina,SC,1990,1,Strom Thurmond,Bob Cunningham,1,0,0,1,0
+791,SC_sen_1996,SC_sen,SC_1996,South_Carolina,SC,1996,1,Strom Thurmond,Elliot Close,1,0,0,1,0
+792,SC_sen_2002,SC_sen,SC_2002,South_Carolina,SC,2002,1,Lindsey Graham,Alex Sanders,1,0,0,0,0
+793,SC_sen_2002,SC_sen,SC_2002,South_Carolina,SC,2002,1,Lindsey Graham,Alex Sanders,1,0,0,0,0
+794,SC_sen_2002,SC_sen,SC_2002,South_Carolina,SC,2002,1,Lindsey Graham,Bob Conley,1,0,0,1,0
+795,SC_sen_2010,SC_sen,SC_2010,South_Carolina,SC,2010,1,Jim DeMint,Alvin Greene,1,0,0,1,0
+796,SC_sen_2014,SC_sen,SC_2014,South_Carolina,SC,2014,1,Lindsey Graham,Brad Hutto,1,0,0,1,0
+797,SC_sen_2016,SC_sen,SC_2016,South_Carolina,SC,2016,1,Tim Scott,Thomas Dixon,1,0,0,1,0
+798,SC_sen_2014,SC_sen,SC_2014,South_Carolina,SC,2014,1,Tim Scott,Joyce Dickerson,1,0,0,1,0
+799,SD_sen_1984,SD_sen,SD_1984,South_Dakota,SD,1984,1,Larry Pressler,George V  Cunningham,1,0,0,1,0
+800,SD_sen_1986,SD_sen,SD_1986,South_Dakota,SD,1986,0,Tom Daschle,James Abdnor,1,0,0,1,0
+801,SD_sen_1984,SD_sen,SD_1984,South_Dakota,SD,1984,1,Larry Pressler,George V  Cunningham,1,0,0,1,0
+802,SD_sen_1986,SD_sen,SD_1986,South_Dakota,SD,1986,0,Tom Daschle,James Abdnor,1,0,0,1,0
+803,SD_sen_1986,SD_sen,SD_1986,South_Dakota,SD,1986,0,Tom Daschle,James Abdnor,1,0,0,1,0
+804,SD_sen_1990,SD_sen,SD_1990,South_Dakota,SD,1990,1,Larry Pressler,Ted Muenster,1,0,0,1,0
+805,SD_sen_1996,SD_sen,SD_1996,South_Dakota,SD,1996,0,Tim Johnson,Larry Pressler,1,0,0,1,0
+806,SD_sen_2010,SD_sen,SD_2010,South_Dakota,SD,2010,1,John Thune  Republican,Unopposed,1,0,1,1,0
+807,SD_sen_2016,SD_sen,SD_2016,South_Dakota,SD,2016,1,John Thune,Jay Williams,1,0,0,1,0
+808,TN_sen_1976,TN_sen,TN_1976,Tennessee,TN,1976,0,Jim Sasser,Bill Brock,1,0,0,1,0
+809,TN_sen_1978,TN_sen,TN_1978,Tennessee,TN,1978,1,Howard Baker,Jane Eskind,1,0,0,1,0
+810,TN_sen_1984,TN_sen,TN_1984,Tennessee,TN,1984,0,Al Gore,Victor Ashe,1,0,0,0,0
+811,TN_sen_1984,TN_sen,TN_1984,Tennessee,TN,1984,0,Al Gore,Victor Ashe,1,0,0,0,0
+812,TN_sen_1996,TN_sen,TN_1996,Tennessee,TN,1996,1,Fred Thompson,J  Houston Gordon,1,0,0,1,0
+813,TN_sen_2000,TN_sen,TN_2000,Tennessee,TN,2000,1,Bill Frist,Jeff Clark,1,0,0,1,0
+814,TN_sen_2002,TN_sen,TN_2002,Tennessee,TN,2002,1,Lamar Alexander,Bob Clement,1,0,0,0,0
+815,TN_sen_2002,TN_sen,TN_2002,Tennessee,TN,2002,1,Lamar Alexander,Bob Clement,1,0,0,0,0
+816,TN_sen_2006,TN_sen,TN_2006,Tennessee,TN,2006,1,Bob Corker,,1,0,0,0,0
+817,TN_sen_2002,TN_sen,TN_2002,Tennessee,TN,2002,1,Lamar Alexander,Bob Tuke,1,0,0,1,0
+818,TN_sen_2012,TN_sen,TN_2012,Tennessee,TN,2012,1,Bob Corker,Mark Clayton,1,0,0,1,0
+819,TN_sen_2014,TN_sen,TN_2014,Tennessee,TN,2014,1,Lamar Alexander,Gordon Ball,1,0,0,1,0
+820,TX_sen_1978,TX_sen,TX_1978,Texas,TX,1978,1,John Tower,Bob Krueger,1,0,0,1,0
+821,TX_sen_1984,TX_sen,TX_1984,Texas,TX,1984,1,Phil Gramm,Lloyd Doggett,1,0,0,0,0
+822,TX_sen_1984,TX_sen,TX_1984,Texas,TX,1984,1,Phil Gramm,Lloyd Doggett,1,0,0,0,0
+823,TX_sen_1990,TX_sen,TX_1990,Texas,TX,1990,1,Phil Gramm,Hugh Parmer,1,0,0,1,0
+824,TX_sen_1994,TX_sen,TX_1994,Texas,TX,1994,1,Kay Bailey Hutchison,Richard W  Fisher,1,0,0,1,0
+825,TX_sen_1996,TX_sen,TX_1996,Texas,TX,1996,1,Phil Gramm,Victor Morales,1,0,0,1,0
+826,TX_sen_2000,TX_sen,TX_2000,Texas,TX,2000,1,Kay Bailey Hutchison,Gene Kelly,1,0,0,1,0
+827,TX_sen_2002,TX_sen,TX_2002,Texas,TX,2002,1,John Cornyn,Ron Kirk,1,0,0,0,0
+828,TX_sen_2002,TX_sen,TX_2002,Texas,TX,2002,1,John Cornyn,Ron Kirk,1,0,0,0,0
+829,TX_sen_2006,TX_sen,TX_2006,Texas,TX,2006,1,Kay Bailey Hutchison,Barbara Ann Radnofsky,1,0,0,1,0
+830,TX_sen_2002,TX_sen,TX_2002,Texas,TX,2002,1,John Cornyn,Rick Noriega,1,0,0,1,0
+831,TX_sen_2012,TX_sen,TX_2012,Texas,TX,2012,1,Ted Cruz,Paul Sadler,1,0,0,0,0
+832,TX_sen_2014,TX_sen,TX_2014,Texas,TX,2014,1,John Cornyn,David Alameel,1,0,0,1,0
+833,UT_sen_1980,UT_sen,UT_1980,Utah,UT,1980,1,Jake Garn,Dan Berman,1,0,0,1,0
+834,UT_sen_1982,UT_sen,UT_1982,Utah,UT,1982,1,Orrin G  Hatch,Ted Wilson,1,0,0,0,0
+835,UT_sen_1986,UT_sen,UT_1986,Utah,UT,1986,1,Jake Garn,Craig Oliver,1,0,0,1,0
+836,UT_sen_1982,UT_sen,UT_1982,Utah,UT,1982,1,Orrin G  Hatch,Ted Wilson,1,0,0,0,0
+837,UT_sen_1986,UT_sen,UT_1986,Utah,UT,1986,1,Jake Garn,Craig Oliver,1,0,0,1,0
+838,UT_sen_1986,UT_sen,UT_1986,Utah,UT,1986,1,Jake Garn,Craig Oliver,1,0,0,1,0
+839,UT_sen_1988,UT_sen,UT_1988,Utah,UT,1988,1,Orrin Hatch,Brian Moss,1,0,0,1,0
+840,UT_sen_1992,UT_sen,UT_1992,Utah,UT,1992,1,Robert Foster Bennett,Wayne Owens,1,0,0,0,0
+841,UT_sen_1994,UT_sen,UT_1994,Utah,UT,1994,1,Orrin Hatch,Patrick Shea,1,0,0,1,0
+842,UT_sen_1998,UT_sen,UT_1998,Utah,UT,1998,1,Bob Bennett,Scott Leckman,1,0,0,1,0
+843,UT_sen_2000,UT_sen,UT_2000,Utah,UT,2000,1,Orrin Hatch,Scott Howell,1,0,0,1,0
+844,UT_sen_2004,UT_sen,UT_2004,Utah,UT,2004,1,Robert Foster Bennett,Paul Van Dam,1,0,0,0,0
+845,UT_sen_2006,UT_sen,UT_2006,Utah,UT,2006,1,Orrin Hatch,Pete Ashdown,1,0,0,1,0
+846,UT_sen_2010,UT_sen,UT_2010,Utah,UT,2010,1,Mike Lee,Sam Granato,1,0,0,0,0
+847,UT_sen_2012,UT_sen,UT_2012,Utah,UT,2012,1,Orrin Hatch,Scott Howell,1,0,0,1,0
+848,UT_sen_2016,UT_sen,UT_2016,Utah,UT,2016,1,Mike Lee,Misty K  Snow,1,0,0,1,0
+849,VT_sen_1976,VT_sen,VT_1976,Vermont,VT,1976,1,Robert Stafford,Thomas P  Salmon,1,0,0,1,0
+850,VT_sen_1982,VT_sen,VT_1982,Vermont,VT,1982,1,Robert Stafford,James A  Guest,1,0,0,1,0
+851,VT_sen_1982,VT_sen,VT_1982,Vermont,VT,1982,1,Robert Stafford,James A  Guest,1,0,0,1,0
+852,VT_sen_1988,VT_sen,VT_1988,Vermont,VT,1988,1,Jim Jeffords,William Gray,1,0,0,0,0
+853,VT_sen_1994,VT_sen,VT_1994,Vermont,VT,1994,1,Jim Jeffords,Jan Backus,1,0,0,1,0
+854,VT_sen_2000,VT_sen,VT_2000,Vermont,VT,2000,1,Jim Jeffords,Ed Flanagan,1,0,0,1,0
+855,VA_sen_1978,VA_sen,VA_1978,Virginia,VA,1978,1,John Warner,Andrew P  Miller,1,0,0,0,0
+856,VA_sen_1984,VA_sen,VA_1984,Virginia,VA,1984,1,John Warner,Edythe C  Harrison,1,0,0,1,0
+857,VA_sen_1984,VA_sen,VA_1984,Virginia,VA,1984,1,John Warner,Edythe C  Harrison,1,0,0,1,0
+858,VA_sen_1988,VA_sen,VA_1988,Virginia,VA,1988,0,Chuck Robb,Maurice A  Dawkins,1,0,0,0,0
+859,VA_sen_1990,VA_sen,VA_1990,Virginia,VA,1990,1,John Warner,Nancy B  Spannaus,1,0,0,1,0
+860,VA_sen_1996,VA_sen,VA_1996,Virginia,VA,1996,1,John Warner,Mark Warner,1,0,0,1,0
+861,VA_sen_2002,VA_sen,VA_2002,Virginia,VA,2002,1,John Warner,Nancy Spannaus,1,0,0,1,0
+862,VA_sen_2002,VA_sen,VA_2002,Virginia,VA,2002,1,John Warner,Nancy Spannaus,1,0,0,1,0
+863,VA_sen_2006,VA_sen,VA_2006,Virginia,VA,2006,0,Jim Webb,George Allen,1,0,0,1,0
+864,VA_sen_2002,VA_sen,VA_2002,Virginia,VA,2002,0,Mark Warner,Jim Gilmore,1,0,0,0,0
+865,WA_sen_1986,WA_sen,WA_1986,Washington,WA,1986,0,Brock Adams,Slade Gorton,1,0,0,1,0
+866,WA_sen_1986,WA_sen,WA_1986,Washington,WA,1986,0,Brock Adams,Slade Gorton,1,0,0,1,0
+867,WA_sen_1986,WA_sen,WA_1986,Washington,WA,1986,0,Brock Adams,Slade Gorton,1,0,0,1,0
+868,WA_sen_1988,WA_sen,WA_1988,Washington,WA,1988,1,Slade Gorton,Mike Lowry,1,0,0,0,0
+869,WA_sen_1994,WA_sen,WA_1994,Washington,WA,1994,1,Slade Gorton,Ron Sims,1,0,0,1,0
+870,WA_sen_2000,WA_sen,WA_2000,Washington,WA,2000,0,Maria Cantwell,Slade Gorton,1,0,0,1,0
+871,WI_sen_1986,WI_sen,WI_1986,Wisconsin,WI,1986,1,Bob Kasten,Ed Garvey,1,0,0,1,0
+872,WI_sen_1986,WI_sen,WI_1986,Wisconsin,WI,1986,1,Bob Kasten,Ed Garvey,1,0,0,1,0
+873,WI_sen_1986,WI_sen,WI_1986,Wisconsin,WI,1986,1,Bob Kasten,Ed Garvey,1,0,0,1,0
+874,WI_sen_1992,WI_sen,WI_1992,Wisconsin,WI,1992,0,Russ Feingold,Bob Kasten,1,0,0,1,0
+875,WI_sen_2016,WI_sen,WI_2016,Wisconsin,WI,2016,1,Ron Johnson,Russ Feingold,1,0,0,1,0
+876,WY_sen_1978,WY_sen,WY_1978,Wyoming,WY,1978,1,Alan K  Simpson,Raymond B  Whitaker,1,0,0,0,0
+877,WY_sen_1982,WY_sen,WY_1982,Wyoming,WY,1982,1,Malcolm Wallop,Rodger McDaniel,1,0,0,1,0
+878,WY_sen_1984,WY_sen,WY_1984,Wyoming,WY,1984,1,Alan K  Simpson,Victor A  Ryan,1,0,0,1,0
+879,WY_sen_1982,WY_sen,WY_1982,Wyoming,WY,1982,1,Malcolm Wallop,Rodger McDaniel,1,0,0,1,0
+880,WY_sen_1984,WY_sen,WY_1984,Wyoming,WY,1984,1,Alan K  Simpson,Victor A  Ryan,1,0,0,1,0
+881,WY_sen_1988,WY_sen,WY_1988,Wyoming,WY,1988,1,Malcolm Wallop,John Vinich,1,0,0,1,0
+882,WY_sen_1990,WY_sen,WY_1990,Wyoming,WY,1990,1,Alan K  Simpson,Kathy Helling,1,0,0,1,0
+883,WY_sen_1994,WY_sen,WY_1994,Wyoming,WY,1994,1,Craig Thomas,Mike Sullivan,1,0,0,0,0
+884,WY_sen_1996,WY_sen,WY_1996,Wyoming,WY,1996,1,Mike Enzi,Kathy Karpan,1,0,0,0,0
+885,WY_sen_2000,WY_sen,WY_2000,Wyoming,WY,2000,1,Craig L  Thomas,Mel Logan,1,0,0,1,0
+886,WY_sen_2002,WY_sen,WY_2002,Wyoming,WY,2002,1,Mike Enzi,Joyce Jansa Corcoran,1,0,0,1,0
+887,WY_sen_2002,WY_sen,WY_2002,Wyoming,WY,2002,1,Mike Enzi,Joyce Jansa Corcoran,1,0,0,1,0
+888,WY_sen_2006,WY_sen,WY_2006,Wyoming,WY,2006,1,Craig L  Thomas,Dale Groutage,1,0,0,1,0
+889,WY_sen_2002,WY_sen,WY_2002,Wyoming,WY,2002,1,Mike Enzi,Chris Rothfuss,1,0,0,1,0
+890,WY_sen_2012,WY_sen,WY_2012,Wyoming,WY,2012,1,John Barrasso,Tim Chesnut,1,0,0,1,0
+891,WY_sen_2014,WY_sen,WY_2014,Wyoming,WY,2014,1,Mike Enzi,Charlie Hardy,1,0,0,1,0
+892,WY_sen_2002,WY_sen,WY_2002,Wyoming,WY,2002,1,John Barrasso,Nick Carter,1,0,0,1,0
