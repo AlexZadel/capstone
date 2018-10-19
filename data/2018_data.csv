@@ -1,72 +1,36 @@
-race_id,office,state_full,state,year,incum_party
-2018_AZ_sen,AZ_sen,Arizona,AZ,2018,R
-2018_CA_sen,CA_sen,California,CA,2018,D
-2018_CT_sen,CT_sen,Connecticut,CT,2018,D
-2018_DE_sen,DE_sen,Delaware,DE,2018,D
-2018_FL_sen,FL_sen,Florida,FL,2018,D
-2018_HI_sen,HI_sen,Hawaii,HI,2018,D
-2018_IN_sen,IN_sen,Indiana,IN,2018,D
-2018_ME_sen,ME_sen,Maine,ME,2018,D
-2018_MD_sen,MD_sen,Maryland,MD,2018,D
-2018_MA_sen,MA_sen,Massachusetts,MA,2018,D
-2018_MI_sen,MI_sen,Michigan,MI,2018,D
-2018_MN_sen,MN_sen,Minnesota,MN,2018,D
-2018_MN_sen,MN_sen,Minnesota special election,MN,2018,D
-2018_MI_sen,MI_sen,Mississippi,MI,2018,R
-2018_MI_sen,MI_sen,Mississippi special election,MI,2018,R
-2018_MO_sen,MO_sen,Missouri,MO,2018,D
-2018_MT_sen,MT_sen,Montana,MT,2018,D
-2018_NE_sen,NE_sen,Nebraska,NE,2018,R
-2018_NV_sen,NV_sen,Nevada,NV,2018,R
-2018_NJ_sen,NJ_sen,New Jersey,NJ,2018,D
-2018_NM_sen,NM_sen,New Mexico,NM,2018,D
-2018_NY_sen,NY_sen,New York,NY,2018,D
-2018_ND_sen,ND_sen,North Dakota,ND,2018,D
-2018_OH_sen,OH_sen,Ohio,OH,2018,D
-2018_PA_sen,PA_sen,Pennsylvania,PA,2018,D
-2018_RI_sen,RI_sen,Rhode Island,RI,2018,D
-2018_TN_sen,TN_sen,Tennessee,TN,2018,R
-2018_TX_sen,TX_sen,Texas,TX,2018,R
-2018_UT_sen,UT_sen,Utah,UT,2018,R
-2018_VT_sen,VT_sen,Vermont,VT,2018,D
-2018_VA_sen,VA_sen,Virginia,VA,2018,D
-2018_WA_sen,WA_sen,Washington,WA,2018,D
-2018_WV_sen,WV_sen,West Virginia,WV,2018,D
-2018_WI_sen,WI_sen,Wisconsin,WI,2018,D
-2018_WY_sen,WY_sen,Wyoming,WY,2018,R
-2018_AL_gov,AL_gov,Alabama,AL,2018,R
-2018_AK_gov,AK_gov,Alaska,AK,2018,I
-2018_AZ_gov,AZ_gov,Arizona,AZ,2018,R
-2018_AR_gov,AR_gov,Arkansas,AR,2018,R
-2018_CA_gov,CA_gov,California,CA,2018,D
-2018_CO_gov,CO_gov,Colorado,CO,2018,D
-2018_CT_gov,CT_gov,Connecticut,CT,2018,D
-2018_FL_gov,FL_gov,Florida,FL,2018,R
-2018_GA_gov,GA_gov,Georgia,GA,2018,R
-2018_HI_gov,HI_gov,Hawaii,HI,2018,D
-2018_ID_gov,ID_gov,Idaho,ID,2018,R
-2018_IL_gov,IL_gov,Illinois,IL,2018,R
-2018_IA_gov,IA_gov,Iowa,IA,2018,R
-2018_KS_gov,KS_gov,Kansas,KS,2018,R
-2018_ME_gov,ME_gov,Maine,ME,2018,R
-2018_MD_gov,MD_gov,Maryland,MD,2018,R
-2018_MA_gov,MA_gov,Massachusetts,MA,2018,R
-2018_MI_gov,MI_gov,Michigan,MI,2018,R
-2018_MN_gov,MN_gov,Minnesota,MN,2018,D
-2018_NE_gov,NE_gov,Nebraska,NE,2018,R
-2018_NV_gov,NV_gov,Nevada,NV,2018,R
-2018_NH_gov,NH_gov,New Hampshire,NH,2018,R
-2018_NM_gov,NM_gov,New Mexico,NM,2018,R
-2018_NY_gov,NY_gov,New York,NY,2018,D
-2018_OH_gov,OH_gov,Ohio,OH,2018,R
-2018_OK_gov,OK_gov,Oklahoma,OK,2018,R
-2018_OR_gov,OR_gov,Oregon,OR,2018,D
-2018_PA_gov,PA_gov,Pennsylvania,PA,2018,D
-2018_RI_gov,RI_gov,Rhode Island,RI,2018,D
-2018_SC_gov,SC_gov,South Carolina,SC,2018,R
-2018_SD_gov,SD_gov,South Dakota,SD,2018,R
-2018_TN_gov,TN_gov,Tennessee,TN,2018,R
-2018_TX_gov,TX_gov,Texas,TX,2018,R
-2018_VT_gov,VT_gov,Vermont,VT,2018,R
-2018_WI_gov,WI_gov,Wisconsin,WI,2018,R
-2018_WY_gov,WY_gov,Wyoming,WY,2018,R
+race_id,office,loc_date,state,abbrev,year,winner,rival,pred_GOP,pred_DEM,unopposed,inc_GOP_running,inc_DEM_running
+2018_AZ_sen,AZ_sen,AZ_2018,Arizona,AZ,2018,TBD,TBD,1,0,0,0,0
+2018_CA_sen,CA_sen,CA_2018,California,CA,2018,TBD,TBD,0,1,0,0,1
+2018_CT_sen,CT_sen,CT_2018,Connecticut,CT,2018,TBD,TBD,0,1,0,0,1
+2018_DE_sen,DE_sen,DE_2018,Delaware,DE,2018,TBD,TBD,0,1,0,0,1
+2018_FL_sen,FL_sen,FL_2018,Florida,FL,2018,TBD,TBD,0,1,0,0,1
+2018_HI_sen,HI_sen,HI_2018,Hawaii,HI,2018,TBD,TBD,0,1,0,0,1
+2018_IN_sen,IN_sen,IN_2018,Indiana,IN,2018,TBD,TBD,0,1,0,0,1
+2018_ME_sen,ME_sen,ME_2018,Maine,ME,2018,TBD,TBD,0,1,0,0,0
+2018_MD_sen,MD_sen,MD_2018,Maryland,MD,2018,TBD,TBD,0,1,0,0,1
+2018_MA_sen,MA_sen,MA_2018,Massachusetts,MA,2018,TBD,TBD,0,1,0,0,1
+2018_MI_sen,MI_sen,MI_2018,Michigan,MI,2018,TBD,TBD,0,1,0,0,1
+2018_MN_sen1,MN_sen1,MN_2018,Minnesota,MN,2018,TBD,TBD,0,1,0,0,1
+2018_MN_sen2,MN_sen2,MN_2018,Minnesota special election,MN,2018,TBD,TBD,0,1,0,0,1
+2018_MI_sen,MI_sen,MI_2018,Mississippi,MI,2018,TBD,TBD,1,0,0,1,0
+2018_MI_sen,MI_sen,MI_2018,Mississippi special election,MI,2018,TBD,TBD,1,0,0,1,0
+2018_MO_sen,MO_sen,MO_2018,Missouri,MO,2018,TBD,TBD,0,1,0,0,1
+2018_MT_sen,MT_sen,MT_2018,Montana,MT,2018,TBD,TBD,0,1,0,0,1
+2018_NE_sen,NE_sen,NE_2018,Nebraska,NE,2018,TBD,TBD,1,0,0,1,0
+2018_NV_sen,NV_sen,NV_2018,Nevada,NV,2018,TBD,TBD,1,0,0,1,0
+2018_NJ_sen,NJ_sen,NJ_2018,New Jersey,NJ,2018,TBD,TBD,0,1,0,0,1
+2018_NM_sen,NM_sen,NM_2018,New Mexico,NM,2018,TBD,TBD,0,1,0,0,1
+2018_NY_sen,NY_sen,NY_2018,New York,NY,2018,TBD,TBD,0,1,0,0,1
+2018_ND_sen,ND_sen,ND_2018,North Dakota,ND,2018,TBD,TBD,0,1,0,0,1
+2018_OH_sen,OH_sen,OH_2018,Ohio,OH,2018,TBD,TBD,0,1,0,0,1
+2018_PA_sen,PA_sen,PA_2018,Pennsylvania,PA,2018,TBD,TBD,0,1,0,0,1
+2018_RI_sen,RI_sen,RI_2018,Rhode Island,RI,2018,TBD,TBD,0,1,0,0,1
+2018_TN_sen,TN_sen,TN_2018,Tennessee,TN,2018,TBD,TBD,1,0,0,0,0
+2018_TX_sen,TX_sen,TX_2018,Texas,TX,2018,TBD,TBD,1,0,0,1,0
+2018_UT_sen,UT_sen,UT_2018,Utah,UT,2018,TBD,TBD,1,0,0,0,0
+2018_VT_sen,VT_sen,VT_2018,Vermont,VT,2018,TBD,TBD,0,1,0,0,1
+2018_VA_sen,VA_sen,VA_2018,Virginia,VA,2018,TBD,TBD,0,1,0,0,1
+2018_WA_sen,WA_sen,WA_2018,Washington,WA,2018,TBD,TBD,0,1,0,0,1
+2018_WV_sen,WV_sen,WV_2018,West Virginia,WV,2018,TBD,TBD,0,1,0,0,1
+2018_WI_sen,WI_sen,WI_2018,Wisconsin,WI,2018,TBD,TBD,0,1,0,0,1
+2018_WY_sen,WY_sen,WY_2018,Wyoming,WY,2018,TBD,TBD,1,0,0,1,0
