@@ -53,7 +53,7 @@ This project is intended as an academic analysis of election trends rather than 
 
 <p> Secondly, using candidates as the unit of analysis overlooks the dynamic relationship between any candidates in a race. Elections are not strictly zero-sum since turnout is a key element, but the fact is that any vote for a candidate is one against the other. Obviously candidates in the same election are not indepdent of one another. Separating candidates would in a way imply that they alone and their profile (and context) drive the number of votes they get or whether they win or lose a race. But that is simply not true. Elections are a comparison and to accurately represent that dynamic, candidates should be considered in tandem as part of a single unit: the election. </p>
 
-<p> Lastly, treating the question as a classification as opposed to a regression was a key factor in this decision as well. I will go further into that decision in the modeling section, but in my work that choice weighed significantly on how to structure the data. As a classification, it made more sense to classify a win or loss (as mentioned, oriented to the GOP as a win or loss) rather than a win or a loss for a particular candidate -- again due to multicollinearity concerns. </p>
+<p> Lastly, treating the question as a classification as opposed to a regression was a key factor in this decision as well. As a classification, it made more sense to classify a win or loss (as mentioned, oriented to the GOP as a win or loss) rather than a win or a loss for a particular candidate -- again due to multicollinearity concerns. </p>
 
 Having established what structure we want for the data, we can move to the discussion of how data was gathered and from what sources.
 
@@ -105,14 +105,109 @@ With our data joined to a single set of elections and their political, economic,
 ## Exploratory Data Analysis
 As much data as there is in this project, there is actually not a great amount of exploratory analysis that is immediately relevant or clear for the scope of this project. This is not because there is too little information but simply too much. A demographic, economic, and political analysis of a state could warrnat a study -- or book -- all its own. But we are interested in macro trends rather than state trends over time for this particularly study.
 
-That said, there are important pieces of information for us to check before jumping in to analysis. We want to make sure we understand the distribution of and relationship between our variables and any trends that may correlate strongly with time. 
+That said, there are important pieces of information for us to check before jumping in to analysis. We want to make sure we understand the distribution of and relationship between our variables and any trends that may correlate strongly with time. For example, we know that the Hispanic population of Arizona has monotonically increased over time. But that doesn't mean that Arizona hasnt followed unrelated trends in other states as well. We want to be sure that even if a variable is changing one way over time, it is not solely dominating the politics of a state. Ideally, we could look at this trend for every variable in every state. But with limited time, we instead want to be able to assume that each election is independent from one another and time to be able to model our outcomes.
 
+##### Variable correlation
+
+Here is the heatmap for our full set of variables (excluding identifier variables):
+
+![](https://github.com/AlexZadel/dsi_capstone/blob/master/visuals/heatmap.png?raw=true)
+
+
+A few notes from the heatmap:
+- The first thing that jumps out is of course the high positive correlation block in the middle of the map, specifically with the total population data for different groups. Fortunately there is a pretty simple explanation for that pattern. Each total population variable correlates rather strongly with the others because states with more population will have more of all of them! It's certainly not a 1:1 ratio, though for large racial groups and for the two sexes (listed), it is rather close. This is just a reflection that we expect more of every type of person in places where we have more people in general. It is a good trend to note when it comes to building our model though.
+
+- We can see another two patches of red and blue checkerboards in the upper left of the map. The larger is the variables for Presidential approval effects and the smaller is the incumbent party and candidate columns. It is not surprising that we see this pattern considering these are binary variables (or interact with binary variables), so they should have nearly perfect correlation or inverse correlation. Certainly we want to keep that in mind for dropping one category when we go to model.
+
+- A similar checkerboard pattern appears in the right corner, though not as clearly. This is once again because of needing to leave out a group for variables that sum to 1.
+
+-The year row, the very first in the map, is reassuring to any concerns about time correlation. We can see that the balance between different age groups has changed over time, which we know reflects demographic changes in the country. But this correlation is not so high as to be a major concern. There is a pattern to the Presidential approval as well but that is not entirely surprising given that Presidencies are fixed temporal terms so we'll get some continuity with multiple terms or if a party keeps its hold on the Presidency.
+
+- Looking at our target variable, 'GOP_win', we can see that the biggest correlation comes with incumbent candidates. Some light relationship with racial balance variables could indicate where some of the distinguishing variation originates as well.
+
+##### Variable Distribution
+There are few variables where it is worth checking their distribution to be certain they do not introduce bias into our model.
+
+
+| Variable      | Mean | Percentage
+| ----------- | ----------- |
+| GOP_win      |   0.496847     | 49.6%
+| pred_GOP   | 0.518285    | 51.8 %
+| inc_GOP_running   | 0.409836   | 41.0%
+| inc_DEM_running  | 0.360656  | 36.1 %
+| prez_GOP   |  0.602774 | 60.3%
+| percent_female   |0.508948   | 50.9 %
+|  unopposed | 0.005044  | 0.5 %
+
+We can see from this table that the two major parties have each one about half of the Senate elections in our analysis period. They were also the incumbent party in roughly half of those races. (Unsurprisingly those two numbers are close given the incumbency advantage). Furthermore from the two incumbent variables, we can see that an incumbent candidate is running in roughly 76% of the elections in our dataset. That could certainly be a source of bias to be concerned with when trying to project years where there are no incumbents.
+
+We have a balance between the sexes throughout the observation period, which is important given the gender cap in voting behavior. The age and racial balances change over time, as we saw in the heatmap above.
+
+Finally, we an see that we have a few cases in our model where candidates have run unopposed. This is particularly ucommon in Senate elections, but certainly happens. Given that they are a strange case, it may be worth excluding them from the model, though there are so few that bias seems unlikely to have a major effect. That said, those elections can still tell us something, because maybe there is a reason nobody from the other party wanted to run? Maybe the thought they had no chance!
+
+As I noted before, looking through each variable for each state might provide more insights, but time prohibits that depth of exploration, so we are forced to assume relative independence between elections.
 
 ## Modeling
+#### Last Preparations
+All of the steps desribed here can be found in the [Modeling Notebook](https://github.com/AlexZadel/dsi_capstone/blob/master/notebooks/5__Senate%20Modeling.ipynb)
 
+With EDA complete, we can begin modeling, but we need to start by addressing some of the issues that we found in the EDA analysis.
+
+Firstly, we want to begin by using the percentage values for race, age, and sex. Given their high correlation, there could be serious pitfalls in using the total values. So we start by dropping all the total amount columns in the census section.
+
+Next I dropped an "odd man out" for each collinear/binary group: "percent_male", "percent_under_18", "percent_race_natamer".
+
+From there, we can begin modeling.
+
+#### Modeling
+To be as rigorous as possible, I ran the data through seven types of classifiers: Logistic Regression, KNeighbors Classification, Decision Tree Classification, Bagging Classification, Random Forest Classification, Adaboost Classification, and a Support Vector Machine Classifier.
+
+##### Cross Validation Score
+I began by calculating cross validation scores for each model: <p>
+
+| Model | Mean CV Score | Std CV Scores |
+| ------ | ---------- | ---- |
+| Logistic Regression  | 0.80977  | 0.01127  |
+| KNeighbors Classification  | 0.79464  |  0.03875 |
+| Decision Tree Classification  | 0.78114  |  0.03145 |
+| Bagging Classification  |   0.82830  | 0.02016   |
+| Random Forest Classification  | 0.82488  | 0.03863  |
+| Adaboost Classification  | 0.81987  | 0.02027  |
+| Support Vector Machine Classifier  | 0.80474  |  0.0183
+
+There are quite a few good scores in these preliminary tests, which is promising for modeling. The all have solid CV Scores and low score standard deviations.
+
+
+##### Modeling with GridSearchCV
+
+The next step is to run each of these models through a grid search. In order to incorporate cross validation, I chose to use the GridSerachCV package. As you can see in the notebook,
+
+| Model | Training Accuracy | Test Accuracy |
+| ------ | ---------- | ---- |
+| Logistic Regression  | 81.5%  | 84.9%  |
+| KNeighbors Classification  |  99.7% |  89.9% |
+| Decision Tree Classification  | 99.7%  |  85.4% |
+| Bagging Classification  |  78.6% | 79.4%   |
+| Random Forest Classification  |  99.5%  | 89.4%  |
+| Adaboost Classification  | 93.8%  |  86.4% |
+| Support Vector Machine Classifier  | 80.8%  | 84.9%
+
+##### Final Model: Choosing Between Two
+Based on the results of the grid search, I chose two models to further refine and test: the KNeighbors Classifier and the Random Forest Classifier. Given their high training scores, they are clearly overfit in the grid search versions. However, their test accuracy values are still high. My hope was that by tuning these models further, I can cut back on the overfitting while reaching 90% with the test accuracy.
+
+Once again, I ran a grid search, but over a broader range of parameters for each model.
+Next I used the information from those grid searches to tune the two classifiers further, with the hope of preventing the models from learning so far as to overfit.
+
+These were the final results of the two models:
+
+- KNeighbors Classifier: <br>
+Training Accuracy:  <br>
+Test Accuracy:   <br>
+
+
+- Random Forest Classifier: <br>
+Training Accuracy:  <br>
+Test Accuracy:   <br>
+ 
 
 ## Results
-
-
-
-## Looking Ahead
