@@ -3,25 +3,39 @@
 Research Question:
 What will the results be for the 2018 Senate elections?
 
+
+
+
 ## Goals
 The goals of this project are to:
-1. Compile a dataset of past election results and corresponding contextual data for the particular state, year, and jurisdiction of the election. 
-2. Build a predictive model for Senate election results based on the data gathered in Step 1.
-3. Use the model to predict outcomes of the 2018 Senate Elections.
+1. <p>Compile a dataset of past election results and corresponding contextual data for the particular state, year, and jurisdiction of the election.
+2. <p>Build a predictive model for Senate election results
+3. <p>Use the model to predict outcomes of the 2018 Senate Elections.
+
+For a full description of the data gathering, data exploration, and modeling methodology, please see the **[Technical Report](https://github.com/AlexZadel/dsi_capstone/blob/master/technical_report.md)**
 
 
-## Technical Report
-A detailed disucssion of this project and the steps taken in analysis can be found in this [technical report]().
+## Executive Summary
 
-## Data
-The data for this project was compiled from government records of election outcomes, economic statistics, and census data.
-For a full explanation of the data, see the [data dictionary]().
+
+The goal of this project is to build a model to predict Senate election results based on economic data, census surveys, and prior election outcomes from every year since 1976.
+
+- The data for this project was obtained from public data sets and government soruces. For a full explanation of the source data and compiled data set, please see the [data dictionary](https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md).
+
+- The final models predict with roughly 90% accuracy on testing data. It was then used to predict the outcomes of the 2018 Senate elections.
+
+- The models are designed to be politically unbiased in the sense they do not value one predicted outcome over another. In this sense, the value of the model lies in correct predictions. Therefore this model was calibrated to maximize accuracy rather over another metric.
+
+- This model shows promise, but there are still many ways it could be improved given sufficient time and data. The model was also designed with the specific intention of being general enough to be applied to House of Representatives and gubernatorial campaigns. The concluding section of this report goes into deeper detail on these possibilities.
+
+This project was completed as my capstone project for the Data Science Immersive program at General Assembly.
+
 
 ## Technologies Used
 Data consolidation and cleaning was done using Python and Microsoft Excel.
-- ***Modeling:*** [scikit-learn](http://scikit-learn.org/stable/)
-- ***Data Management***: [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/)
-- ***Visualizations***: [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
+- <p> ***Modeling:*** [scikit-learn](http://scikit-learn.org/stable/)
+- <p> ***Data Management***: [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/)
+- <p> ***Visualizations***: [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
 
 
 ## Note:
@@ -39,7 +53,7 @@ States with Senate Elections in 2018:
 - Michigan
 - Minnesota (2)
 - Mississippi (2)
-- Missouri 
+- Missouri
 - Montana
 - Nebraska
 - Nevada
@@ -59,9 +73,3 @@ States with Senate Elections in 2018:
 - West Virginia
 - Wisconsin
 - Wyoming
-
-
-
-
-
-
