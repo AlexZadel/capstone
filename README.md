@@ -1,6 +1,6 @@
 # Capstone for Data Science Immersive Program at General Assembly
 
-## Research Questions
+Research Question:
 What will the results be for the 2018 Senate elections?
 
 ## Goals
