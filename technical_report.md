@@ -167,13 +167,13 @@ I began by calculating cross validation scores for each model: <p>
 
 | Model | Mean CV Score | Std CV Scores |
 | ------ | ---------- | ---- |
-| Logistic Regression  | 0.80977  | 0.01127  |
-| KNeighbors Classification  | 0.79464  |  0.03875 |
-| Decision Tree Classification  | 0.78114  |  0.03145 |
-| Bagging Classification  |   0.82830  | 0.02016   |
-| Random Forest Classification  | 0.82488  | 0.03863  |
-| Adaboost Classification  | 0.81987  | 0.02027  |
-| Support Vector Machine Classifier  | 0.80474  |  0.0183
+| Logistic Regression  | 0.8081  | 0.02737  |
+| KNeighbors Classification  | 0.7995  | 0.02922 |
+| Decision Tree Classification  | 0.7946  |  0.01872 |
+| Bagging Classification  |   0.8433  | 0.02082   |
+| Random Forest Classification  | 0.8333  | 0.01506  |
+| Adaboost Classification  | 0.8367  | 0.03256  |
+| Support Vector Machine Classifier  | 0.8081  |  0.04062
 
 There are quite a few good scores in these preliminary tests, which is promising for modeling. The all have solid CV Scores and low score standard deviations.
 
@@ -184,13 +184,13 @@ The next step is to run each of these models through a grid search. In order to 
 
 | Model | Training Accuracy | Test Accuracy |
 | ------ | ---------- | ---- |
-| Logistic Regression  | 81.5%  | 84.9%  |
-| KNeighbors Classification  |  99.7% |  89.9% |
-| Decision Tree Classification  | 99.7%  |  85.4% |
-| Bagging Classification  |  78.6% | 79.4%   |
-| Random Forest Classification  |  99.5%  | 89.4%  |
-| Adaboost Classification  | 93.8%  |  86.4% |
-| Support Vector Machine Classifier  | 80.8%  | 84.9%
+| Logistic Regression  | 82.0%  | 83.9%  |
+| KNeighbors Classification  |  99.4% |  89.9% |
+| Decision Tree Classification  | 99.5%  |  87.9% |
+| Bagging Classification  |  96.0% | 87.9%   |
+| Random Forest Classification  |  99.5%  | 90.9%  |
+| Adaboost Classification  | 93.3%  |  81.4% |
+| Support Vector Machine Classifier  | 81.2%  | 82.4%
 
 ##### Final Model: Choosing Between Two
 Based on the results of the grid search, I chose two models to further refine and test: the KNeighbors Classifier and the Random Forest Classifier. Given their high training scores, they are clearly overfit in the grid search versions. However, their test accuracy values are still high. My hope was that by tuning these models further, I can cut back on the overfitting while reaching 90% with the test accuracy.
@@ -208,6 +208,6 @@ Test Accuracy:   <br>
 - Random Forest Classifier: <br>
 Training Accuracy:  <br>
 Test Accuracy:   <br>
- 
+
 
 ## Results

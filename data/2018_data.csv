@@ -12,8 +12,8 @@ race_id,office,loc_date,state,abbrev,year,winner,rival,pred_GOP,pred_DEM,unoppos
 2018_MI_sen,MI_sen,MI_2018,Michigan,MI,2018,TBD,TBD,0,1,0,0,1
 2018_MN_sen1,MN_sen1,MN_2018,Minnesota,MN,2018,TBD,TBD,0,1,0,0,1
 2018_MN_sen2,MN_sen2,MN_2018,Minnesota special election,MN,2018,TBD,TBD,0,1,0,0,1
-2018_MI_sen,MI_sen,MI_2018,Mississippi,MI,2018,TBD,TBD,1,0,0,1,0
-2018_MI_sen,MI_sen,MI_2018,Mississippi special election,MI,2018,TBD,TBD,1,0,0,1,0
+2018_MS_sen,MS_sen,MI_2018,Mississippi,MS,2018,TBD,TBD,1,0,0,1,0
+2018_MS_sen,MS_sen,MI_2018,Mississippi special election,MS,2018,TBD,TBD,1,0,0,1,0
 2018_MO_sen,MO_sen,MO_2018,Missouri,MO,2018,TBD,TBD,0,1,0,0,1
 2018_MT_sen,MT_sen,MT_2018,Montana,MT,2018,TBD,TBD,0,1,0,0,1
 2018_NE_sen,NE_sen,NE_2018,Nebraska,NE,2018,TBD,TBD,1,0,0,1,0

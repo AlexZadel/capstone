@@ -1,0 +1,36 @@
+,race_id,state,abbrev,predictions
+0,2018_AZ_sen,Arizona,AZ,1
+1,2018_CA_sen,California,CA,0
+2,2018_CT_sen,Connecticut,CT,0
+3,2018_DE_sen,Delaware,DE,0
+4,2018_FL_sen,Florida,FL,0
+5,2018_HI_sen,Hawaii,HI,0
+6,2018_IN_sen,Indiana,IN,0
+7,2018_ME_sen,Maine,ME,0
+8,2018_MD_sen,Maryland,MD,0
+9,2018_MA_sen,Massachusetts,MA,0
+10,2018_MI_sen,Michigan,MI,0
+11,2018_MS_sen,Mississippi,MS,1
+12,2018_MS_sen,Mississippi special election,MS,1
+13,2018_MN_sen1,Minnesota,MN,0
+14,2018_MN_sen2,Minnesota special election,MN,0
+15,2018_MO_sen,Missouri,MO,0
+16,2018_MT_sen,Montana,MT,0
+17,2018_NE_sen,Nebraska,NE,1
+18,2018_NV_sen,Nevada,NV,1
+19,2018_NJ_sen,New Jersey,NJ,0
+20,2018_NM_sen,New Mexico,NM,0
+21,2018_NY_sen,New York,NY,0
+22,2018_ND_sen,North Dakota,ND,0
+23,2018_OH_sen,Ohio,OH,0
+24,2018_PA_sen,Pennsylvania,PA,0
+25,2018_RI_sen,Rhode Island,RI,0
+26,2018_TN_sen,Tennessee,TN,1
+27,2018_TX_sen,Texas,TX,1
+28,2018_UT_sen,Utah,UT,1
+29,2018_VT_sen,Vermont,VT,0
+30,2018_VA_sen,Virginia,VA,0
+31,2018_WA_sen,Washington,WA,0
+32,2018_WV_sen,West Virginia,WV,0
+33,2018_WI_sen,Wisconsin,WI,0
+34,2018_WY_sen,Wyoming,WY,1
