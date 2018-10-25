@@ -33,9 +33,9 @@ This project was completed as my capstone project for the Data Science Immersive
 
 ## Technologies Used
 Data consolidation and cleaning was done using Python and Microsoft Excel.
-- <p> ***Modeling:*** [scikit-learn](http://scikit-learn.org/stable/)
-- <p> ***Data Management***: [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/)
-- <p> ***Visualizations***: [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
+- <p> **Modeling:** [scikit-learn](http://scikit-learn.org/stable/)
+- <p> **Data Management**: [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/)
+- <p> **Visualizations** : [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
 
 
 ## Note:
