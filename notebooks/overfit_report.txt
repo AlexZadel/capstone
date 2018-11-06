@@ -1,0 +1,192 @@
+
+***START NEW SESSION***
+
+
+Logistic Regression
+
+Grid Search:
+Parameters: C: 0.100000 | penalty: l2 
+Train Accuracy: 0.849372     Test Accuracy:  0.800000 
+
+Logistic Regression
+
+Grid Search:
+Parameters: C: 0.200000 | penalty: l2 
+Train Accuracy: 0.845188     Test Accuracy:  0.800000 
+
+Logistic Regression
+
+Grid Search:
+Parameters: C: 0.200000 | penalty: l2 
+Train Accuracy: 0.845188     Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: C: 0.200000 | penalty: l2 
+Train Accuracy: 0.845188   Test Accuracy:  0.800000 
+
+
+KNN
+
+Grid Search:
+Parameters: N_neighbors: 11.000000 | Leaf Size: 1 | weights: distance 
+Train Accuracy: 1.000000    Test Accuracy:  0.766667 
+
+Modded Version: 
+Parameters: N_neighbors: 11.000000 | Leaf Size: 1 | weights: distance 
+Train Accuracy: 1.000000    Test Accuracy:  0.766667 
+
+
+Decision Tree
+
+Grid Search:
+Parameters: Criterion: gini | Max Depth: 1.000000 | Max Features: sqrt 
+Train Accuracy: 1.000000    Test Accuracy:  0.708333 
+
+Modded Version: 
+Parameters: Criterion: gini | Max Depth: 1.000000 | Max Features: sqrt 
+Train Accuracy: 0.757322    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: Criterion: gini | Max Depth: 10.000000 | Max Features: sqrt 
+Train Accuracy: 0.945607    Test Accuracy:  0.708333 
+
+Modded Version: 
+Parameters: Criterion: gini | Max Depth: 25.000000 | Max Features: sqrt 
+Train Accuracy: 1.000000    Test Accuracy:  0.691667 
+
+
+Bagging Classifier
+
+Grid Search:
+Parameters: N_estimators: 22 | Max Samples: 0.100000 
+Train Accuracy: 0.832636    Test Accuracy:  0.808333 
+
+
+Bagging Classifier
+
+Grid Search:
+Parameters: N_estimators: 24 | Max Samples: 0.100000 
+Train Accuracy: 0.847280    Test Accuracy:  0.808333 
+
+
+Bagging Classifier
+
+Grid Search:
+Parameters: N_estimators: 23 | Max Samples: 0.100000 
+Train Accuracy: 0.832636    Test Accuracy:  0.808333 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Max Samples: 0.500000 
+Train Accuracy: 0.939331    Test Accuracy:  0.816667 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Max Samples: 0.100000 
+Train Accuracy: 0.830544    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Max Samples: 1.000000 
+Train Accuracy: 0.512552    Test Accuracy:  0.475000 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Max Samples: 0.600000 
+Train Accuracy: 0.972803    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 30 | Max Samples: 0.600000 
+Train Accuracy: 0.974895    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Max Samples: 0.600000 
+Train Accuracy: 0.966527    Test Accuracy:  0.808333 
+
+Modded Version: 
+Parameters: N_estimators: 30 | Max Samples: 0.600000 
+Train Accuracy: 0.970711    Test Accuracy:  0.783333 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Max Samples: 0.600000 
+Train Accuracy: 0.968619    Test Accuracy:  0.783333 
+
+Modded Version: 
+Parameters: N_estimators: 30 | Max Samples: 0.600000 
+Train Accuracy: 0.970711    Test Accuracy:  0.783333 
+
+
+Random Forest
+
+Grid Search:
+Parameters: N_estimators: 19 | Criterion: gini | Max Depth: 15.000000 
+Train Accuracy: 0.993724    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 20 | Criterion: gini | Max Depth: 15.000000 
+Train Accuracy: 0.997908    Test Accuracy:  0.766667 
+
+Modded Version: 
+Parameters: N_estimators: 19 | Criterion: gini | Max Depth: 15.000000 
+Train Accuracy: 0.995816    Test Accuracy:  0.766667 
+
+Modded Version: 
+Parameters: N_estimators: 19 | Criterion: gini | Max Depth: 16.000000 
+Train Accuracy: 0.997908    Test Accuracy:  0.775000 
+
+Modded Version: 
+Parameters: N_estimators: 19 | Criterion: gini | Max Depth: 20.000000 
+Train Accuracy: 0.997908    Test Accuracy:  0.766667 
+
+
+Adaboost Classifier
+
+Grid Search:
+Parameters: N_estimators: 10.000000 | Criterion: 0.500000 
+Train Accuracy: 0.841004    Test Accuracy:  0.816667 
+
+
+Adaboost Classifier
+
+Grid Search:
+Parameters: N_estimators: 14.000000 | Criterion: 0.400000 
+Train Accuracy: 0.841004    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 14.000000 | Learning Rate: 0.400000 
+Train Accuracy: 0.841004    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 40.000000 | Learning Rate: 0.400000 
+Train Accuracy: 0.855649    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 200.000000 | Learning Rate: 0.400000 
+Train Accuracy: 0.918410    Test Accuracy:  0.741667 
+
+Modded Version: 
+Parameters: N_estimators: 200.000000 | Learning Rate: 0.600000 
+Train Accuracy: 0.945607    Test Accuracy:  0.750000 
+
+Modded Version: 
+Parameters: N_estimators: 200.000000 | Learning Rate: 0.800000 
+Train Accuracy: 0.966527    Test Accuracy:  0.700000 
+
+Modded Version: 
+Parameters: N_estimators: 200.000000 | Learning Rate: 1.000000 
+Train Accuracy: 0.979079    Test Accuracy:  0.725000 
+
+Modded Version: 
+Parameters: N_estimators: 250.000000 | Learning Rate: 1.000000 
+Train Accuracy: 0.983264    Test Accuracy:  0.700000 
+
+
+Support Vector Machine 
+
+Grid Search:
+Parameters: C: 1.000000 | Gamma: 0.100000 | Kernel: rbf 
+Train Accuracy: 0.876569    Test Accuracy:  0.783333 
+
+Modded Version: 
+Parameters: C: 1.000000 | Gamma: 1.000000 | Kernel: rbf 
+Train Accuracy: 0.985356    Test Accuracy:  0.725000 
+
+
+VOTER MODEL
+Train Accuracy: 0.997908    Test Accuracy:  0.783333 

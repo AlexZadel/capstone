@@ -1,6 +1,10 @@
-# Capstone for Data Science Immersive Program at General Assembly
+# Race for the Senate: Using Machine Learning to Predict Election Outcomes
 
-Research Question:
+<p>This project was completed as my final project for General Assembly's Data Science Immersive program in October 2018. I chose this project because it allowed me to combine several interests I developed over the course of the program: exploring socioeconomic data, combining diverse datasets, using geospatial tools, data visualization, and, of course, machine learning. </p>
+
+<p> I have worked for multiple non-partisan political research organizations and have done my best to follow those objective principles in this analysis. </p>
+
+## Research Question:
 What will the results be for the 2018 Senate elections?
 
 
@@ -12,7 +16,9 @@ The goals of this project are to:
 2. <p>Build a predictive model for Senate election results
 3. <p>Use the model to predict outcomes of the 2018 Senate Elections.
 
-For a full description of the data gathering, data exploration, and modeling methodology, please see the **[Technical Report](https://github.com/AlexZadel/dsi_capstone/blob/master/technical_report.md)**
+For a full description of the data gathering, data exploration, and modeling methodology, please see the **[Technical Report](https://github.com/AlexZadel/dsi_capstone/blob/master/technical_report.md)** contained in this repository.
+
+
 
 
 ## Executive Summary
@@ -31,11 +37,14 @@ The goal of this project is to build a model to predict Senate election results 
 This project was completed as my capstone project for the Data Science Immersive program at General Assembly.
 
 
+
 ## Technologies Used
 Data consolidation and cleaning was done using Python and Microsoft Excel.
 - <p> ***Modeling:*** [scikit-learn](http://scikit-learn.org/stable/)
 - <p> ***Data Management***: [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/)
-- <p> ***Visualizations***: [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
+- <p> ***Visualizations***: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/) , [QGIS](https://qgis.org/en/site/)
+
+
 
 
 ## Note:
