@@ -2056,3 +2056,272 @@ Train Accuracy: 0.855649    Test Accuracy:  0.825000
 
 VOTER MODEL
 Train Accuracy: 0.830544    Test Accuracy:  0.833333 
+
+***START NEW SESSION***
+
+
+Logistic Regression
+
+Grid Search:
+Parameters: C: 0.100000 | penalty: l2 
+Train Accuracy: 0.828452     Test Accuracy:  0.816667 
+
+Modded Version: 
+Parameters: C: 0.400000 | penalty: l1 
+Train Accuracy: 0.830544   Test Accuracy:  0.850000 
+
+
+KNN
+
+Grid Search:
+Parameters: N_neighbors: 11.000000 | Leaf Size: 1 | weights: uniform 
+Train Accuracy: 0.826360    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_neighbors: 25.000000 | Leaf Size: 1 | weights: uniform 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_neighbors: 25.000000 | Leaf Size: 1 | weights: distance 
+Train Accuracy: 0.995816    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_neighbors: 25.000000 | Leaf Size: 1 | weights: uniform 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_neighbors: 25.000000 | Leaf Size: 1 | weights: distance 
+Train Accuracy: 0.995816    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_neighbors: 10.000000 | Leaf Size: 1 | weights: distance 
+Train Accuracy: 0.995816    Test Accuracy:  0.808333 
+
+Modded Version: 
+Parameters: N_neighbors: 10.000000 | Leaf Size: 1 | weights: uniform 
+Train Accuracy: 0.836820    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_neighbors: 15.000000 | Leaf Size: 1 | weights: uniform 
+Train Accuracy: 0.820084    Test Accuracy:  0.816667 
+
+
+Decision Tree
+
+Grid Search:
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: Criterion: gini | Max Depth: 1.000000 | Max Leaf Nodes: 5 
+Train Accuracy: 0.826360    Test Accuracy:  0.766667 
+
+Modded Version: 
+Parameters: Criterion: gini | Max Depth: 1.000000 | Max Leaf Nodes: 5 
+Train Accuracy: 0.826360    Test Accuracy:  0.766667 
+
+
+Bagging Classifier
+
+Grid Search:
+Parameters: N_estimators: 10 | Max Samples: 0.100000 
+Train Accuracy: 0.822176    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Max Samples: 1.000000 
+Train Accuracy: 0.483264    Test Accuracy:  0.591667 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Max Samples: 0.100000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Max Samples: 0.200000 
+Train Accuracy: 0.826360    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Max Samples: 0.300000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Max Samples: 0.200000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 10 | Max Samples: 0.200000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+
+Random Forest
+
+Grid Search:
+Parameters: N_estimators: 11 | Max Leaf Nodes: 20 | Max Depth: 10.000000 
+Train Accuracy: 0.968619    Test Accuracy:  0.858333 
+
+Modded Version: 
+Parameters: N_estimators: 4 | Criterion: gini | Max Depth: 2.000000 
+Train Accuracy: 0.828452    Test Accuracy:  0.775000 
+
+Modded Version: 
+Parameters: N_estimators: 4 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.866109    Test Accuracy:  0.808333 
+
+Modded Version: 
+Parameters: N_estimators: 4 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.882845    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 11 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.880753    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 12 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.880753    Test Accuracy:  0.808333 
+
+Modded Version: 
+Parameters: N_estimators: 8 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.878661    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 8 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.912134    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 8 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.834728    Test Accuracy:  0.783333 
+
+Modded Version: 
+Parameters: N_estimators: 18 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.830544    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 18 | Criterion: gini | Max Depth: 15.000000 
+Train Accuracy: 0.830544    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Criterion: gini | Max Depth: 15.000000 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
+
+Modded Version: 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Criterion: gini | Max Depth: 100.000000 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.832636    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 50 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+
+Adaboost Classifier
+
+Grid Search:
+Parameters: N_estimators: 4.000000 | Criterion: 1.000000 
+Train Accuracy: 0.826360    Test Accuracy:  0.858333 
+
+Modded Version: 
+Parameters: N_estimators: 10.000000 | Learning Rate: 0.400000 
+Train Accuracy: 0.834728    Test Accuracy:  0.825000 
+
+Modded Version: 
+Parameters: N_estimators: 5.000000 | Learning Rate: 0.400000 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 5.000000 | Learning Rate: 1.000000 
+Train Accuracy: 0.832636    Test Accuracy:  0.841667 
+
+
+Support Vector Machine 
+
+Grid Search:
+Parameters: C: 0.100000 | Gamma: 0.010000 | Kernel: rbf 
+Train Accuracy: 0.826360    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: C: 0.200000 | Gamma: 0.100000 | Kernel: poly 
+Train Accuracy: 0.841004    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: C: 0.100000 | Gamma: 0.100000 | Kernel: poly 
+Train Accuracy: 0.838912    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: C: 0.400000 | Gamma: 0.100000 | Kernel: poly 
+Train Accuracy: 0.868201    Test Accuracy:  0.825000 
+
+Modded Version: 
+Parameters: C: 0.400000 | Gamma: 1.000000 | Kernel: poly 
+Train Accuracy: 0.993724    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: C: 1.000000 | Gamma: 1.000000 | Kernel: poly 
+Train Accuracy: 0.995816    Test Accuracy:  0.766667 
+
+Modded Version: 
+Parameters: C: 1.000000 | Gamma: 0.100000 | Kernel: poly 
+Train Accuracy: 0.905858    Test Accuracy:  0.833333 
+
+Modded Version: 
+Parameters: C: 0.100000 | Gamma: 0.100000 | Kernel: poly 
+Train Accuracy: 0.838912    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: C: 0.800000 | Gamma: 0.100000 | Kernel: poly 
+Train Accuracy: 0.891213    Test Accuracy:  0.825000 
+
+Modded Version: 
+Parameters: C: 0.900000 | Gamma: 0.100000 | Kernel: poly 
+Train Accuracy: 0.897490    Test Accuracy:  0.833333 
+
+Modded Version: 
+Parameters: N_estimators: 11 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.880753    Test Accuracy:  0.800000 
+
+
+Random Forest
+
+Grid Search:
+Parameters: N_estimators: 25 | Max Leaf Nodes: 10 | Max Depth: 10.000000 
+Train Accuracy: 0.985356    Test Accuracy:  0.825000 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.830544    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Criterion: gini | Max Depth: 10.000000 
+Train Accuracy: 0.830544    Test Accuracy:  0.791667 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Criterion: gini | Max Depth: 6.000000 
+Train Accuracy: 0.830544    Test Accuracy:  0.791667 
+
+Modded Version: 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Criterion: gini | Max Depth: 6.000000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Criterion: gini | Max Depth: 6.000000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 25 | Criterion: gini | Max Depth: 7.000000 
+Train Accuracy: 0.822176    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 10 | Criterion: gini | Max Depth: 7.000000 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
+
+Modded Version: 
+Parameters: N_estimators: 4 | Criterion: gini | Max Depth: 7.000000 
+Train Accuracy: 0.824268    Test Accuracy:  0.800000 
