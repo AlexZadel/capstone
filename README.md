@@ -47,7 +47,7 @@ Data consolidation and cleaning was done using Python and Microsoft Excel.
 
 
 =======
-- <p> **Modeling:** [scikit-learn](http://scikit-learn.org/stable/)
+- <p> **Modeling:** (scikit-learn)[http://scikit-learn.org/stable/]
 - <p> **Data Management**: [pandas](https://pandas.pydata.org/), [numpy](http://www.numpy.org/)
 - <p> **Visualizations** : [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
 >>>>>>> de900160d03bd1bc5f7a0923eebf13621410ed98
