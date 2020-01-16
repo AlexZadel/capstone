@@ -33,16 +33,6 @@ This project is intended as an academic analysis of election trends rather than 
 
 ---
 
-## Background (IN PROGRESS)
-
-<p> Before jumping in to the technical portion of this report, it is worth reviewing some background on political modeling to give context for what data and features were chosen for modeling.</p>
-
-<p>When most of us think about using data to predict elections, we often think of polling data from campaigns or news outlets that use a phone sample to estimate the voting behavior of an entire state or district. </p>
-
-<p>  </p>
-
----
-
 ## Data
 <p> With that understanding of political modeling under our belts, we can now examine the technical details of this project. As always, that process begins with data. All data citations and a complete data dictionary can be found in this [data dictionary.](https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md)  All data scraping and most data cleaning was done in Python, though Microsoft Excel was used for certain format changes due to relative ease.</p>
 
@@ -129,15 +119,15 @@ A few notes from the heatmap:
 There are few variables where it is worth checking their distribution to be certain they do not introduce bias into our model.
 
 
-| Variable      | Mean | Percentage
+| Variable      | Mean | Percentage |
 | ----------- | ----------- |
-| GOP_win      |   0.496847     | 49.6%
-| pred_GOP   | 0.518285    | 51.8 %
-| inc_GOP_running   | 0.409836   | 41.0%
-| inc_DEM_running  | 0.360656  | 36.1 %
-| prez_GOP   |  0.602774 | 60.3%
-| percent_female   |0.508948   | 50.9 %
-|  unopposed | 0.005044  | 0.5 %
+| GOP_win      |   0.496847     | 49.6% | 
+| pred_GOP   | 0.518285    | 51.8 % |
+| inc_GOP_running   | 0.409836   | 41.0% |
+| inc_DEM_running  | 0.360656  | 36.1 % |
+| prez_GOP   |  0.602774 | 60.3% |
+| percent_female   |0.508948   | 50.9 % |
+|  unopposed | 0.005044  | 0.5 % |
 
 We can see from this table that the two major parties have each one about half of the Senate elections in our analysis period. They were also the incumbent party in roughly half of those races. (Unsurprisingly those two numbers are close given the incumbency advantage). Furthermore from the two incumbent variables, we can see that an incumbent candidate is running in roughly 76% of the elections in our dataset. That could certainly be a source of bias to be concerned with when trying to project years where there are no incumbents.
 
