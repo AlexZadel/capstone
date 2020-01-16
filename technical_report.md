@@ -188,16 +188,8 @@ Based on the results of the grid search, I chose two models to further refine an
 Once again, I ran a grid search, but over a broader range of parameters for each model.
 Next I used the information from those grid searches to tune the two classifiers further, with the hope of preventing the models from learning so far as to overfit.
 
-These were the final results of the two models:
-
-- KNeighbors Classifier: <br>
-Training Accuracy:  <br>
-Test Accuracy:   <br>
-
-
-- Random Forest Classifier: <br>
-Training Accuracy:  <br>
-Test Accuracy:   <br>
+While this tactic improved the scores, I still felt that combining the best of each model seemed to be a beter plan. I decided to try using an ensemble model, specifically (and somewhat ironically) a voting classifier.
 
 
 ## Results
+In the end, I used this voting classifier to generate the predictions displayed [here](https://public.tableau.com/profile/alex.zadel#!/vizhome/CapstonePresentation/CapstonePredictionsMap).
