@@ -34,7 +34,7 @@ This project is intended as an academic analysis of election trends rather than 
 ---
 
 ## Data
-<p> With that understanding of political modeling under our belts, we can now examine the technical details of this project. As always, that process begins with data. All data citations and a complete data dictionary can be found in this [data dictionary.](https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md)  All data scraping and most data cleaning was done in Python, though Microsoft Excel was used for certain format changes due to relative ease.</p>
+<p> With that understanding of political modeling under our belts, we can now examine the technical details of this project. As always, that process begins with data. All data citations and a complete data dictionary can be found in this [data dictionary](https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md). All data scraping and most data cleaning was done in Python, though Microsoft Excel was used for certain format changes due to relative ease.</p>
 
 #### Unit of Analysis
 <p> For this project, I saw myself as  having two possible units of analysis: a single candidate (and therefore multiple entries per contest) or a single election (between two or more candidates). I chose to use a single election as the unit of analysis for a few reasons. </p>
@@ -58,12 +58,12 @@ Having established what structure we want for the data, we can move to the discu
 
 <p> The next step with the election data was to clean it and transform it to a format that fit our modeling techniques. I began by doing some small edits in Excel, specifically to generate the entry ids.  Given that the data was scraped, it needed to be cleared of special characters, which was done using regular expressions in Python. The pertinent information also needed to be extracted from larger strings, such as the names of candidates, their party affiliations, and incumbency information. As you can see in the [Cleaning Notebook,](https://github.com/AlexZadel/dsi_capstone/blob/master/notebooks/2__cleaner.ipynb) I used several small functions with regular expressions to extract data and simply included them in my central cleaning functions.</p>
 
-In the same notebook, I also did initial feature engineering on the election data. For example, I created all of the incumbency, party, and win/loss binary features. Again refer to the [data dictionary](https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md) for a complete list. The elections data was then exported as a clean CSV file.
+In the same notebook, I also did initial feature engineering on the election data. For example, I created all of the incumbency, party, and win/loss binary features. Again refer to the [data dictionary] (https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md) for a complete list. The elections data was then exported as a clean CSV file.
 
 ###### Census Data
 <p> The next set of data that I gathered was census data in order to incorporate demographic effects in our model. My goal was to have a set of demographic variables for each state for each election year in order to incorporate what is essentially a demographic snapshot into each campaign vector. </p>
 
-<p> While the American Community Survey has been a source for annual data since 2005, I did not want to limit our study to such a short period of time. Instead I relied on dicennial census data to provide demograhic information. While the census is severely [flawed, ](https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md) it seems the best option to capture information as far back as the 1970s. I was able to use their [data portal](https://www.census.gov/geo/maps-data/) to obtain the data for the years and variables of interest.</p>
+<p> While the American Community Survey has been a source for annual data since 2005, I did not want to limit our study to such a short period of time. Instead I relied on dicennial census data to provide demograhic information. While the census is severely [flawed, ](https://github.com/AlexZadel/dsi_capstone/blob/master/data_dictionary.md) it seems the best option to capture information as far back as the 1970s. I was able to use their [data portal] (https://www.census.gov/geo/maps-data/) to obtain the data for the years and variables of interest.</p>
 
 <p>  Fortunately census data is (usually) already broken down by year and geographic area, so the only cleaning necessary for this data set was minor formatting and reorienting to have it match the format needed to join the datasets. </p>
 
