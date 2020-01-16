@@ -118,18 +118,15 @@ A few notes from the heatmap:
 ##### Variable Distribution
 There are few variables where it is worth checking their distribution to be certain they do not introduce bias into our model.
 
-<p>
-| Variable | Mean | Percentage |
-| -----| ----- | -------- |
-| GOP_win      |   0.496847     | 49.6% | 
-| pred_GOP   | 0.518285    | 51.8 % |
-| inc_GOP_running   | 0.409836   | 41.0% |
-| inc_DEM_running  | 0.360656  | 36.1 % |
-| prez_GOP   |  0.602774 | 60.3% |
-| percent_female   |0.508948   | 50.9 % |
-|  unopposed | 0.005044  | 0.5 % 
-  
-  
+| Variable        | Mean     | Percentage |
+|-----------------|----------|------------|
+| GOP_win         | 0.496847 | 49.6%      |
+| pred_GOP        | 0.518285 | 51.8%      |
+| inc_GOP_running | 0.409836 | 41.0%      |
+| inc_DEM_running | 0.360656 | 36.1%      |
+| prez_GOP        | 0.602774 | 60.3%      |
+| percent_female  | 0.508948 | 50.9%      |
+| unopposed       | 0.005044 | 0.5%       |
 
 
 We can see from this table that the two major parties have each one about half of the Senate elections in our analysis period. They were also the incumbent party in roughly half of those races. (Unsurprisingly those two numbers are close given the incumbency advantage). Furthermore from the two incumbent variables, we can see that an incumbent candidate is running in roughly 76% of the elections in our dataset. That could certainly be a source of bias to be concerned with when trying to project years where there are no incumbents.
