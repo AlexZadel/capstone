@@ -139,7 +139,7 @@ As I noted before, looking through each variable for each state might provide mo
 
 ## Modeling
 #### Last Preparations
-All of the steps desribed here can be found in the [Modeling Notebook](https://github.com/AlexZadel/dsi_capstone/blob/master/notebooks/5__Senate%20Modeling.ipynb)
+All of the steps desribed here can be found in the [Modeling Notebook]https://github.com/AlexZadel/dsi_capstone/blob/master/notebooks/5__Model%20Building.ipynb)
 
 With EDA complete, we can begin modeling, but we need to start by addressing some of the issues that we found in the EDA analysis.
 
