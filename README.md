@@ -23,6 +23,7 @@ For a full description of the data gathering, data exploration, and modeling met
 
 ## Executive Summary
 
+[For all visualizations, including exploratory analysis and prediction results, see Tableau presentation.](https://public.tableau.com/profile/alex.zadel#!/vizhome/CapstonePresentation/CapstonePredictionsMap)
 
 The goal of this project is to build a model to predict Senate election results based on economic data, census surveys, and prior election outcomes from every year since 1976.
 
